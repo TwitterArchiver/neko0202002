@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061040904748818432"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2061040907668050396",
+    "created_at": "2026-05-31T11:03:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T12:03:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061040907668050396"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PPohz1fmsD",
+          "end": 40,
+          "expanded_url": "https://x.com/neko0202002/status/2061040907668050396/photo/1",
+          "media_key": "3_2061040904748818432",
+          "start": 17,
+          "url": "https://t.co/PPohz1fmsD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061040907668050396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "剧烈头痛一天一夜，应该下机了才对 https://t.co/PPohz1fmsD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 944,
+        "media_key": "3_2061040904748818432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpJyHMaYAAA8yc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061040904748818432"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2061040907668050396",
+        "created_at": "2026-05-31T11:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061040907668050396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PPohz1fmsD",
+              "end": 40,
+              "expanded_url": "https://x.com/neko0202002/status/2061040907668050396/photo/1",
+              "media_key": "3_2061040904748818432",
+              "start": 17,
+              "url": "https://t.co/PPohz1fmsD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061040907668050396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "剧烈头痛一天一夜，应该下机了才对 https://t.co/PPohz1fmsD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 974,
+          "like_count": 1683,
+          "listed_count": 2,
+          "media_count": 1529,
+          "tweet_count": 4255
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}

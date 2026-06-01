@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Jackie Chan",
+          "id": "900129701338861568",
+          "name": "Jackie Chan"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Jackie Chan",
+          "id": "900129701338861568",
+          "name": "Jackie Chan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Jackie Chan",
+          "id": "900129701338861568",
+          "name": "Jackie Chan"
+        }
+      }
+    ],
+    "conversation_id": "2060909397514072438",
+    "created_at": "2026-05-31T11:02:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T12:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061040501529432368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1805215205246550016",
+          "start": 0,
+          "username": "wwww07371834349"
+        },
+        {
+          "end": 32,
+          "id": "1327417955735527424",
+          "start": 17,
+          "username": "pingandosangue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061040501529432368",
+    "in_reply_to_user_id": "1805215205246550016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061009977654022576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wwww07371834349 @pingandosangue 你头像好熟悉，成龙历险记？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jackie Chan",
+              "id": "900129701338861568",
+              "name": "Jackie Chan"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Jackie Chan",
+              "id": "900129701338861568",
+              "name": "Jackie Chan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jackie Chan",
+              "id": "900129701338861568",
+              "name": "Jackie Chan"
+            }
+          }
+        ],
+        "conversation_id": "2060909397514072438",
+        "created_at": "2026-05-31T11:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061040501529432368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1805215205246550016",
+              "start": 0,
+              "username": "wwww07371834349"
+            },
+            {
+              "end": 32,
+              "id": "1327417955735527424",
+              "start": 17,
+              "username": "pingandosangue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061040501529432368",
+        "in_reply_to_user_id": "1805215205246550016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061009977654022576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwww07371834349 @pingandosangue 你头像好熟悉，成龙历险记？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805215205246550016",
+        "conversation_id": "2060909397514072438",
+        "created_at": "2026-05-31T09:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T10:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061009977654022576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1327417955735527424",
+              "start": 0,
+              "username": "pingandosangue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061009977654022576",
+        "in_reply_to_user_id": "1327417955735527424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060928582004724011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pingandosangue 那别人骂你傻逼不也是个人意见吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 974,
+          "like_count": 1683,
+          "listed_count": 2,
+          "media_count": 1527,
+          "tweet_count": 4253
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-24T12:23:49.000Z",
+        "description": "",
+        "id": "1805215205246550016",
+        "name": "wwww",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813172788683022336/sgOMuttW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 120,
+          "like_count": 2098,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 305
+        },
+        "username": "wwww07371834349",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-14T01:08:10.000Z",
+        "description": "vampira generica com bordeline",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zyo.se/maldita",
+                "end": 23,
+                "expanded_url": "https://zyo.se/maldita",
+                "start": 0,
+                "url": "https://t.co/fPfJiNXcAz"
+              }
+            ]
+          }
+        },
+        "id": "1327417955735527424",
+        "name": "bia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019932625943560192/Wmsq8T2f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3511,
+          "following_count": 667,
+          "like_count": 74314,
+          "listed_count": 12,
+          "media_count": 5089,
+          "tweet_count": 43367
+        },
+        "url": "https://t.co/fPfJiNXcAz",
+        "username": "pingandosangue",
+        "verified": false
+      }
+    ]
+  }
+}
