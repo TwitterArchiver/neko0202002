@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2027425225919623679",
+    "created_at": "2026-02-28T04:35:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T05:35:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027603503070552244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1910749531161190400",
+          "start": 0,
+          "username": "r0x_ht"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027603503070552244",
+    "in_reply_to_user_id": "1910749531161190400",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027425225919623679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@r0x_ht ？90kg？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2027425218571218945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCLcfpmbMAEQhgR.jpg",
+        "width": 1175
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2027425225919623679",
+        "created_at": "2026-02-28T04:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T05:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027603503070552244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1910749531161190400",
+              "start": 0,
+              "username": "r0x_ht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027603503070552244",
+        "in_reply_to_user_id": "1910749531161190400",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027425225919623679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@r0x_ht ？90kg？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027425218571218945"
+          ]
+        },
+        "author_id": "1910749531161190400",
+        "conversation_id": "2027425225919623679",
+        "created_at": "2026-02-27T16:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T17:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027425225919623679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4jwIpwZoj7",
+              "end": 30,
+              "expanded_url": "https://x.com/r0x_ht/status/2027425225919623679/photo/1",
+              "media_key": "3_2027425218571218945",
+              "start": 7,
+              "url": "https://t.co/4jwIpwZoj7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027425225919623679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 36094,
+          "like_count": 153,
+          "quote_count": 0,
+          "reply_count": 35,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好讨厌这种 https://t.co/4jwIpwZoj7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "宫小路优",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027451220932333568/mUygeGKd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 402,
+          "like_count": 203,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 555
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T17:39:32.000Z",
+        "description": "可爱又可爱",
+        "id": "1910749531161190400",
+        "location": "🚪18 ",
+        "name": "Miko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974949239118876672/NZ4Hm47I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29867,
+          "following_count": 7,
+          "like_count": 370,
+          "listed_count": 58,
+          "media_count": 101,
+          "tweet_count": 221
+        },
+        "username": "r0x_ht",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2043247749198761984",
+        "3_2043247749165096960"
+      ],
+      "media_source_tweet_id": [
+        "2043247942128300130",
+        "2043247942128300130"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2043310861977370748",
+    "created_at": "2026-04-12T12:50:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T13:50:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043310861977370748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1452123941686976519",
+          "start": 3,
+          "username": "C21Koy_7c"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xtBzRXlHGI",
+          "end": 66,
+          "expanded_url": "https://x.com/C21Koy_7c/status/2043247942128300130/video/1",
+          "media_key": "13_2043247749198761984",
+          "start": 43,
+          "url": "https://t.co/xtBzRXlHGI"
+        },
+        {
+          "display_url": "pic.x.com/xtBzRXlHGI",
+          "end": 66,
+          "expanded_url": "https://x.com/C21Koy_7c/status/2043247942128300130/video/1",
+          "media_key": "3_2043247749165096960",
+          "start": 43,
+          "url": "https://t.co/xtBzRXlHGI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043310861977370748",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043247942128300130",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @C21Koy_7c: 离不开\n 且无法离开了\n也许不是好选择\n真的有这种感觉 https://t.co/xtBzRXlHGI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18000,
+        "height": 1280,
+        "media_key": "13_2043247749198761984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043247749198761984/img/XTFMQtc_wMdgAE-6.jpg",
+        "public_metrics": {
+          "view_count": 67
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043247749198761984/vid/avc1/320x568/ErfJeuZNUnv8XzWL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043247749198761984/vid/avc1/480x852/LBViDnH0y0yQ2geB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043247749198761984/vid/avc1/720x1280/49Hoo_zGZHHMQesx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043247749198761984/pl/hDB8GjCD8HGKOPUw.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2556,
+        "media_key": "3_2043247749165096960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFsTAJUaIAAyi7Q.jpg",
+        "width": 1179
+      },
+      {
+        "duration_ms": 18000,
+        "height": 1280,
+        "media_key": "13_2043247749198761984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043247749198761984/img/XTFMQtc_wMdgAE-6.jpg",
+        "public_metrics": {
+          "view_count": 78
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043247749198761984/vid/avc1/320x568/ErfJeuZNUnv8XzWL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043247749198761984/vid/avc1/480x852/LBViDnH0y0yQ2geB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043247749198761984/vid/avc1/720x1280/49Hoo_zGZHHMQesx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043247749198761984/pl/hDB8GjCD8HGKOPUw.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043247749198761984",
+            "3_2043247749165096960"
+          ],
+          "media_source_tweet_id": [
+            "2043247942128300130",
+            "2043247942128300130"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2043310861977370748",
+        "created_at": "2026-04-12T12:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043310861977370748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1452123941686976519",
+              "start": 3,
+              "username": "C21Koy_7c"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xtBzRXlHGI",
+              "end": 66,
+              "expanded_url": "https://x.com/C21Koy_7c/status/2043247942128300130/video/1",
+              "media_key": "13_2043247749198761984",
+              "start": 43,
+              "url": "https://t.co/xtBzRXlHGI"
+            },
+            {
+              "display_url": "pic.x.com/xtBzRXlHGI",
+              "end": 66,
+              "expanded_url": "https://x.com/C21Koy_7c/status/2043247942128300130/video/1",
+              "media_key": "3_2043247749165096960",
+              "start": 43,
+              "url": "https://t.co/xtBzRXlHGI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043310861977370748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043247942128300130",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @C21Koy_7c: 离不开\n 且无法离开了\n也许不是好选择\n真的有这种感觉 https://t.co/xtBzRXlHGI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043247749198761984",
+            "3_2043247749165096960"
+          ]
+        },
+        "author_id": "1452123941686976519",
+        "conversation_id": "2043247942128300130",
+        "created_at": "2026-04-12T08:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043247942128300130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xtBzRXlHGI",
+              "end": 51,
+              "expanded_url": "https://x.com/C21Koy_7c/status/2043247942128300130/video/1",
+              "media_key": "13_2043247749198761984",
+              "start": 28,
+              "url": "https://t.co/xtBzRXlHGI"
+            },
+            {
+              "display_url": "pic.x.com/xtBzRXlHGI",
+              "end": 51,
+              "expanded_url": "https://x.com/C21Koy_7c/status/2043247942128300130/video/1",
+              "media_key": "3_2043247749165096960",
+              "start": 28,
+              "url": "https://t.co/xtBzRXlHGI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043247942128300130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 208,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "离不开\n 且无法离开了\n也许不是好选择\n真的有这种感觉 https://t.co/xtBzRXlHGI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 818,
+          "like_count": 1120,
+          "listed_count": 2,
+          "media_count": 978,
+          "tweet_count": 2814
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-24T04:05:30.000Z",
+        "description": "自我生存娱乐空间 内可能含有NSFW 有SH｜pills💊 ｜20+警告⚠️ ｜they｜不善表达 我想复健产粮…懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和 随时锁推 业余的 很笨 有不对的请不要说我 对异形勃起 欢迎讨论 不会讨厌谁 叫我什么都可以 不会外语 一切用翻译器翻的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nay2841",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nay2841",
+                "start": 0,
+                "url": "https://t.co/p7oRHhHxDn"
+              }
+            ]
+          }
+        },
+        "id": "1452123941686976519",
+        "name": "盐制肉鸦",
+        "pinned_tweet_id": "1971924675585568891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038429861929496576/5PTvrZa3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1162,
+          "following_count": 3415,
+          "like_count": 30108,
+          "listed_count": 5,
+          "media_count": 2156,
+          "tweet_count": 28413
+        },
+        "url": "https://t.co/p7oRHhHxDn",
+        "username": "C21Koy_7c",
+        "verified": true
+      }
+    ]
+  }
+}

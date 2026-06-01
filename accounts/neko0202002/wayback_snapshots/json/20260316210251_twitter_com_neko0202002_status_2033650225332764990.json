@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2033650216180846593"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2033648218547097992",
+    "created_at": "2026-03-16T21:02:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T22:02:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033650225332764990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1243590342911410176",
+          "start": 0,
+          "username": "bing2000100830"
+        },
+        {
+          "end": 29,
+          "id": "2030832351656493056",
+          "start": 16,
+          "username": "Suintouhea2t"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0pKjgAjPgU",
+          "end": 55,
+          "expanded_url": "https://x.com/neko0202002/status/2033650225332764990/photo/1",
+          "media_key": "16_2033650216180846593",
+          "start": 32,
+          "url": "https://t.co/0pKjgAjPgU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033650225332764990",
+    "in_reply_to_user_id": "1243590342911410176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033650085104652535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bing2000100830 @Suintouhea2t 抱 https://t.co/0pKjgAjPgU"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2033650085104652535].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2033650085104652535",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2033650085104652535"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 182,
+        "media_key": "16_2033650216180846593",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HDj6GMzbEAE4S-4.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HDj6GMzbEAE4S-4.mp4"
+          }
+        ],
+        "width": 328
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2033650216180846593"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2033648218547097992",
+        "created_at": "2026-03-16T21:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T22:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033650225332764990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            },
+            {
+              "end": 29,
+              "id": "2030832351656493056",
+              "start": 16,
+              "username": "Suintouhea2t"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0pKjgAjPgU",
+              "end": 55,
+              "expanded_url": "https://x.com/neko0202002/status/2033650225332764990/photo/1",
+              "media_key": "16_2033650216180846593",
+              "start": 32,
+              "url": "https://t.co/0pKjgAjPgU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033650225332764990",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033650085104652535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 @Suintouhea2t 抱 https://t.co/0pKjgAjPgU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理/同类查成分互fo/请和我做朋友/ᗜ𖥦ᗜ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032192447573577728/C9yS_hXm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 584,
+          "like_count": 712,
+          "listed_count": 1,
+          "media_count": 482,
+          "tweet_count": 1524
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "在月球",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼⁺₊˚ ཐི⋆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030176214581964800/ytEL2-pP_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 640,
+          "like_count": 18564,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1076
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-09T02:27:34.000Z",
+        "description": "一个患有精神病的用户🧠🤍｜自伤🩸OD💊｜叫我醉鸡，moe｜ISFP-T 12女初(´-ω-`)｜同类回fo(._.)",
+        "id": "2030832351656493056",
+        "location": "墓地🪦",
+        "name": "Moe",
+        "pinned_tweet_id": "2030835174783779307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030832911432507392/Em01SCPy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 177,
+          "like_count": 852,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 587
+        },
+        "username": "Suintouhea2t",
+        "verified": false
+      }
+    ]
+  }
+}

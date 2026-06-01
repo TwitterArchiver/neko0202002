@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2024451174204870656"
+      ],
+      "media_source_tweet_id": [
+        "2024451231239065866"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2024506917071311168",
+    "created_at": "2026-02-19T15:30:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T16:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024506917071311168"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "まどか",
+          "probability": 0.722,
+          "start": 20,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1557314630375972865",
+          "start": 3,
+          "username": "ONIGIRISUKIaaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YOfaDwC1Pc",
+          "end": 47,
+          "expanded_url": "https://x.com/ONIGIRISUKIaaa/status/2024451231239065866/video/1",
+          "media_key": "13_2024451174204870656",
+          "start": 24,
+          "url": "https://t.co/YOfaDwC1Pc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024506917071311168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024451231239065866",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ONIGIRISUKIaaa: まどか https://t.co/YOfaDwC1Pc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8033,
+        "height": 1280,
+        "media_key": "13_2024451174204870656",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024451174204870656/img/zkXsGU31TDynfdS1.jpg",
+        "public_metrics": {
+          "view_count": 407
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024451174204870656/vid/avc1/320x568/S6xCGiy5-m_lhI7H.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024451174204870656/vid/avc1/480x852/MD16ZcVkC1qVGJSR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024451174204870656/vid/avc1/720x1280/OLfFLUB24TDs5niH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024451174204870656/pl/FNUvO6iTJv38-zAa.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024451174204870656"
+          ],
+          "media_source_tweet_id": [
+            "2024451231239065866"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2024506917071311168",
+        "created_at": "2026-02-19T15:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T16:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024506917071311168"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "まどか",
+              "probability": 0.722,
+              "start": 20,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1557314630375972865",
+              "start": 3,
+              "username": "ONIGIRISUKIaaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YOfaDwC1Pc",
+              "end": 47,
+              "expanded_url": "https://x.com/ONIGIRISUKIaaa/status/2024451231239065866/video/1",
+              "media_key": "13_2024451174204870656",
+              "start": 24,
+              "url": "https://t.co/YOfaDwC1Pc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024506917071311168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024451231239065866",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ONIGIRISUKIaaa: まどか https://t.co/YOfaDwC1Pc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024451174204870656"
+          ]
+        },
+        "author_id": "1557314630375972865",
+        "conversation_id": "2024451231239065866",
+        "created_at": "2026-02-19T11:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024451231239065866"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "まどか",
+              "probability": 0.7191,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YOfaDwC1Pc",
+              "end": 27,
+              "expanded_url": "https://x.com/ONIGIRISUKIaaa/status/2024451231239065866/video/1",
+              "media_key": "13_2024451174204870656",
+              "start": 4,
+              "url": "https://t.co/YOfaDwC1Pc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024451231239065866",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 1455,
+          "like_count": 189,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "まどか https://t.co/YOfaDwC1Pc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "os.remove ( '' characters / Itami. chr '' )\n\n啧，删不掉… … …有人在看吗？啊！我是Monika,我们又见面了/同类互fo",
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "宫小路优",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023488620305547264/eHtrA7bd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 347,
+          "like_count": 111,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 420
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T10:37:45.000Z",
+        "description": "| 未成年. sjk | 関西| 重加工及び存在しない‼️ フォロバ目的❌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@toru_0304?_t=…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@toru_0304?_t=ZS-8sx2fRDIOZM&_r=1",
+                "start": 0,
+                "url": "https://t.co/femkosx2WQ"
+              }
+            ]
+          }
+        },
+        "id": "1557314630375972865",
+        "location": " 3月4日 投稿は主にTikTokです！",
+        "name": "むん🐍",
+        "pinned_tweet_id": "2021444125019771364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870848939299336192/IIprqKSp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1798,
+          "following_count": 329,
+          "like_count": 5900,
+          "listed_count": 21,
+          "media_count": 230,
+          "tweet_count": 5244
+        },
+        "url": "https://t.co/femkosx2WQ",
+        "username": "ONIGIRISUKIaaa",
+        "verified": false
+      }
+    ]
+  }
+}

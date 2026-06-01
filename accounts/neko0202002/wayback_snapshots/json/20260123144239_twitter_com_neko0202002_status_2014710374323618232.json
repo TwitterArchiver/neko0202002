@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2014710374323618232",
+    "created_at": "2026-01-23T14:42:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T15:42:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014710374323618232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1130781616274468864",
+          "start": 3,
+          "username": "SGR_nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014710374323618232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014594301775511922",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SGR_nya: 但是还是会忍不住给.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2014710374323618232",
+        "created_at": "2026-01-23T14:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T15:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014710374323618232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1130781616274468864",
+              "start": 3,
+              "username": "SGR_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014710374323618232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014594301775511922",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SGR_nya: 但是还是会忍不住给.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2014594301775511922",
+        "created_at": "2026-01-23T07:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T08:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014594301775511922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sgr_nya/status…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/sgr_nya/status/2014299636148945125",
+              "start": 12,
+              "url": "https://t.co/26S79uw9SE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014594301775511922",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1737,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014299636148945125",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是还是会忍不住给.. https://t.co/26S79uw9SE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "os.remove ( '' characters / Itami. chr '' )\n\n啧，删不掉… … …",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "たかしま　いちこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014674924196274176/DS0NOCwS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 263,
+          "like_count": 45,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 276
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyPks"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "离你14.3au",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62085,
+          "following_count": 2093,
+          "like_count": 50951,
+          "listed_count": 5,
+          "media_count": 458,
+          "tweet_count": 784
+        },
+        "url": "https://t.co/JEHFzoyPks",
+        "username": "SGR_nya",
+        "verified": true
+      }
+    ]
+  }
+}

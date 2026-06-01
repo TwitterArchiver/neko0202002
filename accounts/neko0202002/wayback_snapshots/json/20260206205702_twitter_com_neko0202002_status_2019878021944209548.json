@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2019878021944209548",
+    "created_at": "2026-02-06T20:57:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T21:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019878021944209548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1700948552078467072",
+          "start": 3,
+          "username": "Overdose_DBD"
+        }
+      ],
+      "urls": [
+        {
+          "description": "< script async src= \"https://telegram.org/js/telegram-widget.js?22 \"data-telegram-post= \"HWA_FK1/964 \"data-width= \"100% \"> < /script",
+          "display_url": "t.me/HWA_FK1/964",
+          "end": 41,
+          "expanded_url": "https://t.me/HWA_FK1/964",
+          "start": 18,
+          "status": 200,
+          "title": "高原整活观景台",
+          "unwound_url": "https://t.me/HWA_FK1/964",
+          "url": "https://t.co/KmJ1mOSQCp"
+        },
+        {
+          "display_url": "pan.baidu.com/s/1Q3oBrWtl8-R…",
+          "end": 90,
+          "expanded_url": "http://pan.baidu.com/s/1Q3oBrWtl8-R7BwvZPtVJFw",
+          "start": 67,
+          "unwound_url": "http://pan.baidu.com/share/init?surl=Q3oBrWtl8-R7BwvZPtVJFw",
+          "url": "https://t.co/DE0vvsxQoF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019878021944209548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019091117552373998",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Overdose_DBD: https://t.co/KmJ1mOSQCp\n《基础护理学》人卫第七版pdf电子书 已上传tg\nhttps://t.co/DE0vvsxQoF\n梯子稀烂的可以下载百度网盘，提取码cgl2\nBV1VZMLzMEZ6\n想听网课看这个bv号的，但…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2019878021944209548",
+        "created_at": "2026-02-06T20:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T21:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019878021944209548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1700948552078467072",
+              "start": 3,
+              "username": "Overdose_DBD"
+            }
+          ],
+          "urls": [
+            {
+              "description": "< script async src= \"https://telegram.org/js/telegram-widget.js?22 \"data-telegram-post= \"HWA_FK1/964 \"data-width= \"100% \"> < /script",
+              "display_url": "t.me/HWA_FK1/964",
+              "end": 41,
+              "expanded_url": "https://t.me/HWA_FK1/964",
+              "start": 18,
+              "status": 200,
+              "title": "高原整活观景台",
+              "unwound_url": "https://t.me/HWA_FK1/964",
+              "url": "https://t.co/KmJ1mOSQCp"
+            },
+            {
+              "display_url": "pan.baidu.com/s/1Q3oBrWtl8-R…",
+              "end": 90,
+              "expanded_url": "http://pan.baidu.com/s/1Q3oBrWtl8-R7BwvZPtVJFw",
+              "start": 67,
+              "unwound_url": "http://pan.baidu.com/share/init?surl=Q3oBrWtl8-R7BwvZPtVJFw",
+              "url": "https://t.co/DE0vvsxQoF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019878021944209548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019091117552373998",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Overdose_DBD: https://t.co/KmJ1mOSQCp\n《基础护理学》人卫第七版pdf电子书 已上传tg\nhttps://t.co/DE0vvsxQoF\n梯子稀烂的可以下载百度网盘，提取码cgl2\nBV1VZMLzMEZ6\n想听网课看这个bv号的，但…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700948552078467072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2019086806319567345",
+        "created_at": "2026-02-04T16:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T17:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019091117552373998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "< script async src= \"https://telegram.org/js/telegram-widget.js?22 \"data-telegram-post= \"HWA_FK1/964 \"data-width= \"100% \"> < /script",
+              "display_url": "t.me/HWA_FK1/964",
+              "end": 23,
+              "expanded_url": "https://t.me/HWA_FK1/964",
+              "start": 0,
+              "status": 200,
+              "title": "高原整活观景台",
+              "unwound_url": "https://t.me/HWA_FK1/964",
+              "url": "https://t.co/KmJ1mOSQCp"
+            },
+            {
+              "display_url": "pan.baidu.com/s/1Q3oBrWtl8-R…",
+              "end": 72,
+              "expanded_url": "http://pan.baidu.com/s/1Q3oBrWtl8-R7BwvZPtVJFw",
+              "start": 49,
+              "unwound_url": "http://pan.baidu.com/share/init?surl=Q3oBrWtl8-R7BwvZPtVJFw",
+              "url": "https://t.co/DE0vvsxQoF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019091117552373998",
+        "in_reply_to_user_id": "1700948552078467072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1206,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019086806319567345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/KmJ1mOSQCp\n《基础护理学》人卫第七版pdf电子书 已上传tg\nhttps://t.co/DE0vvsxQoF\n梯子稀烂的可以下载百度网盘，提取码cgl2\nBV1VZMLzMEZ6\n想听网课看这个bv号的，但好像版本不一样，不过知识应该是互通的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "os.remove ( '' characters / Itami. chr '' )\n\n啧，删不掉… … …有人在看吗？啊！我是Monika,你好，又见面了",
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "たかしま　いちこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019584023568560128/KIdNf8oH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 287,
+          "like_count": 57,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 310
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "谁的附庸？\n高原整活观景台 https://t.co/ALu7jA3QLL\n有事请点击https://t.co/VRpZNWpEVl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 37,
+                "expanded_url": "https://t.me/HWA_FK1",
+                "start": 14,
+                "url": "https://t.co/ALu7jA3QLL"
+              },
+              {
+                "display_url": "t.me/SuperGogogotou",
+                "end": 66,
+                "expanded_url": "https://t.me/SuperGogogotou",
+                "start": 43,
+                "url": "https://t.co/VRpZNWpEVl"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018362784418091009/P1EuyheT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4347,
+          "following_count": 59,
+          "like_count": 2,
+          "listed_count": 10,
+          "media_count": 680,
+          "tweet_count": 6758
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

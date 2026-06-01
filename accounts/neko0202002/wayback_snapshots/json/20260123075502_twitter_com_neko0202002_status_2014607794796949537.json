@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2014607794796949537",
+    "created_at": "2026-01-23T07:55:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T08:55:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014607794796949537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2350930328",
+          "start": 3,
+          "username": "caramelbox_pub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014607794796949537",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1451487343299334145",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @caramelbox_pub: 遅れのお詫びに新規のプロモーション映像をOVA公式にて公開しております。今しばらくお時間いただきますが、ご支援頂けますようお願いいたします。…ｶﾞﾝﾊﾞﾘﾏｽ\n\n限定版トリンクルセットは完全限定生産です。お早めに！\nhttps://t.c…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2014607794796949537].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2014607794796949537",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2014607794796949537"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40040,
+        "height": 1080,
+        "media_key": "7_1451484153870913541",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1451484153870913541/pu/img/TOm6fwJBt7WkJCjO.jpg",
+        "public_metrics": {
+          "view_count": 2551
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1451484153870913541/pu/vid/480x270/1XupJ9AatosTqkhx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1451484153870913541/pu/vid/640x360/V13_vb_PbjnjpNu0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1451484153870913541/pu/vid/1280x720/PM5hMEvBJCU7RvEu.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1451484153870913541/pu/pl/byUD9nTyba32vXAc.m3u8?tag=12&v=243"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1451484153870913541"
+          ]
+        },
+        "author_id": "2350930328",
+        "conversation_id": "1451487343299334145",
+        "created_at": "2021-10-22T09:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2021-10-22T10:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1451487343299334145"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 133,
+              "tag": "おとボク3"
+            },
+            {
+              "end": 151,
+              "start": 140,
+              "tag": "KINEMATICS"
+            },
+            {
+              "end": 156,
+              "start": 152,
+              "tag": "OVA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "caramel-box.com/products/otobo…",
+              "end": 131,
+              "expanded_url": "http://www.caramel-box.com/products/otoboku3/ova/top.html",
+              "start": 108,
+              "url": "https://t.co/wRUghJkl7f"
+            },
+            {
+              "display_url": "pic.x.com/UGV5mBpGAr",
+              "end": 180,
+              "expanded_url": "https://x.com/caramelbox_pub/status/1451487343299334145/video/1",
+              "media_key": "7_1451484153870913541",
+              "start": 157,
+              "url": "https://t.co/UGV5mBpGAr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1451487343299334145",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 0,
+          "like_count": 59,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "遅れのお詫びに新規のプロモーション映像をOVA公式にて公開しております。今しばらくお時間いただきますが、ご支援頂けますようお願いいたします。…ｶﾞﾝﾊﾞﾘﾏｽ\n\n限定版トリンクルセットは完全限定生産です。お早めに！\nhttps://t.co/wRUghJkl7f\n\n#おとボク3 #KINEMATICS #OVA https://t.co/UGV5mBpGAr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "Caramel Box",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "高岛一子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012123038175961088/5OBrCKEg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 266,
+          "like_count": 45,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 271
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-19T01:29:46.000Z",
+        "description": "そろそろ本気を出す準備は大丈夫か？マス、、、おっと、来客か？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "caramel-box.com",
+                "end": 23,
+                "expanded_url": "http://www.caramel-box.com/",
+                "start": 0,
+                "url": "https://t.co/aOuPvFNjs1"
+              }
+            ]
+          }
+        },
+        "id": "2350930328",
+        "name": "キャラメルBOX公式",
+        "pinned_tweet_id": "1451487343299334145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/907812116870062081/4mwYVVRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1915,
+          "following_count": 4,
+          "like_count": 265,
+          "listed_count": 60,
+          "media_count": 6,
+          "tweet_count": 563
+        },
+        "url": "https://t.co/aOuPvFNjs1",
+        "username": "caramelbox_pub",
+        "verified": false
+      }
+    ]
+  }
+}

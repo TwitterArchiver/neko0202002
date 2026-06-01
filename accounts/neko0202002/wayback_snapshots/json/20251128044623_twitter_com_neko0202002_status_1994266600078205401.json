@@ -1,0 +1,446 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994244118562869248"
+      ],
+      "media_source_tweet_id": [
+        "1994244129748930889"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1232780326058876928",
+          "name": "Ramen"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1232780326058876928",
+          "name": "Ramen"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "id": "1232780326058876928",
+          "name": "Ramen"
+        }
+      }
+    ],
+    "conversation_id": "1994266600078205401",
+    "created_at": "2025-11-28T04:46:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T05:46:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994266600078205401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "106956023",
+          "start": 3,
+          "username": "ao2nd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6pN2H8hjgC",
+          "end": 90,
+          "expanded_url": "https://x.com/ao2nd/status/1994244129748930889/photo/1",
+          "media_key": "3_1994244118562869248",
+          "start": 67,
+          "url": "https://t.co/6pN2H8hjgC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994266600078205401",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994244129748930889",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ao2nd: よく行列のできてる早めの時間に行けてすぐ入れたので今日のお昼もラーメン食べちゃった\nこの頻度は個人的には珍しい https://t.co/6pN2H8hjgC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994244118562869248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6z6dbpaEAAwme-.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994244118562869248"
+          ],
+          "media_source_tweet_id": [
+            "1994244129748930889"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          }
+        ],
+        "conversation_id": "1994266600078205401",
+        "created_at": "2025-11-28T04:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T05:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994266600078205401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "106956023",
+              "start": 3,
+              "username": "ao2nd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6pN2H8hjgC",
+              "end": 90,
+              "expanded_url": "https://x.com/ao2nd/status/1994244129748930889/photo/1",
+              "media_key": "3_1994244118562869248",
+              "start": 67,
+              "url": "https://t.co/6pN2H8hjgC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994266600078205401",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994244129748930889",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ao2nd: よく行列のできてる早めの時間に行けてすぐ入れたので今日のお昼もラーメン食べちゃった\nこの頻度は個人的には珍しい https://t.co/6pN2H8hjgC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994244118562869248"
+          ]
+        },
+        "author_id": "106956023",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          }
+        ],
+        "conversation_id": "1994244129748930889",
+        "created_at": "2025-11-28T03:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T04:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994244129748930889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6pN2H8hjgC",
+              "end": 79,
+              "expanded_url": "https://x.com/ao2nd/status/1994244129748930889/photo/1",
+              "media_key": "3_1994244118562869248",
+              "start": 56,
+              "url": "https://t.co/6pN2H8hjgC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994244129748930889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "よく行列のできてる早めの時間に行けてすぐ入れたので今日のお昼もラーメン食べちゃった\nこの頻度は個人的には珍しい https://t.co/6pN2H8hjgC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "千早！！！！",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "千早！！！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989253109630341120/CJB1bPoj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 286,
+          "like_count": 68,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 250
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-21T05:10:18.000Z",
+        "description": "最近エロゲ関係でフォロワーさん結構増えた、やはりエロゲはすべてを救う\n自己ツイートの無い応募ＲＴ、アフィのみの垢はブロックします",
+        "id": "106956023",
+        "name": "へるむすりー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850703070428278784/jHLfzQUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 404,
+          "like_count": 22521,
+          "listed_count": 3,
+          "media_count": 14291,
+          "tweet_count": 36719
+        },
+        "username": "ao2nd",
+        "verified": false
+      }
+    ]
+  }
+}

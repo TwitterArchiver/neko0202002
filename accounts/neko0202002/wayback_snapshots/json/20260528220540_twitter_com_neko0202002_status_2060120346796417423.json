@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060120339322167296"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2060080424555311378",
+    "created_at": "2026-05-28T22:05:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T23:05:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060120346796417423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1067724520444710914",
+          "start": 0,
+          "username": "_Natsubi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LcC764m5up",
+          "end": 61,
+          "expanded_url": "https://x.com/neko0202002/status/2060120346796417423/photo/1",
+          "media_key": "3_2060120339322167296",
+          "start": 38,
+          "url": "https://t.co/LcC764m5up"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060120346796417423",
+    "in_reply_to_user_id": "1067724520444710914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060080424555311378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Natsubi 谢谢您，愿天堂没有劣质跳蛋（对不起，下面这个太难崩了） https://t.co/LcC764m5up"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060120339322167296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJcEiJva4AA-nWi.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060120339322167296"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2060080424555311378",
+        "created_at": "2026-05-28T22:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T23:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060120346796417423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1067724520444710914",
+              "start": 0,
+              "username": "_Natsubi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LcC764m5up",
+              "end": 61,
+              "expanded_url": "https://x.com/neko0202002/status/2060120346796417423/photo/1",
+              "media_key": "3_2060120339322167296",
+              "start": 38,
+              "url": "https://t.co/LcC764m5up"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060120346796417423",
+        "in_reply_to_user_id": "1067724520444710914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060080424555311378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Natsubi 谢谢您，愿天堂没有劣质跳蛋（对不起，下面这个太难崩了） https://t.co/LcC764m5up"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1067724520444710914",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2060080424555311378",
+        "created_at": "2026-05-28T19:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060080424555311378"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060080424555311378",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Vous, qui lisez ce tweet, êtes la personne la plus heureuse au monde."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 960,
+          "like_count": 1658,
+          "listed_count": 2,
+          "media_count": 1506,
+          "tweet_count": 4189
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-28T10:18:57.000Z",
+        "description": "黄金的魔女与美索不达米亚的女神的幻想剧",
+        "id": "1067724520444710914",
+        "location": "六轩岛",
+        "name": "人类夏",
+        "pinned_tweet_id": "1987646604673995078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1067726177505165312/QCDwmoup_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 152,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 551
+        },
+        "username": "_Natsubi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2040023530612613120"
+      ],
+      "media_source_tweet_id": [
+        "2040023780496707885"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2040042247769800716",
+    "created_at": "2026-04-03T12:22:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T13:22:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040042247769800716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1495040117907820548",
+          "start": 3,
+          "username": "MiKUMru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WDMlWnObXF",
+          "end": 51,
+          "expanded_url": "https://x.com/MiKUMru/status/2040023780496707885/video/1",
+          "media_key": "13_2040023530612613120",
+          "start": 28,
+          "url": "https://t.co/WDMlWnObXF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040042247769800716",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040023780496707885",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MiKUMru: うーばばうぱぱうーぱうぱばー https://t.co/WDMlWnObXF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 87825,
+        "height": 720,
+        "media_key": "13_2040023530612613120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2040023530612613120/img/5RPVYcqeTelt6yhZ.jpg",
+        "public_metrics": {
+          "view_count": 1567
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040023530612613120/vid/avc1/480x270/Of0zRGlQr0ak8jhg.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040023530612613120/vid/avc1/640x360/M3XXfpn5zocnYLfV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040023530612613120/vid/avc1/1280x720/jwUuwCGAsdUAe_FI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2040023530612613120/pl/lqUrgiQlylTVttEo.m3u8?v=c95"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040023530612613120"
+          ],
+          "media_source_tweet_id": [
+            "2040023780496707885"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040042247769800716",
+        "created_at": "2026-04-03T12:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T13:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040042247769800716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1495040117907820548",
+              "start": 3,
+              "username": "MiKUMru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WDMlWnObXF",
+              "end": 51,
+              "expanded_url": "https://x.com/MiKUMru/status/2040023780496707885/video/1",
+              "media_key": "13_2040023530612613120",
+              "start": 28,
+              "url": "https://t.co/WDMlWnObXF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040042247769800716",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040023780496707885",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MiKUMru: うーばばうぱぱうーぱうぱばー https://t.co/WDMlWnObXF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040023530612613120"
+          ]
+        },
+        "author_id": "1495040117907820548",
+        "conversation_id": "2040023780496707885",
+        "created_at": "2026-04-03T11:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T12:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040023780496707885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WDMlWnObXF",
+              "end": 38,
+              "expanded_url": "https://x.com/MiKUMru/status/2040023780496707885/video/1",
+              "media_key": "13_2040023530612613120",
+              "start": 15,
+              "url": "https://t.co/WDMlWnObXF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040023780496707885",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 4827,
+          "like_count": 349,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "うーばばうぱぱうーぱうぱばー https://t.co/WDMlWnObXF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/同类查成分互fo/请和我做朋友/ᗜ𖥦ᗜ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037978639053299712/JtGdeDp-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 735,
+          "like_count": 955,
+          "listed_count": 2,
+          "media_count": 770,
+          "tweet_count": 2241
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-19T14:19:55.000Z",
+        "description": "my collection and old vocaloid archive",
+        "id": "1495040117907820548",
+        "location": "dm for credit/removal",
+        "name": "Maru",
+        "pinned_tweet_id": "2030983235027783978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258129930874880/6BOtZZYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25540,
+          "following_count": 66,
+          "like_count": 32886,
+          "listed_count": 33,
+          "media_count": 218,
+          "tweet_count": 749
+        },
+        "username": "MiKUMru",
+        "verified": false
+      }
+    ]
+  }
+}

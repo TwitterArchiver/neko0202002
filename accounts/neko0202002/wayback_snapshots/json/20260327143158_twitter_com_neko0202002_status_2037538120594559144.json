@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037424308776206336"
+      ],
+      "media_source_tweet_id": [
+        "2037424323196272688"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2037538120594559144",
+    "created_at": "2026-03-27T14:31:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T15:31:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037538120594559144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1902723196794875904",
+          "start": 3,
+          "username": "ya_mai12"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QBkupufvyI",
+          "end": 37,
+          "expanded_url": "https://x.com/ya_mai12/status/2037424323196272688/photo/1",
+          "media_key": "3_2037424308776206336",
+          "start": 14,
+          "url": "https://t.co/QBkupufvyI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037538120594559144",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037424323196272688",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ya_mai12: https://t.co/QBkupufvyI"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2037538120594559144].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2037538120594559144",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2037538120594559144"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2037424308776206336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZinTVaAAAvG2N.jpg",
+        "width": 650
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037424308776206336"
+          ]
+        },
+        "author_id": "1902723196794875904",
+        "conversation_id": "2037424323196272688",
+        "created_at": "2026-03-27T06:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037424323196272688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QBkupufvyI",
+              "end": 23,
+              "expanded_url": "https://x.com/ya_mai12/status/2037424323196272688/photo/1",
+              "media_key": "3_2037424308776206336",
+              "start": 0,
+              "url": "https://t.co/QBkupufvyI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037424323196272688",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 1973,
+          "like_count": 249,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QBkupufvyI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/同类查成分互fo/请和我做朋友/ᗜ𖥦ᗜ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037065551403786240/r6CPsSyA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 685,
+          "like_count": 889,
+          "listed_count": 2,
+          "media_count": 648,
+          "tweet_count": 1992
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T14:05:59.000Z",
+        "description": "人妻です やまいです 🥀🩸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/sere12",
+                "end": 23,
+                "expanded_url": "https://lit.link/sere12",
+                "start": 0,
+                "url": "https://t.co/gNYeOQK6iV"
+              }
+            ]
+          }
+        },
+        "id": "1902723196794875904",
+        "name": "病 セレ",
+        "pinned_tweet_id": "1970795344717082689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990855024961073156/LNPpxOS0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7575,
+          "following_count": 55,
+          "like_count": 1084,
+          "listed_count": 21,
+          "media_count": 193,
+          "tweet_count": 660
+        },
+        "url": "https://t.co/gNYeOQK6iV",
+        "username": "ya_mai12",
+        "verified": true
+      }
+    ]
+  }
+}

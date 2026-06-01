@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043376109555982336"
+      ],
+      "media_source_tweet_id": [
+        "2043376121493000439"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2043390162894574056",
+    "created_at": "2026-04-12T18:05:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T19:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043390162894574056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2028205953380945920",
+          "start": 3,
+          "username": "psyopal"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HfE7EX7hDb",
+          "end": 83,
+          "expanded_url": "https://x.com/psyopal/status/2043376121493000439/photo/1",
+          "media_key": "3_2043376109555982336",
+          "start": 60,
+          "url": "https://t.co/HfE7EX7hDb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043390162894574056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043376121493000439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @psyopal: 小精灵有上新所以来抽奖啦。抽2t迷醉，参与条件：关注➕转发➕加入monnshotlab频带。 https://t.co/HfE7EX7hDb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2043376109555982336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFuHvtCaoAATlqj.jpg",
+        "width": 724
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043376109555982336"
+          ],
+          "media_source_tweet_id": [
+            "2043376121493000439"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2043390162894574056",
+        "created_at": "2026-04-12T18:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T19:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043390162894574056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2028205953380945920",
+              "start": 3,
+              "username": "psyopal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HfE7EX7hDb",
+              "end": 83,
+              "expanded_url": "https://x.com/psyopal/status/2043376121493000439/photo/1",
+              "media_key": "3_2043376109555982336",
+              "start": 60,
+              "url": "https://t.co/HfE7EX7hDb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043390162894574056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043376121493000439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @psyopal: 小精灵有上新所以来抽奖啦。抽2t迷醉，参与条件：关注➕转发➕加入monnshotlab频带。 https://t.co/HfE7EX7hDb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043376109555982336"
+          ]
+        },
+        "author_id": "2028205953380945920",
+        "conversation_id": "2043376121493000439",
+        "created_at": "2026-04-12T17:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043376121493000439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HfE7EX7hDb",
+              "end": 70,
+              "expanded_url": "https://x.com/psyopal/status/2043376121493000439/photo/1",
+              "media_key": "3_2043376109555982336",
+              "start": 47,
+              "url": "https://t.co/HfE7EX7hDb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043376121493000439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "小精灵有上新所以来抽奖啦。抽2t迷醉，参与条件：关注➕转发➕加入monnshotlab频带。 https://t.co/HfE7EX7hDb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 827,
+          "like_count": 1141,
+          "listed_count": 2,
+          "media_count": 992,
+          "tweet_count": 2843
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-01T20:29:23.000Z",
+        "description": "Moonshotlab复活介绍点https://t.co/RIbaVNCNdD\n飞机同ID，神必物质欢迎观看\n同类超级大友好，提问箱接受相关咨询，专业合法合规",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/auaquq",
+                "end": 39,
+                "expanded_url": "https://t.me/auaquq",
+                "start": 16,
+                "url": "https://t.co/RIbaVNCNdD"
+              }
+            ]
+          }
+        },
+        "id": "2028205953380945920",
+        "name": "psyopal",
+        "pinned_tweet_id": "2042673385277465010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038830668533334016/ktouiTat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 302,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 170
+        },
+        "username": "psyopal",
+        "verified": false
+      }
+    ]
+  }
+}

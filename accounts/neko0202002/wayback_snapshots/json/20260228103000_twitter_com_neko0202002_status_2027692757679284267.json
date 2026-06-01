@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027631489505267712",
+        "3_2027631489811419138"
+      ],
+      "media_source_tweet_id": [
+        "2027631496140603855",
+        "2027631496140603855"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2027692757679284267",
+    "created_at": "2026-02-28T10:30:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T11:30:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027692757679284267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1430312926737354753",
+          "start": 3,
+          "username": "sushiching_2006"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rGLJcQagK4",
+          "end": 55,
+          "expanded_url": "https://x.com/sushiching_2006/status/2027631496140603855/photo/1",
+          "media_key": "3_2027631489505267712",
+          "start": 32,
+          "url": "https://t.co/rGLJcQagK4"
+        },
+        {
+          "display_url": "pic.x.com/rGLJcQagK4",
+          "end": 55,
+          "expanded_url": "https://x.com/sushiching_2006/status/2027631496140603855/photo/1",
+          "media_key": "3_2027631489811419138",
+          "start": 32,
+          "url": "https://t.co/rGLJcQagK4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027692757679284267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027631496140603855",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sushiching_2006: 孩子們 不要上街od https://t.co/rGLJcQagK4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_2027631489505267712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCOYGMtbkAA9s_S.jpg",
+        "width": 1538
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2027631489811419138",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCOYGN2bEAIaq7V.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027631489505267712",
+            "3_2027631489811419138"
+          ],
+          "media_source_tweet_id": [
+            "2027631496140603855",
+            "2027631496140603855"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2027692757679284267",
+        "created_at": "2026-02-28T10:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T11:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027692757679284267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1430312926737354753",
+              "start": 3,
+              "username": "sushiching_2006"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rGLJcQagK4",
+              "end": 55,
+              "expanded_url": "https://x.com/sushiching_2006/status/2027631496140603855/photo/1",
+              "media_key": "3_2027631489505267712",
+              "start": 32,
+              "url": "https://t.co/rGLJcQagK4"
+            },
+            {
+              "display_url": "pic.x.com/rGLJcQagK4",
+              "end": 55,
+              "expanded_url": "https://x.com/sushiching_2006/status/2027631496140603855/photo/1",
+              "media_key": "3_2027631489811419138",
+              "start": 32,
+              "url": "https://t.co/rGLJcQagK4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027692757679284267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027631496140603855",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sushiching_2006: 孩子們 不要上街od https://t.co/rGLJcQagK4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027631489505267712",
+            "3_2027631489811419138"
+          ]
+        },
+        "author_id": "1430312926737354753",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2027631496140603855",
+        "created_at": "2026-02-28T06:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T07:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027631496140603855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rGLJcQagK4",
+              "end": 34,
+              "expanded_url": "https://x.com/sushiching_2006/status/2027631496140603855/photo/1",
+              "media_key": "3_2027631489505267712",
+              "start": 11,
+              "url": "https://t.co/rGLJcQagK4"
+            },
+            {
+              "display_url": "pic.x.com/rGLJcQagK4",
+              "end": 34,
+              "expanded_url": "https://x.com/sushiching_2006/status/2027631496140603855/photo/1",
+              "media_key": "3_2027631489811419138",
+              "start": 11,
+              "url": "https://t.co/rGLJcQagK4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027631496140603855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 14333,
+          "like_count": 185,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "孩子們 不要上街od https://t.co/rGLJcQagK4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "宫小路优",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027451220932333568/mUygeGKd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 403,
+          "like_count": 206,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 562
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-24T23:35:59.000Z",
+        "description": "有證含糖🍥，是19y的貓貓吶❤️\n座標：台中 歡迎線下貼貼！！😺\n@SONY846995 的銀漸層貓貓♡🐾",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "SONY846995"
+              }
+            ]
+          }
+        },
+        "id": "1430312926737354753",
+        "location": "你的人格裡",
+        "name": "小晴是逆天醬喵🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2025403906839429218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023309371909042177/veAgsiEQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11256,
+          "following_count": 185,
+          "like_count": 17703,
+          "listed_count": 13,
+          "media_count": 43,
+          "tweet_count": 379
+        },
+        "username": "sushiching_2006",
+        "verified": false
+      }
+    ]
+  }
+}

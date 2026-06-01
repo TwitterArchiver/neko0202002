@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2034181189024743424"
+      ],
+      "media_source_tweet_id": [
+        "2034181302837252191"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2034189999575597498",
+    "created_at": "2026-03-18T08:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T09:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034189999575597498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "622036546",
+          "start": 3,
+          "username": "overdose_six"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/msoGzTrsTa",
+          "end": 41,
+          "expanded_url": "https://x.com/overdose_six/status/2034181302837252191/video/1",
+          "media_key": "7_2034181189024743424",
+          "start": 18,
+          "url": "https://t.co/msoGzTrsTa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034189999575597498",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034181302837252191",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @overdose_six: https://t.co/msoGzTrsTa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25031,
+        "height": 1280,
+        "media_key": "7_2034181189024743424",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2034181189024743424/pu/img/UwmhjZOhdCPOCUAD.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2034181189024743424/pu/vid/avc1/320x568/hRtWizrF5Pv0l-bz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2034181189024743424/pu/vid/avc1/480x852/mk9x2dvZTY4Ei8XD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2034181189024743424/pu/vid/avc1/720x1280/OxiOjaT9fjVL8TVH.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2034181189024743424/pu/pl/MZ3NqqDXqwb24sUr.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2034181189024743424"
+          ],
+          "media_source_tweet_id": [
+            "2034181302837252191"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2034189999575597498",
+        "created_at": "2026-03-18T08:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T09:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034189999575597498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "622036546",
+              "start": 3,
+              "username": "overdose_six"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/msoGzTrsTa",
+              "end": 41,
+              "expanded_url": "https://x.com/overdose_six/status/2034181302837252191/video/1",
+              "media_key": "7_2034181189024743424",
+              "start": 18,
+              "url": "https://t.co/msoGzTrsTa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034189999575597498",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034181302837252191",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @overdose_six: https://t.co/msoGzTrsTa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2034181189024743424"
+          ]
+        },
+        "author_id": "622036546",
+        "conversation_id": "2034181302837252191",
+        "created_at": "2026-03-18T08:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T09:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034181302837252191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/msoGzTrsTa",
+              "end": 23,
+              "expanded_url": "https://x.com/overdose_six/status/2034181302837252191/video/1",
+              "media_key": "7_2034181189024743424",
+              "start": 0,
+              "url": "https://t.co/msoGzTrsTa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034181302837252191",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/msoGzTrsTa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理/同类查成分互fo/请和我做朋友/ᗜ𖥦ᗜ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032192447573577728/C9yS_hXm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 608,
+          "like_count": 764,
+          "listed_count": 1,
+          "media_count": 510,
+          "tweet_count": 1627
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "官网：https://t.co/Wxb5OnS7cE | 提问箱：https://t.co/b5c8bbntR6 | 里账号:@fuck_8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 63,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fayou.sbs",
+                "end": 26,
+                "expanded_url": "http://fayou.sbs",
+                "start": 3,
+                "url": "https://t.co/Wxb5OnS7cE"
+              },
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 56,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 33,
+                "url": "https://t.co/b5c8bbntR6"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名#心宿二",
+        "pinned_tweet_id": "1982097076855996754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004582178806693888/5V-kT5y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2844,
+          "following_count": 97,
+          "like_count": 11343,
+          "listed_count": 9,
+          "media_count": 665,
+          "tweet_count": 3983
+        },
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

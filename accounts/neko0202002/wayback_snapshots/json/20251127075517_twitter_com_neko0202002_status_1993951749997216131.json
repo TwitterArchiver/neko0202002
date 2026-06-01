@@ -1,0 +1,553 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781972125179518977",
+          "name": "Auto Manufacturer - Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Mitsubishi Motors　",
+          "id": "1404866764819746820",
+          "name": "Mitsubishi Motors"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Car culture",
+          "id": "847528391163092993",
+          "name": "Automotive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Mitsubishi Motors　",
+          "id": "1404866764819746820",
+          "name": "Mitsubishi Motors"
+        }
+      }
+    ],
+    "conversation_id": "1993951749997216131",
+    "created_at": "2025-11-27T07:55:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T08:55:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993951749997216131"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 44,
+          "normalized_text": "三菱ランサーエボリューションワゴン",
+          "probability": 0.287,
+          "start": 28,
+          "type": "Person"
+        },
+        {
+          "end": 79,
+          "normalized_text": "片桐ユイ",
+          "probability": 0.9514,
+          "start": 76,
+          "type": "Person"
+        },
+        {
+          "end": 127,
+          "normalized_text": "ユイちゃん",
+          "probability": 0.8178,
+          "start": 123,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1442827659696877570",
+          "start": 3,
+          "username": "MikiHoshii1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993951749997216131",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992817069310783547",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MikiHoshii1: 世界に700台だけの 三菱ランサーエボリューションワゴン（MT） と、\n“女の子だけの世界にそっと潜り込んだ男の娘” 片桐ユイ が出会ったら――\nどんなキュンが生まれるのか…？💕\n\n『オトメ世界の歩き方』より\nユイちゃんの 3つのモード\n（バト…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1323,
+        "media_key": "3_1992817024616271872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6fohoaakAAfim-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 873,
+        "media_key": "3_1992817027803983872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6foh0SbMAAe97P.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1323,
+        "media_key": "3_1992817027954958336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6foh02a4AAnNzc.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1323,
+        "media_key": "3_1992817027971710976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6foh06agAAYEHw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Mitsubishi Motors　",
+              "id": "1404866764819746820",
+              "name": "Mitsubishi Motors"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mitsubishi Motors　",
+              "id": "1404866764819746820",
+              "name": "Mitsubishi Motors"
+            }
+          }
+        ],
+        "conversation_id": "1993951749997216131",
+        "created_at": "2025-11-27T07:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T08:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993951749997216131"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 44,
+              "normalized_text": "三菱ランサーエボリューションワゴン",
+              "probability": 0.287,
+              "start": 28,
+              "type": "Person"
+            },
+            {
+              "end": 79,
+              "normalized_text": "片桐ユイ",
+              "probability": 0.9514,
+              "start": 76,
+              "type": "Person"
+            },
+            {
+              "end": 127,
+              "normalized_text": "ユイちゃん",
+              "probability": 0.8178,
+              "start": 123,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1442827659696877570",
+              "start": 3,
+              "username": "MikiHoshii1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993951749997216131",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992817069310783547",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MikiHoshii1: 世界に700台だけの 三菱ランサーエボリューションワゴン（MT） と、\n“女の子だけの世界にそっと潜り込んだ男の娘” 片桐ユイ が出会ったら――\nどんなキュンが生まれるのか…？💕\n\n『オトメ世界の歩き方』より\nユイちゃんの 3つのモード\n（バト…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992817024616271872",
+            "3_1992817027803983872",
+            "3_1992817027954958336",
+            "3_1992817027971710976"
+          ]
+        },
+        "author_id": "1442827659696877570",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Mitsubishi Motors　",
+              "id": "1404866764819746820",
+              "name": "Mitsubishi Motors"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mitsubishi Motors　",
+              "id": "1404866764819746820",
+              "name": "Mitsubishi Motors"
+            }
+          }
+        ],
+        "conversation_id": "1992817069310783547",
+        "created_at": "2025-11-24T04:46:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T05:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992817069310783547"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "三菱ランサーエボリューションワゴン",
+              "probability": 0.3035,
+              "start": 11,
+              "type": "Organization"
+            },
+            {
+              "end": 62,
+              "normalized_text": "片桐ユイ",
+              "probability": 0.9576,
+              "start": 59,
+              "type": "Person"
+            },
+            {
+              "end": 101,
+              "normalized_text": "オトメ世界の歩き方",
+              "probability": 0.3727,
+              "start": 93,
+              "type": "Other"
+            },
+            {
+              "end": 110,
+              "normalized_text": "ユイちゃん",
+              "probability": 0.8092,
+              "start": 106,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "痛車"
+            },
+            {
+              "end": 148,
+              "start": 144,
+              "tag": "男の娘"
+            },
+            {
+              "end": 152,
+              "start": 149,
+              "tag": "三菱"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YYs5pYUkjX",
+              "end": 176,
+              "expanded_url": "https://x.com/MikiHoshii1/status/1992817069310783547/photo/1",
+              "media_key": "3_1992817024616271872",
+              "start": 153,
+              "url": "https://t.co/YYs5pYUkjX"
+            },
+            {
+              "display_url": "pic.x.com/YYs5pYUkjX",
+              "end": 176,
+              "expanded_url": "https://x.com/MikiHoshii1/status/1992817069310783547/photo/1",
+              "media_key": "3_1992817027803983872",
+              "start": 153,
+              "url": "https://t.co/YYs5pYUkjX"
+            },
+            {
+              "display_url": "pic.x.com/YYs5pYUkjX",
+              "end": 176,
+              "expanded_url": "https://x.com/MikiHoshii1/status/1992817069310783547/photo/1",
+              "media_key": "3_1992817027954958336",
+              "start": 153,
+              "url": "https://t.co/YYs5pYUkjX"
+            },
+            {
+              "display_url": "pic.x.com/YYs5pYUkjX",
+              "end": 176,
+              "expanded_url": "https://x.com/MikiHoshii1/status/1992817069310783547/photo/1",
+              "media_key": "3_1992817027971710976",
+              "start": 153,
+              "url": "https://t.co/YYs5pYUkjX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992817069310783547",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3685,
+          "like_count": 37,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "世界に700台だけの 三菱ランサーエボリューションワゴン（MT） と、\n“女の子だけの世界にそっと潜り込んだ男の娘” 片桐ユイ が出会ったら――\nどんなキュンが生まれるのか…？💕\n\n『オトメ世界の歩き方』より\nユイちゃんの 3つのモード\n（バトル／デート／ないしょ） をどうぞ！\n#痛車 #男の娘 #三菱 https://t.co/YYs5pYUkjX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "千早！！！！",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "千早！！！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989253109630341120/CJB1bPoj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 280,
+          "like_count": 67,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 248
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-28T12:25:09.000Z",
+        "description": "星ちゃんだよ〜✨\n男の娘してます( ˘͈ ᵕ ˘͈ )♡\n車とかわいい衣服、そしてコスプレがすき！\nたまに自分と愛車の写真も載せてるよ。\n大型車（バス・トラック）もすごく好き！\nJDMも痛車も興味あり！\n気軽に絡んでね〜💖\n中国語EnglishOKです\nhttps://t.co/vVPqdB1yIC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "b23.tv/qxIGfLz",
+                "end": 150,
+                "expanded_url": "https://b23.tv/qxIGfLz",
+                "start": 127,
+                "url": "https://t.co/vVPqdB1yIC"
+              }
+            ]
+          }
+        },
+        "id": "1442827659696877570",
+        "location": "Gunma-ken, Japan",
+        "name": "マニュアル星ちゃん⭐️",
+        "pinned_tweet_id": "1991126475332850007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892873034001702912/s-S5dFgl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 55,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 4
+        },
+        "username": "MikiHoshii1",
+        "verified": false
+      }
+    ]
+  }
+}

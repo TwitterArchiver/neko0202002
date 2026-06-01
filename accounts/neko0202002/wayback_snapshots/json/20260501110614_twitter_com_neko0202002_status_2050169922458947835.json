@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049911511720628224"
+      ],
+      "media_source_tweet_id": [
+        "2049911528913035739"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2050169922458947835",
+    "created_at": "2026-05-01T11:06:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T12:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050169922458947835"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 26,
+          "tag": "本間心鈴"
+        },
+        {
+          "end": 38,
+          "start": 32,
+          "tag": "サクラノ刻"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1779774601100189696",
+          "start": 3,
+          "username": "doll7799"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GPHsqQG6nw",
+          "end": 62,
+          "expanded_url": "https://x.com/doll7799/status/2049911528913035739/photo/1",
+          "media_key": "3_2049911511720628224",
+          "start": 39,
+          "url": "https://t.co/GPHsqQG6nw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050169922458947835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049911528913035739",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doll7799: 大家好 可以多理理我吗\n#本間心鈴 #サクラノ刻 https://t.co/GPHsqQG6nw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2049911511720628224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHK_qLUXkAAm5Fw.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049911511720628224"
+          ],
+          "media_source_tweet_id": [
+            "2049911528913035739"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2050169922458947835",
+        "created_at": "2026-05-01T11:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050169922458947835"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "本間心鈴"
+            },
+            {
+              "end": 38,
+              "start": 32,
+              "tag": "サクラノ刻"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1779774601100189696",
+              "start": 3,
+              "username": "doll7799"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GPHsqQG6nw",
+              "end": 62,
+              "expanded_url": "https://x.com/doll7799/status/2049911528913035739/photo/1",
+              "media_key": "3_2049911511720628224",
+              "start": 39,
+              "url": "https://t.co/GPHsqQG6nw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050169922458947835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049911528913035739",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doll7799: 大家好 可以多理理我吗\n#本間心鈴 #サクラノ刻 https://t.co/GPHsqQG6nw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049911511720628224"
+          ]
+        },
+        "author_id": "1779774601100189696",
+        "conversation_id": "2049911528913035739",
+        "created_at": "2026-04-30T17:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T18:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049911528913035739"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "本間心鈴"
+            },
+            {
+              "end": 24,
+              "start": 18,
+              "tag": "サクラノ刻"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GPHsqQG6nw",
+              "end": 48,
+              "expanded_url": "https://x.com/doll7799/status/2049911528913035739/photo/1",
+              "media_key": "3_2049911511720628224",
+              "start": 25,
+              "url": "https://t.co/GPHsqQG6nw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049911528913035739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 4150,
+          "like_count": 248,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "大家好 可以多理理我吗\n#本間心鈴 #サクラノ刻 https://t.co/GPHsqQG6nw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 939,
+          "like_count": 1463,
+          "listed_count": 2,
+          "media_count": 1274,
+          "tweet_count": 3618
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-15T07:31:54.000Z",
+        "description": "@doll070707",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "doll070707"
+              }
+            ]
+          }
+        },
+        "id": "1779774601100189696",
+        "location": "扩列52聊一辈子天谢谢",
+        "name": "yd 🕯",
+        "pinned_tweet_id": "2046660872882340270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872455514799656960/xf5T8x33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4873,
+          "following_count": 10,
+          "like_count": 1853,
+          "listed_count": 21,
+          "media_count": 204,
+          "tweet_count": 780
+        },
+        "username": "doll7799",
+        "verified": false
+      }
+    ]
+  }
+}

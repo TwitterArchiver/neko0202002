@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2033506656584429962",
+    "created_at": "2026-03-16T11:41:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T12:41:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033508967931150759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1905857832072933376",
+          "start": 0,
+          "username": "susukikii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033508967931150759",
+    "in_reply_to_user_id": "1905857832072933376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033506656584429962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@susukikii 宝宝，这个是机器人发的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1531,
+        "media_key": "3_2033506650032906240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDh3hjObIAAUdwq.jpg",
+        "width": 876
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2033506656584429962",
+        "created_at": "2026-03-16T11:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T12:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033508967931150759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1905857832072933376",
+              "start": 0,
+              "username": "susukikii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033508967931150759",
+        "in_reply_to_user_id": "1905857832072933376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033506656584429962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@susukikii 宝宝，这个是机器人发的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033506650032906240"
+          ]
+        },
+        "author_id": "1905857832072933376",
+        "conversation_id": "2033506656584429962",
+        "created_at": "2026-03-16T11:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T12:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033506656584429962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/68UT7QGMGA",
+              "end": 28,
+              "expanded_url": "https://x.com/susukikii/status/2033506656584429962/photo/1",
+              "media_key": "3_2033506650032906240",
+              "start": 5,
+              "url": "https://t.co/68UT7QGMGA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033506656584429962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不儿啥啊 https://t.co/68UT7QGMGA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/评论被吞呃啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032192447573577728/C9yS_hXm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 570,
+          "like_count": 687,
+          "listed_count": 1,
+          "media_count": 464,
+          "tweet_count": 1471
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T05:41:43.000Z",
+        "description": "这里是suki！想和各位交朋友！欢迎互fo小窗！INTP/诞生日：2010.02.25 #抑郁#焦虑#自残#暴饮暴食",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/susukikii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/susukikii",
+                "start": 0,
+                "url": "https://t.co/RYKO5u7AVc"
+              }
+            ]
+          }
+        },
+        "id": "1905857832072933376",
+        "name": "su ki",
+        "pinned_tweet_id": "2027408748369854829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027384805680349184/1WhP74e0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 44,
+          "like_count": 1702,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 367
+        },
+        "url": "https://t.co/RYKO5u7AVc",
+        "username": "susukikii",
+        "verified": false
+      }
+    ]
+  }
+}

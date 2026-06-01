@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1884752937173573632"
+      ],
+      "media_source_tweet_id": [
+        "1884752964885381246"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "2051289131737911425",
+    "created_at": "2026-05-04T13:13:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T14:13:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051289131737911425"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 30,
+          "tag": "prsk_FA"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1720729805434318848",
+          "start": 3,
+          "username": "bokuto1463"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mDy4q4zicR",
+          "end": 62,
+          "expanded_url": "https://x.com/bokuto1463/status/1884752964885381246/video/1",
+          "media_key": "7_1884752937173573632",
+          "start": 39,
+          "url": "https://t.co/mDy4q4zicR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051289131737911425",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884752964885381246",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bokuto1463: 🐈🐈🙌🏻🙌🏻🤲🏻🤲🏻🎨🎨🎨 #prsk_FA https://t.co/mDy4q4zicR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6933,
+        "height": 696,
+        "media_key": "7_1884752937173573632",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1884752937173573632/pu/img/6zGiY1m6kDlDVOFI.jpg",
+        "public_metrics": {
+          "view_count": 2844
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1884752937173573632/pu/vid/avc1/276x270/k281zPA8Pl1GzNGo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1884752937173573632/pu/vid/avc1/370x360/2cqJGHJhlbGBd-Bq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1884752937173573632/pu/vid/avc1/716x696/ok0IusN_MB338cko.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1884752937173573632/pu/pl/CmLFTag3UbPCywR4.m3u8?tag=12"
+          }
+        ],
+        "width": 716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1884752937173573632"
+          ],
+          "media_source_tweet_id": [
+            "1884752964885381246"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2051289131737911425",
+        "created_at": "2026-05-04T13:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T14:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051289131737911425"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 30,
+              "tag": "prsk_FA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1720729805434318848",
+              "start": 3,
+              "username": "bokuto1463"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mDy4q4zicR",
+              "end": 62,
+              "expanded_url": "https://x.com/bokuto1463/status/1884752964885381246/video/1",
+              "media_key": "7_1884752937173573632",
+              "start": 39,
+              "url": "https://t.co/mDy4q4zicR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051289131737911425",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884752964885381246",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bokuto1463: 🐈🐈🙌🏻🙌🏻🤲🏻🤲🏻🎨🎨🎨 #prsk_FA https://t.co/mDy4q4zicR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1884752937173573632"
+          ]
+        },
+        "author_id": "1720729805434318848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "1884752964885381246",
+        "created_at": "2025-01-29T23:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T00:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884752964885381246"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 14,
+              "tag": "prsk_FA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mDy4q4zicR",
+              "end": 46,
+              "expanded_url": "https://x.com/bokuto1463/status/1884752964885381246/video/1",
+              "media_key": "7_1884752937173573632",
+              "start": 23,
+              "url": "https://t.co/mDy4q4zicR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884752964885381246",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 2882,
+          "like_count": 367,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "🐈🐈🙌🏻🙌🏻🤲🏻🤲🏻🎨🎨🎨 #prsk_FA https://t.co/mDy4q4zicR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 690,
+          "following_count": 953,
+          "like_count": 1502,
+          "listed_count": 2,
+          "media_count": 1328,
+          "tweet_count": 3725
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T09:08:58.000Z",
+        "description": "🇨🇳 这里吱吱/许谚｜欢迎扩列一串神秘数字3035656483 学生不经常在",
+        "id": "1720729805434318848",
+        "name": "砂糖桔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969585067883446279/EXvGBngY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 27,
+          "like_count": 520,
+          "listed_count": 5,
+          "media_count": 115,
+          "tweet_count": 206
+        },
+        "username": "bokuto1463",
+        "verified": false
+      }
+    ]
+  }
+}

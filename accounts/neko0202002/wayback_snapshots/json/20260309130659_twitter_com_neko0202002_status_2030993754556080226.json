@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030936856632991745",
+        "3_2030936888497102848"
+      ],
+      "media_source_tweet_id": [
+        "2030937121914310719",
+        "2030937121914310719"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2030993754556080226",
+    "created_at": "2026-03-09T13:06:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T14:06:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030993754556080226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2007125031277719553",
+          "start": 3,
+          "username": "kkkkkara810"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ggtpgIDuju",
+          "end": 64,
+          "expanded_url": "https://x.com/kkkkkara810/status/2030937121914310719/photo/1",
+          "media_key": "3_2030936856632991745",
+          "start": 41,
+          "url": "https://t.co/ggtpgIDuju"
+        },
+        {
+          "display_url": "pic.x.com/ggtpgIDuju",
+          "end": 64,
+          "expanded_url": "https://x.com/kkkkkara810/status/2030937121914310719/photo/1",
+          "media_key": "3_2030936888497102848",
+          "start": 41,
+          "url": "https://t.co/ggtpgIDuju"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030993754556080226",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 235
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030937121914310719",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kkkkkara810: 【ニディガあるある】\n\n ←にわか　　ファン→ https://t.co/ggtpgIDuju"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2030936856632991745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC9WT4zboAEqlB8.jpg",
+        "width": 601
+      },
+      {
+        "height": 544,
+        "media_key": "3_2030936888497102848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC9WVvgbYAAEvgs.jpg",
+        "width": 567
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030936856632991745",
+            "3_2030936888497102848"
+          ],
+          "media_source_tweet_id": [
+            "2030937121914310719",
+            "2030937121914310719"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030993754556080226",
+        "created_at": "2026-03-09T13:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T14:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030993754556080226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2007125031277719553",
+              "start": 3,
+              "username": "kkkkkara810"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ggtpgIDuju",
+              "end": 64,
+              "expanded_url": "https://x.com/kkkkkara810/status/2030937121914310719/photo/1",
+              "media_key": "3_2030936856632991745",
+              "start": 41,
+              "url": "https://t.co/ggtpgIDuju"
+            },
+            {
+              "display_url": "pic.x.com/ggtpgIDuju",
+              "end": 64,
+              "expanded_url": "https://x.com/kkkkkara810/status/2030937121914310719/photo/1",
+              "media_key": "3_2030936888497102848",
+              "start": 41,
+              "url": "https://t.co/ggtpgIDuju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030993754556080226",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 235
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030937121914310719",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kkkkkara810: 【ニディガあるある】\n\n ←にわか　　ファン→ https://t.co/ggtpgIDuju"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030936856632991745",
+            "3_2030936888497102848"
+          ]
+        },
+        "author_id": "2007125031277719553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030937121914310719",
+        "created_at": "2026-03-09T09:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T10:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030937121914310719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ggtpgIDuju",
+              "end": 47,
+              "expanded_url": "https://x.com/kkkkkara810/status/2030937121914310719/photo/1",
+              "media_key": "3_2030936856632991745",
+              "start": 24,
+              "url": "https://t.co/ggtpgIDuju"
+            },
+            {
+              "display_url": "pic.x.com/ggtpgIDuju",
+              "end": 47,
+              "expanded_url": "https://x.com/kkkkkara810/status/2030937121914310719/photo/1",
+              "media_key": "3_2030936888497102848",
+              "start": 24,
+              "url": "https://t.co/ggtpgIDuju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030937121914310719",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 515,
+          "impression_count": 307848,
+          "like_count": 7851,
+          "quote_count": 242,
+          "reply_count": 14,
+          "retweet_count": 235
+        },
+        "reply_settings": "everyone",
+        "text": "【ニディガあるある】\n\n ←にわか　　ファン→ https://t.co/ggtpgIDuju"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/玛利亚什么的在上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "周防院奏",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028525324649328640/d35polxT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 526,
+          "like_count": 569,
+          "listed_count": 1,
+          "media_count": 349,
+          "tweet_count": 1216
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T16:21:22.000Z",
+        "description": "14才男子\nからちゃんって呼んでください\nヒカマー。気になった人フォロバ。\n♡💍@Fox_udon_s\n　　　　サブ@810aaaakaaaa810              \nDMとマシュマロいつでもください！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "Fox_udon_s"
+              },
+              {
+                "end": 74,
+                "start": 58,
+                "username": "810aaaakaaaa810"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/nq76w2ime1b9rx…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/nq76w2ime1b9rxk?t=vEz4Qi&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/U1t64cWkga"
+              }
+            ]
+          }
+        },
+        "id": "2007125031277719553",
+        "location": "万×2 千×25",
+        "name": "ヤ⁹中男児から🦊",
+        "pinned_tweet_id": "2015284367564910816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007125682430918656/oueTHYiG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 133,
+          "like_count": 4624,
+          "listed_count": 7,
+          "media_count": 125,
+          "tweet_count": 1646
+        },
+        "url": "https://t.co/U1t64cWkga",
+        "username": "kkkkkara810",
+        "verified": false
+      }
+    ]
+  }
+}

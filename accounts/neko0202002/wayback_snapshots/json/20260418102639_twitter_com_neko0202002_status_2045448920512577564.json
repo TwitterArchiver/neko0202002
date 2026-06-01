@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045170680736759808"
+      ],
+      "media_source_tweet_id": [
+        "2045170713498464402"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2045448920512577564",
+    "created_at": "2026-04-18T10:26:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T11:26:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045448920512577564"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 20,
+          "tag": "新海天"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1593214863643320321",
+          "start": 3,
+          "username": "minazuki_usagi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pXo0XaVZ7x",
+          "end": 48,
+          "expanded_url": "https://x.com/minazuki_usagi/status/2045170713498464402/photo/1",
+          "media_key": "3_2045170680736759808",
+          "start": 25,
+          "url": "https://t.co/pXo0XaVZ7x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045448920512577564",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045170713498464402",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @minazuki_usagi: #新海天 https://t.co/pXo0XaVZ7x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2045170680736759808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHn5fpbwAApjQo.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045170680736759808"
+          ],
+          "media_source_tweet_id": [
+            "2045170713498464402"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2045448920512577564",
+        "created_at": "2026-04-18T10:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T11:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045448920512577564"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "新海天"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1593214863643320321",
+              "start": 3,
+              "username": "minazuki_usagi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pXo0XaVZ7x",
+              "end": 48,
+              "expanded_url": "https://x.com/minazuki_usagi/status/2045170713498464402/photo/1",
+              "media_key": "3_2045170680736759808",
+              "start": 25,
+              "url": "https://t.co/pXo0XaVZ7x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045448920512577564",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045170713498464402",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @minazuki_usagi: #新海天 https://t.co/pXo0XaVZ7x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045170680736759808"
+          ]
+        },
+        "author_id": "1593214863643320321",
+        "conversation_id": "2045170713498464402",
+        "created_at": "2026-04-17T16:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045170713498464402"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "新海天"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pXo0XaVZ7x",
+              "end": 28,
+              "expanded_url": "https://x.com/minazuki_usagi/status/2045170713498464402/photo/1",
+              "media_key": "3_2045170680736759808",
+              "start": 5,
+              "url": "https://t.co/pXo0XaVZ7x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045170713498464402",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 5029,
+          "like_count": 472,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "#新海天 https://t.co/pXo0XaVZ7x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 603,
+          "following_count": 852,
+          "like_count": 1244,
+          "listed_count": 2,
+          "media_count": 1086,
+          "tweet_count": 3100
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-17T12:10:09.000Z",
+        "description": "cosplayer 🇨🇳 20↑｜中文＞日本語＞English | 拍立得贩售https://t.co/X5m5k7NwrM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "k.youshop10.com/xDo3sSXZ",
+                "end": 62,
+                "expanded_url": "https://k.youshop10.com/xDo3sSXZ",
+                "start": 39,
+                "url": "https://t.co/X5m5k7NwrM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/3448758404",
+                "end": 23,
+                "expanded_url": "https://weibo.com/u/3448758404",
+                "start": 0,
+                "url": "https://t.co/M46lpNuPuv"
+              }
+            ]
+          }
+        },
+        "id": "1593214863643320321",
+        "location": "ブラックホールの地獄",
+        "name": "水無月の兎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021629899510099968/nrflfdsx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12401,
+          "following_count": 1191,
+          "like_count": 1081,
+          "listed_count": 36,
+          "media_count": 76,
+          "tweet_count": 121
+        },
+        "url": "https://t.co/M46lpNuPuv",
+        "username": "minazuki_usagi",
+        "verified": false
+      }
+    ]
+  }
+}

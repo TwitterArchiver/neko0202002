@@ -1,0 +1,114 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "1925556587332251694",
+    "created_at": "2025-05-23T19:57:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T20:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926004466462916852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1691385929968062464",
+          "start": 0,
+          "username": "zhou1919456789"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926004466462916852",
+    "in_reply_to_user_id": "1691385929968062464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925556587332251694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhou1919456789 那我还不高兴 我和我女儿 一起出门炸街"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1926004466462916852].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1926004466462916852",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1926004466462916852"
+    },
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1925556587332251694].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1925556587332251694",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1925556587332251694"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "是我先……明明是我先的！喜欢也好，玩弄也好，还是给他穿上女装也好。——大藏里想奈",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "凯伊莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922919174591971328/2WZ4op6P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 151,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 150
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T09:47:02.000Z",
+        "description": "you can call me in your favour way/高中学生/欢迎互fo/是明日美/",
+        "id": "1691385929968062464",
+        "location": "Shanghai ",
+        "name": "明日美",
+        "pinned_tweet_id": "1910877694759494047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923343824744747008/2zTVcKUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 532,
+          "like_count": 873,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 385
+        },
+        "username": "zhou1919456789",
+        "verified": false
+      }
+    ]
+  }
+}

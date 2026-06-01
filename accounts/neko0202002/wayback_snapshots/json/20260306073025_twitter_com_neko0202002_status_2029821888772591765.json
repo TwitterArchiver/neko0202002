@@ -1,0 +1,483 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1334945143208611841",
+          "name": "GL"
+        }
+      }
+    ],
+    "conversation_id": "2029821888772591765",
+    "created_at": "2026-03-06T07:30:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T08:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029821888772591765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1504315456131596288",
+          "start": 3,
+          "username": "Z008aAlDdr7Qgvs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029821888772591765",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 181
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029504299563462994",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Z008aAlDdr7Qgvs: フラグタイム\n\n百合アニメブームが来てるせいか今公開してたら話題になりそう\n3分間時間を止める事が出来る主人公が他者を避けるために使ってたのを誰かと共有する為に使い出したのが良くて\n時間を共有するということの本当の意味と尊さを、他者と向…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2029504291309039616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCo_ZnGbMAAkfmE.jpg",
+        "width": 1366
+      },
+      {
+        "height": 768,
+        "media_key": "3_2029504291409735680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCo_ZnebsAAOAFd.jpg",
+        "width": 1366
+      },
+      {
+        "height": 768,
+        "media_key": "3_2029504292290494464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCo_ZqwbAAA_cB8.jpg",
+        "width": 1366
+      },
+      {
+        "height": 768,
+        "media_key": "3_2029504294089797632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCo_ZxdaMAAvLuv.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "2029821888772591765",
+        "created_at": "2026-03-06T07:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T08:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029821888772591765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1504315456131596288",
+              "start": 3,
+              "username": "Z008aAlDdr7Qgvs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029821888772591765",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 181
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029504299563462994",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Z008aAlDdr7Qgvs: フラグタイム\n\n百合アニメブームが来てるせいか今公開してたら話題になりそう\n3分間時間を止める事が出来る主人公が他者を避けるために使ってたのを誰かと共有する為に使い出したのが良くて\n時間を共有するということの本当の意味と尊さを、他者と向…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029504291309039616",
+            "3_2029504291409735680",
+            "3_2029504292290494464",
+            "3_2029504294089797632"
+          ]
+        },
+        "author_id": "1504315456131596288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "2029504299563462994",
+        "created_at": "2026-03-05T10:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T11:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029504299563462994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d4c8WZHiGH",
+              "end": 165,
+              "expanded_url": "https://x.com/Z008aAlDdr7Qgvs/status/2029504299563462994/photo/1",
+              "media_key": "3_2029504291309039616",
+              "start": 142,
+              "url": "https://t.co/d4c8WZHiGH"
+            },
+            {
+              "display_url": "pic.x.com/d4c8WZHiGH",
+              "end": 165,
+              "expanded_url": "https://x.com/Z008aAlDdr7Qgvs/status/2029504299563462994/photo/1",
+              "media_key": "3_2029504291409735680",
+              "start": 142,
+              "url": "https://t.co/d4c8WZHiGH"
+            },
+            {
+              "display_url": "pic.x.com/d4c8WZHiGH",
+              "end": 165,
+              "expanded_url": "https://x.com/Z008aAlDdr7Qgvs/status/2029504299563462994/photo/1",
+              "media_key": "3_2029504292290494464",
+              "start": 142,
+              "url": "https://t.co/d4c8WZHiGH"
+            },
+            {
+              "display_url": "pic.x.com/d4c8WZHiGH",
+              "end": 165,
+              "expanded_url": "https://x.com/Z008aAlDdr7Qgvs/status/2029504299563462994/photo/1",
+              "media_key": "3_2029504294089797632",
+              "start": 142,
+              "url": "https://t.co/d4c8WZHiGH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029504299563462994",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2301,
+          "impression_count": 229021,
+          "like_count": 4104,
+          "quote_count": 23,
+          "reply_count": 7,
+          "retweet_count": 181
+        },
+        "reply_settings": "everyone",
+        "text": "フラグタイム\n\n百合アニメブームが来てるせいか今公開してたら話題になりそう\n3分間時間を止める事が出来る主人公が他者を避けるために使ってたのを誰かと共有する為に使い出したのが良くて\n時間を共有するということの本当の意味と尊さを、他者と向き合うことの厳しさ難しさと同時に学んでいく物語 https://t.co/d4c8WZHiGH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/玛利亚什么的在上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "周防院奏",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028525324649328640/d35polxT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 490,
+          "like_count": 437,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 998
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-17T04:35:42.000Z",
+        "description": "アニメ・マンガ好きです\n主にアニメの感想ツイート多めです\n\nサブ垢 @vvIfDTJjWpfhG9F",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 34,
+                "username": "vvIfDTJjWpfhG9F"
+              }
+            ]
+          }
+        },
+        "id": "1504315456131596288",
+        "name": "はらやま",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610539390304149505/9qYYcKMo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 865,
+          "like_count": 161569,
+          "listed_count": 18,
+          "media_count": 1941,
+          "tweet_count": 3070
+        },
+        "username": "Z008aAlDdr7Qgvs",
+        "verified": false
+      }
+    ]
+  }
+}

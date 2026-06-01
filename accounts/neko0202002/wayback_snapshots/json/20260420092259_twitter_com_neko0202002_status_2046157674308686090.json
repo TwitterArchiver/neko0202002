@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2045836739303124992"
+      ],
+      "media_source_tweet_id": [
+        "2045836803446640831"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2046157674308686090",
+    "created_at": "2026-04-20T09:22:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T10:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046157674308686090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1831671299057623040",
+          "start": 3,
+          "username": "afuai377"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/unYIC1auqS",
+          "end": 37,
+          "expanded_url": "https://x.com/afuai377/status/2045836803446640831/video/1",
+          "media_key": "13_2045836739303124992",
+          "start": 14,
+          "url": "https://t.co/unYIC1auqS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046157674308686090",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045836803446640831",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @afuai377: https://t.co/unYIC1auqS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14600,
+        "height": 1280,
+        "media_key": "13_2045836739303124992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045836739303124992/img/XJj84Qyo7TdrsQyf.jpg",
+        "public_metrics": {
+          "view_count": 77
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045836739303124992/vid/avc1/320x568/r7LEYTw1scZb4mBA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045836739303124992/vid/avc1/480x852/qzWjlH17rNkrSbeW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045836739303124992/vid/avc1/720x1280/M5hFx0mPSvGZGLF6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045836739303124992/pl/PUpL2YsitIrPJltQ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045836739303124992"
+          ],
+          "media_source_tweet_id": [
+            "2045836803446640831"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2046157674308686090",
+        "created_at": "2026-04-20T09:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T10:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046157674308686090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1831671299057623040",
+              "start": 3,
+              "username": "afuai377"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/unYIC1auqS",
+              "end": 37,
+              "expanded_url": "https://x.com/afuai377/status/2045836803446640831/video/1",
+              "media_key": "13_2045836739303124992",
+              "start": 14,
+              "url": "https://t.co/unYIC1auqS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046157674308686090",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045836803446640831",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @afuai377: https://t.co/unYIC1auqS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045836739303124992"
+          ]
+        },
+        "author_id": "1831671299057623040",
+        "conversation_id": "2045836803446640831",
+        "created_at": "2026-04-19T12:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T13:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045836803446640831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/unYIC1auqS",
+              "end": 23,
+              "expanded_url": "https://x.com/afuai377/status/2045836803446640831/video/1",
+              "media_key": "13_2045836739303124992",
+              "start": 0,
+              "url": "https://t.co/unYIC1auqS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045836803446640831",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 3007,
+          "like_count": 303,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/unYIC1auqS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 867,
+          "like_count": 1280,
+          "listed_count": 2,
+          "media_count": 1111,
+          "tweet_count": 3164
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T12:30:55.000Z",
+        "description": "殺不死的roAch ✮同成分互fo",
+        "id": "1831671299057623040",
+        "location": "地獄",
+        "name": "ふ愛",
+        "pinned_tweet_id": "2021592209452056847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030340027990048768/MIZcSwjg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 191,
+          "like_count": 4022,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 447
+        },
+        "username": "afuai377",
+        "verified": false
+      }
+    ]
+  }
+}

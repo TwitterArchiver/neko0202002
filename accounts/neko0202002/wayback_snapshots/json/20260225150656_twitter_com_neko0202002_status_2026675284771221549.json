@@ -1,0 +1,600 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026631490193539072"
+      ],
+      "media_source_tweet_id": [
+        "2026631495700611533"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations about going out.",
+          "id": "1045046778876153856",
+          "name": "Going Out"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2026675284771221549",
+    "created_at": "2026-02-25T15:06:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T16:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026675284771221549"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "美樹さやかちゃん",
+          "probability": 0.6531,
+          "start": 26,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 47,
+          "tag": "Cosplay"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "708721273312927744",
+          "start": 3,
+          "username": "shiomi00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C3fz3p9Ihm",
+          "end": 79,
+          "expanded_url": "https://x.com/shiomi00/status/2026631495700611533/photo/1",
+          "media_key": "3_2026631490193539072",
+          "start": 56,
+          "url": "https://t.co/C3fz3p9Ihm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026675284771221549",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026631495700611533",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiomi00: ぷりぬいたっちどりーむの美樹さやかちゃんとお出かけした時の写真📸 #Cosplay https://t.co/C3fz3p9Ihm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2026631490193539072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCAKmk-bQAAtiTB.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026631490193539072"
+          ],
+          "media_source_tweet_id": [
+            "2026631495700611533"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2026675284771221549",
+        "created_at": "2026-02-25T15:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T16:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026675284771221549"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "美樹さやかちゃん",
+              "probability": 0.6531,
+              "start": 26,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 47,
+              "tag": "Cosplay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "708721273312927744",
+              "start": 3,
+              "username": "shiomi00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C3fz3p9Ihm",
+              "end": 79,
+              "expanded_url": "https://x.com/shiomi00/status/2026631495700611533/photo/1",
+              "media_key": "3_2026631490193539072",
+              "start": 56,
+              "url": "https://t.co/C3fz3p9Ihm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026675284771221549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026631495700611533",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shiomi00: ぷりぬいたっちどりーむの美樹さやかちゃんとお出かけした時の写真📸 #Cosplay https://t.co/C3fz3p9Ihm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026631490193539072"
+          ]
+        },
+        "author_id": "708721273312927744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2026631495700611533",
+        "created_at": "2026-02-25T12:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T13:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026631495700611533"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "美樹さやかちゃん",
+              "probability": 0.6545,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 33,
+              "tag": "Cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C3fz3p9Ihm",
+              "end": 65,
+              "expanded_url": "https://x.com/shiomi00/status/2026631495700611533/photo/1",
+              "media_key": "3_2026631490193539072",
+              "start": 42,
+              "url": "https://t.co/C3fz3p9Ihm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026631495700611533",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1428,
+          "like_count": 132,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "ぷりぬいたっちどりーむの美樹さやかちゃんとお出かけした時の写真📸 #Cosplay https://t.co/C3fz3p9Ihm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "os.remove ( '' characters / Itami. chr '' )\n\n啧，删不掉… … …有人在看吗？啊！我是Monika,我们又见面了/同类互fo",
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "宫小路优",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026664442747039752/flC_bVG0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 383,
+          "like_count": 168,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 503
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-12T18:28:13.000Z",
+        "description": "魔法少女と戦う女の子が大好き！Cosplay🐾水中撮影🫧ご連絡はDM、ご依頼はHPへ✉️/無断での転載や利用などNG/ひぐらしまどマギ艦これNieR超電磁砲NIKKE/超絶加工⚠︎活動もﾌｫﾛ-もﾏｲﾍﾟｰｽ🐢F外通知off/ next▶5月プリレコ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "403.ooo",
+                "end": 23,
+                "expanded_url": "https://403.ooo",
+                "start": 0,
+                "url": "https://t.co/XpThLPXPYS"
+              }
+            ]
+          }
+        },
+        "id": "708721273312927744",
+        "location": "more🐾▶",
+        "name": "塩味🐳🐾",
+        "pinned_tweet_id": "2026631495700611533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881677370316443649/DcF3uo_j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12761,
+          "following_count": 357,
+          "like_count": 28728,
+          "listed_count": 91,
+          "media_count": 557,
+          "tweet_count": 22794
+        },
+        "url": "https://t.co/XpThLPXPYS",
+        "username": "shiomi00",
+        "verified": true
+      }
+    ]
+  }
+}

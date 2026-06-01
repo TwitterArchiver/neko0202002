@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959288621015744512"
+      ],
+      "media_source_tweet_id": [
+        "1959288632541594014"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "1960657164235890830",
+    "created_at": "2025-08-27T10:54:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T11:54:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960657164235890830"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 18,
+          "tag": "WutheringWaves"
+        },
+        {
+          "end": 50,
+          "start": 39,
+          "tag": "Fleurdelys"
+        },
+        {
+          "end": 56,
+          "start": 53,
+          "tag": "鳴潮"
+        },
+        {
+          "end": 72,
+          "start": 61,
+          "tag": "Cartethyia"
+        },
+        {
+          "end": 82,
+          "start": 76,
+          "tag": "カルテジア"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1223195507901849601",
+          "start": 3,
+          "username": "axunkaOri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x4Web8WS4a",
+          "end": 106,
+          "expanded_url": "https://x.com/axunkaOri/status/1959288632541594014/photo/1",
+          "media_key": "3_1959288621015744512",
+          "start": 83,
+          "url": "https://t.co/x4Web8WS4a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960657164235890830",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959288632541594014",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @axunkaOri: 💎\n\n#WutheringWaves     \n#Fleurdelys \n #鳴潮     #Cartethyia    #カルテジア https://t.co/x4Web8WS4a"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1960657164235890830].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1960657164235890830",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1960657164235890830"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1959288621015744512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzDKnrwbwAA4K3-.jpg",
+        "width": 684
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959288621015744512"
+          ]
+        },
+        "author_id": "1223195507901849601",
+        "conversation_id": "1959288632541594014",
+        "created_at": "2025-08-23T16:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T17:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959288632541594014"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 3,
+              "tag": "WutheringWaves"
+            },
+            {
+              "end": 35,
+              "start": 24,
+              "tag": "Fleurdelys"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "鳴潮"
+            },
+            {
+              "end": 57,
+              "start": 46,
+              "tag": "Cartethyia"
+            },
+            {
+              "end": 67,
+              "start": 61,
+              "tag": "カルテジア"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x4Web8WS4a",
+              "end": 91,
+              "expanded_url": "https://x.com/axunkaOri/status/1959288632541594014/photo/1",
+              "media_key": "3_1959288621015744512",
+              "start": 68,
+              "url": "https://t.co/x4Web8WS4a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959288632541594014",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 45814,
+          "like_count": 702,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "💎\n\n#WutheringWaves     \n#Fleurdelys \n #鳴潮     #Cartethyia    #カルテジア https://t.co/x4Web8WS4a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "千早！！！！",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "千早！！！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951284390094577664/Qy4Zs8HR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 171,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 212
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-31T10:45:47.000Z",
+        "description": "✨🔮我是阿薰⸝⸝'ᜊ'⸝⸝ 被网络文盲攻击那位就是我😞｜05年普通女孩｜💖dyb站wb@阿薰kaOri✨｜🛒薰门🚪vx获取🔗https://t.co/CN7m3v4AZm 写真获取🔗微店：阿薰能量站｜用心拍作品📷｜任何改进建议欢迎留言💌｜求求大人们多支持🥺您的支持就是对我最大的鼓励🔮✨（不约不裸不线下）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.cn/A60TXHhv",
+                "end": 85,
+                "expanded_url": "http://t.cn/A60TXHhv",
+                "start": 62,
+                "url": "https://t.co/CN7m3v4AZm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "k.youshop10.com/5Rlf-Zoa",
+                "end": 23,
+                "expanded_url": "https://k.youshop10.com/5Rlf-Zoa",
+                "start": 0,
+                "url": "https://t.co/5LCvS3MiEj"
+              }
+            ]
+          }
+        },
+        "id": "1223195507901849601",
+        "location": "微店店铺搜：阿薰能量站",
+        "name": "✨🔮阿薰kaOri🔮✨",
+        "pinned_tweet_id": "1950886622574108875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951596079625224192/bZVw0Zhk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255354,
+          "following_count": 722,
+          "like_count": 207,
+          "listed_count": 1241,
+          "media_count": 651,
+          "tweet_count": 1249
+        },
+        "url": "https://t.co/5LCvS3MiEj",
+        "username": "axunkaOri",
+        "verified": true
+      }
+    ]
+  }
+}

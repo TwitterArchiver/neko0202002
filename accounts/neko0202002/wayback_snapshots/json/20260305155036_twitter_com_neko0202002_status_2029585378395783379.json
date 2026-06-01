@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2029585378395783379",
+    "created_at": "2026-03-05T15:50:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T16:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029585378395783379"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 43,
+          "normalized_text": "Navelコラボカフェ🫖",
+          "probability": 0.2686,
+          "start": 31,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "136523500",
+          "start": 3,
+          "username": "project_navel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029585378395783379",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 99
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028410928623214910",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @project_navel: 先日開催されました\n🍊Navelコラボカフェ🫖\n第6弾での販売グッズの通販を開始致しました‼️\n\n数量に限りがある商品もございますので、品切れの際はご容赦ください🙇‍♀️\n発送は4月上旬より随時開始いたします‼️どうぞ宜しくお願い致します🧡…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 888,
+        "media_key": "3_2028410923489415168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZc_Okb0AAv9hi.jpg",
+        "width": 842
+      },
+      {
+        "height": 855,
+        "media_key": "3_2028410923493580800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZc_OlbYAAzFVb.jpg",
+        "width": 850
+      },
+      {
+        "height": 918,
+        "media_key": "3_2028410923485196288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZc_OjbcAAtB3A.jpg",
+        "width": 842
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2029585378395783379",
+        "created_at": "2026-03-05T15:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T16:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029585378395783379"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 43,
+              "normalized_text": "Navelコラボカフェ🫖",
+              "probability": 0.2686,
+              "start": 31,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "136523500",
+              "start": 3,
+              "username": "project_navel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029585378395783379",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 99
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028410928623214910",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @project_navel: 先日開催されました\n🍊Navelコラボカフェ🫖\n第6弾での販売グッズの通販を開始致しました‼️\n\n数量に限りがある商品もございますので、品切れの際はご容赦ください🙇‍♀️\n発送は4月上旬より随時開始いたします‼️どうぞ宜しくお願い致します🧡…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028410923489415168",
+            "3_2028410923493580800",
+            "3_2028410923485196288"
+          ]
+        },
+        "author_id": "136523500",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418273003423469570",
+              "name": "Pixiv Booth"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418273003423469570",
+              "name": "Pixiv Booth"
+            }
+          }
+        ],
+        "conversation_id": "2028410928623214910",
+        "created_at": "2026-03-02T10:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T11:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028410928623214910"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Navelコラボカフェ🫖",
+              "probability": 0.1871,
+              "start": 12,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Navel公式グッズ等、様々な作品の受注生産グッズなどを取扱しております！ 限定商品などの販売も行っております！！ぜひご利用下さいませ！ ■海外発送⇒ http://www.tenso.com/jp/static/lp_shop_booth 通常商品の発送はお客様からのお支払い確認後、 土日祝日を除く平日3～5日以内を目安に行なっております。 ※ご注文が多数御座います際には、遅延の可能性も御座いますのでご了承下さい。 ※大型連休、年末年始、お盆は発送業務は全てお休みとなります。",
+              "display_url": "citrus-company.booth.pm",
+              "end": 153,
+              "expanded_url": "https://citrus-company.booth.pm",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2028409161911042049/JTtUbDeE?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2028409161911042049/JTtUbDeE?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 130,
+              "status": 200,
+              "title": "Navel Order STORE - BOOTH",
+              "unwound_url": "https://citrus-company.booth.pm",
+              "url": "https://t.co/yNqCZt51SI"
+            },
+            {
+              "display_url": "pic.x.com/IryxApEwkw",
+              "end": 187,
+              "expanded_url": "https://x.com/project_navel/status/2028410928623214910/photo/1",
+              "media_key": "3_2028410923489415168",
+              "start": 164,
+              "url": "https://t.co/IryxApEwkw"
+            },
+            {
+              "display_url": "pic.x.com/IryxApEwkw",
+              "end": 187,
+              "expanded_url": "https://x.com/project_navel/status/2028410928623214910/photo/1",
+              "media_key": "3_2028410923493580800",
+              "start": 164,
+              "url": "https://t.co/IryxApEwkw"
+            },
+            {
+              "display_url": "pic.x.com/IryxApEwkw",
+              "end": 187,
+              "expanded_url": "https://x.com/project_navel/status/2028410928623214910/photo/1",
+              "media_key": "3_2028410923485196288",
+              "start": 164,
+              "url": "https://t.co/IryxApEwkw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028410928623214910",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "citrus-company.booth.pm",
+                "end": 153,
+                "expanded_url": "https://citrus-company.booth.pm",
+                "start": 130,
+                "url": "https://t.co/4I8gSNf50u"
+              },
+              {
+                "display_url": "navel-store.com",
+                "end": 187,
+                "expanded_url": "https://navel-store.com",
+                "start": 164,
+                "url": "https://t.co/Mh87Ovwh69"
+              }
+            ]
+          },
+          "text": "先日開催されました\n🍊Navelコラボカフェ🫖\n第6弾での販売グッズの通販を開始致しました‼️\n\n数量に限りがある商品もございますので、品切れの際はご容赦ください🙇‍♀️\n発送は4月上旬より随時開始いたします‼️どうぞ宜しくお願い致します🧡\n\n[BOOTH] https://t.co/4I8gSNf50u\n\n[STORES] https://t.co/Mh87Ovwh69"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 37853,
+          "like_count": 337,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 99
+        },
+        "reply_settings": "everyone",
+        "text": "先日開催されました\n🍊Navelコラボカフェ🫖\n第6弾での販売グッズの通販を開始致しました‼️\n\n数量に限りがある商品もございますので、品切れの際はご容赦ください🙇‍♀️\n発送は4月上旬より随時開始いたします‼️どうぞ宜しくお願い致します🧡\n\n[BOOTH] https://t.co/yNqCZt51SI\n\n[STORES] https://t.co/IryxApEwkw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/玛利亚什么的在上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "周防院奏",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028525324649328640/d35polxT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 478,
+          "like_count": 349,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 899
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-24T05:19:46.000Z",
+        "description": "『けれど輝く夜空のような🌙』製作中‼️『CS版SHUFFLE!2』『SHUFFLE!Re:new』製作決定‼️ 毎週月曜日ねぶチューブ‼️ https://t.co/actosmf6kw ときどき🍊ねぶ生🍊",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@projectnavels…",
+                "end": 93,
+                "expanded_url": "https://youtube.com/@projectnavelsoft",
+                "start": 70,
+                "url": "https://t.co/actosmf6kw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/user/ProjectNa…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/user/ProjectNavelsoft",
+                "start": 0,
+                "url": "https://t.co/dEH8Ye1akA"
+              }
+            ]
+          }
+        },
+        "id": "136523500",
+        "location": "citrus-company.booth.pm/",
+        "name": "🍊 Navel【公式】🍊㊗️『SHUFFLE!』22th🌻『おれつば』17th🪽",
+        "pinned_tweet_id": "2028409108492366244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1025945094166171648/uCT5kYIu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63353,
+          "following_count": 25403,
+          "like_count": 16072,
+          "listed_count": 1186,
+          "media_count": 2908,
+          "tweet_count": 20344
+        },
+        "url": "https://t.co/dEH8Ye1akA",
+        "username": "project_navel",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2030660595842990080"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2030660877511520463",
+    "created_at": "2026-03-08T15:04:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T16:04:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030660877511520463"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AgBDqPaGlv",
+          "end": 23,
+          "expanded_url": "https://x.com/neko0202002/status/2030660877511520463/video/1",
+          "media_key": "13_2030660595842990080",
+          "start": 0,
+          "url": "https://t.co/AgBDqPaGlv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030660877511520463",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/AgBDqPaGlv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 215133,
+        "height": 600,
+        "media_key": "13_2030660595842990080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030660595842990080/img/7S3NCgzhAylLGSJ-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030660595842990080/vid/avc1/360x270/1jqukKSUv_rjuXxh.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030660595842990080/vid/avc1/480x360/ySjRpexNPW22_QQv.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030660595842990080/vid/avc1/800x600/ttqQuNZpM7XNZw-l.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030660595842990080/pl/5CUPOAecWh2otkw1.m3u8?tag=14"
+          }
+        ],
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030660595842990080"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2030660877511520463",
+        "created_at": "2026-03-08T15:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T16:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030660877511520463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AgBDqPaGlv",
+              "end": 23,
+              "expanded_url": "https://x.com/neko0202002/status/2030660877511520463/video/1",
+              "media_key": "13_2030660595842990080",
+              "start": 0,
+              "url": "https://t.co/AgBDqPaGlv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030660877511520463",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AgBDqPaGlv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/玛利亚什么的在上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "周防院奏",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028525324649328640/d35polxT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 518,
+          "like_count": 540,
+          "listed_count": 1,
+          "media_count": 332,
+          "tweet_count": 1177
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}

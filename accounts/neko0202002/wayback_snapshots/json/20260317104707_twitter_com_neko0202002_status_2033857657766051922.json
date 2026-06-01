@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2033585958806032740",
+    "created_at": "2026-03-17T10:47:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T11:47:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033857657766051922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1243590342911410176",
+          "start": 0,
+          "username": "bing2000100830"
+        },
+        {
+          "end": 28,
+          "id": "2032033299980566528",
+          "start": 16,
+          "username": "rinii165892"
+        },
+        {
+          "end": 40,
+          "id": "1620347661160435712",
+          "start": 29,
+          "username": "Fislonely_"
+        },
+        {
+          "end": 57,
+          "id": "2013875219392585728",
+          "start": 41,
+          "username": "e57jcetmSs91516"
+        },
+        {
+          "end": 70,
+          "id": "2032033299980566528",
+          "start": 58,
+          "username": "rinii165892"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033857657766051922",
+    "in_reply_to_user_id": "1243590342911410176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033855290035331119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bing2000100830 @rinii165892 @Fislonely_ @e57jcetmSs91516 @rinii165892 你怎么说听你的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2033855290035331119].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2033855290035331119",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2033855290035331119"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2033585958806032740",
+        "created_at": "2026-03-17T10:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T11:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033857657766051922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            },
+            {
+              "end": 28,
+              "id": "2032033299980566528",
+              "start": 16,
+              "username": "rinii165892"
+            },
+            {
+              "end": 40,
+              "id": "1620347661160435712",
+              "start": 29,
+              "username": "Fislonely_"
+            },
+            {
+              "end": 57,
+              "id": "2013875219392585728",
+              "start": 41,
+              "username": "e57jcetmSs91516"
+            },
+            {
+              "end": 70,
+              "id": "2032033299980566528",
+              "start": 58,
+              "username": "rinii165892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033857657766051922",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033855290035331119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 @rinii165892 @Fislonely_ @e57jcetmSs91516 @rinii165892 你怎么说听你的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理/同类查成分互fo/请和我做朋友/ᗜ𖥦ᗜ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032192447573577728/C9yS_hXm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 598,
+          "like_count": 737,
+          "listed_count": 1,
+          "media_count": 492,
+          "tweet_count": 1572
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "在月球",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼⁺₊˚ ཐི⋆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030176214581964800/ytEL2-pP_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 640,
+          "like_count": 18685,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1081
+        },
+        "username": "bing2000100830",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T09:58:00.000Z",
+        "description": "霖的第二黑化人格/少关心我\n举报我司马/会慢慢会fo/大号正常期间锁推/第二账号发言与大号无关，请区分\n诛九族名单✟❀@Fislonely_❀@dbdbsjbsja❀✟\n第十族✟❀@wu_si42846❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 82,
+                "start": 71,
+                "username": "dbdbsjbsja"
+              },
+              {
+                "end": 101,
+                "start": 90,
+                "username": "wu_si42846"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iRin19196",
+                "end": 23,
+                "expanded_url": "http://ngl.link/iRin19196",
+                "start": 0,
+                "url": "https://t.co/99ltrpnKrc"
+              }
+            ]
+          }
+        },
+        "id": "2032033299980566528",
+        "location": "msk坟头",
+        "name": "3.霖（已黑化）",
+        "pinned_tweet_id": "2033570085726740612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032130669959397377/7kOyBARR_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 158,
+          "like_count": 651,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 465
+        },
+        "url": "https://t.co/99ltrpnKrc",
+        "username": "rinii165892",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T09:06:11.000Z",
+        "description": "【查成分互fo】泛性恋 我要爱情啊啊啊啊 大家都来找我玩！推文包含血图｜LGBTQ+全友好｜只是想在死前多交些朋友… 【我的佛@wu_si42846】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "wu_si42846"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fislonely",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fislonely",
+                "start": 0,
+                "url": "https://t.co/GcBrxcB3Ds"
+              }
+            ]
+          }
+        },
+        "id": "1620347661160435712",
+        "location": "合肥",
+        "name": "Fislonely",
+        "pinned_tweet_id": "2019305353876500903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005048789347012608/OaP7ONSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 326,
+          "like_count": 6130,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 2095
+        },
+        "url": "https://t.co/GcBrxcB3Ds",
+        "username": "Fislonely_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T07:24:26.000Z",
+        "description": "10｜女初｜身高163 体重43kg 减肥中…（接陪聊🚪52/188/520（不退门）",
+        "id": "2013875219392585728",
+        "name": "T^T（허월홍）",
+        "pinned_tweet_id": "2029577831198716224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030311851687649281/NIhSLEy4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 191,
+          "like_count": 8965,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 2731
+        },
+        "username": "e57jcetmSs91516",
+        "verified": false
+      }
+    ]
+  }
+}

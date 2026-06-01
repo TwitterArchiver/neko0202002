@@ -1,0 +1,580 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1998740196398112768"
+      ],
+      "media_source_tweet_id": [
+        "1998740358574768280"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2039112108366077966",
+    "created_at": "2026-03-31T22:46:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T23:46:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039112108366077966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1249332456542502912",
+          "start": 3,
+          "username": "SKanimeLnovel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FGfXndWOC8",
+          "end": 90,
+          "expanded_url": "https://x.com/SKanimeLnovel/status/1998740358574768280/video/1",
+          "media_key": "13_1998740196398112768",
+          "start": 67,
+          "url": "https://t.co/FGfXndWOC8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039112108366077966",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1118
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998740358574768280",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SKanimeLnovel: ホーリーマミ強すぎる…✨🎗️\n\n美樹さやか ドッペルいろは ドッペルやちよ VS ホーリーマミ https://t.co/FGfXndWOC8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 341676,
+        "height": 494,
+        "media_key": "13_1998740196398112768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1998740196398112768/img/rZ2Oe3iSY--iX-xy.jpg",
+        "public_metrics": {
+          "view_count": 603642
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998740196398112768/vid/avc1/484x270/N2ge1_mFUC9jAXPC.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998740196398112768/vid/avc1/644x360/bExJluK9SHBZ69RW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998740196398112768/vid/avc1/886x494/tofl8bB_2BsryGjR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1998740196398112768/pl/0dRNWj9wXPxhLuY6.m3u8"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1998740196398112768"
+          ],
+          "media_source_tweet_id": [
+            "1998740358574768280"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2039112108366077966",
+        "created_at": "2026-03-31T22:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T23:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039112108366077966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1249332456542502912",
+              "start": 3,
+              "username": "SKanimeLnovel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FGfXndWOC8",
+              "end": 90,
+              "expanded_url": "https://x.com/SKanimeLnovel/status/1998740358574768280/video/1",
+              "media_key": "13_1998740196398112768",
+              "start": 67,
+              "url": "https://t.co/FGfXndWOC8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039112108366077966",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1118
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998740358574768280",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SKanimeLnovel: ホーリーマミ強すぎる…✨🎗️\n\n美樹さやか ドッペルいろは ドッペルやちよ VS ホーリーマミ https://t.co/FGfXndWOC8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1998740196398112768"
+          ]
+        },
+        "author_id": "1249332456542502912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "1998740358574768280",
+        "created_at": "2025-12-10T13:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T14:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998740358574768280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FGfXndWOC8",
+              "end": 71,
+              "expanded_url": "https://x.com/SKanimeLnovel/status/1998740358574768280/video/1",
+              "media_key": "13_1998740196398112768",
+              "start": 48,
+              "url": "https://t.co/FGfXndWOC8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998740358574768280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3559,
+          "impression_count": 661974,
+          "like_count": 12281,
+          "quote_count": 121,
+          "reply_count": 33,
+          "retweet_count": 1118
+        },
+        "reply_settings": "everyone",
+        "text": "ホーリーマミ強すぎる…✨🎗️\n\n美樹さやか ドッペルいろは ドッペルやちよ VS ホーリーマミ https://t.co/FGfXndWOC8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/同类查成分互fo/请和我做朋友/ᗜ𖥦ᗜ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037978639053299712/JtGdeDp-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 705,
+          "like_count": 928,
+          "listed_count": 2,
+          "media_count": 715,
+          "tweet_count": 2120
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-12T13:44:18.000Z",
+        "description": "03 オタツイと日常/アニメ好き/ 26卒22♂︎/ #ダ・カーポ #デアラ #まどマギ #ギルクラ #ゆゆゆ #ToLOVEる #ナイン #響けユーフォニアム #Kanon #サマポケ #変猫 #俺妹 #凪あす #ロクアカ #グリザイア #ひぐらし #ハヤテのごとく など！アニソン➡️ #SKの好きなアニソン",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "ダ・カーポ"
+              },
+              {
+                "end": 38,
+                "start": 34,
+                "tag": "デアラ"
+              },
+              {
+                "end": 44,
+                "start": 39,
+                "tag": "まどマギ"
+              },
+              {
+                "end": 50,
+                "start": 45,
+                "tag": "ギルクラ"
+              },
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "ゆゆゆ"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "ToLOVEる"
+              },
+              {
+                "end": 69,
+                "start": 65,
+                "tag": "ナイン"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "tag": "響けユーフォニアム"
+              },
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "Kanon"
+              },
+              {
+                "end": 93,
+                "start": 88,
+                "tag": "サマポケ"
+              },
+              {
+                "end": 97,
+                "start": 94,
+                "tag": "変猫"
+              },
+              {
+                "end": 101,
+                "start": 98,
+                "tag": "俺妹"
+              },
+              {
+                "end": 106,
+                "start": 102,
+                "tag": "凪あす"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ロクアカ"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "グリザイア"
+              },
+              {
+                "end": 125,
+                "start": 120,
+                "tag": "ひぐらし"
+              },
+              {
+                "end": 134,
+                "start": 126,
+                "tag": "ハヤテのごとく"
+              },
+              {
+                "end": 156,
+                "start": 145,
+                "tag": "SKの好きなアニソン"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@sk.anime.music",
+                "end": 23,
+                "expanded_url": "http://www.tiktok.com/@sk.anime.music",
+                "start": 0,
+                "url": "https://t.co/PXKQWGApzv"
+              }
+            ]
+          }
+        },
+        "id": "1249332456542502912",
+        "location": "日本 三重＆愛知",
+        "name": "𝑺.𝑲 @アニメ本垢",
+        "pinned_tweet_id": "1889220216078598511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029254699166384129/sB_LUZMI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2612,
+          "following_count": 2232,
+          "like_count": 65832,
+          "listed_count": 10,
+          "media_count": 4134,
+          "tweet_count": 31980
+        },
+        "url": "https://t.co/PXKQWGApzv",
+        "username": "SKanimeLnovel",
+        "verified": false
+      }
+    ]
+  }
+}

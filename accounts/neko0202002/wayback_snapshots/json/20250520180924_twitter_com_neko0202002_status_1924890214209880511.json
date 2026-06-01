@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1919619835639824386"
+      ],
+      "media_source_tweet_id": [
+        "1919619906787512607"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "1924890214209880511",
+    "created_at": "2025-05-20T18:09:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T19:09:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924890214209880511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1871028593603870720",
+          "start": 3,
+          "username": "miaomiaoyezi"
+        },
+        {
+          "end": 32,
+          "id": "1824335360031330305",
+          "start": 18,
+          "username": "Sexytoxiaoshu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/36G1qsoElv",
+          "end": 61,
+          "expanded_url": "https://x.com/miaomiaoyezi/status/1919619906787512607/video/1",
+          "media_key": "7_1919619835639824386",
+          "start": 38,
+          "url": "https://t.co/36G1qsoElv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924890214209880511",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 253
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919619906787512607",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @miaomiaoyezi: @Sexytoxiaoshu 见龙卸甲 https://t.co/36G1qsoElv"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1924890214209880511].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1924890214209880511",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1924890214209880511"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 81466,
+        "height": 1280,
+        "media_key": "7_1919619835639824386",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1919619835639824386/pu/img/hEW1xXOiU8p0RX6I.jpg",
+        "public_metrics": {
+          "view_count": 200804
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1919619835639824386/pu/vid/avc1/320x568/WKZYHFuYCwAhaNsx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1919619835639824386/pu/vid/avc1/480x852/ZZ9XOTnzWU9wCf5e.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1919619835639824386/pu/vid/avc1/720x1280/bRaIwUoeXKMdniH2.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1919619835639824386/pu/pl/M9oi-5l0TMgrw7Ze.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1919619835639824386"
+          ]
+        },
+        "author_id": "1871028593603870720",
+        "conversation_id": "1919616866038813122",
+        "created_at": "2025-05-06T05:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T06:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919619906787512607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1824335360031330305",
+              "start": 0,
+              "username": "Sexytoxiaoshu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/36G1qsoElv",
+              "end": 43,
+              "expanded_url": "https://x.com/miaomiaoyezi/status/1919619906787512607/video/1",
+              "media_key": "7_1919619835639824386",
+              "start": 20,
+              "url": "https://t.co/36G1qsoElv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919619906787512607",
+        "in_reply_to_user_id": "1824335360031330305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1348,
+          "impression_count": 476584,
+          "like_count": 5047,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 253
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919616866038813122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Sexytoxiaoshu 见龙卸甲 https://t.co/36G1qsoElv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "是我先……明明是我先的！喜欢也好，玩弄也好，还是给他穿上女装也好。——大藏里想奈",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "凯伊莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922919174591971328/2WZ4op6P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 148,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 133
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-23T03:02:41.000Z",
+        "description": "女大  已过大叔认证！！ 不线下！！ ！！喜欢有礼貌的人 不是入门相关的不要私信我了 不约不约不约",
+        "id": "1871028593603870720",
+        "location": "🚪288/520/1314……",
+        "name": "miaomiao",
+        "pinned_tweet_id": "1914734226534228092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890459463313944576/_ExoMOWC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61317,
+          "following_count": 21,
+          "like_count": 304,
+          "listed_count": 153,
+          "media_count": 210,
+          "tweet_count": 1248
+        },
+        "username": "miaomiaoyezi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T06:40:25.000Z",
+        "description": "🥇C圈和外围质量最高@XinYiCos00｜Cos圈Ww真人真照@nanacosww1｜X最佳Cos外围中介@tuanCosWW01｜宝藏经纪小闻cos外围👉@handamo3｜全网最全外围导师找@yihongyuanww｜玩高端外围真人真照找@kkcosww666｜全网粉丝最高外围找👉@chacoser01｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "XinYiCos00"
+              },
+              {
+                "end": 43,
+                "start": 32,
+                "username": "nanacosww1"
+              },
+              {
+                "end": 66,
+                "start": 54,
+                "username": "tuanCosWW01"
+              },
+              {
+                "end": 88,
+                "start": 79,
+                "username": "handamo3"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "yihongyuanww"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "kkcosww666"
+              },
+              {
+                "end": 155,
+                "start": 144,
+                "username": "chacoser01"
+              }
+            ]
+          }
+        },
+        "id": "1824335360031330305",
+        "name": "沈万姬",
+        "pinned_tweet_id": "1922666580938293528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911798911594856448/CC5qa7t6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621863,
+          "following_count": 991,
+          "like_count": 3,
+          "listed_count": 516,
+          "media_count": 761,
+          "tweet_count": 1403
+        },
+        "username": "Sexytoxiaoshu",
+        "verified": true
+      }
+    ]
+  }
+}

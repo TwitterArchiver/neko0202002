@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028375340532543488",
+        "3_2028375340482220034"
+      ],
+      "media_source_tweet_id": [
+        "2028375349575536747",
+        "2028375349575536747"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      }
+    ],
+    "conversation_id": "2028525807837343977",
+    "created_at": "2026-03-02T17:40:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T18:40:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028525807837343977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "770600999836790788",
+          "start": 3,
+          "username": "Sifon_lovelive"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/alSqKIth8Z",
+          "end": 75,
+          "expanded_url": "https://x.com/Sifon_lovelive/status/2028375349575536747/photo/1",
+          "media_key": "3_2028375340532543488",
+          "start": 52,
+          "url": "https://t.co/alSqKIth8Z"
+        },
+        {
+          "display_url": "pic.x.com/alSqKIth8Z",
+          "end": 75,
+          "expanded_url": "https://x.com/Sifon_lovelive/status/2028375349575536747/photo/1",
+          "media_key": "3_2028375340482220034",
+          "start": 52,
+          "url": "https://t.co/alSqKIth8Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028525807837343977",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028375349575536747",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sifon_lovelive: 着てみた！\nウィッグセットしないとだからメイクとかはまた今度！ https://t.co/alSqKIth8Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1549,
+        "media_key": "3_2028375340532543488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCY8oBuasAA0D3k.jpg",
+        "width": 779
+      },
+      {
+        "height": 1778,
+        "media_key": "3_2028375340482220034",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCY8oBia0AI58OW.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028375340532543488",
+            "3_2028375340482220034"
+          ],
+          "media_source_tweet_id": [
+            "2028375349575536747",
+            "2028375349575536747"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "2028525807837343977",
+        "created_at": "2026-03-02T17:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T18:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028525807837343977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "770600999836790788",
+              "start": 3,
+              "username": "Sifon_lovelive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/alSqKIth8Z",
+              "end": 75,
+              "expanded_url": "https://x.com/Sifon_lovelive/status/2028375349575536747/photo/1",
+              "media_key": "3_2028375340532543488",
+              "start": 52,
+              "url": "https://t.co/alSqKIth8Z"
+            },
+            {
+              "display_url": "pic.x.com/alSqKIth8Z",
+              "end": 75,
+              "expanded_url": "https://x.com/Sifon_lovelive/status/2028375349575536747/photo/1",
+              "media_key": "3_2028375340482220034",
+              "start": 52,
+              "url": "https://t.co/alSqKIth8Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028525807837343977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028375349575536747",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sifon_lovelive: 着てみた！\nウィッグセットしないとだからメイクとかはまた今度！ https://t.co/alSqKIth8Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028375340532543488",
+            "3_2028375340482220034"
+          ]
+        },
+        "author_id": "770600999836790788",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "2028375349575536747",
+        "created_at": "2026-03-02T07:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T08:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028375349575536747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/alSqKIth8Z",
+              "end": 55,
+              "expanded_url": "https://x.com/Sifon_lovelive/status/2028375349575536747/photo/1",
+              "media_key": "3_2028375340532543488",
+              "start": 32,
+              "url": "https://t.co/alSqKIth8Z"
+            },
+            {
+              "display_url": "pic.x.com/alSqKIth8Z",
+              "end": 55,
+              "expanded_url": "https://x.com/Sifon_lovelive/status/2028375349575536747/photo/1",
+              "media_key": "3_2028375340482220034",
+              "start": 32,
+              "url": "https://t.co/alSqKIth8Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028375349575536747",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 10075,
+          "like_count": 289,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "着てみた！\nウィッグセットしないとだからメイクとかはまた今度！ https://t.co/alSqKIth8Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/('ᗜ')",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "周防院奏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028525324649328640/d35polxT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 429,
+          "like_count": 261,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 680
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-30T12:36:10.000Z",
+        "description": "消費者金融で借りた金を爆速で溶かす多重債務パチンカスネキ。最近はまどドラ、ハートピアにハマってます。ほむほむ推しです°・*:.。.☆ パチスロ垢( @shifon_pachi )",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 74,
+                "username": "shifon_pachi"
+              }
+            ]
+          }
+        },
+        "id": "770600999836790788",
+        "name": "シフォン",
+        "pinned_tweet_id": "2018307352253125010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017993152121196546/yFebRbVd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3174,
+          "following_count": 2337,
+          "like_count": 32389,
+          "listed_count": 62,
+          "media_count": 10303,
+          "tweet_count": 111578
+        },
+        "username": "Sifon_lovelive",
+        "verified": false
+      }
+    ]
+  }
+}

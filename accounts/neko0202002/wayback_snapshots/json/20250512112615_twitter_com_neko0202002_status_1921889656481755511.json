@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This Mother's Day entity will include all conversations for all years ",
+          "id": "1238036059402821633",
+          "name": "Mother's Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "1921889656481755511",
+    "created_at": "2025-05-12T11:26:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T12:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921889656481755511"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 58,
+          "normalized_text": "オルトロス",
+          "probability": 0.332,
+          "start": 54,
+          "type": "Person"
+        },
+        {
+          "end": 119,
+          "normalized_text": "ヤエカママ（ユイお義母さん）",
+          "probability": 0.2011,
+          "start": 106,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 76,
+          "start": 72,
+          "tag": "母の日"
+        },
+        {
+          "end": 89,
+          "start": 84,
+          "tag": "オトメき"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1517530549988241410",
+          "start": 3,
+          "username": "Orthrossoft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921889656481755511",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921387533608636776",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Orthrossoft: 🌸1️⃣1️⃣月に一度のワンワンデー🐶🐶🌸\n＼毎月1️⃣1️⃣日はオルトロスの日🐶／\n今月の壁紙プレゼントは #母の日 ということで、#オトメき より隠れた人気を誇る『ヤエカママ（ユイお義母さん）』の壁紙をプレゼントだワン🐶🌸\nママー！！！！！…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_1920748445230657536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqfeiMzbcAAF5RE.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This Mother's Day entity will include all conversations for all years ",
+              "id": "1238036059402821633",
+              "name": "Mother's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1921889656481755511",
+        "created_at": "2025-05-12T11:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T12:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921889656481755511"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 58,
+              "normalized_text": "オルトロス",
+              "probability": 0.332,
+              "start": 54,
+              "type": "Person"
+            },
+            {
+              "end": 119,
+              "normalized_text": "ヤエカママ（ユイお義母さん）",
+              "probability": 0.2011,
+              "start": 106,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 72,
+              "tag": "母の日"
+            },
+            {
+              "end": 89,
+              "start": 84,
+              "tag": "オトメき"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1517530549988241410",
+              "start": 3,
+              "username": "Orthrossoft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921889656481755511",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921387533608636776",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Orthrossoft: 🌸1️⃣1️⃣月に一度のワンワンデー🐶🐶🌸\n＼毎月1️⃣1️⃣日はオルトロスの日🐶／\n今月の壁紙プレゼントは #母の日 ということで、#オトメき より隠れた人気を誇る『ヤエカママ（ユイお義母さん）』の壁紙をプレゼントだワン🐶🌸\nママー！！！！！…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920748445230657536"
+          ]
+        },
+        "author_id": "1517530549988241410",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This Mother's Day entity will include all conversations for all years ",
+              "id": "1238036059402821633",
+              "name": "Mother's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1921387533608636776",
+        "created_at": "2025-05-11T02:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T03:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921387533608636776"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "オルトロス",
+              "probability": 0.3327,
+              "start": 37,
+              "type": "Person"
+            },
+            {
+              "end": 102,
+              "normalized_text": "ヤエカママ（ユイお義母さん）",
+              "probability": 0.2085,
+              "start": 89,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "母の日"
+            },
+            {
+              "end": 72,
+              "start": 67,
+              "tag": "オトメき"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YOxhlLMnWb",
+              "end": 148,
+              "expanded_url": "https://x.com/Orthrossoft/status/1921387533608636776/photo/1",
+              "media_key": "3_1920748445230657536",
+              "start": 125,
+              "url": "https://t.co/YOxhlLMnWb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921387533608636776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 21868,
+          "like_count": 269,
+          "quote_count": 8,
+          "reply_count": 11,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "🌸1️⃣1️⃣月に一度のワンワンデー🐶🐶🌸\n＼毎月1️⃣1️⃣日はオルトロスの日🐶／\n今月の壁紙プレゼントは #母の日 ということで、#オトメき より隠れた人気を誇る『ヤエカママ（ユイお義母さん）』の壁紙をプレゼントだワン🐶🌸\nママー！！！！！！！ https://t.co/YOxhlLMnWb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "是我先……明明是我先的！喜欢也好，玩弄也好，还是给他穿上女装也好。——大藏里想奈",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "优子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909135311457976320/_gd-CZyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 133,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 100
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-22T15:48:28.000Z",
+        "description": "ワンワン！ゲームブランドOrthros広報のオル🐶とロス🐶としっぽ🐍だワン🐶 \n企画・シナリオ:NYAON、キャラクターデザイン・原画:mignonのOrthros最新作「オトメ世界の歩き方」絶賛発売中だワン🐶\n公式Discord：https://t.co/zABNYmM3WV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/CEU62Q5a7G",
+                "end": 139,
+                "expanded_url": "https://discord.gg/CEU62Q5a7G",
+                "start": 116,
+                "url": "https://t.co/zABNYmM3WV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "orthrossoft.jp",
+                "end": 23,
+                "expanded_url": "https://orthrossoft.jp/",
+                "start": 0,
+                "url": "https://t.co/PEJKI872Pi"
+              }
+            ]
+          }
+        },
+        "id": "1517530549988241410",
+        "name": "Orthros＠【オトメき】発売中！",
+        "pinned_tweet_id": "1915605900687212760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1517533512148025344/T_IEW190_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13450,
+          "following_count": 39,
+          "like_count": 2677,
+          "listed_count": 81,
+          "media_count": 246,
+          "tweet_count": 1756
+        },
+        "url": "https://t.co/PEJKI872Pi",
+        "username": "Orthrossoft",
+        "verified": false
+      }
+    ]
+  }
+}

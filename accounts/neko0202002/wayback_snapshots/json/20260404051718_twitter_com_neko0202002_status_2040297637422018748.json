@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2040254806900768768"
+      ],
+      "media_source_tweet_id": [
+        "2040254824865018160"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2040297637422018748",
+    "created_at": "2026-04-04T05:17:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T06:17:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040297637422018748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1723803104360169472",
+          "start": 3,
+          "username": "tanakatu777"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rArwogrztE",
+          "end": 58,
+          "expanded_url": "https://x.com/tanakatu777/status/2040254824865018160/video/1",
+          "media_key": "7_2040254806900768768",
+          "start": 35,
+          "url": "https://t.co/rArwogrztE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040297637422018748",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040254824865018160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tanakatu777: 俺のみたまさんが凶悪すぎるんやが🥺 https://t.co/rArwogrztE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6041,
+        "height": 416,
+        "media_key": "7_2040254806900768768",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2040254806900768768/pu/img/1OmT53sTN515Gtea.jpg",
+        "public_metrics": {
+          "view_count": 788
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 800000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040254806900768768/pu/vid/avc1/488x270/k3zsLj_STkUXhWGw.mp4?tag=22"
+          },
+          {
+            "bit_rate": 5184000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2040254806900768768/pu/vid/avc1/752x416/QT3z_4nOl42KeaK0.mp4?tag=22"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2040254806900768768/pu/pl/TAMYFrdwsHSxCMuT.m3u8?tag=22"
+          }
+        ],
+        "width": 752
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2040254806900768768"
+          ],
+          "media_source_tweet_id": [
+            "2040254824865018160"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040297637422018748",
+        "created_at": "2026-04-04T05:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T06:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040297637422018748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1723803104360169472",
+              "start": 3,
+              "username": "tanakatu777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rArwogrztE",
+              "end": 58,
+              "expanded_url": "https://x.com/tanakatu777/status/2040254824865018160/video/1",
+              "media_key": "7_2040254806900768768",
+              "start": 35,
+              "url": "https://t.co/rArwogrztE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040297637422018748",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040254824865018160",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tanakatu777: 俺のみたまさんが凶悪すぎるんやが🥺 https://t.co/rArwogrztE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2040254806900768768"
+          ]
+        },
+        "author_id": "1723803104360169472",
+        "conversation_id": "2040254824865018160",
+        "created_at": "2026-04-04T02:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T03:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040254824865018160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rArwogrztE",
+              "end": 41,
+              "expanded_url": "https://x.com/tanakatu777/status/2040254824865018160/video/1",
+              "media_key": "7_2040254806900768768",
+              "start": 18,
+              "url": "https://t.co/rArwogrztE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040254824865018160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2306,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "俺のみたまさんが凶悪すぎるんやが🥺 https://t.co/rArwogrztE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/同类查成分互fo/请和我做朋友/ᗜ𖥦ᗜ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037978639053299712/JtGdeDp-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 743,
+          "like_count": 964,
+          "listed_count": 2,
+          "media_count": 796,
+          "tweet_count": 2289
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T20:41:19.000Z",
+        "description": "社畜パチンカス タナカツでございます。\n好きな機種はマギレコ一択でマギレコのみ養分打ちします🙄🙄🙄🙄\n他の機種打つ時はガチ💪🏻\nスロ垢フォロー𝐖𝐞𝐥𝐜𝐨𝐦𝐞\nコンプリート達成1回(いざ番長)\n休日は強い店で好きな台を打つ\nスロ歴13年",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "profile.ameba.jp/me",
+                "end": 23,
+                "expanded_url": "https://profile.ameba.jp/me",
+                "start": 0,
+                "url": "https://t.co/0WoauxiYBv"
+              }
+            ]
+          }
+        },
+        "id": "1723803104360169472",
+        "location": "那須塩原市二区町",
+        "name": "タナカツ＠🎀社畜🎀パチンカス(🎀重症🎀)",
+        "pinned_tweet_id": "2006344874275258589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034925915353096195/gX3EFpX-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 909,
+          "like_count": 15990,
+          "listed_count": 10,
+          "media_count": 5122,
+          "tweet_count": 14420
+        },
+        "url": "https://t.co/0WoauxiYBv",
+        "username": "tanakatu777",
+        "verified": true
+      }
+    ]
+  }
+}

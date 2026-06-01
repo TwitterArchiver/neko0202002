@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024434010982928390"
+      ],
+      "media_source_tweet_id": [
+        "2024434019241467907"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2024506616973041952",
+    "created_at": "2026-02-19T15:29:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T16:29:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024506616973041952"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 23,
+          "tag": "cosplay"
+        },
+        {
+          "end": 55,
+          "start": 32,
+          "tag": "MahouShoujoniAkogarete"
+        },
+        {
+          "end": 66,
+          "start": 56,
+          "tag": "kiwiaraga"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1989635945042513926",
+          "start": 3,
+          "username": "_namioiw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XlvlfgPfH4",
+          "end": 90,
+          "expanded_url": "https://x.com/_namioiw/status/2024434019241467907/photo/1",
+          "media_key": "3_2024434010982928390",
+          "start": 67,
+          "url": "https://t.co/XlvlfgPfH4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024506616973041952",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 99
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024434019241467907",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_namioiw: kiwii 🥝\n\n#cosplay #MahouShoujoniAkogarete #kiwiaraga https://t.co/XlvlfgPfH4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024434010982928390",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBg8Ac_bUAYxdsm.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024434010982928390"
+          ],
+          "media_source_tweet_id": [
+            "2024434019241467907"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2024506616973041952",
+        "created_at": "2026-02-19T15:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T16:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024506616973041952"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 23,
+              "tag": "cosplay"
+            },
+            {
+              "end": 55,
+              "start": 32,
+              "tag": "MahouShoujoniAkogarete"
+            },
+            {
+              "end": 66,
+              "start": 56,
+              "tag": "kiwiaraga"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1989635945042513926",
+              "start": 3,
+              "username": "_namioiw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XlvlfgPfH4",
+              "end": 90,
+              "expanded_url": "https://x.com/_namioiw/status/2024434019241467907/photo/1",
+              "media_key": "3_2024434010982928390",
+              "start": 67,
+              "url": "https://t.co/XlvlfgPfH4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024506616973041952",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 99
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024434019241467907",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_namioiw: kiwii 🥝\n\n#cosplay #MahouShoujoniAkogarete #kiwiaraga https://t.co/XlvlfgPfH4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024434010982928390"
+          ]
+        },
+        "author_id": "1989635945042513926",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2024434019241467907",
+        "created_at": "2026-02-19T10:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T11:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024434019241467907"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 9,
+              "tag": "cosplay"
+            },
+            {
+              "end": 41,
+              "start": 18,
+              "tag": "MahouShoujoniAkogarete"
+            },
+            {
+              "end": 52,
+              "start": 42,
+              "tag": "kiwiaraga"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XlvlfgPfH4",
+              "end": 76,
+              "expanded_url": "https://x.com/_namioiw/status/2024434019241467907/photo/1",
+              "media_key": "3_2024434010982928390",
+              "start": 53,
+              "url": "https://t.co/XlvlfgPfH4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024434019241467907",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 390,
+          "impression_count": 18754,
+          "like_count": 2636,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 99
+        },
+        "reply_settings": "everyone",
+        "text": "kiwii 🥝\n\n#cosplay #MahouShoujoniAkogarete #kiwiaraga https://t.co/XlvlfgPfH4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "os.remove ( '' characters / Itami. chr '' )\n\n啧，删不掉… … …有人在看吗？啊！我是Monika,我们又见面了/同类互fo",
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "宫小路优",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023488620305547264/eHtrA7bd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 346,
+          "like_count": 111,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 417
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T10:06:10.000Z",
+        "description": "ig: _namioiw",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/1GH2Vtnv…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/1GH2Vtnvi2/?mibextid=wwXIfr",
+                "start": 0,
+                "url": "https://t.co/A7JNd9FJO0"
+              }
+            ]
+          }
+        },
+        "id": "1989635945042513926",
+        "name": "Nami",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023754696801091584/FUS_VT9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 3,
+          "media_count": 2,
+          "tweet_count": 4
+        },
+        "url": "https://t.co/A7JNd9FJO0",
+        "username": "_namioiw",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1730541800371412992"
+      ],
+      "media_source_tweet_id": [
+        "1730541808386723955"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "1998095940268536101",
+    "created_at": "2025-12-08T18:22:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T19:22:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998095940268536101"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 16,
+          "tag": "魔法少女まどかマギカ"
+        },
+        {
+          "end": 34,
+          "start": 28,
+          "tag": "暁美ほむら"
+        },
+        {
+          "end": 42,
+          "start": 36,
+          "tag": "鹿目まどか"
+        },
+        {
+          "end": 47,
+          "start": 43,
+          "tag": "巴マミ"
+        },
+        {
+          "end": 54,
+          "start": 48,
+          "tag": "美樹さやか"
+        },
+        {
+          "end": 63,
+          "start": 55,
+          "tag": "きのもとさくら"
+        },
+        {
+          "end": 71,
+          "start": 64,
+          "tag": "魔法少女小圆"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1515905121900986369",
+          "start": 3,
+          "username": "twcloudman"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1HdeyclmWQ",
+          "end": 95,
+          "expanded_url": "https://x.com/twcloudman/status/1730541808386723955/photo/1",
+          "media_key": "3_1730541800371412992",
+          "start": 72,
+          "url": "https://t.co/1HdeyclmWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998095940268536101",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 282
+    },
+    "referenced_tweets": [
+      {
+        "id": "1730541808386723955",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @twcloudman: #魔法少女まどかマギカ #暁美ほむら  #鹿目まどか #巴マミ #美樹さやか #きのもとさくら #魔法少女小圆 https://t.co/1HdeyclmWQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1062,
+        "media_key": "3_1730541800371412992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GAQemUAaYAAvPAl.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1730541800371412992"
+          ],
+          "media_source_tweet_id": [
+            "1730541808386723955"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "1998095940268536101",
+        "created_at": "2025-12-08T18:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T19:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998095940268536101"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 16,
+              "tag": "魔法少女まどかマギカ"
+            },
+            {
+              "end": 34,
+              "start": 28,
+              "tag": "暁美ほむら"
+            },
+            {
+              "end": 42,
+              "start": 36,
+              "tag": "鹿目まどか"
+            },
+            {
+              "end": 47,
+              "start": 43,
+              "tag": "巴マミ"
+            },
+            {
+              "end": 54,
+              "start": 48,
+              "tag": "美樹さやか"
+            },
+            {
+              "end": 63,
+              "start": 55,
+              "tag": "きのもとさくら"
+            },
+            {
+              "end": 71,
+              "start": 64,
+              "tag": "魔法少女小圆"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1515905121900986369",
+              "start": 3,
+              "username": "twcloudman"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1HdeyclmWQ",
+              "end": 95,
+              "expanded_url": "https://x.com/twcloudman/status/1730541808386723955/photo/1",
+              "media_key": "3_1730541800371412992",
+              "start": 72,
+              "url": "https://t.co/1HdeyclmWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998095940268536101",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 282
+        },
+        "referenced_tweets": [
+          {
+            "id": "1730541808386723955",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @twcloudman: #魔法少女まどかマギカ #暁美ほむら  #鹿目まどか #巴マミ #美樹さやか #きのもとさくら #魔法少女小圆 https://t.co/1HdeyclmWQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1730541800371412992"
+          ]
+        },
+        "author_id": "1515905121900986369",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "1730541808386723955",
+        "created_at": "2023-12-01T10:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2023-12-01T11:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1730541808386723955"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "魔法少女まどかマギカ"
+            },
+            {
+              "end": 18,
+              "start": 12,
+              "tag": "暁美ほむら"
+            },
+            {
+              "end": 26,
+              "start": 20,
+              "tag": "鹿目まどか"
+            },
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "巴マミ"
+            },
+            {
+              "end": 38,
+              "start": 32,
+              "tag": "美樹さやか"
+            },
+            {
+              "end": 47,
+              "start": 39,
+              "tag": "きのもとさくら"
+            },
+            {
+              "end": 55,
+              "start": 48,
+              "tag": "魔法少女小圆"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1HdeyclmWQ",
+              "end": 79,
+              "expanded_url": "https://x.com/twcloudman/status/1730541808386723955/photo/1",
+              "media_key": "3_1730541800371412992",
+              "start": 56,
+              "url": "https://t.co/1HdeyclmWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1730541808386723955",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 26609,
+          "like_count": 1118,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 282
+        },
+        "reply_settings": "everyone",
+        "text": "#魔法少女まどかマギカ #暁美ほむら  #鹿目まどか #巴マミ #美樹さやか #きのもとさくら #魔法少女小圆 https://t.co/1HdeyclmWQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "Caramel Box",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "九重",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997232524024774657/EdJxwXIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 230,
+          "like_count": 68,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 266
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-18T04:09:00.000Z",
+        "description": "感谢关注w  禁止炼丹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/6591855370",
+                "end": 23,
+                "expanded_url": "https://weibo.com/u/6591855370",
+                "start": 0,
+                "url": "https://t.co/1A5JROxe6u"
+              }
+            ]
+          }
+        },
+        "id": "1515905121900986369",
+        "name": "飞机云君",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515905452512780291/s3yR2NtL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16330,
+          "following_count": 425,
+          "like_count": 114,
+          "listed_count": 127,
+          "media_count": 153,
+          "tweet_count": 158
+        },
+        "url": "https://t.co/1A5JROxe6u",
+        "username": "twcloudman",
+        "verified": false
+      }
+    ]
+  }
+}

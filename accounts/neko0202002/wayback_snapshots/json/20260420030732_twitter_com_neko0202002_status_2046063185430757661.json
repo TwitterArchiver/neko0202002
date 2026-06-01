@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046063183102971904"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2046061512285209057",
+    "created_at": "2026-04-20T03:07:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T04:07:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046063185430757661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2004802306873982977",
+          "start": 0,
+          "username": "Len10x0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J07gkakPH0",
+          "end": 35,
+          "expanded_url": "https://x.com/neko0202002/status/2046063185430757661/photo/1",
+          "media_key": "3_2046063183102971904",
+          "start": 12,
+          "url": "https://t.co/J07gkakPH0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046063185430757661",
+    "in_reply_to_user_id": "2004802306873982977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046063025741066347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Len10x0 对！ https://t.co/J07gkakPH0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 401,
+        "media_key": "3_2046063183102971904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGUTn-DbkAA_7pS.jpg",
+        "width": 395
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046063183102971904"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046061512285209057",
+        "created_at": "2026-04-20T03:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T04:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046063185430757661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2004802306873982977",
+              "start": 0,
+              "username": "Len10x0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J07gkakPH0",
+              "end": 35,
+              "expanded_url": "https://x.com/neko0202002/status/2046063185430757661/photo/1",
+              "media_key": "3_2046063183102971904",
+              "start": 12,
+              "url": "https://t.co/J07gkakPH0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046063185430757661",
+        "in_reply_to_user_id": "2004802306873982977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046063025741066347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Len10x0 对！ https://t.co/J07gkakPH0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004802306873982977",
+        "conversation_id": "2046061512285209057",
+        "created_at": "2026-04-20T03:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T04:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046063025741066347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046063025741066347",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046061512285209057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 ins吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 860,
+          "like_count": 1268,
+          "listed_count": 2,
+          "media_count": 1106,
+          "tweet_count": 3147
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T06:31:44.000Z",
+        "description": "碎碎念@Leng7oxo慢慢回【互fo只回同类/跨性 】一条活着网络的米虫｜高强度上网｜双相｜泛性恋｜11.8.7｜od｜日系｜自伤｜负能｜同类互fo 私信都会看的！很期待你们找我聊天…！匿名：https://t.co/jlxnXZMrxy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Leng7oxo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/haomaomao",
+                "end": 120,
+                "expanded_url": "https://ngl.link/haomaomao",
+                "start": 97,
+                "url": "https://t.co/jlxnXZMrxy"
+              }
+            ]
+          }
+        },
+        "id": "2004802306873982977",
+        "location": "20/25/52🚪",
+        "name": "冷幻觉（恶俗版",
+        "pinned_tweet_id": "2037109529788436642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020745173807026176/0nQdCQ8e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 191,
+          "like_count": 1439,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1402
+        },
+        "username": "Len10x0",
+        "verified": false
+      }
+    ]
+  }
+}

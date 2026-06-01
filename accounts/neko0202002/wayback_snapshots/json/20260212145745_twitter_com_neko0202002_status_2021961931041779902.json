@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021961927262633984"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2021961931041779902",
+    "created_at": "2026-02-12T14:57:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T15:57:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021961931041779902"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LnFyhADpnP",
+          "end": 23,
+          "expanded_url": "https://x.com/neko0202002/status/2021961931041779902/photo/1",
+          "media_key": "3_2021961927262633984",
+          "start": 0,
+          "url": "https://t.co/LnFyhADpnP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021961931041779902",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/LnFyhADpnP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 629,
+        "media_key": "3_2021961927262633984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9zqPfagAAyicb.jpg",
+        "width": 802
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021961927262633984"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2021961931041779902",
+        "created_at": "2026-02-12T14:57:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T15:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021961931041779902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LnFyhADpnP",
+              "end": 23,
+              "expanded_url": "https://x.com/neko0202002/status/2021961931041779902/photo/1",
+              "media_key": "3_2021961927262633984",
+              "start": 0,
+              "url": "https://t.co/LnFyhADpnP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021961931041779902",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LnFyhADpnP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "os.remove ( '' characters / Itami. chr '' )\n\n啧，删不掉… … …有人在看吗？啊！我是Monika,你好，又见面了",
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "宫小路优",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021710375767748609/ib-k9EuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 318,
+          "like_count": 73,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 350
+        },
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}

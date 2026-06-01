@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2050089304979034114"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2049989121855426954",
+    "created_at": "2026-05-01T05:45:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T06:45:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050089317364793855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2032985503621095424",
+          "start": 0,
+          "username": "jianxiexingnb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3WKKJtbLXF",
+          "end": 38,
+          "expanded_url": "https://x.com/neko0202002/status/2050089317364793855/photo/1",
+          "media_key": "16_2050089304979034114",
+          "start": 15,
+          "url": "https://t.co/3WKKJtbLXF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050089317364793855",
+    "in_reply_to_user_id": "2032985503621095424",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050002907530137819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianxiexingnb https://t.co/3WKKJtbLXF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 338,
+        "media_key": "16_2050089304979034114",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HHNhXG0aUAIrb2S.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HHNhXG0aUAIrb2S.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2050089304979034114"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2049989121855426954",
+        "created_at": "2026-05-01T05:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T06:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050089317364793855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2032985503621095424",
+              "start": 0,
+              "username": "jianxiexingnb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3WKKJtbLXF",
+              "end": 38,
+              "expanded_url": "https://x.com/neko0202002/status/2050089317364793855/photo/1",
+              "media_key": "16_2050089304979034114",
+              "start": 15,
+              "url": "https://t.co/3WKKJtbLXF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050089317364793855",
+        "in_reply_to_user_id": "2032985503621095424",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050002907530137819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianxiexingnb https://t.co/3WKKJtbLXF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032985503621095424",
+        "conversation_id": "2049989121855426954",
+        "created_at": "2026-05-01T00:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T01:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050002907530137819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050002907530137819",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049989121855426954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 我觉得你是一个很温柔的人呢🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 939,
+          "like_count": 1458,
+          "listed_count": 2,
+          "media_count": 1260,
+          "tweet_count": 3595
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T01:01:43.000Z",
+        "description": "间歇性 叫我墨水和🦭都可以/女♀️/10高中/双相I型/od/不🩸🔪/无性恋/超级喜欢互动/全性别友好/文艺逼/同类互fo✧٩(ˊωˋ*)و✧/\n可以私信我做心理（自杀）干预",
+        "id": "2032985503621095424",
+        "location": "超脱于宇宙之外",
+        "name": "间歇性🦭",
+        "pinned_tweet_id": "2045371368074809756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037783078467407873/9evMmAS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 84,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 223
+        },
+        "username": "jianxiexingnb",
+        "verified": false
+      }
+    ]
+  }
+}

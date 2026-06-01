@@ -1,0 +1,751 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597222535168",
+          "name": "Online Services - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1433089902787252225",
+          "name": "TVer"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1397573214239289349",
+          "name": "TV streaming services"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1433089902787252225",
+          "name": "TVer"
+        }
+      }
+    ],
+    "conversation_id": "2037885774692295056",
+    "created_at": "2026-03-28T13:33:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T14:33:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037885774692295056"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 124,
+          "start": 117,
+          "tag": "まどかマギカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "205592115",
+          "start": 3,
+          "username": "madoka_magica"
+        }
+      ],
+      "urls": [
+        {
+          "description": "「「魔法少女まどか☆マギカ 始まりの物語／永遠の物語」TV Edition」を無料で見るならTVer（ティーバー）！僕と契約して、魔法少女になって欲しいんだ 大好きな家族がいて、親友がいて、時には笑い、時には泣く、そんなどこにでもある日常。見滝原中学校に通う普通の中学二年生、鹿目まどかも、そんな日常の中で暮らす一人。ある日、彼女に不思議な出会いが訪れる。この出会いは偶然なのか、必然なのか、彼女はまだ知らない…。！TVerにあるテレビ番組はすべて無料で配信！最新話から過去人気番組まで動画見放題！",
+          "display_url": "tver.jp/series/sr4jvwh…",
+          "end": 115,
+          "expanded_url": "https://tver.jp/series/sr4jvwhil0",
+          "images": [
+            {
+              "height": 540,
+              "url": "https://pbs.twimg.com/news_img/2035442439708942336/8t-5raN9?format=jpg&name=orig",
+              "width": 960
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2035442439708942336/8t-5raN9?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 92,
+          "status": 200,
+          "title": "「魔法少女まどか☆マギカ 始まりの物語／永遠の物語」TV Edition｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題",
+          "unwound_url": "https://tver.jp/series/sr4jvwhil0",
+          "url": "https://t.co/3Yb3R8dxng"
+        },
+        {
+          "display_url": "x.com/jagatsastry",
+          "end": 139,
+          "expanded_url": "https://x.com/jagatsastry",
+          "images": [
+            {
+              "height": 634,
+              "url": "https://pbs.twimg.com/news_img/2031563389583925248/rVA3islW?format=jpg&name=orig",
+              "width": 1202
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2031563389583925248/rVA3islW?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 125,
+          "status": 200,
+          "title": "~ (@jagatsastry) / X",
+          "unwound_url": "https://twitter.com/jagatsastry",
+          "url": "https://t.co/J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037885774692295056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 461
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003359921417633838",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @madoka_magica: 私は──戦い続ける…\n¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨\n「始まりの物語／永遠の物語」TV Edition\n第11話 TVer配信⚡️\n▶️https://t.co/3Yb3R8dxng\n\n#まどかマギカ https://t.co/J…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44919,
+        "height": 568,
+        "media_key": "13_2002288588512505861",
+        "preview_image_url": "https://pbs.twimg.com/media/G8mYgCYbMAEQHnn.jpg",
+        "public_metrics": {
+          "view_count": 34012
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002288588512505861/vid/avc1/320x568/9RKL7BJ79k0STAyF.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002288588512505861/vid/avc1/480x852/TZcMlMB9VByN-fFF.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2002288588512505861/vid/avc1/720x1280/wbOeXhWZ5eKbCku0.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2002288588512505861/pl/xgnSHJB4nUJBfIdx.m3u8?tag=14&v=70d"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222535168",
+              "name": "Online Services - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1433089902787252225",
+              "name": "TVer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1433089902787252225",
+              "name": "TVer"
+            }
+          }
+        ],
+        "conversation_id": "2037885774692295056",
+        "created_at": "2026-03-28T13:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T14:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037885774692295056"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 124,
+              "start": 117,
+              "tag": "まどかマギカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "205592115",
+              "start": 3,
+              "username": "madoka_magica"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「「魔法少女まどか☆マギカ 始まりの物語／永遠の物語」TV Edition」を無料で見るならTVer（ティーバー）！僕と契約して、魔法少女になって欲しいんだ 大好きな家族がいて、親友がいて、時には笑い、時には泣く、そんなどこにでもある日常。見滝原中学校に通う普通の中学二年生、鹿目まどかも、そんな日常の中で暮らす一人。ある日、彼女に不思議な出会いが訪れる。この出会いは偶然なのか、必然なのか、彼女はまだ知らない…。！TVerにあるテレビ番組はすべて無料で配信！最新話から過去人気番組まで動画見放題！",
+              "display_url": "tver.jp/series/sr4jvwh…",
+              "end": 115,
+              "expanded_url": "https://tver.jp/series/sr4jvwhil0",
+              "images": [
+                {
+                  "height": 540,
+                  "url": "https://pbs.twimg.com/news_img/2035442439708942336/8t-5raN9?format=jpg&name=orig",
+                  "width": 960
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2035442439708942336/8t-5raN9?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 92,
+              "status": 200,
+              "title": "「魔法少女まどか☆マギカ 始まりの物語／永遠の物語」TV Edition｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題",
+              "unwound_url": "https://tver.jp/series/sr4jvwhil0",
+              "url": "https://t.co/3Yb3R8dxng"
+            },
+            {
+              "display_url": "x.com/jagatsastry",
+              "end": 139,
+              "expanded_url": "https://x.com/jagatsastry",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2031563389583925248/rVA3islW?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2031563389583925248/rVA3islW?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 125,
+              "status": 200,
+              "title": "~ (@jagatsastry) / X",
+              "unwound_url": "https://twitter.com/jagatsastry",
+              "url": "https://t.co/J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037885774692295056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 461
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003359921417633838",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @madoka_magica: 私は──戦い続ける…\n¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨\n「始まりの物語／永遠の物語」TV Edition\n第11話 TVer配信⚡️\n▶️https://t.co/3Yb3R8dxng\n\n#まどかマギカ https://t.co/J…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2002288588512505861"
+          ]
+        },
+        "author_id": "205592115",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222535168",
+              "name": "Online Services - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1433089902787252225",
+              "name": "TVer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1433089902787252225",
+              "name": "TVer"
+            }
+          }
+        ],
+        "conversation_id": "2003359921417633838",
+        "created_at": "2025-12-23T07:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T08:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003359921417633838"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 98,
+              "tag": "まどかマギカ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「「魔法少女まどか☆マギカ 始まりの物語／永遠の物語」TV Edition」を無料で見るならTVer（ティーバー）！僕と契約して、魔法少女になって欲しいんだ 大好きな家族がいて、親友がいて、時には笑い、時には泣く、そんなどこにでもある日常。見滝原中学校に通う普通の中学二年生、鹿目まどかも、そんな日常の中で暮らす一人。ある日、彼女に不思議な出会いが訪れる。この出会いは偶然なのか、必然なのか、彼女はまだ知らない…。！TVerにあるテレビ番組はすべて無料で配信！最新話から過去人気番組まで動画見放題！",
+              "display_url": "tver.jp/series/sr4jvwh…",
+              "end": 96,
+              "expanded_url": "https://tver.jp/series/sr4jvwhil0",
+              "images": [
+                {
+                  "height": 540,
+                  "url": "https://pbs.twimg.com/news_img/2035442439708942336/8t-5raN9?format=jpg&name=orig",
+                  "width": 960
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2035442439708942336/8t-5raN9?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 73,
+              "status": 200,
+              "title": "「魔法少女まどか☆マギカ 始まりの物語／永遠の物語」TV Edition｜アニメ／ヒーロー｜見逃し無料配信はTVer！人気の動画見放題",
+              "unwound_url": "https://tver.jp/series/sr4jvwhil0",
+              "url": "https://t.co/3Yb3R8dxng"
+            },
+            {
+              "display_url": "pic.x.com/JgBwQYtVgD",
+              "end": 129,
+              "expanded_url": "https://x.com/madoka_magica/status/2003359921417633838/video/1",
+              "media_key": "13_2002288588512505861",
+              "start": 106,
+              "url": "https://t.co/JgBwQYtVgD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003359921417633838",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 122379,
+          "like_count": 2780,
+          "quote_count": 18,
+          "reply_count": 14,
+          "retweet_count": 461
+        },
+        "reply_settings": "everyone",
+        "text": "私は──戦い続ける…\n¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨\n「始まりの物語／永遠の物語」TV Edition\n第11話 TVer配信⚡️\n▶️https://t.co/3Yb3R8dxng\n\n#まどかマギカ https://t.co/JgBwQYtVgD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/同类查成分互fo/请和我做朋友/ᗜ𖥦ᗜ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037065551403786240/r6CPsSyA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 685,
+          "like_count": 895,
+          "listed_count": 2,
+          "media_count": 653,
+          "tweet_count": 2014
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-21T06:07:04.000Z",
+        "description": "総監督：新房昭之×脚本：虚淵玄(ニトロプラス)×キャラクター原案：蒼樹うめ×アニメーション制作：シャフト による『叛逆の物語』の正統なる続編『劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』2026年8月28日公開　#まどかマギカ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 118,
+                "start": 111,
+                "tag": "まどかマギカ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "madoka-magica.com",
+                "end": 23,
+                "expanded_url": "https://www.madoka-magica.com/",
+                "start": 0,
+                "url": "https://t.co/PSfUr9lntF"
+              }
+            ]
+          }
+        },
+        "id": "205592115",
+        "name": "魔法少女まどか☆マギカ",
+        "pinned_tweet_id": "2027232233426448705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973764917862998016/SSAaMAtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464180,
+          "following_count": 16,
+          "like_count": 5,
+          "listed_count": 4630,
+          "media_count": 1001,
+          "tweet_count": 3159
+        },
+        "url": "https://t.co/PSfUr9lntF",
+        "username": "madoka_magica",
+        "verified": false
+      }
+    ]
+  }
+}

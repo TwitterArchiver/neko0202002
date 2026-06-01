@@ -1,0 +1,486 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2032053214032642050"
+      ],
+      "media_source_tweet_id": [
+        "2032053433231163612"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2032135821407731837",
+    "created_at": "2026-03-12T16:45:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T17:45:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032135821407731837"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "アリナ",
+          "probability": 0.4389,
+          "start": 19,
+          "type": "Person"
+        },
+        {
+          "end": 55,
+          "normalized_text": "サイコウ",
+          "probability": 0.4998,
+          "start": 52,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1937765015341420544",
+          "start": 3,
+          "username": "satellite_333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l6pJzOVqj4",
+          "end": 80,
+          "expanded_url": "https://x.com/satellite_333/status/2032053433231163612/video/1",
+          "media_key": "13_2032053214032642050",
+          "start": 57,
+          "url": "https://t.co/l6pJzOVqj4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032135821407731837",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032053433231163612",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @satellite_333: アリナはマギレコで好きなキャラトップ3に入る\nなんと言っても性格がサイコウ https://t.co/l6pJzOVqj4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 99663,
+        "height": 628,
+        "media_key": "13_2032053214032642050",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032053214032642050/img/AuLpva1_rNtDdUw3.jpg",
+        "public_metrics": {
+          "view_count": 17969
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032053214032642050/vid/avc1/502x270/eGo2snBBvh9TeRQ0.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032053214032642050/vid/avc1/668x360/j97Q-EMLFS0NpbU0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032053214032642050/vid/avc1/1168x628/Q3oA14I0vZrnsctX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032053214032642050/pl/WcbM7Dr3vagOF2gv.m3u8?v=ef6"
+          }
+        ],
+        "width": 1168
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032053214032642050"
+          ],
+          "media_source_tweet_id": [
+            "2032053433231163612"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2032135821407731837",
+        "created_at": "2026-03-12T16:45:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T17:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032135821407731837"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "アリナ",
+              "probability": 0.4389,
+              "start": 19,
+              "type": "Person"
+            },
+            {
+              "end": 55,
+              "normalized_text": "サイコウ",
+              "probability": 0.4998,
+              "start": 52,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1937765015341420544",
+              "start": 3,
+              "username": "satellite_333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l6pJzOVqj4",
+              "end": 80,
+              "expanded_url": "https://x.com/satellite_333/status/2032053433231163612/video/1",
+              "media_key": "13_2032053214032642050",
+              "start": 57,
+              "url": "https://t.co/l6pJzOVqj4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032135821407731837",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032053433231163612",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @satellite_333: アリナはマギレコで好きなキャラトップ3に入る\nなんと言っても性格がサイコウ https://t.co/l6pJzOVqj4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032053214032642050"
+          ]
+        },
+        "author_id": "1937765015341420544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2032053433231163612",
+        "created_at": "2026-03-12T11:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T12:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032053433231163612"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "アリナ",
+              "probability": 0.4593,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 36,
+              "normalized_text": "サイコウ",
+              "probability": 0.4454,
+              "start": 33,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l6pJzOVqj4",
+              "end": 61,
+              "expanded_url": "https://x.com/satellite_333/status/2032053433231163612/video/1",
+              "media_key": "13_2032053214032642050",
+              "start": 38,
+              "url": "https://t.co/l6pJzOVqj4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032053433231163612",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 28469,
+          "like_count": 601,
+          "quote_count": 12,
+          "reply_count": 5,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "アリナはマギレコで好きなキャラトップ3に入る\nなんと言っても性格がサイコウ https://t.co/l6pJzOVqj4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/玛利亚什么的在上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031827855542534147/IPSe8w_P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 547,
+          "like_count": 649,
+          "listed_count": 1,
+          "media_count": 418,
+          "tweet_count": 1368
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-25T06:49:33.000Z",
+        "description": "",
+        "id": "1937765015341420544",
+        "name": "ふりかけ（株）",
+        "pinned_tweet_id": "2017143074313638238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029929759376035841/W0QFuCnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 1339,
+          "like_count": 11375,
+          "listed_count": 2,
+          "media_count": 659,
+          "tweet_count": 5638
+        },
+        "username": "satellite_333",
+        "verified": false
+      }
+    ]
+  }
+}

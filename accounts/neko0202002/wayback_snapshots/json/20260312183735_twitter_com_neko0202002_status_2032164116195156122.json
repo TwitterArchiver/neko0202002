@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2032049087076507723",
+    "created_at": "2026-03-12T18:37:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T19:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032164116195156122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1296460473559261184",
+          "start": 0,
+          "username": "Mus_Minstrel"
+        },
+        {
+          "end": 26,
+          "id": "1944862516976472064",
+          "start": 14,
+          "username": "Mickey06101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032164116195156122",
+    "in_reply_to_user_id": "1296460473559261184",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032156171591959004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mus_Minstrel @Mickey06101 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2032049087076507723",
+        "created_at": "2026-03-12T18:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T19:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032164116195156122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1296460473559261184",
+              "start": 0,
+              "username": "Mus_Minstrel"
+            },
+            {
+              "end": 26,
+              "id": "1944862516976472064",
+              "start": 14,
+              "username": "Mickey06101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032164116195156122",
+        "in_reply_to_user_id": "1296460473559261184",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032156171591959004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mus_Minstrel @Mickey06101 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1296460473559261184",
+        "conversation_id": "2032049087076507723",
+        "created_at": "2026-03-12T18:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T19:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032156171591959004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944862516976472064",
+              "start": 0,
+              "username": "Mickey06101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032156171591959004",
+        "in_reply_to_user_id": "1944862516976472064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 300,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032049087076507723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mickey06101 妹妹你坐船头，哥哥我在岸上走，其实老两辈的人处对象就在叫哥哥妹妹了（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/玛利亚什么的在上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031827855542534147/IPSe8w_P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 547,
+          "like_count": 651,
+          "listed_count": 1,
+          "media_count": 423,
+          "tweet_count": 1389
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-20T14:54:06.000Z",
+        "description": "badass",
+        "id": "1296460473559261184",
+        "location": "China",
+        "name": "漩涡醉里",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858801407996076032/mUYneKxD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 318,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 397
+        },
+        "username": "Mus_Minstrel",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T20:52:22.000Z",
+        "description": "玩推只是分享生活",
+        "id": "1944862516976472064",
+        "location": "🚪188",
+        "name": "qaq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944863286157053952/6Y2oQa9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69172,
+          "following_count": 14,
+          "like_count": 981,
+          "listed_count": 89,
+          "media_count": 227,
+          "tweet_count": 730
+        },
+        "username": "Mickey06101",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988207003471409155"
+      ],
+      "media_source_tweet_id": [
+        "1988207019770429699"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "1988668459878932605",
+    "created_at": "2025-11-12T18:01:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T19:01:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988668459878932605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1915389809452871680",
+          "start": 3,
+          "username": "qbbhgc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vW9UVhV0P9",
+          "end": 35,
+          "expanded_url": "https://x.com/qbbhgc/status/1988207019770429699/photo/1",
+          "media_key": "3_1988207003471409155",
+          "start": 12,
+          "url": "https://t.co/vW9UVhV0P9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988668459878932605",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 201
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988207019770429699",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qbbhgc: https://t.co/vW9UVhV0P9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988207003471409155",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5eHvFXbcAMxZMJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988207003471409155"
+          ],
+          "media_source_tweet_id": [
+            "1988207019770429699"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "1988668459878932605",
+        "created_at": "2025-11-12T18:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T19:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988668459878932605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1915389809452871680",
+              "start": 3,
+              "username": "qbbhgc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vW9UVhV0P9",
+              "end": 35,
+              "expanded_url": "https://x.com/qbbhgc/status/1988207019770429699/photo/1",
+              "media_key": "3_1988207003471409155",
+              "start": 12,
+              "url": "https://t.co/vW9UVhV0P9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988668459878932605",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 201
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988207019770429699",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qbbhgc: https://t.co/vW9UVhV0P9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988207003471409155"
+          ]
+        },
+        "author_id": "1915389809452871680",
+        "conversation_id": "1988207019770429699",
+        "created_at": "2025-11-11T11:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T12:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988207019770429699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vW9UVhV0P9",
+              "end": 23,
+              "expanded_url": "https://x.com/qbbhgc/status/1988207019770429699/photo/1",
+              "media_key": "3_1988207003471409155",
+              "start": 0,
+              "url": "https://t.co/vW9UVhV0P9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988207019770429699",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1077,
+          "impression_count": 305716,
+          "like_count": 9060,
+          "quote_count": 3,
+          "reply_count": 46,
+          "retweet_count": 201
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vW9UVhV0P9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "千早！！！！",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "千早！！！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969638863611314177/gBJCYfnM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 247,
+          "like_count": 66,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 238
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-24T12:58:22.000Z",
+        "description": "只有这一个号 偷我图的惨惨惨死死死 🚪288/520/1888/5200私信只回口令红包 一个问题50",
+        "id": "1915389809452871680",
+        "name": "寿鼠",
+        "pinned_tweet_id": "1933212885087596982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979930446415769601/wtJ5SJzK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10578,
+          "following_count": 0,
+          "like_count": 92,
+          "listed_count": 27,
+          "media_count": 15,
+          "tweet_count": 24
+        },
+        "username": "qbbhgc",
+        "verified": false
+      }
+    ]
+  }
+}

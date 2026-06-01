@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028863263866572800"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2028828520978448750",
+    "created_at": "2026-03-03T16:01:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T17:01:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028863288730321113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1267380954412101632",
+          "start": 0,
+          "username": "Pamon18182624"
+        },
+        {
+          "end": 25,
+          "id": "2028321716049743872",
+          "start": 15,
+          "username": "xynMTFxyn"
+        },
+        {
+          "end": 35,
+          "id": "1882671462210998272",
+          "start": 26,
+          "username": "HosinoEJ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y28dOXk9ax",
+          "end": 64,
+          "expanded_url": "https://x.com/neko0202002/status/2028863288730321113/photo/1",
+          "media_key": "3_2028863263866572800",
+          "start": 41,
+          "url": "https://t.co/Y28dOXk9ax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028863288730321113",
+    "in_reply_to_user_id": "1267380954412101632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028836166678818936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pamon18182624 @xynMTFxyn @HosinoEJ 这是原著 https://t.co/Y28dOXk9ax"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028863263866572800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCf4Y5ybUAApnG_.jpg",
+        "width": 916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028863263866572800"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2028828520978448750",
+        "created_at": "2026-03-03T16:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T17:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028863288730321113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1267380954412101632",
+              "start": 0,
+              "username": "Pamon18182624"
+            },
+            {
+              "end": 25,
+              "id": "2028321716049743872",
+              "start": 15,
+              "username": "xynMTFxyn"
+            },
+            {
+              "end": 35,
+              "id": "1882671462210998272",
+              "start": 26,
+              "username": "HosinoEJ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y28dOXk9ax",
+              "end": 64,
+              "expanded_url": "https://x.com/neko0202002/status/2028863288730321113/photo/1",
+              "media_key": "3_2028863263866572800",
+              "start": 41,
+              "url": "https://t.co/Y28dOXk9ax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028863288730321113",
+        "in_reply_to_user_id": "1267380954412101632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028836166678818936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pamon18182624 @xynMTFxyn @HosinoEJ 这是原著 https://t.co/Y28dOXk9ax"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1267380954412101632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2028828520978448750",
+        "created_at": "2026-03-03T14:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T15:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028836166678818936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2028321716049743872",
+              "start": 0,
+              "username": "xynMTFxyn"
+            },
+            {
+              "end": 20,
+              "id": "1882671462210998272",
+              "start": 11,
+              "username": "HosinoEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028836166678818936",
+        "in_reply_to_user_id": "2028321716049743872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028828520978448750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xynMTFxyn @HosinoEJ 哇，这个都不像ooc，是漫画内容吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/('ᗜ')",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "周防院奏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028525324649328640/d35polxT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 438,
+          "like_count": 265,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 723
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-01T09:02:32.000Z",
+        "description": "Willing to talk to anyone about anything interesting",
+        "id": "1267380954412101632",
+        "location": "Wonderland",
+        "name": "Pamon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1267416720471277568/hLcW9vPj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 3454,
+          "like_count": 50143,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 566
+        },
+        "username": "Pamon18182624",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T04:14:51.000Z",
+        "description": "MtF 🏳️‍⚧️| 无证 🍥:2026/2/20|药娘小资历| ENTP| 生产日期2010/11/5 | 172厘米 | 70公斤| 摄影📹| LGBT 🏳️‍🌈 | 青岛|私信互fo | 不OD | 不自残 | 不抽烟 | 不喝酒 |轻度双相情感障碍| 微粉红🇨🇳 |",
+        "id": "2028321716049743872",
+        "name": "南盺酱🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028373556783153152/usYeYRCS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 19,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 90
+        },
+        "username": "xynMTFxyn",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:07:32.000Z",
+        "description": "在矯正機構呆久了是什麽感覺？就像被強姦時習慣了那些狀態，甚至享受起來，突然驚醒，痛哭起來。而不論是什麽表情，都被那個變態看在了眼裏\n日本ツイッターアカウント: @HosinoEJ_Japan\nDiscord: https://t.co/ccn1U72a5C",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "HosinoEJ_Japan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/hd2xDaGGRR",
+                "end": 128,
+                "expanded_url": "https://discord.gg/hd2xDaGGRR",
+                "start": 105,
+                "url": "https://t.co/ccn1U72a5C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hosinoneko.me",
+                "end": 23,
+                "expanded_url": "https://www.hosinoneko.me",
+                "start": 0,
+                "url": "https://t.co/xmlDJbJl7K"
+              }
+            ]
+          }
+        },
+        "id": "1882671462210998272",
+        "location": "shanghai",
+        "name": "星野寧𛂘 - 頭髮被强制剪正在恢復中（お互いフォローでき）",
+        "pinned_tweet_id": "2024917642101096586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969203560090124288/UXWVrJV5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 460,
+          "like_count": 2757,
+          "listed_count": 4,
+          "media_count": 494,
+          "tweet_count": 2661
+        },
+        "url": "https://t.co/xmlDJbJl7K",
+        "username": "HosinoEJ",
+        "verified": false
+      }
+    ]
+  }
+}

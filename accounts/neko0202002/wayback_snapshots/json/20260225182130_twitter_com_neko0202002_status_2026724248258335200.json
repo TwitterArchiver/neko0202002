@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2026724248258335200",
+    "created_at": "2026-02-25T18:21:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T19:21:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026724248258335200"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ratioling/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/ratioling/status/2026429776781783474",
+          "start": 5,
+          "url": "https://t.co/jDdlgyDHBT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026724248258335200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026429776781783474",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "求教程… https://t.co/jDdlgyDHBT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026429747153219585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB9THllaMAENudI.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2026724248258335200",
+        "created_at": "2026-02-25T18:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T19:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026724248258335200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ratioling/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/ratioling/status/2026429776781783474",
+              "start": 5,
+              "url": "https://t.co/jDdlgyDHBT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026724248258335200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026429776781783474",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求教程… https://t.co/jDdlgyDHBT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026429747153219585"
+          ]
+        },
+        "author_id": "2017159702849929216",
+        "conversation_id": "2026429776781783474",
+        "created_at": "2026-02-24T22:51:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T23:51:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026429776781783474"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 58,
+              "normalized_text": "kangel",
+              "probability": 0.5294,
+              "start": 53,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F0KtgZnLQL",
+              "end": 83,
+              "expanded_url": "https://x.com/ratioling/status/2026429776781783474/photo/1",
+              "media_key": "3_2026429747153219585",
+              "start": 60,
+              "url": "https://t.co/F0KtgZnLQL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026429776781783474",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 9688,
+          "like_count": 1679,
+          "quote_count": 5,
+          "reply_count": 21,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "guys i kinda cooked with my curls today…\nit’s giving kangel https://t.co/F0KtgZnLQL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "os.remove ( '' characters / Itami. chr '' )\n\n啧，删不掉… … …有人在看吗？啊！我是Monika,我们又见面了/同类互fo",
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "宫小路优",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026664442747039752/flC_bVG0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 391,
+          "like_count": 176,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 523
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-30T08:55:49.000Z",
+        "description": "#真理医生 ❤︎ #地雷系 ❤︎ INTERNET ANGEL🪽 #studytwt for ratio .ᐟ | insta: etsu.uxu ˚✧ (formerly @ratioism__)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "真理医生"
+              },
+              {
+                "end": 13,
+                "start": 9,
+                "tag": "地雷系"
+              },
+              {
+                "end": 42,
+                "start": 33,
+                "tag": "studytwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "ratioism__"
+              }
+            ]
+          }
+        },
+        "id": "2017159702849929216",
+        "location": "priv @etsukcals ʚ₍ᐢ. .ᐢ₎ɞ",
+        "name": "ETSUKO/悦子 ₊·꒰ა 𓂋 ໒꒱ ‧₊˚",
+        "pinned_tweet_id": "2018236242085982228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017173106222301184/eE1WPGz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 165,
+          "like_count": 497,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 268
+        },
+        "username": "ratioling",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,587 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001172740984987650"
+      ],
+      "media_source_tweet_id": [
+        "2001172753433682211"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1560348702857867264",
+          "name": "Zenless Zone Zero"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898252936970260",
+          "name": "Free-to-play games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1560348702857867264",
+          "name": "Zenless Zone Zero"
+        }
+      }
+    ],
+    "conversation_id": "2002112588193411081",
+    "created_at": "2025-12-19T20:23:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T21:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002112588193411081"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 79,
+          "normalized_text": "シーザーさん",
+          "probability": 0.7168,
+          "start": 74,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 15,
+          "tag": "今年も残りわずかなので今年一番伸びた絵を貼る"
+        },
+        {
+          "end": 44,
+          "start": 39,
+          "tag": "ゼンゼロ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1244440786243964928",
+          "start": 3,
+          "username": "pinjirooo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Huk3tTZVBH",
+          "end": 133,
+          "expanded_url": "https://x.com/pinjirooo/status/2001172753433682211/photo/1",
+          "media_key": "3_2001172740984987650",
+          "start": 110,
+          "url": "https://t.co/Huk3tTZVBH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002112588193411081",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5837
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001172753433682211",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pinjirooo: #今年も残りわずかなので今年一番伸びた絵を貼る\n#ゼンゼロ\n今年ってゆうか生涯でこんな伸びる事2度とないと思う😱 \nシーザーさんの義手はほんと推しの方申し訳ないです🙏ガチで失念してました🥺 https://t.co/Huk3tTZVBH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2001172740984987650",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8WYAVia4AIkGyr.jpg",
+        "width": 1436
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001172740984987650"
+          ],
+          "media_source_tweet_id": [
+            "2001172753433682211"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          }
+        ],
+        "conversation_id": "2002112588193411081",
+        "created_at": "2025-12-19T20:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T21:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002112588193411081"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 79,
+              "normalized_text": "シーザーさん",
+              "probability": 0.7168,
+              "start": 74,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 15,
+              "tag": "今年も残りわずかなので今年一番伸びた絵を貼る"
+            },
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "ゼンゼロ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1244440786243964928",
+              "start": 3,
+              "username": "pinjirooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Huk3tTZVBH",
+              "end": 133,
+              "expanded_url": "https://x.com/pinjirooo/status/2001172753433682211/photo/1",
+              "media_key": "3_2001172740984987650",
+              "start": 110,
+              "url": "https://t.co/Huk3tTZVBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002112588193411081",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5837
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001172753433682211",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pinjirooo: #今年も残りわずかなので今年一番伸びた絵を貼る\n#ゼンゼロ\n今年ってゆうか生涯でこんな伸びる事2度とないと思う😱 \nシーザーさんの義手はほんと推しの方申し訳ないです🙏ガチで失念してました🥺 https://t.co/Huk3tTZVBH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001172740984987650"
+          ]
+        },
+        "author_id": "1244440786243964928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          }
+        ],
+        "conversation_id": "2001172753433682211",
+        "created_at": "2025-12-17T06:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T07:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001172753433682211"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 64,
+              "normalized_text": "シーザーさん",
+              "probability": 0.7138,
+              "start": 59,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 0,
+              "tag": "今年も残りわずかなので今年一番伸びた絵を貼る"
+            },
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "ゼンゼロ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Huk3tTZVBH",
+              "end": 118,
+              "expanded_url": "https://x.com/pinjirooo/status/2001172753433682211/photo/1",
+              "media_key": "3_2001172740984987650",
+              "start": 95,
+              "url": "https://t.co/Huk3tTZVBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001172753433682211",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21862,
+          "impression_count": 1102792,
+          "like_count": 97308,
+          "quote_count": 34,
+          "reply_count": 61,
+          "retweet_count": 5837
+        },
+        "reply_settings": "everyone",
+        "text": "#今年も残りわずかなので今年一番伸びた絵を貼る\n#ゼンゼロ\n今年ってゆうか生涯でこんな伸びる事2度とないと思う😱 \nシーザーさんの義手はほんと推しの方申し訳ないです🙏ガチで失念してました🥺 https://t.co/Huk3tTZVBH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "Caramel Box",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "九重",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997232524024774657/EdJxwXIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 267,
+          "like_count": 67,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 275
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T01:46:43.000Z",
+        "description": "いろいろお絵描きしてます skeb▶︎https://t.co/JNQZu41CIc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@pinjirooo",
+                "end": 42,
+                "expanded_url": "https://skeb.jp/@pinjirooo",
+                "start": 19,
+                "url": "https://t.co/JNQZu41CIc"
+              }
+            ]
+          }
+        },
+        "id": "1244440786243964928",
+        "location": "無断利用 無断転載 AI学習🈲",
+        "name": "ぴん26.",
+        "pinned_tweet_id": "1868139730287902933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855054483967086592/63FT9nPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46393,
+          "following_count": 99,
+          "like_count": 54279,
+          "listed_count": 224,
+          "media_count": 1606,
+          "tweet_count": 25828
+        },
+        "username": "pinjirooo",
+        "verified": false
+      }
+    ]
+  }
+}

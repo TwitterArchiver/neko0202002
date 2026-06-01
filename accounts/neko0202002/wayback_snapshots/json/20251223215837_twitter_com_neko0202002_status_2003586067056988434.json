@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982759967632322560",
+        "3_1982759967640735744"
+      ],
+      "media_source_tweet_id": [
+        "1982759978197987444",
+        "1982759978197987444"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2003586067056988434",
+    "created_at": "2025-12-23T21:58:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T22:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003586067056988434"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 41,
+          "normalized_text": "厳島貴子",
+          "probability": 0.5671,
+          "start": 38,
+          "type": "Person"
+        },
+        {
+          "end": 50,
+          "normalized_text": "shuさん",
+          "probability": 0.7065,
+          "start": 46,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 75,
+          "start": 64,
+          "tag": "刈谷アニコレ2025"
+        },
+        {
+          "end": 81,
+          "start": 76,
+          "tag": "MNコス"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "918259999582728192",
+          "start": 3,
+          "username": "soycat_mame"
+        },
+        {
+          "end": 60,
+          "id": "107497249",
+          "start": 52,
+          "username": "shu0504"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zo2UbxDV1L",
+          "end": 105,
+          "expanded_url": "https://x.com/soycat_mame/status/1982759978197987444/photo/1",
+          "media_key": "3_1982759967632322560",
+          "start": 82,
+          "url": "https://t.co/Zo2UbxDV1L"
+        },
+        {
+          "display_url": "pic.x.com/Zo2UbxDV1L",
+          "end": 105,
+          "expanded_url": "https://x.com/soycat_mame/status/1982759978197987444/photo/1",
+          "media_key": "3_1982759967640735744",
+          "start": 82,
+          "url": "https://t.co/Zo2UbxDV1L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003586067056988434",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982759978197987444",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @soycat_mame: cosplay\n処女はお姉さまに恋してる\n厳島貴子\n\np.shuさん(@shu0504 )\n #刈谷アニコレ2025 #MNコス https://t.co/Zo2UbxDV1L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1982759967632322560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Qtr3mW8AAoMAz.jpg",
+        "width": 2730
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1982759967640735744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Qtr3oXUAAs4tw.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982759967632322560",
+            "3_1982759967640735744"
+          ],
+          "media_source_tweet_id": [
+            "1982759978197987444",
+            "1982759978197987444"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2003586067056988434",
+        "created_at": "2025-12-23T21:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T22:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003586067056988434"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "厳島貴子",
+              "probability": 0.5671,
+              "start": 38,
+              "type": "Person"
+            },
+            {
+              "end": 50,
+              "normalized_text": "shuさん",
+              "probability": 0.7065,
+              "start": 46,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 64,
+              "tag": "刈谷アニコレ2025"
+            },
+            {
+              "end": 81,
+              "start": 76,
+              "tag": "MNコス"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "918259999582728192",
+              "start": 3,
+              "username": "soycat_mame"
+            },
+            {
+              "end": 60,
+              "id": "107497249",
+              "start": 52,
+              "username": "shu0504"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zo2UbxDV1L",
+              "end": 105,
+              "expanded_url": "https://x.com/soycat_mame/status/1982759978197987444/photo/1",
+              "media_key": "3_1982759967632322560",
+              "start": 82,
+              "url": "https://t.co/Zo2UbxDV1L"
+            },
+            {
+              "display_url": "pic.x.com/Zo2UbxDV1L",
+              "end": 105,
+              "expanded_url": "https://x.com/soycat_mame/status/1982759978197987444/photo/1",
+              "media_key": "3_1982759967640735744",
+              "start": 82,
+              "url": "https://t.co/Zo2UbxDV1L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003586067056988434",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982759978197987444",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @soycat_mame: cosplay\n処女はお姉さまに恋してる\n厳島貴子\n\np.shuさん(@shu0504 )\n #刈谷アニコレ2025 #MNコス https://t.co/Zo2UbxDV1L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982759967632322560",
+            "3_1982759967640735744"
+          ]
+        },
+        "author_id": "918259999582728192",
+        "conversation_id": "1982759978197987444",
+        "created_at": "2025-10-27T10:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T11:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982759978197987444"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "厳島貴子",
+              "probability": 0.5355,
+              "start": 21,
+              "type": "Person"
+            },
+            {
+              "end": 33,
+              "normalized_text": "shuさん",
+              "probability": 0.7141,
+              "start": 29,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 47,
+              "tag": "刈谷アニコレ2025"
+            },
+            {
+              "end": 64,
+              "start": 59,
+              "tag": "MNコス"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 43,
+              "id": "107497249",
+              "start": 35,
+              "username": "shu0504"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zo2UbxDV1L",
+              "end": 88,
+              "expanded_url": "https://x.com/soycat_mame/status/1982759978197987444/photo/1",
+              "media_key": "3_1982759967632322560",
+              "start": 65,
+              "url": "https://t.co/Zo2UbxDV1L"
+            },
+            {
+              "display_url": "pic.x.com/Zo2UbxDV1L",
+              "end": 88,
+              "expanded_url": "https://x.com/soycat_mame/status/1982759978197987444/photo/1",
+              "media_key": "3_1982759967640735744",
+              "start": 65,
+              "url": "https://t.co/Zo2UbxDV1L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982759978197987444",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1970,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "cosplay\n処女はお姉さまに恋してる\n厳島貴子\n\np.shuさん(@shu0504 )\n #刈谷アニコレ2025 #MNコス https://t.co/Zo2UbxDV1L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "Caramel Box",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "九重",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997232524024774657/EdJxwXIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 267,
+          "like_count": 68,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 279
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-11T23:40:19.000Z",
+        "description": "遠征→▲ ......……………休みの日ランダム.........写真→#MNコス",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 36,
+                "tag": "MNコス"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mmnk_cosplay?i…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/mmnk_cosplay?igsh=Zmt2djdmc2FzMGR4&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/EAJOjzuj1F"
+              }
+            ]
+          }
+        },
+        "id": "918259999582728192",
+        "location": "東海　既婚",
+        "name": "まめねこᓚᘏᗢ",
+        "pinned_tweet_id": "1194108638467633152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985197974952296449/6zJ_1nC2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2854,
+          "following_count": 643,
+          "like_count": 34286,
+          "listed_count": 103,
+          "media_count": 3686,
+          "tweet_count": 41561
+        },
+        "url": "https://t.co/EAJOjzuj1F",
+        "username": "soycat_mame",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-22T19:20:37.000Z",
+        "description": "白髪のおじさんです。 機材：FUJIFILM X-T4、Adobe Design Standard CS6、KAWASAKI DトラッカーX 撮影依頼などDMお気軽に。 Vtuber好きすぎて自分もVtuberやってるおじさんです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@-utsuronoyume…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@-utsuronoyume-3308",
+                "start": 0,
+                "url": "https://t.co/43IEOksUTj"
+              }
+            ]
+          }
+        },
+        "id": "107497249",
+        "location": "味噌の国",
+        "name": "shu",
+        "pinned_tweet_id": "1814984524352381406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727536422629101568/zYYCMJ82_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 1024,
+          "like_count": 38363,
+          "listed_count": 73,
+          "media_count": 1577,
+          "tweet_count": 25304
+        },
+        "url": "https://t.co/43IEOksUTj",
+        "username": "shu0504",
+        "verified": false
+      }
+    ]
+  }
+}

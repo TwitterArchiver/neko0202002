@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034177108877209600"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2034177111762866300",
+    "created_at": "2026-03-18T07:56:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T08:56:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034177111762866300"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qjIhOKKWFd",
+          "end": 28,
+          "expanded_url": "https://x.com/neko0202002/status/2034177111762866300/photo/1",
+          "media_key": "3_2034177108877209600",
+          "start": 5,
+          "url": "https://t.co/qjIhOKKWFd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034177111762866300",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是艾咪 https://t.co/qjIhOKKWFd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 288,
+        "media_key": "3_2034177108877209600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDrZTZDbcAAfgpy.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034177108877209600"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2034177111762866300",
+        "created_at": "2026-03-18T07:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T08:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034177111762866300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qjIhOKKWFd",
+              "end": 28,
+              "expanded_url": "https://x.com/neko0202002/status/2034177111762866300/photo/1",
+              "media_key": "3_2034177108877209600",
+              "start": 5,
+              "url": "https://t.co/qjIhOKKWFd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034177111762866300",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是艾咪 https://t.co/qjIhOKKWFd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理/同类查成分互fo/请和我做朋友/ᗜ𖥦ᗜ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032192447573577728/C9yS_hXm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 608,
+          "like_count": 763,
+          "listed_count": 1,
+          "media_count": 509,
+          "tweet_count": 1623
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2050089062363725824"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2049989121855426954",
+    "created_at": "2026-05-01T05:44:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T06:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050089073440940066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1797804473416585216",
+          "start": 0,
+          "username": "nana_myosotis_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LbyiEQ20m4",
+          "end": 39,
+          "expanded_url": "https://x.com/neko0202002/status/2050089073440940066/photo/1",
+          "media_key": "16_2050089062363725824",
+          "start": 16,
+          "url": "https://t.co/LbyiEQ20m4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050089073440940066",
+    "in_reply_to_user_id": "1797804473416585216",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050067473517723939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nana_myosotis_ https://t.co/LbyiEQ20m4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 270,
+        "media_key": "16_2050089062363725824",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HHNhI_AagAAmZfJ.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HHNhI_AagAAmZfJ.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2050089062363725824"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2049989121855426954",
+        "created_at": "2026-05-01T05:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T06:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050089073440940066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1797804473416585216",
+              "start": 0,
+              "username": "nana_myosotis_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LbyiEQ20m4",
+              "end": 39,
+              "expanded_url": "https://x.com/neko0202002/status/2050089073440940066/photo/1",
+              "media_key": "16_2050089062363725824",
+              "start": 16,
+              "url": "https://t.co/LbyiEQ20m4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050089073440940066",
+        "in_reply_to_user_id": "1797804473416585216",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050067473517723939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nana_myosotis_ https://t.co/LbyiEQ20m4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797804473416585216",
+        "conversation_id": "2049989121855426954",
+        "created_at": "2026-05-01T04:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T05:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050067473517723939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050067473517723939",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049989121855426954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 总是能讲出推心置腹的话的人！很多评论区下面有道理的评论都来自千早老师 很爱发表情包（？）总之就是很可爱很热心！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 939,
+          "like_count": 1458,
+          "listed_count": 2,
+          "media_count": 1258,
+          "tweet_count": 3592
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T01:36:11.000Z",
+        "description": "叫我77｜全方面友好｜fo你就是好喜欢你！💗｜伤疤美学｜03｜药理药代学习中｜想和更多赛博网友贴贴｜❌顺直｜寿司郎全肯定｜这里是我的朋友圈🫶",
+        "id": "1797804473416585216",
+        "location": "中央特雷森学院",
+        "name": "新建文件夾7",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983045281672507392/2OMkLIc7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 36,
+          "like_count": 25,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 194
+        },
+        "username": "nana_myosotis_",
+        "verified": false
+      }
+    ]
+  }
+}

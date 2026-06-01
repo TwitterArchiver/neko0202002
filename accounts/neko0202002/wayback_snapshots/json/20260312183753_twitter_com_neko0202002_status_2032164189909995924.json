@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2032049087076507723",
+    "created_at": "2026-03-12T18:37:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T19:37:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032164189909995924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1973699573144309760",
+          "start": 0,
+          "username": "huahuo345"
+        },
+        {
+          "end": 23,
+          "id": "1944862516976472064",
+          "start": 11,
+          "username": "Mickey06101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032164189909995924",
+    "in_reply_to_user_id": "1973699573144309760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032053733622997101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuo345 @Mickey06101 雷达"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2032049087076507723",
+        "created_at": "2026-03-12T18:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T19:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032164189909995924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1973699573144309760",
+              "start": 0,
+              "username": "huahuo345"
+            },
+            {
+              "end": 23,
+              "id": "1944862516976472064",
+              "start": 11,
+              "username": "Mickey06101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032164189909995924",
+        "in_reply_to_user_id": "1973699573144309760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032053733622997101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuo345 @Mickey06101 雷达"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973699573144309760",
+        "conversation_id": "2032049087076507723",
+        "created_at": "2026-03-12T11:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T12:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032053733622997101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944862516976472064",
+              "start": 0,
+              "username": "Mickey06101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032053733622997101",
+        "in_reply_to_user_id": "1944862516976472064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4539,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032049087076507723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mickey06101 那请问爸爸对应的是称呼是什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/玛利亚什么的在上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031827855542534147/IPSe8w_P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 547,
+          "like_count": 651,
+          "listed_count": 1,
+          "media_count": 423,
+          "tweet_count": 1390
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T10:40:34.000Z",
+        "description": "",
+        "id": "1973699573144309760",
+        "name": "Shmily",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010008482058252292/UfvTepO4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 886,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1063
+        },
+        "username": "huahuo345",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-14T20:52:22.000Z",
+        "description": "玩推只是分享生活",
+        "id": "1944862516976472064",
+        "location": "🚪188",
+        "name": "qaq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944863286157053952/6Y2oQa9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69172,
+          "following_count": 14,
+          "like_count": 981,
+          "listed_count": 89,
+          "media_count": 227,
+          "tweet_count": 730
+        },
+        "username": "Mickey06101",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1911059262433808384",
+        "3_1911059412845760512",
+        "3_1911059572892041216",
+        "3_1911059770821234688"
+      ],
+      "media_source_tweet_id": [
+        "1911059790471815482",
+        "1911059790471815482",
+        "1911059790471815482",
+        "1911059790471815482"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "1920114600030458349",
+    "created_at": "2025-05-07T13:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T14:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920114600030458349"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "典 宿野",
+          "probability": 0.4133,
+          "start": 29,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2751824672",
+          "start": 3,
+          "username": "CAOSPLAY1"
+        }
+      ],
+      "urls": [
+        {
+          "description": "将创作的自由还给创作者！爱发电是让创作者简单地获得稳定收入的粉丝赞助平台。无论你在创作什么，都能在这里获得持续的资金支持，让创作从此更自由。",
+          "display_url": "afdian.com/@jpcosplay",
+          "end": 59,
+          "expanded_url": "http://afdian.com/@jpcosplay",
+          "images": [
+            {
+              "height": 80,
+              "url": "https://pbs.twimg.com/news_img/1917953957571510272/AtvdIswN?format=png&name=orig",
+              "width": 80
+            },
+            {
+              "height": 80,
+              "url": "https://pbs.twimg.com/news_img/1917953957571510272/AtvdIswN?format=png&name=150x150",
+              "width": 80
+            }
+          ],
+          "start": 36,
+          "status": 200,
+          "title": "爱发电 · 连接创作者与粉丝的会员制平台",
+          "unwound_url": "https://afdian.com/@jpcosplay",
+          "url": "https://t.co/j5DARIne2F"
+        },
+        {
+          "display_url": "pic.x.com/abAj6jjAD8",
+          "end": 83,
+          "expanded_url": "https://x.com/CAOSPLAY1/status/1911059790471815482/photo/1",
+          "media_key": "3_1911059262433808384",
+          "start": 60,
+          "url": "https://t.co/abAj6jjAD8"
+        },
+        {
+          "display_url": "pic.x.com/abAj6jjAD8",
+          "end": 83,
+          "expanded_url": "https://x.com/CAOSPLAY1/status/1911059790471815482/photo/1",
+          "media_key": "3_1911059412845760512",
+          "start": 60,
+          "url": "https://t.co/abAj6jjAD8"
+        },
+        {
+          "display_url": "pic.x.com/abAj6jjAD8",
+          "end": 83,
+          "expanded_url": "https://x.com/CAOSPLAY1/status/1911059790471815482/photo/1",
+          "media_key": "3_1911059572892041216",
+          "start": 60,
+          "url": "https://t.co/abAj6jjAD8"
+        },
+        {
+          "display_url": "pic.x.com/abAj6jjAD8",
+          "end": 83,
+          "expanded_url": "https://x.com/CAOSPLAY1/status/1911059790471815482/photo/1",
+          "media_key": "3_1911059770821234688",
+          "start": 60,
+          "url": "https://t.co/abAj6jjAD8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920114600030458349",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911059790471815482",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CAOSPLAY1: 20250203 南宁月邪冬典 宿野\n →https://t.co/j5DARIne2F https://t.co/abAj6jjAD8"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1920114600030458349].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1920114600030458349",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1920114600030458349"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1911059262433808384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoVyRiIWUAAKgsn.jpg",
+        "width": 2305
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1911059412845760512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoVyaSdWkAATNAX.jpg",
+        "width": 2305
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1911059572892041216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoVyjmrXAAAR-Ed.jpg",
+        "width": 2731
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1911059770821234688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoVyvIBW0AAbpf8.jpg",
+        "width": 2731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911059262433808384",
+            "3_1911059412845760512",
+            "3_1911059572892041216",
+            "3_1911059770821234688"
+          ]
+        },
+        "author_id": "2751824672",
+        "conversation_id": "1911057143677296647",
+        "created_at": "2025-04-12T14:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T15:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911059790471815482"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "典 宿野",
+              "probability": 0.3997,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "description": "将创作的自由还给创作者！爱发电是让创作者简单地获得稳定收入的粉丝赞助平台。无论你在创作什么，都能在这里获得持续的资金支持，让创作从此更自由。",
+              "display_url": "afdian.com/@jpcosplay",
+              "end": 44,
+              "expanded_url": "http://afdian.com/@jpcosplay",
+              "images": [
+                {
+                  "height": 80,
+                  "url": "https://pbs.twimg.com/news_img/1917953957571510272/AtvdIswN?format=png&name=orig",
+                  "width": 80
+                },
+                {
+                  "height": 80,
+                  "url": "https://pbs.twimg.com/news_img/1917953957571510272/AtvdIswN?format=png&name=150x150",
+                  "width": 80
+                }
+              ],
+              "start": 21,
+              "status": 200,
+              "title": "爱发电 · 连接创作者与粉丝的会员制平台",
+              "unwound_url": "https://afdian.com/@jpcosplay",
+              "url": "https://t.co/j5DARIne2F"
+            },
+            {
+              "display_url": "pic.x.com/abAj6jjAD8",
+              "end": 68,
+              "expanded_url": "https://x.com/CAOSPLAY1/status/1911059790471815482/photo/1",
+              "media_key": "3_1911059262433808384",
+              "start": 45,
+              "url": "https://t.co/abAj6jjAD8"
+            },
+            {
+              "display_url": "pic.x.com/abAj6jjAD8",
+              "end": 68,
+              "expanded_url": "https://x.com/CAOSPLAY1/status/1911059790471815482/photo/1",
+              "media_key": "3_1911059412845760512",
+              "start": 45,
+              "url": "https://t.co/abAj6jjAD8"
+            },
+            {
+              "display_url": "pic.x.com/abAj6jjAD8",
+              "end": 68,
+              "expanded_url": "https://x.com/CAOSPLAY1/status/1911059790471815482/photo/1",
+              "media_key": "3_1911059572892041216",
+              "start": 45,
+              "url": "https://t.co/abAj6jjAD8"
+            },
+            {
+              "display_url": "pic.x.com/abAj6jjAD8",
+              "end": 68,
+              "expanded_url": "https://x.com/CAOSPLAY1/status/1911059790471815482/photo/1",
+              "media_key": "3_1911059770821234688",
+              "start": 45,
+              "url": "https://t.co/abAj6jjAD8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911059790471815482",
+        "in_reply_to_user_id": "2751824672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 34431,
+          "like_count": 160,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911058372805398733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "20250203 南宁月邪冬典 宿野\n →https://t.co/j5DARIne2F https://t.co/abAj6jjAD8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "是我先……明明是我先的！喜欢也好，玩弄也好，还是给他穿上女装也好。——大藏里想奈",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "优子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909135311457976320/_gd-CZyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 124,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 86
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-21T10:20:47.000Z",
+        "description": "防爆＆联络账号 @COSshejing\n漫展和cos资源 → https://t.co/gRE92v3B7V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "COSshejing"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "afdian.com/@jpcosplay",
+                "end": 54,
+                "expanded_url": "http://afdian.com/@jpcosplay",
+                "start": 31,
+                "url": "https://t.co/gRE92v3B7V"
+              }
+            ]
+          }
+        },
+        "id": "2751824672",
+        "name": "拌次元",
+        "pinned_tweet_id": "1817172813792555408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711742300848783360/dd-zxONL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44624,
+          "following_count": 900,
+          "like_count": 4870,
+          "listed_count": 169,
+          "media_count": 1940,
+          "tweet_count": 2234
+        },
+        "username": "CAOSPLAY1",
+        "verified": false
+      }
+    ]
+  }
+}

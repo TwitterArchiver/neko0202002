@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1978885919282196480"
+      ],
+      "media_source_tweet_id": [
+        "1978886213965680851"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2031801228079018426",
+    "created_at": "2026-03-11T18:35:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T19:35:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031801228079018426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1911003409290797056",
+          "start": 3,
+          "username": "Musashi88720"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uxxjS8EKOK",
+          "end": 67,
+          "expanded_url": "https://x.com/AnimeHaus/status/1978886213965680851/video/1",
+          "media_key": "7_1978885919282196480",
+          "start": 44,
+          "url": "https://t.co/uxxjS8EKOK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031801228079018426",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031737179307909609",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Musashi88720: Her imagination is crazy😭 https://t.co/uxxjS8EKOK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29866,
+        "height": 720,
+        "media_key": "7_1978885919282196480",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1978885919282196480/pu/img/aPFwzMl0uKEWozre.jpg",
+        "public_metrics": {
+          "view_count": 1788107
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1978885919282196480/pu/vid/avc1/480x270/ZkshJ_jglSzdgIl0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1978885919282196480/pu/vid/avc1/640x360/Z5hiVwoN-3r8Vjxf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1978885919282196480/pu/vid/avc1/1280x720/n-4hGYHKqdBBTSBc.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1978885919282196480/pu/pl/h5bQ9aN8jLs11C9k.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1978885919282196480"
+          ],
+          "media_source_tweet_id": [
+            "1978886213965680851"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031801228079018426",
+        "created_at": "2026-03-11T18:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T19:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031801228079018426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1911003409290797056",
+              "start": 3,
+              "username": "Musashi88720"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uxxjS8EKOK",
+              "end": 67,
+              "expanded_url": "https://x.com/AnimeHaus/status/1978886213965680851/video/1",
+              "media_key": "7_1978885919282196480",
+              "start": 44,
+              "url": "https://t.co/uxxjS8EKOK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031801228079018426",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031737179307909609",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Musashi88720: Her imagination is crazy😭 https://t.co/uxxjS8EKOK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1978885919282196480"
+          ],
+          "media_source_tweet_id": [
+            "1978886213965680851"
+          ]
+        },
+        "author_id": "1911003409290797056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031737179307909609",
+        "created_at": "2026-03-11T14:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T15:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031737179307909609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uxxjS8EKOK",
+              "end": 49,
+              "expanded_url": "https://x.com/AnimeHaus/status/1978886213965680851/video/1",
+              "media_key": "7_1978885919282196480",
+              "start": 26,
+              "url": "https://t.co/uxxjS8EKOK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031737179307909609",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 20645,
+          "like_count": 426,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "Her imagination is crazy😭 https://t.co/uxxjS8EKOK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/玛利亚什么的在上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "周防院奏",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028525324649328640/d35polxT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 549,
+          "like_count": 642,
+          "listed_count": 1,
+          "media_count": 400,
+          "tweet_count": 1331
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T10:28:33.000Z",
+        "description": "",
+        "id": "1911003409290797056",
+        "name": "Musashi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008792015639900161/NTf_hy-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4929,
+          "following_count": 1361,
+          "like_count": 13348,
+          "listed_count": 18,
+          "media_count": 406,
+          "tweet_count": 9477
+        },
+        "username": "Musashi88720",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042238880804708352"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2042173061181460797",
+    "created_at": "2026-04-09T13:51:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T14:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042238884084617607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965246583379034117",
+          "start": 0,
+          "username": "hyunjennagua"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HNzI0h4x9B",
+          "end": 49,
+          "expanded_url": "https://x.com/neko0202002/status/2042238884084617607/photo/1",
+          "media_key": "3_2042238880804708352",
+          "start": 26,
+          "url": "https://t.co/HNzI0h4x9B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042238884084617607",
+    "in_reply_to_user_id": "1965246583379034117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042173061181460797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyunjennagua 就算是没开刃的也很疼啊 https://t.co/HNzI0h4x9B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 424,
+        "media_key": "3_2042238880804708352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFd9cRzbIAAxZ0I.jpg",
+        "width": 472
+      },
+      {
+        "duration_ms": 13755,
+        "height": 960,
+        "media_key": "13_2042172911927062529",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042172911927062529/img/P_cabsmpXzXRwbVh.jpg",
+        "public_metrics": {
+          "view_count": 126
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042172911927062529/vid/avc1/320x690/3sPFFYujmfhlHzUj.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042172911927062529/vid/avc1/444x960/gP1YvMRnIM8BADyY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042172911927062529/pl/t_Fr4V-MkIuOq6z5.m3u8"
+          }
+        ],
+        "width": 444
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042238880804708352"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2042173061181460797",
+        "created_at": "2026-04-09T13:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T14:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042238884084617607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965246583379034117",
+              "start": 0,
+              "username": "hyunjennagua"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HNzI0h4x9B",
+              "end": 49,
+              "expanded_url": "https://x.com/neko0202002/status/2042238884084617607/photo/1",
+              "media_key": "3_2042238880804708352",
+              "start": 26,
+              "url": "https://t.co/HNzI0h4x9B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042238884084617607",
+        "in_reply_to_user_id": "1965246583379034117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042173061181460797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyunjennagua 就算是没开刃的也很疼啊 https://t.co/HNzI0h4x9B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042172911927062529"
+          ]
+        },
+        "author_id": "1965246583379034117",
+        "conversation_id": "2042173061181460797",
+        "created_at": "2026-04-09T09:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T10:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042173061181460797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R1030GesTR",
+              "end": 23,
+              "expanded_url": "https://x.com/hyunjennagua/status/2042173061181460797/video/1",
+              "media_key": "13_2042172911927062529",
+              "start": 0,
+              "url": "https://t.co/R1030GesTR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042173061181460797",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 382,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/R1030GesTR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/同类查成分互fo/可以称为千早/心理学重度依赖/学习学习学习/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案/可以点下方链接发提问喔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 803,
+          "like_count": 1072,
+          "listed_count": 2,
+          "media_count": 922,
+          "tweet_count": 2608
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T02:51:21.000Z",
+        "description": "小号：@hyunjennnagua好闺蜜：@colleen_ab6642推群链接查成分通过https://t.co/9lJK4ODH1O匿名👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "hyunjennnagua"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "colleen_ab6642"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 68,
+                "expanded_url": "https://x.com/i/chat/group_join/g2028830625013060041/uq4q8HKRG7",
+                "start": 45,
+                "url": "https://t.co/9lJK4ODH1O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jennie62981",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jennie62981",
+                "start": 0,
+                "url": "https://t.co/ia6I6dHChs"
+              }
+            ]
+          }
+        },
+        "id": "1965246583379034117",
+        "location": "0.1km",
+        "name": "南瓜",
+        "pinned_tweet_id": "2037765495902921128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040976718178164736/Ra9cxGBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1247,
+          "following_count": 694,
+          "like_count": 4082,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 2203
+        },
+        "url": "https://t.co/ia6I6dHChs",
+        "username": "hyunjennagua",
+        "verified": true
+      }
+    ]
+  }
+}

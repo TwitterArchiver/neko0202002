@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060076551430139904"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2059913198963229103",
+    "created_at": "2026-05-28T19:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T20:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060076576730198339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1638573465585487875",
+          "start": 0,
+          "username": "Remyxfk"
+        },
+        {
+          "end": 23,
+          "id": "402999736",
+          "start": 9,
+          "username": "GossipRoomOff"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jrcHOqKqkL",
+          "end": 54,
+          "expanded_url": "https://x.com/neko0202002/status/2060076576730198339/photo/1",
+          "media_key": "3_2060076551430139904",
+          "start": 31,
+          "url": "https://t.co/jrcHOqKqkL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060076576730198339",
+    "in_reply_to_user_id": "1638573465585487875",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060025709163364465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Remyxfk @GossipRoomOff 中国的有抖音 https://t.co/jrcHOqKqkL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2029,
+        "media_key": "3_2060076551430139904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbctXIa8AApjHJ.jpg",
+        "width": 1668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060076551430139904"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2059913198963229103",
+        "created_at": "2026-05-28T19:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060076576730198339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1638573465585487875",
+              "start": 0,
+              "username": "Remyxfk"
+            },
+            {
+              "end": 23,
+              "id": "402999736",
+              "start": 9,
+              "username": "GossipRoomOff"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jrcHOqKqkL",
+              "end": 54,
+              "expanded_url": "https://x.com/neko0202002/status/2060076576730198339/photo/1",
+              "media_key": "3_2060076551430139904",
+              "start": 31,
+              "url": "https://t.co/jrcHOqKqkL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060076576730198339",
+        "in_reply_to_user_id": "1638573465585487875",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060025709163364465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Remyxfk @GossipRoomOff 中国的有抖音 https://t.co/jrcHOqKqkL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638573465585487875",
+        "conversation_id": "2059913198963229103",
+        "created_at": "2026-05-28T15:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060025709163364465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "402999736",
+              "start": 0,
+              "username": "GossipRoomOff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060025709163364465",
+        "in_reply_to_user_id": "402999736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 239,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059913198963229103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GossipRoomOff 🙃求证，这到底是哪个国家的，我看了好几个帖子。各种说法 韩国的、台湾的、中国的、日本的..........."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 956,
+          "like_count": 1649,
+          "listed_count": 2,
+          "media_count": 1495,
+          "tweet_count": 4165
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-22T16:09:02.000Z",
+        "description": "Analyzing the 'strong-bow's end' of global chaos. 🏹 I'm the one covering you from behind. 😏",
+        "id": "1638573465585487875",
+        "name": "Remy_TheCover",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018210885458878464/qvI-Wv6C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 46,
+          "like_count": 870,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 454
+        },
+        "username": "Remyxfk",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-01T21:45:44.000Z",
+        "description": "Toutes les photos et infos de l'actualité du moment !",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "officielles.fr",
+                "end": 23,
+                "expanded_url": "https://www.officielles.fr",
+                "start": 0,
+                "url": "https://t.co/wZ3my6Phyb"
+              }
+            ]
+          }
+        },
+        "id": "402999736",
+        "location": "turn on notifications ⤴️",
+        "name": "GOSSIP ROOM",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998775219138306048/nAJ9zJk-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331908,
+          "following_count": 28,
+          "like_count": 1623,
+          "listed_count": 238,
+          "media_count": 41064,
+          "tweet_count": 62602
+        },
+        "url": "https://t.co/wZ3my6Phyb",
+        "username": "GossipRoomOff",
+        "verified": true
+      }
+    ]
+  }
+}

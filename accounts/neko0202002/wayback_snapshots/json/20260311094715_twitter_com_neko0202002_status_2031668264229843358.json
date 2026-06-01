@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2031668264229843358",
+    "created_at": "2026-03-11T09:47:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T10:47:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031668264229843358"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "いろはさん",
+          "probability": 0.8084,
+          "start": 26,
+          "type": "Person"
+        },
+        {
+          "end": 86,
+          "normalized_text": "いろはさん",
+          "probability": 0.8073,
+          "start": 82,
+          "type": "Person"
+        },
+        {
+          "end": 109,
+          "normalized_text": "いろはさん",
+          "probability": 0.6528,
+          "start": 105,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3186546000",
+          "start": 3,
+          "username": "toukouyoumanu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031668264229843358",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031584222239133907",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @toukouyoumanu: マギレコ初期はいろはさんの水着衣装が配布されたのは、今も語り継がれる伝説ですね\n本編では未登場のウィンクが可愛いですね！\nでもいろはさんは清楚！\n左側の戸惑った表情が本来のいろはさんです！\n今年の夏はまどドラに水着実装お願いします！ htt…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 491,
+        "media_key": "3_2031584216841166848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDGjFNgboAAPNqj.jpg",
+        "width": 595
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2031668264229843358",
+        "created_at": "2026-03-11T09:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T10:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031668264229843358"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "いろはさん",
+              "probability": 0.8084,
+              "start": 26,
+              "type": "Person"
+            },
+            {
+              "end": 86,
+              "normalized_text": "いろはさん",
+              "probability": 0.8073,
+              "start": 82,
+              "type": "Person"
+            },
+            {
+              "end": 109,
+              "normalized_text": "いろはさん",
+              "probability": 0.6528,
+              "start": 105,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3186546000",
+              "start": 3,
+              "username": "toukouyoumanu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031668264229843358",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031584222239133907",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @toukouyoumanu: マギレコ初期はいろはさんの水着衣装が配布されたのは、今も語り継がれる伝説ですね\n本編では未登場のウィンクが可愛いですね！\nでもいろはさんは清楚！\n左側の戸惑った表情が本来のいろはさんです！\n今年の夏はまどドラに水着実装お願いします！ htt…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031584216841166848"
+          ]
+        },
+        "author_id": "3186546000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2031584222239133907",
+        "created_at": "2026-03-11T04:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T05:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031584222239133907"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "いろはさん",
+              "probability": 0.773,
+              "start": 7,
+              "type": "Person"
+            },
+            {
+              "end": 67,
+              "normalized_text": "いろはさん",
+              "probability": 0.7854,
+              "start": 63,
+              "type": "Person"
+            },
+            {
+              "end": 90,
+              "normalized_text": "いろはさん",
+              "probability": 0.6058,
+              "start": 86,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JQBonc9CSX",
+              "end": 140,
+              "expanded_url": "https://x.com/toukouyoumanu/status/2031584222239133907/photo/1",
+              "media_key": "3_2031584216841166848",
+              "start": 117,
+              "url": "https://t.co/JQBonc9CSX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031584222239133907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 2888,
+          "like_count": 151,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "マギレコ初期はいろはさんの水着衣装が配布されたのは、今も語り継がれる伝説ですね\n本編では未登場のウィンクが可愛いですね！\nでもいろはさんは清楚！\n左側の戸惑った表情が本来のいろはさんです！\n今年の夏はまどドラに水着実装お願いします！ https://t.co/JQBonc9CSX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/玛利亚什么的在上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "周防院奏",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028525324649328640/d35polxT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 550,
+          "like_count": 641,
+          "listed_count": 1,
+          "media_count": 397,
+          "tweet_count": 1321
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-06T12:27:18.000Z",
+        "description": "マギレコに最大限の感謝を...いろはさん、ういちゃん、黒江ちゃん推しです まどドラに全力！ヘブバン蒼井推し リリステプレイしています ノノアちゃん推し 勇者であるシリーズ応援しています 友奈ちゃん 樹ちゃん推し 学マス始めてしまいました リーリヤ 広担当 アイコンはAG様(@aberebere)に描いていただきました",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 137,
+                "username": "aberebere"
+              }
+            ]
+          }
+        },
+        "id": "3186546000",
+        "location": "神浜市",
+        "name": "マギア",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875861728149512192/0oy05BPq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2589,
+          "following_count": 2797,
+          "like_count": 106032,
+          "listed_count": 22,
+          "media_count": 10176,
+          "tweet_count": 21402
+        },
+        "username": "toukouyoumanu",
+        "verified": false
+      }
+    ]
+  }
+}

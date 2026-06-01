@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2038562414409703424"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2038559106643173524",
+    "created_at": "2026-03-30T10:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T11:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038562425814102102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1974276207496867842",
+          "start": 0,
+          "username": "DXMDusk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jrnd00XsUl",
+          "end": 38,
+          "expanded_url": "https://x.com/neko0202002/status/2038562425814102102/photo/1",
+          "media_key": "16_2038562414409703424",
+          "start": 15,
+          "url": "https://t.co/Jrnd00XsUl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038562425814102102",
+    "in_reply_to_user_id": "1974276207496867842",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038559106643173524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DXMDusk 四季是那位 https://t.co/Jrnd00XsUl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 450,
+        "media_key": "16_2038562414409703424",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HEpttxNaYAANyy-.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HEpttxNaYAANyy-.mp4"
+          }
+        ],
+        "width": 498
+      },
+      {
+        "height": 1163,
+        "media_key": "3_2038531152936673280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEpRSHJboAAlkZs.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2038562414409703424"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2038559106643173524",
+        "created_at": "2026-03-30T10:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T11:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038562425814102102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1974276207496867842",
+              "start": 0,
+              "username": "DXMDusk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jrnd00XsUl",
+              "end": 38,
+              "expanded_url": "https://x.com/neko0202002/status/2038562425814102102/photo/1",
+              "media_key": "16_2038562414409703424",
+              "start": 15,
+              "url": "https://t.co/Jrnd00XsUl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038562425814102102",
+        "in_reply_to_user_id": "1974276207496867842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038559106643173524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DXMDusk 四季是那位 https://t.co/Jrnd00XsUl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038531152936673280"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Texas",
+              "id": "855432197297192961",
+              "name": "Texas"
+            }
+          }
+        ],
+        "conversation_id": "2038559106643173524",
+        "created_at": "2026-03-30T10:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T11:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038559106643173524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kbg3ecY27f",
+              "end": 130,
+              "expanded_url": "https://x.com/DXMDusk/status/2038559106643173524/photo/1",
+              "media_key": "3_2038531152936673280",
+              "start": 107,
+              "url": "https://t.co/Kbg3ecY27f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038559106643173524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是药圈古早时期的几位神明，如果你能猜到他们是谁，你将能到达第五高原\n恰米与（）（）之神\n晚安与嘎蛋之神董\n联用与求生之神三崎\n转生与我妈妈喹硫平\n整活与（）（）之神texas\n死藤水与剧烈变形之神spring风 https://t.co/Kbg3ecY27f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/同类查成分互fo/请和我做朋友/ᗜ𖥦ᗜ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037978639053299712/JtGdeDp-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 697,
+          "like_count": 921,
+          "listed_count": 2,
+          "media_count": 696,
+          "tweet_count": 2079
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1919,
+          "following_count": 1076,
+          "like_count": 1848,
+          "listed_count": 3,
+          "media_count": 288,
+          "tweet_count": 1844
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

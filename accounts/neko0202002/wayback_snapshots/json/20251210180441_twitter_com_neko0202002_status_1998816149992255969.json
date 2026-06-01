@@ -1,0 +1,651 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1865420356493660160"
+      ],
+      "media_source_tweet_id": [
+        "1865420360209863075"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1128368363086929920",
+          "name": "Fire Emblem"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1128368363086929920",
+          "name": "Fire Emblem"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "1998816149992255969",
+    "created_at": "2025-12-10T18:04:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T19:04:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998816149992255969"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 66,
+          "start": 53,
+          "tag": "MadokaMagica"
+        },
+        {
+          "end": 72,
+          "start": 67,
+          "tag": "fe3h"
+        },
+        {
+          "end": 87,
+          "start": 73,
+          "tag": "madoka_magica"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1119752356831334400",
+          "start": 3,
+          "username": "meduka_ebooks"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6cbmOxwTvW",
+          "end": 111,
+          "expanded_url": "https://x.com/meduka_ebooks/status/1865420360209863075/photo/1",
+          "media_key": "3_1865420356493660160",
+          "start": 88,
+          "url": "https://t.co/6cbmOxwTvW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998816149992255969",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 177
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865420360209863075",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meduka_ebooks: Madoka Kaname of the Azalea Hares #MadokaMagica #fe3h #madoka_magica https://t.co/6cbmOxwTvW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1865420356493660160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeNN7kmWUAA5Ub0.jpg",
+        "width": 1668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865420356493660160"
+          ],
+          "media_source_tweet_id": [
+            "1865420360209863075"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1128368363086929920",
+              "name": "Fire Emblem"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1128368363086929920",
+              "name": "Fire Emblem"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "1998816149992255969",
+        "created_at": "2025-12-10T18:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T19:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998816149992255969"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 53,
+              "tag": "MadokaMagica"
+            },
+            {
+              "end": 72,
+              "start": 67,
+              "tag": "fe3h"
+            },
+            {
+              "end": 87,
+              "start": 73,
+              "tag": "madoka_magica"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1119752356831334400",
+              "start": 3,
+              "username": "meduka_ebooks"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6cbmOxwTvW",
+              "end": 111,
+              "expanded_url": "https://x.com/meduka_ebooks/status/1865420360209863075/photo/1",
+              "media_key": "3_1865420356493660160",
+              "start": 88,
+              "url": "https://t.co/6cbmOxwTvW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998816149992255969",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 177
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865420360209863075",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meduka_ebooks: Madoka Kaname of the Azalea Hares #MadokaMagica #fe3h #madoka_magica https://t.co/6cbmOxwTvW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865420356493660160"
+          ]
+        },
+        "author_id": "1119752356831334400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1128368363086929920",
+              "name": "Fire Emblem"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1128368363086929920",
+              "name": "Fire Emblem"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "1865420360209863075",
+        "created_at": "2024-12-07T15:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T16:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865420360209863075"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 34,
+              "tag": "MadokaMagica"
+            },
+            {
+              "end": 53,
+              "start": 48,
+              "tag": "fe3h"
+            },
+            {
+              "end": 68,
+              "start": 54,
+              "tag": "madoka_magica"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6cbmOxwTvW",
+              "end": 92,
+              "expanded_url": "https://x.com/meduka_ebooks/status/1865420360209863075/photo/1",
+              "media_key": "3_1865420356493660160",
+              "start": 69,
+              "url": "https://t.co/6cbmOxwTvW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865420360209863075",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 12197,
+          "like_count": 901,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 177
+        },
+        "reply_settings": "everyone",
+        "text": "Madoka Kaname of the Azalea Hares #MadokaMagica #fe3h #madoka_magica https://t.co/6cbmOxwTvW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "Caramel Box",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "九重",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997232524024774657/EdJxwXIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 232,
+          "like_count": 68,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 271
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-20T23:59:00.000Z",
+        "description": "Madoka ✧ *:･ﾟ✧*:･ﾟ︵‿︵‿୨♡୧ All content is mine unless stated otherwise, reposts are ok with credit",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "medukaebooks.straw.page",
+                "end": 23,
+                "expanded_url": "https://medukaebooks.straw.page/",
+                "start": 0,
+                "url": "https://t.co/RBytCM8nfQ"
+              }
+            ]
+          }
+        },
+        "id": "1119752356831334400",
+        "location": "mitakihara",
+        "name": "Madoka 💘",
+        "pinned_tweet_id": "1918299674915590594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873041349877891072/qxwucTnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20827,
+          "following_count": 145,
+          "like_count": 5934,
+          "listed_count": 29,
+          "media_count": 2294,
+          "tweet_count": 10436
+        },
+        "url": "https://t.co/RBytCM8nfQ",
+        "username": "meduka_ebooks",
+        "verified": false
+      }
+    ]
+  }
+}

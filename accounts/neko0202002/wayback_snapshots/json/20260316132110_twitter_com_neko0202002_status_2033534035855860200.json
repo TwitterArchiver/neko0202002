@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033534033125384192"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2030872795828404261",
+    "created_at": "2026-03-16T13:21:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T14:21:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033534035855860200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1243590342911410176",
+          "start": 0,
+          "username": "bing2000100830"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r3OrSxZNxo",
+          "end": 39,
+          "expanded_url": "https://x.com/neko0202002/status/2033534035855860200/photo/1",
+          "media_key": "3_2033534033125384192",
+          "start": 16,
+          "url": "https://t.co/r3OrSxZNxo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033534035855860200",
+    "in_reply_to_user_id": "1243590342911410176",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030872795828404261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bing2000100830 https://t.co/r3OrSxZNxo"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2030872795828404261].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2030872795828404261",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2030872795828404261"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 254,
+        "media_key": "3_2033534033125384192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDiQbdMbIAArFPr.jpg",
+        "width": 270
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033534033125384192"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2030872795828404261",
+        "created_at": "2026-03-16T13:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T14:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033534035855860200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r3OrSxZNxo",
+              "end": 39,
+              "expanded_url": "https://x.com/neko0202002/status/2033534035855860200/photo/1",
+              "media_key": "3_2033534033125384192",
+              "start": 16,
+              "url": "https://t.co/r3OrSxZNxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033534035855860200",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030872795828404261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 https://t.co/r3OrSxZNxo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/评论被吞呃啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032192447573577728/C9yS_hXm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 573,
+          "like_count": 694,
+          "listed_count": 1,
+          "media_count": 468,
+          "tweet_count": 1486
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "在月球",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼⁺₊˚ ཐི⋆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030176214581964800/ytEL2-pP_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 637,
+          "like_count": 18315,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 1051
+        },
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

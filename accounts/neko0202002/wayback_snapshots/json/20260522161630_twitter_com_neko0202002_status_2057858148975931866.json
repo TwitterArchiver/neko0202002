@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057796690455986176"
+      ],
+      "media_source_tweet_id": [
+        "2057796695300440476"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2057858148975931866",
+    "created_at": "2026-05-22T16:16:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T17:16:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057858148975931866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2008130789356261376",
+          "start": 3,
+          "username": "Danroneko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HPaXD372HT",
+          "end": 48,
+          "expanded_url": "https://x.com/Danroneko/status/2057796695300440476/photo/1",
+          "media_key": "3_2057796690455986176",
+          "start": 25,
+          "url": "https://t.co/HPaXD372HT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057858148975931866",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 524
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057796695300440476",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Danroneko: これは、つまり…… https://t.co/HPaXD372HT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057796690455986176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7DL_KagAAcDnr.jpg",
+        "width": 1196
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057796690455986176"
+          ],
+          "media_source_tweet_id": [
+            "2057796695300440476"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2057858148975931866",
+        "created_at": "2026-05-22T16:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057858148975931866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2008130789356261376",
+              "start": 3,
+              "username": "Danroneko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HPaXD372HT",
+              "end": 48,
+              "expanded_url": "https://x.com/Danroneko/status/2057796695300440476/photo/1",
+              "media_key": "3_2057796690455986176",
+              "start": 25,
+              "url": "https://t.co/HPaXD372HT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057858148975931866",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 524
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057796695300440476",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Danroneko: これは、つまり…… https://t.co/HPaXD372HT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057796690455986176"
+          ]
+        },
+        "author_id": "2008130789356261376",
+        "conversation_id": "2057796695300440476",
+        "created_at": "2026-05-22T12:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T13:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057796695300440476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HPaXD372HT",
+              "end": 33,
+              "expanded_url": "https://x.com/Danroneko/status/2057796695300440476/photo/1",
+              "media_key": "3_2057796690455986176",
+              "start": 10,
+              "url": "https://t.co/HPaXD372HT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057796695300440476",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 323,
+          "impression_count": 33521,
+          "like_count": 4913,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 524
+        },
+        "reply_settings": "everyone",
+        "text": "これは、つまり…… https://t.co/HPaXD372HT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "乐园",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 970,
+          "like_count": 1581,
+          "listed_count": 2,
+          "media_count": 1418,
+          "tweet_count": 3992
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T10:58:12.000Z",
+        "description": "絵を描く リ0️⃣ 鍵▶︎ @0Yiau",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "0Yiau"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/117517088",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/117517088",
+                "start": 0,
+                "url": "https://t.co/omfvt6DSJY"
+              }
+            ]
+          }
+        },
+        "id": "2008130789356261376",
+        "location": "二次創作 腐あり",
+        "name": "暖炉猫だらけ",
+        "pinned_tweet_id": "2057796695300440476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013966160539402240/GUwyOc6B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6764,
+          "following_count": 106,
+          "like_count": 3672,
+          "listed_count": 18,
+          "media_count": 104,
+          "tweet_count": 443
+        },
+        "url": "https://t.co/omfvt6DSJY",
+        "username": "Danroneko",
+        "verified": false
+      }
+    ]
+  }
+}

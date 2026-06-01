@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "1960656722969944380",
+    "created_at": "2025-08-27T10:52:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T11:52:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960656722969944380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1223195507901849601",
+          "start": 3,
+          "username": "axunkaOri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960656722969944380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959431860419002513",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @axunkaOri: 我不过是活了漫长时光的看守人…仅此而已。这具身体，早已感受不到痛楚了。 \n\n             ——鸣潮-芙露德莉斯\n\nI am merely a watchman who has lived through long years... no…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1960656722969944380].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1960656722969944380",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1960656722969944380"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12630,
+        "height": 2160,
+        "media_key": "13_1959431716126519296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1959431716126519296/img/qQjqXAHc1VHcf4F_.jpg",
+        "public_metrics": {
+          "view_count": 7471
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959431716126519296/vid/avc1/1440x2160/zFvfQ6DDXr1LWnBN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959431716126519296/vid/avc1/720x1080/avN1Mh5q3V7lmY-z.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1959431716126519296/pl/a6PkPGgKDgZ56q_F.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959431716126519296/vid/avc1/320x480/wtx71kBSIUWi1rke.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959431716126519296/vid/avc1/480x720/TXR3FhpkHsDp0FTR.mp4"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1959431716126519296"
+          ]
+        },
+        "author_id": "1223195507901849601",
+        "conversation_id": "1959431860419002513",
+        "created_at": "2025-08-24T01:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T02:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959431860419002513"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 236,
+              "start": 221,
+              "tag": "WutheringWaves"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eykW5pPXgN",
+              "end": 260,
+              "expanded_url": "https://x.com/axunkaOri/status/1959431860419002513/video/1",
+              "media_key": "13_1959431716126519296",
+              "start": 237,
+              "url": "https://t.co/eykW5pPXgN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959431860419002513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 236,
+                "start": 221,
+                "tag": "WutheringWaves"
+              },
+              {
+                "end": 253,
+                "start": 242,
+                "tag": "Fleurdelys"
+              },
+              {
+                "end": 259,
+                "start": 256,
+                "tag": "鳴潮"
+              },
+              {
+                "end": 275,
+                "start": 264,
+                "tag": "Cartethyia"
+              },
+              {
+                "end": 285,
+                "start": 279,
+                "tag": "カルテジア"
+              }
+            ]
+          },
+          "text": "我不过是活了漫长时光的看守人…仅此而已。这具身体，早已感受不到痛楚了。 \n\n             ——鸣潮-芙露德莉斯\n\nI am merely a watchman who has lived through long years... nothing more. This body can no longer even feel pain.\n\n             ——Wuthering Waves -Fleurdelys\n\n#WutheringWaves     \n#Fleurdelys \n #鳴潮     #Cartethyia    #カルテジア"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 36939,
+          "like_count": 367,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "我不过是活了漫长时光的看守人…仅此而已。这具身体，早已感受不到痛楚了。 \n\n             ——鸣潮-芙露德莉斯\n\nI am merely a watchman who has lived through long years... nothing more. This body can no longer even feel pain.\n\n             ——Wuthering Waves -Fleurdelys\n\n#WutheringWaves https://t.co/eykW5pPXgN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "千早！！！！",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "千早！！！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951284390094577664/Qy4Zs8HR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 171,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 211
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-31T10:45:47.000Z",
+        "description": "✨🔮我是阿薰⸝⸝'ᜊ'⸝⸝ 被网络文盲攻击那位就是我😞｜05年普通女孩｜💖dyb站wb@阿薰kaOri✨｜🛒薰门🚪vx获取🔗https://t.co/CN7m3v4AZm 写真获取🔗微店：阿薰能量站｜用心拍作品📷｜任何改进建议欢迎留言💌｜求求大人们多支持🥺您的支持就是对我最大的鼓励🔮✨（不约不裸不线下）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.cn/A60TXHhv",
+                "end": 85,
+                "expanded_url": "http://t.cn/A60TXHhv",
+                "start": 62,
+                "url": "https://t.co/CN7m3v4AZm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "k.youshop10.com/5Rlf-Zoa",
+                "end": 23,
+                "expanded_url": "https://k.youshop10.com/5Rlf-Zoa",
+                "start": 0,
+                "url": "https://t.co/5LCvS3MiEj"
+              }
+            ]
+          }
+        },
+        "id": "1223195507901849601",
+        "location": "微店店铺搜：阿薰能量站",
+        "name": "✨🔮阿薰kaOri🔮✨",
+        "pinned_tweet_id": "1950886622574108875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951596079625224192/bZVw0Zhk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255341,
+          "following_count": 722,
+          "like_count": 207,
+          "listed_count": 1241,
+          "media_count": 651,
+          "tweet_count": 1249
+        },
+        "url": "https://t.co/5LCvS3MiEj",
+        "username": "axunkaOri",
+        "verified": true
+      }
+    ]
+  }
+}

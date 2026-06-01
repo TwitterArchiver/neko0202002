@@ -1,0 +1,488 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932812129566183424"
+      ],
+      "media_source_tweet_id": [
+        "1932812135895327039"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2041130754500088208",
+    "created_at": "2026-04-06T12:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T13:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041130754500088208"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 17,
+          "tag": "魔法少女まどかマギカ"
+        },
+        {
+          "end": 43,
+          "start": 29,
+          "tag": "madoka_magica"
+        },
+        {
+          "end": 52,
+          "start": 47,
+          "tag": "まどマギ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1885702777097326592",
+          "start": 3,
+          "username": "urokawa_you"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t6CXlOWXQ6",
+          "end": 82,
+          "expanded_url": "https://x.com/kaiku_kaikuu/status/1932812135895327039/photo/1",
+          "media_key": "3_1932812129566183424",
+          "start": 59,
+          "url": "https://t.co/t6CXlOWXQ6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041130754500088208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 127
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932812135895327039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @urokawa_you: #魔法少女まどかマギカ #madoka_magica\n   #まどマギ \n見えない https://t.co/t6CXlOWXQ6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1937,
+        "media_key": "3_1932812129566183424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtK6ZDBb0AAt4bC.jpg",
+        "width": 1201
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932812129566183424"
+          ],
+          "media_source_tweet_id": [
+            "1932812135895327039"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2041130754500088208",
+        "created_at": "2026-04-06T12:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T13:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041130754500088208"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 17,
+              "tag": "魔法少女まどかマギカ"
+            },
+            {
+              "end": 43,
+              "start": 29,
+              "tag": "madoka_magica"
+            },
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "まどマギ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1885702777097326592",
+              "start": 3,
+              "username": "urokawa_you"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t6CXlOWXQ6",
+              "end": 82,
+              "expanded_url": "https://x.com/kaiku_kaikuu/status/1932812135895327039/photo/1",
+              "media_key": "3_1932812129566183424",
+              "start": 59,
+              "url": "https://t.co/t6CXlOWXQ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041130754500088208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 127
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932812135895327039",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @urokawa_you: #魔法少女まどかマギカ #madoka_magica\n   #まどマギ \n見えない https://t.co/t6CXlOWXQ6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932812129566183424"
+          ]
+        },
+        "author_id": "1885702777097326592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "1932812135895327039",
+        "created_at": "2025-06-11T14:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T15:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932812135895327039"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "魔法少女まどかマギカ"
+            },
+            {
+              "end": 26,
+              "start": 12,
+              "tag": "madoka_magica"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "まどマギ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t6CXlOWXQ6",
+              "end": 65,
+              "expanded_url": "https://x.com/kaiku_kaikuu/status/1932812135895327039/photo/1",
+              "media_key": "3_1932812129566183424",
+              "start": 42,
+              "url": "https://t.co/t6CXlOWXQ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932812135895327039",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 12006,
+          "like_count": 878,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 127
+        },
+        "reply_settings": "everyone",
+        "text": "#魔法少女まどかマギカ #madoka_magica\n   #まどマギ \n見えない https://t.co/t6CXlOWXQ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/同类查成分互fo/可以称为千早/心理学重度依赖/学习学习学习/请和我做朋友ᗜ𖥦ᗜ✝︎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041043664290639872/MsU7KOlV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 767,
+          "like_count": 1021,
+          "listed_count": 2,
+          "media_count": 852,
+          "tweet_count": 2450
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T14:53:22.000Z",
+        "description": "illustration/雑多/無断転載･無断使用･AI学習禁止",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/62302762",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/62302762",
+                "start": 0,
+                "url": "https://t.co/HqXPBFiXNt"
+              }
+            ]
+          }
+        },
+        "id": "1885702777097326592",
+        "name": "空川憂",
+        "pinned_tweet_id": "2005609964543570420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992635869719855104/NNVcfqp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 92,
+          "like_count": 7871,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 394
+        },
+        "url": "https://t.co/HqXPBFiXNt",
+        "username": "urokawa_you",
+        "verified": false
+      }
+    ]
+  }
+}

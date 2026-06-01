@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2033271640830717952"
+      ],
+      "media_source_tweet_id": [
+        "2033271730781790279"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2033511111161741321",
+    "created_at": "2026-03-16T11:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T12:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033511111161741321"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 61,
+          "start": 55,
+          "tag": "shtwt"
+        },
+        {
+          "end": 70,
+          "start": 62,
+          "tag": "shedtwt"
+        },
+        {
+          "end": 79,
+          "start": 71,
+          "tag": "goretwt"
+        },
+        {
+          "end": 87,
+          "start": 80,
+          "tag": "988twt"
+        },
+        {
+          "end": 97,
+          "start": 88,
+          "tag": "988shtwt"
+        },
+        {
+          "end": 106,
+          "start": 98,
+          "tag": "slittwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2025775398890491904",
+          "start": 3,
+          "username": "ripkenno"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DqphC0qGkk",
+          "end": 130,
+          "expanded_url": "https://x.com/ripkenno/status/2033271730781790279/video/1",
+          "media_key": "13_2033271640830717952",
+          "start": 107,
+          "url": "https://t.co/DqphC0qGkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033511111161741321",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 524
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033271730781790279",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ripkenno: not that big but kinda cool sfx rib cut \n#shtwt #shedtwt #goretwt #988twt #988shtwt #slittwt https://t.co/DqphC0qGkk"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2033511111161741321].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2033511111161741321",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2033511111161741321"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29395,
+        "height": 482,
+        "media_key": "13_2033271640830717952",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2033271640830717952/img/SyZjqQgg3xAoxa-D.jpg",
+        "public_metrics": {
+          "view_count": 7489
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033271640830717952/vid/avc1/496x270/n5KdtO85lOMyGBtz.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033271640830717952/vid/avc1/662x360/eut7M6n77DF52d4t.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033271640830717952/vid/avc1/888x482/WaAO_bBVcCbvALOZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2033271640830717952/pl/25kpmKKJNCKCfGkj.m3u8"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033271640830717952"
+          ]
+        },
+        "author_id": "2025775398890491904",
+        "conversation_id": "2033271730781790279",
+        "created_at": "2026-03-15T19:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T20:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033271730781790279"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 41,
+              "tag": "shtwt"
+            },
+            {
+              "end": 56,
+              "start": 48,
+              "tag": "shedtwt"
+            },
+            {
+              "end": 65,
+              "start": 57,
+              "tag": "goretwt"
+            },
+            {
+              "end": 73,
+              "start": 66,
+              "tag": "988twt"
+            },
+            {
+              "end": 83,
+              "start": 74,
+              "tag": "988shtwt"
+            },
+            {
+              "end": 92,
+              "start": 84,
+              "tag": "slittwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DqphC0qGkk",
+              "end": 116,
+              "expanded_url": "https://x.com/ripkenno/status/2033271730781790279/video/1",
+              "media_key": "13_2033271640830717952",
+              "start": 93,
+              "url": "https://t.co/DqphC0qGkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033271730781790279",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 634,
+          "impression_count": 19591,
+          "like_count": 2712,
+          "quote_count": 9,
+          "reply_count": 95,
+          "retweet_count": 524
+        },
+        "reply_settings": "everyone",
+        "text": "not that big but kinda cool sfx rib cut \n#shtwt #shedtwt #goretwt #988twt #988shtwt #slittwt https://t.co/DqphC0qGkk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/评论被吞呃啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032192447573577728/C9yS_hXm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 571,
+          "like_count": 687,
+          "listed_count": 1,
+          "media_count": 465,
+          "tweet_count": 1474
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T03:31:31.000Z",
+        "description": "bmi 15 ndni 16y bipolar, conduct disorder \ndo not be surprised by any of my actions - account is for research/art purposes only PRO HORROR MOVIE SFX ARTIST",
+        "id": "2025775398890491904",
+        "location": "sniped at 2.9k💔",
+        "name": "kenno",
+        "pinned_tweet_id": "2033271730781790279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028318967203246080/jLjOLN3u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249,
+          "following_count": 425,
+          "like_count": 2281,
+          "listed_count": 5,
+          "media_count": 39,
+          "tweet_count": 376
+        },
+        "username": "ripkenno",
+        "verified": false
+      }
+    ]
+  }
+}

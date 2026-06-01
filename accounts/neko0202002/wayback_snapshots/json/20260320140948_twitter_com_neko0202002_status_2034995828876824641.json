@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2034995818324008963"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2034985593848176968",
+    "created_at": "2026-03-20T14:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T15:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034995828876824641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1276148275175755776",
+          "start": 0,
+          "username": "Haokuno_0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1HBjXl3az8",
+          "end": 38,
+          "expanded_url": "https://x.com/neko0202002/status/2034995828876824641/photo/1",
+          "media_key": "16_2034995818324008963",
+          "start": 15,
+          "url": "https://t.co/1HBjXl3az8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034995828876824641",
+    "in_reply_to_user_id": "1276148275175755776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034985593848176968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haokuno_0 内圈！ https://t.co/1HBjXl3az8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 498,
+        "media_key": "16_2034995818324008963",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HD3B6jaboAMVL9k.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HD3B6jaboAMVL9k.mp4"
+          }
+        ],
+        "width": 498
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2034985590333349891",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD24nNLboAMwRJV.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2034995818324008963"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2034985593848176968",
+        "created_at": "2026-03-20T14:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T15:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034995828876824641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1276148275175755776",
+              "start": 0,
+              "username": "Haokuno_0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1HBjXl3az8",
+              "end": 38,
+              "expanded_url": "https://x.com/neko0202002/status/2034995828876824641/photo/1",
+              "media_key": "16_2034995818324008963",
+              "start": 15,
+              "url": "https://t.co/1HBjXl3az8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034995828876824641",
+        "in_reply_to_user_id": "1276148275175755776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034985593848176968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haokuno_0 内圈！ https://t.co/1HBjXl3az8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034985590333349891"
+          ]
+        },
+        "author_id": "1276148275175755776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2034985593848176968",
+        "created_at": "2026-03-20T13:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T14:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034985593848176968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2033210933179449344/bnfJ4X6Q?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2033210933179449344/bnfJ4X6Q?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/qr74qrA7i2"
+            },
+            {
+              "display_url": "pic.x.com/pnq33f7cKY",
+              "end": 64,
+              "expanded_url": "https://x.com/Haokuno_0/status/2034985593848176968/photo/1",
+              "media_key": "3_2034985590333349891",
+              "start": 41,
+              "url": "https://t.co/pnq33f7cKY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034985593848176968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/qr74qrA7i2 https://t.co/pnq33f7cKY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/同类查成分互fo/请和我做朋友/ᗜ𖥦ᗜ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032192447573577728/C9yS_hXm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 632,
+          "like_count": 810,
+          "listed_count": 1,
+          "media_count": 553,
+          "tweet_count": 1752
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-25T13:40:45.000Z",
+        "description": "欢迎来到我的阴暗面 07 ENFP-T 🦁",
+        "id": "1276148275175755776",
+        "location": "日记本",
+        "name": "潇潇",
+        "pinned_tweet_id": "2031647286288060518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034078738712039424/MCUfN4n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 38,
+          "like_count": 448,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 577
+        },
+        "username": "Haokuno_0",
+        "verified": false
+      }
+    ]
+  }
+}

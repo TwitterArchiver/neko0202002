@@ -1,0 +1,574 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "1201641937502998528",
+          "name": "Arcade gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1201641937502998528",
+          "name": "Arcade gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2029847297677480239",
+    "created_at": "2026-03-06T09:11:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T10:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029847297677480239"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 56,
+          "start": 49,
+          "tag": "まどかマギカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "182324361",
+          "start": 3,
+          "username": "BANPRE_PZ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/MOSvTj",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/MOSvTj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029847297677480239",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3199
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029829601866948638",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BANPRE_PZ: ／\n✨フォロー＆リポストキャンペーン✨\n＼\n\n2月、3月登場予定の #まどかマギカ クレーンゲーム景品を抽選で100名様にプレゼント！\n※景品は選べません。\n\n応募締め切りは3月20日（金）23時59分まで♪\nhttps://t.co/MOSvTj…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2029741148294860800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCsW0gIb0AAVfMV.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1201641937502998528",
+              "name": "Arcade gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201641937502998528",
+              "name": "Arcade gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2029847297677480239",
+        "created_at": "2026-03-06T09:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T10:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029847297677480239"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 49,
+              "tag": "まどかマギカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "182324361",
+              "start": 3,
+              "username": "BANPRE_PZ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/MOSvTj",
+              "end": 139,
+              "start": 120,
+              "url": "https://t.co/MOSvTj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029847297677480239",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3199
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029829601866948638",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BANPRE_PZ: ／\n✨フォロー＆リポストキャンペーン✨\n＼\n\n2月、3月登場予定の #まどかマギカ クレーンゲーム景品を抽選で100名様にプレゼント！\n※景品は選べません。\n\n応募締め切りは3月20日（金）23時59分まで♪\nhttps://t.co/MOSvTj…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029741148294860800"
+          ]
+        },
+        "author_id": "182324361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1201641937502998528",
+              "name": "Arcade gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201641937502998528",
+              "name": "Arcade gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2029829601866948638",
+        "created_at": "2026-03-06T08:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T09:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029829601866948638"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 34,
+              "tag": "まどかマギカ"
+            },
+            {
+              "end": 161,
+              "start": 151,
+              "tag": "BANPRESTO"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「魔法少女まどか☆マギカキャンペーン」応募規約 株式会社BANDAI SPIRITS（以下、「当社」といいます）が主催する「魔法少女まどか☆マギカキャンペーン」（以下、「本キャンペーン」といいます）の適正かつ円滑な運営のため、本キャンペーンの応募規約（以下、「本規約」といいます）を以下のとおり定めます。本キャンペーンへの応募を希望される方は、ご応募いただく前に、本規約をご確認ください。ご応募いただいた方（以下、「応募者」といいます）は、本規約に同意したものとみなします。 応募者が未成年である場合には、必ず応募者の法定代理人（親権者等）とともに本規約を確認し、法定代理人の同意を得てからご応募ください。 ■キャンペーン概要 公式X（旧：Twitter）アカウント（@BANPRE_PZ）をフォローのうえ、対象の投稿をリポスト（リツイート、以下単に「リポスト」といいます）していただいた方の中から抽選で合計100名様に「魔法少女まどか☆マギカ」のプライズ商品を プレゼント。 ■キャンペーン期間 2026年3月6日(金)17:00～3月20日(金)23:59まで ■プレゼントの内容 下記賞品の中からお一人様につき1個を",
+              "display_url": "bsp-prize.jp/campaign/303/",
+              "end": 128,
+              "expanded_url": "https://bsp-prize.jp/campaign/303/",
+              "images": [
+                {
+                  "height": 213,
+                  "url": "https://pbs.twimg.com/news_img/2029829627607474176/WPqFglr3?format=jpg&name=orig",
+                  "width": 500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2029829627607474176/WPqFglr3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 105,
+              "status": 200,
+              "title": "魔法少女まどか☆マギカキャンペーン｜特集・キャンペーン｜バンプレストナビサイト シェアしよう",
+              "unwound_url": "https://bsp-prize.jp/campaign/303/",
+              "url": "https://t.co/MOSvTjXBfs"
+            },
+            {
+              "display_url": "pic.x.com/L4SVvotcTw",
+              "end": 185,
+              "expanded_url": "https://x.com/BANPRE_PZ/status/2029829601866948638/photo/1",
+              "media_key": "3_2029741148294860800",
+              "start": 162,
+              "url": "https://t.co/L4SVvotcTw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029829601866948638",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 185,
+          "impression_count": 56674,
+          "like_count": 1995,
+          "quote_count": 28,
+          "reply_count": 39,
+          "retweet_count": 3199
+        },
+        "reply_settings": "everyone",
+        "text": "／\n✨フォロー＆リポストキャンペーン✨\n＼\n\n2月、3月登場予定の #まどかマギカ クレーンゲーム景品を抽選で100名様にプレゼント！\n※景品は選べません。\n\n応募締め切りは3月20日（金）23時59分まで♪\nhttps://t.co/MOSvTjXBfs\n\nフォロー＆この投稿をリポストで応募完了👍\n#BANPRESTO https://t.co/L4SVvotcTw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/玛利亚什么的在上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "周防院奏",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028525324649328640/d35polxT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 490,
+          "like_count": 448,
+          "listed_count": 1,
+          "media_count": 276,
+          "tweet_count": 1022
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-24T10:14:17.000Z",
+        "description": "クレーンゲーム景品を企画開発する（株）BANDAI SPIRITSの『バンプレストブランド』公式アカウントです。\n新商品＆キャンペーン情報をお届けします！商品に関するアンケート実施中！詳細はパッケージをご確認ください。\n※個別のお問合せには対応しておりません。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsp-prize.jp",
+                "end": 23,
+                "expanded_url": "https://bsp-prize.jp/",
+                "start": 0,
+                "url": "https://t.co/Qv756g3jUX"
+              }
+            ]
+          }
+        },
+        "id": "182324361",
+        "location": "東京都 港区",
+        "name": "バンプレストブランド(BANDAI SPIRITS)",
+        "pinned_tweet_id": "2029392723892179202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732683578679676928/H7ywZGug_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735505,
+          "following_count": 147,
+          "like_count": 53,
+          "listed_count": 1785,
+          "media_count": 550005,
+          "tweet_count": 554776
+        },
+        "url": "https://t.co/Qv756g3jUX",
+        "username": "BANPRE_PZ",
+        "verified": true
+      }
+    ]
+  }
+}

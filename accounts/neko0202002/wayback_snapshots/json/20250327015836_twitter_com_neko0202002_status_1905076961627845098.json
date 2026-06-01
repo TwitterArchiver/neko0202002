@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "1902253537465389431",
+    "created_at": "2025-03-27T01:58:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T02:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905076961627845098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1385979996439814157",
+          "start": 0,
+          "username": "5OL5OdJlYuZ62Wo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905076961627845098",
+    "in_reply_to_user_id": "1385979996439814157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902253537465389431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5OL5OdJlYuZ62Wo 闲鱼上看到老师了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1902253531056500738",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmYpggda8AIpeqe.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1902253531069083655",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmYpggga8Acihi9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "1902253537465389431",
+        "created_at": "2025-03-27T01:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T02:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905076961627845098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1385979996439814157",
+              "start": 0,
+              "username": "5OL5OdJlYuZ62Wo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905076961627845098",
+        "in_reply_to_user_id": "1385979996439814157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902253537465389431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5OL5OdJlYuZ62Wo 闲鱼上看到老师了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902253531056500738",
+            "3_1902253531069083655"
+          ]
+        },
+        "author_id": "1385979996439814157",
+        "conversation_id": "1902253537465389431",
+        "created_at": "2025-03-19T06:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T07:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902253537465389431"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "片桐ユイ",
+              "probability": 0.9601,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "オトメき"
+            },
+            {
+              "end": 22,
+              "start": 12,
+              "tag": "オトメ世界の歩き方"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GNA3bf4GX4",
+              "end": 46,
+              "expanded_url": "https://x.com/5OL5OdJlYuZ62Wo/status/1902253537465389431/photo/1",
+              "media_key": "3_1902253531056500738",
+              "start": 23,
+              "url": "https://t.co/GNA3bf4GX4"
+            },
+            {
+              "display_url": "pic.x.com/GNA3bf4GX4",
+              "end": 46,
+              "expanded_url": "https://x.com/5OL5OdJlYuZ62Wo/status/1902253537465389431/photo/1",
+              "media_key": "3_1902253531069083655",
+              "start": 23,
+              "url": "https://t.co/GNA3bf4GX4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902253537465389431",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1154,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "片桐ユイ\n\n#オトメき #オトメ世界の歩き方 https://t.co/GNA3bf4GX4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "是我先……明明是我先的！喜欢也好，玩弄也好，还是给他穿上女装也好。——大藏里想奈",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "优子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820207946258636801/Y7EBnGVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 67,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 30
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-24T15:32:45.000Z",
+        "description": "",
+        "id": "1385979996439814157",
+        "name": "ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1562517866758320128/DzqQwHLe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6726,
+          "following_count": 17,
+          "like_count": 459,
+          "listed_count": 14,
+          "media_count": 817,
+          "tweet_count": 4014
+        },
+        "username": "5OL5OdJlYuZ62Wo",
+        "verified": false
+      }
+    ]
+  }
+}

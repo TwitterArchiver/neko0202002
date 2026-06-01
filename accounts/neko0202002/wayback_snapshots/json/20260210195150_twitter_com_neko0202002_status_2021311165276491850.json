@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1921691069160505344"
+      ],
+      "media_source_tweet_id": [
+        "1921691080505905203"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2021311165276491850",
+    "created_at": "2026-02-10T19:51:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T20:51:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021311165276491850"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "瑞穂お姉さま",
+          "probability": 0.4237,
+          "start": 31,
+          "type": "Person"
+        },
+        {
+          "end": 49,
+          "normalized_text": "瑞穂お姉さま",
+          "probability": 0.5179,
+          "start": 44,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 73,
+          "start": 68,
+          "tag": "おとボク"
+        },
+        {
+          "end": 82,
+          "start": 74,
+          "tag": "otoboku"
+        },
+        {
+          "end": 89,
+          "start": 83,
+          "tag": "宮小路瑞穂"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1594242221804777473",
+          "start": 3,
+          "username": "hinata_pipipi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EEix3yZhNY",
+          "end": 113,
+          "expanded_url": "https://x.com/hinata_pipipi/status/1921691080505905203/photo/1",
+          "media_key": "3_1921691069160505344",
+          "start": 90,
+          "url": "https://t.co/EEix3yZhNY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021311165276491850",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921691080505905203",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hinata_pipipi: 本日5月12日は、宮小路瑞穂お姉さまの誕生日🎂\n瑞穂お姉さま、お誕生日おめでとうございます🎉🎁🎀\n#おとボク #otoboku #宮小路瑞穂 https://t.co/EEix3yZhNY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_1921691069160505344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqs32IlaQAAD75F.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921691069160505344"
+          ],
+          "media_source_tweet_id": [
+            "1921691080505905203"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2021311165276491850",
+        "created_at": "2026-02-10T19:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T20:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021311165276491850"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "瑞穂お姉さま",
+              "probability": 0.4237,
+              "start": 31,
+              "type": "Person"
+            },
+            {
+              "end": 49,
+              "normalized_text": "瑞穂お姉さま",
+              "probability": 0.5179,
+              "start": 44,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 73,
+              "start": 68,
+              "tag": "おとボク"
+            },
+            {
+              "end": 82,
+              "start": 74,
+              "tag": "otoboku"
+            },
+            {
+              "end": 89,
+              "start": 83,
+              "tag": "宮小路瑞穂"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1594242221804777473",
+              "start": 3,
+              "username": "hinata_pipipi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EEix3yZhNY",
+              "end": 113,
+              "expanded_url": "https://x.com/hinata_pipipi/status/1921691080505905203/photo/1",
+              "media_key": "3_1921691069160505344",
+              "start": 90,
+              "url": "https://t.co/EEix3yZhNY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021311165276491850",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921691080505905203",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hinata_pipipi: 本日5月12日は、宮小路瑞穂お姉さまの誕生日🎂\n瑞穂お姉さま、お誕生日おめでとうございます🎉🎁🎀\n#おとボク #otoboku #宮小路瑞穂 https://t.co/EEix3yZhNY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921691069160505344"
+          ]
+        },
+        "author_id": "1594242221804777473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1921691080505905203",
+        "created_at": "2025-05-11T22:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T23:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921691080505905203"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "瑞穂お姉さま",
+              "probability": 0.4072,
+              "start": 12,
+              "type": "Person"
+            },
+            {
+              "end": 30,
+              "normalized_text": "瑞穂お姉さま",
+              "probability": 0.5082,
+              "start": 25,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 49,
+              "tag": "おとボク"
+            },
+            {
+              "end": 63,
+              "start": 55,
+              "tag": "otoboku"
+            },
+            {
+              "end": 70,
+              "start": 64,
+              "tag": "宮小路瑞穂"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EEix3yZhNY",
+              "end": 94,
+              "expanded_url": "https://x.com/hinata_pipipi/status/1921691080505905203/photo/1",
+              "media_key": "3_1921691069160505344",
+              "start": 71,
+              "url": "https://t.co/EEix3yZhNY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921691080505905203",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1139,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "本日5月12日は、宮小路瑞穂お姉さまの誕生日🎂\n瑞穂お姉さま、お誕生日おめでとうございます🎉🎁🎀\n#おとボク #otoboku #宮小路瑞穂 https://t.co/EEix3yZhNY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "os.remove ( '' characters / Itami. chr '' )\n\n啧，删不掉… … …有人在看吗？啊！我是Monika,你好，又见面了",
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "たかしま　いちこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020556596078882816/biv5D8wv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 310,
+          "like_count": 71,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 343
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T08:13:09.000Z",
+        "description": "おとボク大好きです！Twitterからおとボク界盛り上げるぞ！",
+        "id": "1594242221804777473",
+        "location": "聖應女学院",
+        "name": "KAYLEIGH",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677558899468271616/g9Xne_ZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 57,
+          "like_count": 1085,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 689
+        },
+        "username": "hinata_pipipi",
+        "verified": false
+      }
+    ]
+  }
+}

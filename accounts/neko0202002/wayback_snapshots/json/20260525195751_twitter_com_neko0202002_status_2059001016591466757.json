@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2059001005719908352"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2058936724517196243",
+    "created_at": "2026-05-25T19:57:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T20:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059001016591466757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1626950227910606854",
+          "start": 0,
+          "username": "YeZi_Vtuber"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YGBSyveLGU",
+          "end": 40,
+          "expanded_url": "https://x.com/neko0202002/status/2059001016591466757/photo/1",
+          "media_key": "16_2059001005719908352",
+          "start": 17,
+          "url": "https://t.co/YGBSyveLGU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059001016591466757",
+    "in_reply_to_user_id": "1626950227910606854",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058936724517196243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YeZi_Vtuber 乖孩子 https://t.co/YGBSyveLGU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 424,
+        "media_key": "16_2059001005719908352",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HJMKgXIbcAAiFDY.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HJMKgXIbcAAiFDY.mp4"
+          }
+        ],
+        "width": 498
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058936721342156800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJLQChKbUAAk-wF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2059001005719908352"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2058936724517196243",
+        "created_at": "2026-05-25T19:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T20:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059001016591466757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1626950227910606854",
+              "start": 0,
+              "username": "YeZi_Vtuber"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YGBSyveLGU",
+              "end": 40,
+              "expanded_url": "https://x.com/neko0202002/status/2059001016591466757/photo/1",
+              "media_key": "16_2059001005719908352",
+              "start": 17,
+              "url": "https://t.co/YGBSyveLGU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059001016591466757",
+        "in_reply_to_user_id": "1626950227910606854",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058936724517196243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YeZi_Vtuber 乖孩子 https://t.co/YGBSyveLGU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058936721342156800"
+          ]
+        },
+        "author_id": "1626950227910606854",
+        "conversation_id": "2058936724517196243",
+        "created_at": "2026-05-25T15:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058936724517196243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NEfTJfNJxK",
+              "end": 52,
+              "expanded_url": "https://x.com/YeZi_Vtuber/status/2058936724517196243/photo/1",
+              "media_key": "3_2058936721342156800",
+              "start": 29,
+              "url": "https://t.co/NEfTJfNJxK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058936724517196243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "又到了捐頭髮的時候了！\n這次悠悠留比較長！\n可以捐兩束！ https://t.co/NEfTJfNJxK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 991,
+          "like_count": 1614,
+          "listed_count": 2,
+          "media_count": 1452,
+          "tweet_count": 4057
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-18T14:22:33.000Z",
+        "description": "（靈魂是男生）\n繪師媽媽：@MuCheng_tw Live2D爸爸：@Border_Sylph 經由轉生魔法來到這個世界的大魔法師～ 直接叫我夜紫🌿就好～ 可以說我是魔法師、巫師、魔法使 但我不是魔法少女！！ 我只是剛好會魔法、又剛好是少女的姿態而已！！ 所有連結：https://t.co/sAPBpSsfSf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "MuCheng_tw"
+              },
+              {
+                "end": 47,
+                "start": 34,
+                "username": "Border_Sylph"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "joy.link/yezivtuber",
+                "end": 156,
+                "expanded_url": "http://joy.link/yezivtuber",
+                "start": 133,
+                "url": "https://t.co/sAPBpSsfSf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCxhw8…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCxhw8PW8E9XNcheS_OevlSg",
+                "start": 0,
+                "url": "https://t.co/2nW9iR1ugK"
+              }
+            ]
+          }
+        },
+        "id": "1626950227910606854",
+        "name": "✡夜紫 悠YeZi✡新衣裝準備中！",
+        "pinned_tweet_id": "1690553372494196736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787682893881540608/eGW1DsDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1709,
+          "following_count": 647,
+          "like_count": 16256,
+          "listed_count": 9,
+          "media_count": 1113,
+          "tweet_count": 11088
+        },
+        "url": "https://t.co/2nW9iR1ugK",
+        "username": "YeZi_Vtuber",
+        "verified": false
+      }
+    ]
+  }
+}

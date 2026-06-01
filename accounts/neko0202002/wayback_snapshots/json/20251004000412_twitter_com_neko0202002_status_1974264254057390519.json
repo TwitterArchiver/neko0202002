@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965671370857357312"
+      ],
+      "media_source_tweet_id": [
+        "1965671379887702147"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "1974264254057390519",
+    "created_at": "2025-10-04T00:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T01:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974264254057390519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1907352777577414656",
+          "start": 3,
+          "username": "makasa789654"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xRmb0N5EhL",
+          "end": 41,
+          "expanded_url": "https://x.com/makasa789654/status/1965671379887702147/photo/1",
+          "media_key": "3_1965671370857357312",
+          "start": 18,
+          "url": "https://t.co/xRmb0N5EhL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974264254057390519",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 118
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965671379887702147",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @makasa789654: https://t.co/xRmb0N5EhL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1974264254057390519].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1974264254057390519",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1974264254057390519"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965671370857357312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0d3sn0boAAuWUh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965671370857357312"
+          ]
+        },
+        "author_id": "1907352777577414656",
+        "conversation_id": "1965671379887702147",
+        "created_at": "2025-09-10T06:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T07:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965671379887702147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xRmb0N5EhL",
+              "end": 23,
+              "expanded_url": "https://x.com/makasa789654/status/1965671379887702147/photo/1",
+              "media_key": "3_1965671370857357312",
+              "start": 0,
+              "url": "https://t.co/xRmb0N5EhL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965671379887702147",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 750,
+          "impression_count": 86684,
+          "like_count": 2982,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 118
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xRmb0N5EhL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "千早！！！！",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "千早！！！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969638863611314177/gBJCYfnM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 182,
+          "like_count": 63,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 224
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-02T08:42:55.000Z",
+        "description": "🚪108/288/520/1314买图包私信",
+        "id": "1907352777577414656",
+        "name": "我在胃酸中求救",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964144947248128000/QLsxlINj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14290,
+          "following_count": 50,
+          "like_count": 285,
+          "listed_count": 53,
+          "media_count": 15,
+          "tweet_count": 56
+        },
+        "username": "makasa789654",
+        "verified": false
+      }
+    ]
+  }
+}

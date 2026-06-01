@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998054232277360642"
+      ],
+      "media_source_tweet_id": [
+        "1998055876763271666"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "1998816572828430668",
+    "created_at": "2025-12-10T18:06:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T19:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998816572828430668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1476159443197116418",
+          "start": 3,
+          "username": "Omiyaro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w9mS0KmC0x",
+          "end": 39,
+          "expanded_url": "https://x.com/Omiyaro/status/1998055876763271666/photo/1",
+          "media_key": "3_1998054232277360642",
+          "start": 16,
+          "url": "https://t.co/w9mS0KmC0x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998816572828430668",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 172
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998055876763271666",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Omiyaro: 廻天 https://t.co/w9mS0KmC0x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1998054232277360642",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7qDvPTboAI3iUT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998054232277360642"
+          ],
+          "media_source_tweet_id": [
+            "1998055876763271666"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "1998816572828430668",
+        "created_at": "2025-12-10T18:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T19:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998816572828430668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1476159443197116418",
+              "start": 3,
+              "username": "Omiyaro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w9mS0KmC0x",
+              "end": 39,
+              "expanded_url": "https://x.com/Omiyaro/status/1998055876763271666/photo/1",
+              "media_key": "3_1998054232277360642",
+              "start": 16,
+              "url": "https://t.co/w9mS0KmC0x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998816572828430668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 172
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998055876763271666",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Omiyaro: 廻天 https://t.co/w9mS0KmC0x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998054232277360642"
+          ]
+        },
+        "author_id": "1476159443197116418",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "1998055876763271666",
+        "created_at": "2025-12-08T15:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T16:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998055876763271666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w9mS0KmC0x",
+              "end": 26,
+              "expanded_url": "https://x.com/Omiyaro/status/1998055876763271666/photo/1",
+              "media_key": "3_1998054232277360642",
+              "start": 3,
+              "url": "https://t.co/w9mS0KmC0x"
+            },
+            {
+              "display_url": "x.com/Omiyaro/status…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Omiyaro/status/1990603654769107170",
+              "start": 27,
+              "url": "https://t.co/2QojkBBT5M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998055876763271666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 173,
+          "impression_count": 46536,
+          "like_count": 2595,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 172
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990603654769107170",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "廻天 https://t.co/w9mS0KmC0x https://t.co/2QojkBBT5M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "Caramel Box",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "九重",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997232524024774657/EdJxwXIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 232,
+          "like_count": 68,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 272
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T11:53:52.000Z",
+        "description": "版権雑多垢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCjBWN…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCjBWNy986bbz2p6aUriqqjw",
+                "start": 0,
+                "url": "https://t.co/fDVcoN6lud"
+              }
+            ]
+          }
+        },
+        "id": "1476159443197116418",
+        "name": "御宮",
+        "pinned_tweet_id": "1912289571905450105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822958572671758336/SfLlvCP2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4066,
+          "following_count": 37,
+          "like_count": 12036,
+          "listed_count": 18,
+          "media_count": 122,
+          "tweet_count": 388
+        },
+        "url": "https://t.co/fDVcoN6lud",
+        "username": "Omiyaro",
+        "verified": false
+      }
+    ]
+  }
+}

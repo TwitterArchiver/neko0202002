@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "1929432889445229016",
+    "created_at": "2025-06-02T07:00:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T08:00:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929432889445229016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "124738430",
+          "start": 3,
+          "username": "itou_hiro"
+        },
+        {
+          "end": 25,
+          "id": "30901695",
+          "start": 15,
+          "username": "TanakaKei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929432889445229016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1708144664652734888",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itou_hiro: @TanakaKei 本当は「百合×薔薇」か「アンチ・マジカル」だけ書き続けていたかった…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "1929432889445229016",
+        "created_at": "2025-06-02T07:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T08:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929432889445229016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "124738430",
+              "start": 3,
+              "username": "itou_hiro"
+            },
+            {
+              "end": 25,
+              "id": "30901695",
+              "start": 15,
+              "username": "TanakaKei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929432889445229016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1708144664652734888",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itou_hiro: @TanakaKei 本当は「百合×薔薇」か「アンチ・マジカル」だけ書き続けていたかった…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "124738430",
+        "conversation_id": "1707271505367941202",
+        "created_at": "2023-09-30T15:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2023-09-30T16:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1708144664652734888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "30901695",
+              "start": 0,
+              "username": "TanakaKei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1708144664652734888",
+        "in_reply_to_user_id": "30901695",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1707271505367941202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TanakaKei 本当は「百合×薔薇」か「アンチ・マジカル」だけ書き続けていたかった…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "千早！！！！",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "千早！！！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922919174591971328/2WZ4op6P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 147,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 163
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-20T11:48:58.000Z",
+        "description": "文学賞作家。代表作は「土下座奉行」「女騎士さん、ジャスコ行こうよ」「魔法少女禁止法」「異世界誕生2006」「魔王が家賃を払ってくれない」など。小説、ゲームシナリオ、アニメ脚本ほか、お仕事よろず承ります。メールアドレスは hay47230@moon.odn.ne.jp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.livedoor.jp/itouitski002/",
+                "end": 23,
+                "expanded_url": "http://blog.livedoor.jp/itouitski002/",
+                "start": 0,
+                "url": "https://t.co/LHrigFh52W"
+              }
+            ]
+          }
+        },
+        "id": "124738430",
+        "location": "東京都杉並区",
+        "name": "伊藤ヒロ@「女騎士さん、ジャスコ行こうよ」",
+        "pinned_tweet_id": "1908392288482734232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/771720603/___normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4498,
+          "following_count": 1439,
+          "like_count": 52857,
+          "listed_count": 237,
+          "media_count": 1189,
+          "tweet_count": 151281
+        },
+        "url": "https://t.co/LHrigFh52W",
+        "username": "itou_hiro",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-13T16:53:26.000Z",
+        "description": "蒼天已死 。作家、ライター。アニメ関係記事や、ノベライズ、オリジナル小説、ゲームテキスト等請け負います。Amazon経由の支援物資受付中 https://t.co/0ytC3pqySf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 92,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/UEZKTVFHS9QT?ref_=wl_share",
+                "start": 69,
+                "url": "https://t.co/0ytC3pqySf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "imgft1968.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://imgft1968.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/ue3a9Je8YB"
+              }
+            ]
+          }
+        },
+        "id": "30901695",
+        "location": "最近はデニーズ在住",
+        "name": "田中桂　（作家）　人道的な仕事と、FANBOX支援者募集中です",
+        "pinned_tweet_id": "1451715550858539009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019535833/12060b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4297,
+          "following_count": 3957,
+          "like_count": 109697,
+          "listed_count": 176,
+          "media_count": 5892,
+          "tweet_count": 711888
+        },
+        "url": "https://t.co/ue3a9Je8YB",
+        "username": "TanakaKei",
+        "verified": false
+      }
+    ]
+  }
+}

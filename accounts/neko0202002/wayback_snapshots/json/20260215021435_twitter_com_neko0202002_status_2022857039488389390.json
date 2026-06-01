@@ -1,0 +1,556 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009971582710775808"
+      ],
+      "media_source_tweet_id": [
+        "2009971591481045104"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2022857039488389390",
+    "created_at": "2026-02-15T02:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T03:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022857039488389390"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 84,
+          "normalized_text": "＠emo231N さん",
+          "probability": 0.605,
+          "start": 74,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 45,
+          "tag": "まほあこ"
+        },
+        {
+          "end": 60,
+          "start": 51,
+          "tag": "C107_cos"
+        },
+        {
+          "end": 71,
+          "start": 62,
+          "tag": "C107コスプレ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1546102572561612800",
+          "start": 3,
+          "username": "tosaka1126"
+        },
+        {
+          "end": 81,
+          "id": "95235059",
+          "start": 73,
+          "username": "emo231N"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pknH26N5m4",
+          "end": 108,
+          "expanded_url": "https://x.com/tosaka1126/status/2009971591481045104/photo/1",
+          "media_key": "3_2009971582710775808",
+          "start": 85,
+          "url": "https://t.co/pknH26N5m4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022857039488389390",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 335
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009971591481045104",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tosaka1126: 魔法少女にあこがれて\ncosplay\nレオパルト　真化\n\n#まほあこ\n#C107_cos \n#C107コスプレ\n📸＠emo231N さん https://t.co/pknH26N5m4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2009971582710775808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-TagVQbAAATqfy.jpg",
+        "width": 2732
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009971582710775808"
+          ],
+          "media_source_tweet_id": [
+            "2009971591481045104"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2022857039488389390",
+        "created_at": "2026-02-15T02:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T03:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022857039488389390"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 84,
+              "normalized_text": "＠emo231N さん",
+              "probability": 0.605,
+              "start": 74,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 45,
+              "tag": "まほあこ"
+            },
+            {
+              "end": 60,
+              "start": 51,
+              "tag": "C107_cos"
+            },
+            {
+              "end": 71,
+              "start": 62,
+              "tag": "C107コスプレ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1546102572561612800",
+              "start": 3,
+              "username": "tosaka1126"
+            },
+            {
+              "end": 81,
+              "id": "95235059",
+              "start": 73,
+              "username": "emo231N"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pknH26N5m4",
+              "end": 108,
+              "expanded_url": "https://x.com/tosaka1126/status/2009971591481045104/photo/1",
+              "media_key": "3_2009971582710775808",
+              "start": 85,
+              "url": "https://t.co/pknH26N5m4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022857039488389390",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 335
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009971591481045104",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tosaka1126: 魔法少女にあこがれて\ncosplay\nレオパルト　真化\n\n#まほあこ\n#C107_cos \n#C107コスプレ\n📸＠emo231N さん https://t.co/pknH26N5m4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009971582710775808"
+          ]
+        },
+        "author_id": "1546102572561612800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2009971591481045104",
+        "created_at": "2026-01-10T12:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T13:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009971591481045104"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "まほあこ"
+            },
+            {
+              "end": 44,
+              "start": 35,
+              "tag": "C107_cos"
+            },
+            {
+              "end": 55,
+              "start": 46,
+              "tag": "C107コスプレ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 65,
+              "id": "95235059",
+              "start": 57,
+              "username": "emo231N"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pknH26N5m4",
+              "end": 92,
+              "expanded_url": "https://x.com/tosaka1126/status/2009971591481045104/photo/1",
+              "media_key": "3_2009971582710775808",
+              "start": 69,
+              "url": "https://t.co/pknH26N5m4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009971591481045104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1244,
+          "impression_count": 161554,
+          "like_count": 7321,
+          "quote_count": 5,
+          "reply_count": 19,
+          "retweet_count": 335
+        },
+        "reply_settings": "everyone",
+        "text": "魔法少女にあこがれて\ncosplay\nレオパルト　真化\n\n#まほあこ\n#C107_cos \n#C107コスプレ\n📸＠emo231N さん https://t.co/pknH26N5m4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "os.remove ( '' characters / Itami. chr '' )\n\n啧，删不掉… … …有人在看吗？啊！我是Monika,你好，又见面了",
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "宫小路优",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021710375767748609/ib-k9EuR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 323,
+          "like_count": 75,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 370
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T12:02:42.000Z",
+        "description": "コスプレ　イラスト　食べる事が好きです🫶",
+        "id": "1546102572561612800",
+        "name": "びすこ",
+        "pinned_tweet_id": "2009971591481045104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020117840871981056/pGvyu14r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9378,
+          "following_count": 375,
+          "like_count": 14755,
+          "listed_count": 57,
+          "media_count": 1911,
+          "tweet_count": 11246
+        },
+        "username": "tosaka1126",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-07T16:48:25.000Z",
+        "description": "雑多𝕏（旧Twitter）アカウント。リプもクソリプも正義。政治のツイートしかしない人とパクツイだけはカンベンな。エロスパム死すべし、慈悲はない。時々実況。檻の中の動物にリプを投げて。　何かの時のためにmixi2とmastodonとblueskyは一応ある ゲーム/アニメ/写真/F1",
+        "id": "95235059",
+        "location": "GOTTA MIX",
+        "name": "エモ",
+        "pinned_tweet_id": "1979481764247830750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973680163935399936/nPM_rhIr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 597,
+          "like_count": 29809,
+          "listed_count": 23,
+          "media_count": 9198,
+          "tweet_count": 290885
+        },
+        "username": "emo231N",
+        "verified": false
+      }
+    ]
+  }
+}

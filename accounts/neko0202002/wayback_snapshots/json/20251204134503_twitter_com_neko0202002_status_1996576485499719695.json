@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996223456820834304"
+      ],
+      "media_source_tweet_id": [
+        "1996223504262541323"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "1996576485499719695",
+    "created_at": "2025-12-04T13:45:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T14:45:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996576485499719695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1290122902193319937",
+          "start": 3,
+          "username": "memesan1014"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oUsxcljzdw",
+          "end": 50,
+          "expanded_url": "https://x.com/memesan1014/status/1996223504262541323/photo/1",
+          "media_key": "3_1996223456820834304",
+          "start": 27,
+          "url": "https://t.co/oUsxcljzdw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996576485499719695",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 297
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996223504262541323",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @memesan1014: キツイ…キツイよ… https://t.co/oUsxcljzdw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 748,
+        "media_key": "3_1996223456820834304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7QCqFQbsAAPg25.jpg",
+        "width": 956
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996223456820834304"
+          ],
+          "media_source_tweet_id": [
+            "1996223504262541323"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "1996576485499719695",
+        "created_at": "2025-12-04T13:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T14:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996576485499719695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1290122902193319937",
+              "start": 3,
+              "username": "memesan1014"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oUsxcljzdw",
+              "end": 50,
+              "expanded_url": "https://x.com/memesan1014/status/1996223504262541323/photo/1",
+              "media_key": "3_1996223456820834304",
+              "start": 27,
+              "url": "https://t.co/oUsxcljzdw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996576485499719695",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 297
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996223504262541323",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @memesan1014: キツイ…キツイよ… https://t.co/oUsxcljzdw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996223456820834304"
+          ]
+        },
+        "author_id": "1290122902193319937",
+        "conversation_id": "1996223504262541323",
+        "created_at": "2025-12-03T14:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T15:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996223504262541323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oUsxcljzdw",
+              "end": 33,
+              "expanded_url": "https://x.com/memesan1014/status/1996223504262541323/photo/1",
+              "media_key": "3_1996223456820834304",
+              "start": 10,
+              "url": "https://t.co/oUsxcljzdw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996223504262541323",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4497,
+          "impression_count": 1036356,
+          "like_count": 11881,
+          "quote_count": 32,
+          "reply_count": 14,
+          "retweet_count": 297
+        },
+        "reply_settings": "everyone",
+        "text": "キツイ…キツイよ… https://t.co/oUsxcljzdw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "Caramel Box",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "八重",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994271217029926913/pXdsBYN8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 307,
+          "like_count": 68,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 263
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-03T03:10:53.000Z",
+        "description": "It's a Wonderful Life！\n好きな作品は「智代アフター」\n最推しは「坂上智代」 \n  作品評価は客観的視点で完成度で評価→https://t.co/J03Jzfjf1G",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "erogamescape.org/~ap2/ero/touke…",
+                "end": 93,
+                "expanded_url": "https://erogamescape.org/~ap2/ero/toukei_kaiseki/user_infomation.php?user=shins1014",
+                "start": 70,
+                "url": "https://t.co/J03Jzfjf1G"
+              }
+            ]
+          }
+        },
+        "id": "1290122902193319937",
+        "name": "『しんすさん』もりのくまさん",
+        "pinned_tweet_id": "1994759803269517587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1691806737278345216/pA_MbS7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1782,
+          "following_count": 1552,
+          "like_count": 67279,
+          "listed_count": 14,
+          "media_count": 5370,
+          "tweet_count": 50637
+        },
+        "username": "memesan1014",
+        "verified": false
+      }
+    ]
+  }
+}

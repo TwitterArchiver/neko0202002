@@ -1,0 +1,589 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "855324259475836929",
+          "name": "Granblue Fantasy"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "855324259475836929",
+          "name": "Granblue Fantasy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "855324259475836929",
+          "name": "Granblue Fantasy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "1916096537613976032",
+    "created_at": "2025-04-26T11:46:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T12:46:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916096537613976032"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 14,
+          "tag": "commissions"
+        },
+        {
+          "end": 44,
+          "start": 28,
+          "tag": "GranblueFantasy"
+        },
+        {
+          "end": 50,
+          "start": 45,
+          "tag": "グラブル"
+        },
+        {
+          "end": 56,
+          "start": 51,
+          "tag": "ナルメア"
+        },
+        {
+          "end": 65,
+          "start": 57,
+          "tag": "Narmaya"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1631316634223939586",
+          "start": 3,
+          "username": "ben404yg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916096537613976032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 672
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818223911601147995",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ben404yg: #commissions  #GranblueFantasy #グラブル #ナルメア #Narmaya \nナルメアのマウスポインター    \nNarmaya's Pixel Cursors     \n娜尔梅亚像素鼠标指针  \n\n無料ダウンロード(fr…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1074,
+        "media_key": "16_1818223841182892032",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GTug8z_aQAAdf01.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GTug8z_aQAAdf01.mp4"
+          }
+        ],
+        "width": 1326
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855324259475836929",
+              "name": "Granblue Fantasy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855324259475836929",
+              "name": "Granblue Fantasy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855324259475836929",
+              "name": "Granblue Fantasy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1916096537613976032",
+        "created_at": "2025-04-26T11:46:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T12:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916096537613976032"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 14,
+              "tag": "commissions"
+            },
+            {
+              "end": 44,
+              "start": 28,
+              "tag": "GranblueFantasy"
+            },
+            {
+              "end": 50,
+              "start": 45,
+              "tag": "グラブル"
+            },
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "ナルメア"
+            },
+            {
+              "end": 65,
+              "start": 57,
+              "tag": "Narmaya"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1631316634223939586",
+              "start": 3,
+              "username": "ben404yg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916096537613976032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 672
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818223911601147995",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ben404yg: #commissions  #GranblueFantasy #グラブル #ナルメア #Narmaya \nナルメアのマウスポインター    \nNarmaya's Pixel Cursors     \n娜尔梅亚像素鼠标指针  \n\n無料ダウンロード(fr…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1818223841182892032"
+          ]
+        },
+        "author_id": "1631316634223939586",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855324259475836929",
+              "name": "Granblue Fantasy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855324259475836929",
+              "name": "Granblue Fantasy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "855324259475836929",
+              "name": "Granblue Fantasy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "1818223911601147995",
+        "created_at": "2024-07-30T09:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T10:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818223911601147995"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "commissions"
+            },
+            {
+              "end": 30,
+              "start": 14,
+              "tag": "GranblueFantasy"
+            },
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "グラブル"
+            },
+            {
+              "end": 42,
+              "start": 37,
+              "tag": "ナルメア"
+            },
+            {
+              "end": 51,
+              "start": 43,
+              "tag": "Narmaya"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Donation will help me to create more animated cursor in the future. *Please do not claim or rename the files as your own. *Please do not distribute ...",
+              "display_url": "ko-fi.com/s/a73b000d00",
+              "end": 162,
+              "expanded_url": "https://ko-fi.com/s/a73b000d00",
+              "start": 139,
+              "status": 200,
+              "title": "Narmaya's Pixel Cursors - 乱涂乱画BEN's Ko-fi Shop",
+              "unwound_url": "https://ko-fi.com/s/a73b000d00",
+              "url": "https://t.co/lD0YQ3mjkk"
+            },
+            {
+              "display_url": "pic.x.com/oqQUIJZHeb",
+              "end": 186,
+              "expanded_url": "https://x.com/ben404yg/status/1818223911601147995/photo/1",
+              "media_key": "16_1818223841182892032",
+              "start": 163,
+              "url": "https://t.co/oqQUIJZHeb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818223911601147995",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1009,
+          "impression_count": 111859,
+          "like_count": 2762,
+          "quote_count": 8,
+          "reply_count": 7,
+          "retweet_count": 672
+        },
+        "reply_settings": "everyone",
+        "text": "#commissions  #GranblueFantasy #グラブル #ナルメア #Narmaya \nナルメアのマウスポインター    \nNarmaya's Pixel Cursors     \n娜尔梅亚像素鼠标指针  \n\n無料ダウンロード(free download)👇\nhttps://t.co/lD0YQ3mjkk https://t.co/oqQUIJZHeb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "是我先……明明是我先的！喜欢也好，玩弄也好，还是给他穿上女装也好。——大藏里想奈",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "优子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909135311457976320/_gd-CZyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 121,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 81
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-02T15:32:57.000Z",
+        "description": "🇨🇳\n会画点像素画。\nvgen （约稿、commissions）：https://t.co/ifBNTIIVeC\npixiv：https://t.co/YBmrwEFmYR\nko-fi：https://t.co/i4xqWHX6x8\nbsky：@ben404yg\nb站、米画师同名",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 122,
+                "username": "ben404yg"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vgen.co/ben404yg",
+                "end": 56,
+                "expanded_url": "http://vgen.co/ben404yg",
+                "start": 33,
+                "url": "https://t.co/ifBNTIIVeC"
+              },
+              {
+                "display_url": "pixiv.net/users/16588440",
+                "end": 86,
+                "expanded_url": "http://pixiv.net/users/16588440",
+                "start": 63,
+                "url": "https://t.co/YBmrwEFmYR"
+              },
+              {
+                "display_url": "ko-fi.com/bentu404",
+                "end": 116,
+                "expanded_url": "http://ko-fi.com/bentu404",
+                "start": 93,
+                "url": "https://t.co/i4xqWHX6x8"
+              }
+            ]
+          }
+        },
+        "id": "1631316634223939586",
+        "location": "中国",
+        "name": "乱涂乱画BEN",
+        "pinned_tweet_id": "1812031467440288101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811230122542047232/jut9oqQH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34002,
+          "following_count": 956,
+          "like_count": 5234,
+          "listed_count": 78,
+          "media_count": 689,
+          "tweet_count": 3950
+        },
+        "username": "ben404yg",
+        "verified": true
+      }
+    ]
+  }
+}

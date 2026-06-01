@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030293320447197184"
+      ],
+      "media_source_tweet_id": [
+        "2030293329339138471"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2030440628627329168",
+    "created_at": "2026-03-08T00:29:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T01:29:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030440628627329168"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "ほむら",
+          "probability": 0.5126,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1966897334257958912",
+          "start": 3,
+          "username": "8110egoist"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JjTYnvpyJ9",
+          "end": 51,
+          "expanded_url": "https://x.com/8110egoist/status/2030293329339138471/photo/1",
+          "media_key": "3_2030293320447197184",
+          "start": 28,
+          "url": "https://t.co/JjTYnvpyJ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030440628627329168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030293329339138471",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8110egoist: ほむらもクオリティ高い https://t.co/JjTYnvpyJ9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2030293320447197184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0NBJsagAA3yYs.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030293320447197184"
+          ],
+          "media_source_tweet_id": [
+            "2030293329339138471"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030440628627329168",
+        "created_at": "2026-03-08T00:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T01:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030440628627329168"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "ほむら",
+              "probability": 0.5126,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1966897334257958912",
+              "start": 3,
+              "username": "8110egoist"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JjTYnvpyJ9",
+              "end": 51,
+              "expanded_url": "https://x.com/8110egoist/status/2030293329339138471/photo/1",
+              "media_key": "3_2030293320447197184",
+              "start": 28,
+              "url": "https://t.co/JjTYnvpyJ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030440628627329168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030293329339138471",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8110egoist: ほむらもクオリティ高い https://t.co/JjTYnvpyJ9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030293320447197184"
+          ]
+        },
+        "author_id": "1966897334257958912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030293329339138471",
+        "created_at": "2026-03-07T14:43:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T15:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030293329339138471"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "ほむら",
+              "probability": 0.616,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JjTYnvpyJ9",
+              "end": 35,
+              "expanded_url": "https://x.com/8110egoist/status/2030293329339138471/photo/1",
+              "media_key": "3_2030293320447197184",
+              "start": 12,
+              "url": "https://t.co/JjTYnvpyJ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030293329339138471",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 5760,
+          "like_count": 403,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "ほむらもクオリティ高い https://t.co/JjTYnvpyJ9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/玛利亚什么的在上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "周防院奏",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028525324649328640/d35polxT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 507,
+          "like_count": 531,
+          "listed_count": 1,
+          "media_count": 326,
+          "tweet_count": 1159
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-13T16:10:51.000Z",
+        "description": "YouTubeにて実機配信始めました！ パチスロ所有実機：Lマギアレコード/マジカルハロウィン5 /Lマギレコ発信/マギレコ打ちフォローします/アイコン・ヘッダーはうちゃぴさん(@happy_candy_ooo)作",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 89,
+                "username": "happy_candy_ooo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCshC3…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCshC3Of2Bqvkc4JeFC-ThHA?si=c3iQsd7Jq9-jkIsd",
+                "start": 0,
+                "url": "https://t.co/p87oiAovtH"
+              }
+            ]
+          }
+        },
+        "id": "1966897334257958912",
+        "location": "なんだこりゃうめー！",
+        "name": "えごいすと@家レコ専",
+        "pinned_tweet_id": "1991848442814238859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003783138158501888/oYVM6xGI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1472,
+          "following_count": 785,
+          "like_count": 15822,
+          "listed_count": 9,
+          "media_count": 1882,
+          "tweet_count": 9086
+        },
+        "url": "https://t.co/p87oiAovtH",
+        "username": "8110egoist",
+        "verified": true
+      }
+    ]
+  }
+}

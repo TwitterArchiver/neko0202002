@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1995879974935375872"
+      ],
+      "media_source_tweet_id": [
+        "1995880004370960854"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "1996214608567455943",
+    "created_at": "2025-12-03T13:47:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T14:47:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996214608567455943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1786782750877302784",
+          "start": 3,
+          "username": "strwbberishortc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LKVNLhzTLf",
+          "end": 70,
+          "expanded_url": "https://x.com/strwbberishortc/status/1995880004370960854/photo/1",
+          "media_key": "16_1995879974935375872",
+          "start": 47,
+          "url": "https://t.co/LKVNLhzTLf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996214608567455943",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 999
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995880004370960854",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @strwbberishortc: Everyday is so repetitive https://t.co/LKVNLhzTLf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 164,
+        "media_key": "16_1995879974935375872",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G7LKQzhWsAA6zL5.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G7LKQzhWsAA6zL5.mp4"
+          }
+        ],
+        "width": 164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1995879974935375872"
+          ],
+          "media_source_tweet_id": [
+            "1995880004370960854"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "1996214608567455943",
+        "created_at": "2025-12-03T13:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T14:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996214608567455943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1786782750877302784",
+              "start": 3,
+              "username": "strwbberishortc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LKVNLhzTLf",
+              "end": 70,
+              "expanded_url": "https://x.com/strwbberishortc/status/1995880004370960854/photo/1",
+              "media_key": "16_1995879974935375872",
+              "start": 47,
+              "url": "https://t.co/LKVNLhzTLf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996214608567455943",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 999
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995880004370960854",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @strwbberishortc: Everyday is so repetitive https://t.co/LKVNLhzTLf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1995879974935375872"
+          ]
+        },
+        "author_id": "1786782750877302784",
+        "conversation_id": "1995880004370960854",
+        "created_at": "2025-12-02T15:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T16:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995880004370960854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LKVNLhzTLf",
+              "end": 49,
+              "expanded_url": "https://x.com/strwbberishortc/status/1995880004370960854/photo/1",
+              "media_key": "16_1995879974935375872",
+              "start": 26,
+              "url": "https://t.co/LKVNLhzTLf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995880004370960854",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 19938,
+          "like_count": 2889,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 999
+        },
+        "reply_settings": "everyone",
+        "text": "Everyday is so repetitive https://t.co/LKVNLhzTLf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "Caramel Box",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "八重",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994271217029926913/pXdsBYN8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 298,
+          "like_count": 68,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 261
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T15:40:08.000Z",
+        "description": "Doll’s angel ︴proud femboy owner  ︴Yuna’s p-chan @PinkYukiWuki  ︴ DMs open",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "PinkYukiWuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "strwbberishortc.straw.page",
+                "end": 23,
+                "expanded_url": "https://strwbberishortc.straw.page",
+                "start": 0,
+                "url": "https://t.co/cZgl66jYWa"
+              }
+            ]
+          }
+        },
+        "id": "1786782750877302784",
+        "location": "１６  ︴C W : ? ? ?",
+        "name": "♡",
+        "pinned_tweet_id": "1965456954098417859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996081891745611776/Pobe-w3z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3560,
+          "following_count": 527,
+          "like_count": 1589,
+          "listed_count": 36,
+          "media_count": 1574,
+          "tweet_count": 4045
+        },
+        "url": "https://t.co/cZgl66jYWa",
+        "username": "strwbberishortc",
+        "verified": false
+      }
+    ]
+  }
+}

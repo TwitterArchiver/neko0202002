@@ -1,0 +1,711 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028415955848794112"
+      ],
+      "media_source_tweet_id": [
+        "2028415967215403109"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2028527908843880532",
+    "created_at": "2026-03-02T17:48:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T18:48:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028527908843880532"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 40,
+          "normalized_text": "Cosplay 魔法少女まどか☆マギカ 暁美 ほむら",
+          "probability": 0.0267,
+          "start": 15,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1182425913377509377",
+          "start": 3,
+          "username": "mmoka8548"
+        },
+        {
+          "end": 104,
+          "id": "1198246300510121986",
+          "start": 90,
+          "username": "hamaohamaoham"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ht3hGeQko7",
+          "end": 128,
+          "expanded_url": "https://x.com/mmoka8548/status/2028415967215403109/photo/1",
+          "media_key": "3_2028415955848794112",
+          "start": 105,
+          "url": "https://t.co/Ht3hGeQko7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028527908843880532",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028415967215403109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mmoka8548: Cosplay\n魔法少女まどか☆マギカ\n暁美 ほむら(制服)\n\n     「その優しさがもっと大きな悲しみを呼び寄せることもあるのよ」\n\nphoto:@hamaohamaoham https://t.co/Ht3hGeQko7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2028415955848794112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZhkJkaEAAPP-k.jpg",
+        "width": 2730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028415955848794112"
+          ],
+          "media_source_tweet_id": [
+            "2028415967215403109"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2028527908843880532",
+        "created_at": "2026-03-02T17:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T18:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028527908843880532"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 40,
+              "normalized_text": "Cosplay 魔法少女まどか☆マギカ 暁美 ほむら",
+              "probability": 0.0267,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1182425913377509377",
+              "start": 3,
+              "username": "mmoka8548"
+            },
+            {
+              "end": 104,
+              "id": "1198246300510121986",
+              "start": 90,
+              "username": "hamaohamaoham"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ht3hGeQko7",
+              "end": 128,
+              "expanded_url": "https://x.com/mmoka8548/status/2028415967215403109/photo/1",
+              "media_key": "3_2028415955848794112",
+              "start": 105,
+              "url": "https://t.co/Ht3hGeQko7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028527908843880532",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028415967215403109",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mmoka8548: Cosplay\n魔法少女まどか☆マギカ\n暁美 ほむら(制服)\n\n     「その優しさがもっと大きな悲しみを呼び寄せることもあるのよ」\n\nphoto:@hamaohamaoham https://t.co/Ht3hGeQko7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028415955848794112"
+          ]
+        },
+        "author_id": "1182425913377509377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2028415967215403109",
+        "created_at": "2026-03-02T10:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T11:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028415967215403109"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "Cosplay 魔法少女まどか☆マギカ 暁美 ほむら",
+              "probability": 0.0285,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 89,
+              "id": "1198246300510121986",
+              "start": 75,
+              "username": "hamaohamaoham"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ht3hGeQko7",
+              "end": 113,
+              "expanded_url": "https://x.com/mmoka8548/status/2028415967215403109/photo/1",
+              "media_key": "3_2028415955848794112",
+              "start": 90,
+              "url": "https://t.co/Ht3hGeQko7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028415967215403109",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1583,
+          "like_count": 152,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "Cosplay\n魔法少女まどか☆マギカ\n暁美 ほむら(制服)\n\n     「その優しさがもっと大きな悲しみを呼び寄せることもあるのよ」\n\nphoto:@hamaohamaoham https://t.co/Ht3hGeQko7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/('ᗜ')",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "周防院奏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028525324649328640/d35polxT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 429,
+          "like_count": 261,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 686
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-10T22:41:45.000Z",
+        "description": "重加工！中部で活動中！薔薇乙女狂い！TikTok垢 「https://t.co/cVFiltxHuq」ゲーム・アニメ大好き！彼氏「@Amezora_shino44 」 姉「@sayu_1108n」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 65,
+                "username": "Amezora_shino44"
+              },
+              {
+                "end": 97,
+                "start": 86,
+                "username": "sayu_1108n"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tiktok.com/@mmo8548",
+                "end": 50,
+                "expanded_url": "http://www.tiktok.com/@mmo8548",
+                "start": 27,
+                "url": "https://t.co/cVFiltxHuq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/15C6MDS7I3POS?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/cNlZaxKPN5"
+              }
+            ]
+          }
+        },
+        "id": "1182425913377509377",
+        "location": "静岡",
+        "name": "雨空 もちゃ@ラグコス両日",
+        "pinned_tweet_id": "1875075686412742745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010673270924906496/AwVD7yBz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 1198,
+          "like_count": 51186,
+          "listed_count": 55,
+          "media_count": 681,
+          "tweet_count": 3474
+        },
+        "url": "https://t.co/cNlZaxKPN5",
+        "username": "mmoka8548",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-23T14:26:03.000Z",
+        "description": "東海でカメラで遊んでます！光を追いかけるのがとてもとても好き！作例メディア欄に！📸新規予定要相談",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@hamaohamaoham…",
+                "end": 23,
+                "expanded_url": "http://www.tiktok.com/@hamaohamaohamao",
+                "start": 0,
+                "url": "https://t.co/woBWJg9HYd"
+              }
+            ]
+          }
+        },
+        "id": "1198246300510121986",
+        "name": "はまお 📸",
+        "pinned_tweet_id": "2028065000657695064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895304551831379969/adHlEzrC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1858,
+          "following_count": 1406,
+          "like_count": 96085,
+          "listed_count": 42,
+          "media_count": 210,
+          "tweet_count": 8147
+        },
+        "url": "https://t.co/woBWJg9HYd",
+        "username": "hamaohamaoham",
+        "verified": false
+      }
+    ]
+  }
+}

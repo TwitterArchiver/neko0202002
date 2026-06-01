@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1916533910340612245",
+    "created_at": "2025-04-27T16:44:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T17:44:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916533910340612245"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "月に寄りそう乙女の作法",
+          "probability": 0.7021,
+          "start": 28,
+          "type": "Other"
+        },
+        {
+          "end": 58,
+          "normalized_text": "月に夢見る乙女異章",
+          "probability": 0.6103,
+          "start": 50,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 112,
+          "start": 108,
+          "tag": "つり乙"
+        },
+        {
+          "end": 125,
+          "start": 113,
+          "tag": "月に寄りそう乙女の作法"
+        },
+        {
+          "end": 132,
+          "start": 127,
+          "tag": "とのフラ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1194554400045322242",
+          "start": 3,
+          "username": "tonofura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "play.games.dmm.com/game/deepone/",
+          "end": 106,
+          "expanded_url": "https://play.games.dmm.com/game/deepone/",
+          "start": 83,
+          "unwound_url": "https://play.games.dmm.com/game/deepone/",
+          "url": "https://t.co/Mx20M97f09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916533910340612245",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 624
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900502319307104514",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tonofura: 3/18メンテナンス後より『月に寄りそう乙女の作法』とのコラボイベント「月に夢見る乙女異章」を開催いたします。\n\n▼ゲームプレイはこちら\nhttps://t.co/Mx20M97f09\n\n#つり乙 #月に寄りそう乙女の作法  #とのフラ #DeepO…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 57000,
+        "height": 960,
+        "media_key": "7_1900502221525299200",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1900502221525299200/pu/img/jzm05tjJFEZvmTsP.jpg",
+        "public_metrics": {
+          "view_count": 9750
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1900502221525299200/pu/vid/avc1/320x320/RWgbvR26tFjZyXZg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1900502221525299200/pu/vid/avc1/540x540/4AZswYQqSfP26IeE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1900502221525299200/pu/vid/avc1/720x720/c1GZ1fxAESDbJOA8.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1900502221525299200/pu/pl/BSewsDvSKHm9kUnk.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1916533910340612245",
+        "created_at": "2025-04-27T16:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T17:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916533910340612245"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "月に寄りそう乙女の作法",
+              "probability": 0.7021,
+              "start": 28,
+              "type": "Other"
+            },
+            {
+              "end": 58,
+              "normalized_text": "月に夢見る乙女異章",
+              "probability": 0.6103,
+              "start": 50,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 112,
+              "start": 108,
+              "tag": "つり乙"
+            },
+            {
+              "end": 125,
+              "start": 113,
+              "tag": "月に寄りそう乙女の作法"
+            },
+            {
+              "end": 132,
+              "start": 127,
+              "tag": "とのフラ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1194554400045322242",
+              "start": 3,
+              "username": "tonofura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "play.games.dmm.com/game/deepone/",
+              "end": 106,
+              "expanded_url": "https://play.games.dmm.com/game/deepone/",
+              "start": 83,
+              "unwound_url": "https://play.games.dmm.com/game/deepone/",
+              "url": "https://t.co/Mx20M97f09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916533910340612245",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 624
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900502319307104514",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tonofura: 3/18メンテナンス後より『月に寄りそう乙女の作法』とのコラボイベント「月に夢見る乙女異章」を開催いたします。\n\n▼ゲームプレイはこちら\nhttps://t.co/Mx20M97f09\n\n#つり乙 #月に寄りそう乙女の作法  #とのフラ #DeepO…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1900502221525299200"
+          ]
+        },
+        "author_id": "1194554400045322242",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1900502319307104514",
+        "created_at": "2025-03-14T11:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T12:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900502319307104514"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "月に寄りそう乙女の作法",
+              "probability": 0.7504,
+              "start": 14,
+              "type": "Other"
+            },
+            {
+              "end": 44,
+              "normalized_text": "月に夢見る乙女異章",
+              "probability": 0.6496,
+              "start": 36,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 98,
+              "start": 94,
+              "tag": "つり乙"
+            },
+            {
+              "end": 111,
+              "start": 99,
+              "tag": "月に寄りそう乙女の作法"
+            },
+            {
+              "end": 118,
+              "start": 113,
+              "tag": "とのフラ"
+            },
+            {
+              "end": 127,
+              "start": 119,
+              "tag": "DeepOne"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "play.games.dmm.com/game/deepone/",
+              "end": 92,
+              "expanded_url": "https://play.games.dmm.com/game/deepone/",
+              "start": 69,
+              "unwound_url": "https://play.games.dmm.com/game/deepone/",
+              "url": "https://t.co/Mx20M97f09"
+            },
+            {
+              "display_url": "pic.x.com/embjDiZ0GL",
+              "end": 151,
+              "expanded_url": "https://x.com/tonofura/status/1900502319307104514/video/1",
+              "media_key": "7_1900502221525299200",
+              "start": 128,
+              "url": "https://t.co/embjDiZ0GL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900502319307104514",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 46534,
+          "like_count": 364,
+          "quote_count": 36,
+          "reply_count": 7,
+          "retweet_count": 624
+        },
+        "reply_settings": "everyone",
+        "text": "3/18メンテナンス後より『月に寄りそう乙女の作法』とのコラボイベント「月に夢見る乙女異章」を開催いたします。\n\n▼ゲームプレイはこちら\nhttps://t.co/Mx20M97f09\n\n#つり乙 #月に寄りそう乙女の作法  #とのフラ #DeepOne https://t.co/embjDiZ0GL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "是我先……明明是我先的！喜欢也好，玩弄也好，还是给他穿上女装也好。——大藏里想奈",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "优子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909135311457976320/_gd-CZyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 121,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 84
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-13T09:59:18.000Z",
+        "description": "『Deep One 虚無と夢幻のフラグメント』の公式Twitterアカウントです。\nTwitterナビゲーターのゼロがゲームに関わる様々な情報を発信していきます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "games.dmm.com/detail/deepone",
+                "end": 23,
+                "expanded_url": "http://games.dmm.com/detail/deepone",
+                "start": 0,
+                "url": "https://t.co/1yATYbOhGQ"
+              }
+            ]
+          }
+        },
+        "id": "1194554400045322242",
+        "location": "東京都港区六本木",
+        "name": "Deep One 虚無と夢幻のフラグメント【公式】",
+        "pinned_tweet_id": "1914590465481212322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1204008139646849024/cBoXBNSo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51794,
+          "following_count": 6,
+          "like_count": 1,
+          "listed_count": 218,
+          "media_count": 35083,
+          "tweet_count": 37020
+        },
+        "url": "https://t.co/1yATYbOhGQ",
+        "username": "tonofura",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2048461181137166336"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2048413830678790631",
+    "created_at": "2026-04-26T17:56:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T18:56:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048461190481985720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2048387997742329856",
+          "start": 0,
+          "username": "yuyumimio"
+        },
+        {
+          "end": 23,
+          "id": "2028518919137525760",
+          "start": 11,
+          "username": "yihu1176880"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Faj2354rUx",
+          "end": 53,
+          "expanded_url": "https://x.com/neko0202002/status/2048461190481985720/photo/1",
+          "media_key": "16_2048461181137166336",
+          "start": 30,
+          "url": "https://t.co/Faj2354rUx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048461190481985720",
+    "in_reply_to_user_id": "2048387997742329856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048418177491845613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyumimio @yihu1176880 我也爱你呀 https://t.co/Faj2354rUx"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [yihu1176880].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "yihu1176880",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "yihu1176880"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "16_2048461181137166336",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HG2Yl03boAA8GyN.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HG2Yl03boAA8GyN.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2048461181137166336"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2048413830678790631",
+        "created_at": "2026-04-26T17:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T18:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048461190481985720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2048387997742329856",
+              "start": 0,
+              "username": "yuyumimio"
+            },
+            {
+              "end": 23,
+              "id": "2028518919137525760",
+              "start": 11,
+              "username": "yihu1176880"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Faj2354rUx",
+              "end": 53,
+              "expanded_url": "https://x.com/neko0202002/status/2048461190481985720/photo/1",
+              "media_key": "16_2048461181137166336",
+              "start": 30,
+              "url": "https://t.co/Faj2354rUx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048461190481985720",
+        "in_reply_to_user_id": "2048387997742329856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048418177491845613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyumimio @yihu1176880 我也爱你呀 https://t.co/Faj2354rUx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048387997742329856",
+        "conversation_id": "2048413830678790631",
+        "created_at": "2026-04-26T15:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048418177491845613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            },
+            {
+              "end": 25,
+              "id": "2028518919137525760",
+              "start": 13,
+              "username": "yihu1176880"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048418177491845613",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048418017323966580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 @yihu1176880 宝宝。。我爱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 892,
+          "like_count": 1375,
+          "listed_count": 2,
+          "media_count": 1161,
+          "tweet_count": 3383
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T13:05:42.000Z",
+        "description": "我是小樹｜泛性戀｜迴避焦慮依戀｜很溫良fo你是喜歡｜虛無主義",
+        "id": "2048387997742329856",
+        "location": "精神病院",
+        "name": "愛的供養（二世）",
+        "pinned_tweet_id": "2048421209445159101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048388126826201089/dqcQDgSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 53,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 12
+        },
+        "username": "yuyumimio",
+        "verified": false
+      }
+    ]
+  }
+}

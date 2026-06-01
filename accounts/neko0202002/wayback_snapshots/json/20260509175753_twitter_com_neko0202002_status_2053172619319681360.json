@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053172587929489408",
+        "7_2053172588336300032"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2053172619319681360",
+    "created_at": "2026-05-09T17:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T18:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053172619319681360"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vv123R7PXl",
+          "end": 35,
+          "expanded_url": "https://x.com/neko0202002/status/2053172619319681360/video/1",
+          "media_key": "3_2053172587929489408",
+          "start": 12,
+          "url": "https://t.co/vv123R7PXl"
+        },
+        {
+          "display_url": "pic.x.com/vv123R7PXl",
+          "end": 35,
+          "expanded_url": "https://x.com/neko0202002/status/2053172619319681360/video/1",
+          "media_key": "7_2053172588336300032",
+          "start": 12,
+          "url": "https://t.co/vv123R7PXl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053172619319681360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我为什么总是执迷于土嗨 https://t.co/vv123R7PXl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 944,
+        "media_key": "3_2053172587929489408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH5Vly4bUAARx-W.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 16068,
+        "height": 720,
+        "media_key": "7_2053172588336300032",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2053172588336300032/pu/img/SRtFoMCvvX-GU659.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053172588336300032/pu/vid/avc1/480x270/f0DFvLZE7CIS6UVY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053172588336300032/pu/vid/avc1/640x360/w-3e5iq5KUeLNJQS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053172588336300032/pu/vid/avc1/1280x720/969iS9sby5lGrIyv.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2053172588336300032/pu/pl/FP11m5NGrPdmXlo-.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053172587929489408",
+            "7_2053172588336300032"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2053172619319681360",
+        "created_at": "2026-05-09T17:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T18:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053172619319681360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vv123R7PXl",
+              "end": 35,
+              "expanded_url": "https://x.com/neko0202002/status/2053172619319681360/video/1",
+              "media_key": "3_2053172587929489408",
+              "start": 12,
+              "url": "https://t.co/vv123R7PXl"
+            },
+            {
+              "display_url": "pic.x.com/vv123R7PXl",
+              "end": 35,
+              "expanded_url": "https://x.com/neko0202002/status/2053172619319681360/video/1",
+              "media_key": "7_2053172588336300032",
+              "start": 12,
+              "url": "https://t.co/vv123R7PXl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053172619319681360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我为什么总是执迷于土嗨 https://t.co/vv123R7PXl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 959,
+          "like_count": 1571,
+          "listed_count": 2,
+          "media_count": 1386,
+          "tweet_count": 3889
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}

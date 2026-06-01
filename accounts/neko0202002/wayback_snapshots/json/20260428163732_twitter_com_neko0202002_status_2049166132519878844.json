@@ -1,0 +1,474 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2047720767446757376"
+      ],
+      "media_source_tweet_id": [
+        "2047721197035803125"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2049166132519878844",
+    "created_at": "2026-04-28T16:37:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T17:37:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049166132519878844"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 32,
+          "tag": "まどかマギカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2444038129",
+          "start": 3,
+          "username": "jennyiq2008"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x4mJN5mw3n",
+          "end": 63,
+          "expanded_url": "https://x.com/jennyiq2008/status/2047721197035803125/video/1",
+          "media_key": "13_2047720767446757376",
+          "start": 40,
+          "url": "https://t.co/x4mJN5mw3n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049166132519878844",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 561
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047721197035803125",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jennyiq2008: 手描きトレス動画作りました🙌\n#まどかマギカ https://t.co/x4mJN5mw3n"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 68026,
+        "height": 1080,
+        "media_key": "13_2047720767446757376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047720767446757376/img/VdF7KQKYbzVRTz14.jpg",
+        "public_metrics": {
+          "view_count": 22096
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047720767446757376/vid/avc1/480x270/19MxGD4ZRMFyeYSL.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047720767446757376/vid/avc1/640x360/I-PAxHVaoejhVg9-.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047720767446757376/vid/avc1/1280x720/FEeZm64ftJyEfFlZ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047720767446757376/pl/baZpV6Kx35KMNiYk.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047720767446757376"
+          ],
+          "media_source_tweet_id": [
+            "2047721197035803125"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2049166132519878844",
+        "created_at": "2026-04-28T16:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049166132519878844"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 32,
+              "tag": "まどかマギカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2444038129",
+              "start": 3,
+              "username": "jennyiq2008"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x4mJN5mw3n",
+              "end": 63,
+              "expanded_url": "https://x.com/jennyiq2008/status/2047721197035803125/video/1",
+              "media_key": "13_2047720767446757376",
+              "start": 40,
+              "url": "https://t.co/x4mJN5mw3n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049166132519878844",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 561
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047721197035803125",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jennyiq2008: 手描きトレス動画作りました🙌\n#まどかマギカ https://t.co/x4mJN5mw3n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047720767446757376"
+          ]
+        },
+        "author_id": "2444038129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2047721197035803125",
+        "created_at": "2026-04-24T16:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T17:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047721197035803125"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 15,
+              "tag": "まどかマギカ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x4mJN5mw3n",
+              "end": 46,
+              "expanded_url": "https://x.com/jennyiq2008/status/2047721197035803125/video/1",
+              "media_key": "13_2047720767446757376",
+              "start": 23,
+              "url": "https://t.co/x4mJN5mw3n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047721197035803125",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 533,
+          "impression_count": 66194,
+          "like_count": 2631,
+          "quote_count": 17,
+          "reply_count": 15,
+          "retweet_count": 561
+        },
+        "reply_settings": "everyone",
+        "text": "手描きトレス動画作りました🙌\n#まどかマギカ https://t.co/x4mJN5mw3n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 915,
+          "like_count": 1409,
+          "listed_count": 2,
+          "media_count": 1205,
+          "tweet_count": 3471
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-14T15:00:40.000Z",
+        "description": "＼杏子ちゃん大好き／ 台湾人 日本語は得意ではありませんOTZ まだ勉強中です… 英語を使って交流することができます 中国語注意\nI'm still studying Japanese. If I use wrong Japanese to response you, I feel sorry😣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/jennyiq2008",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/jennyiq2008",
+                "start": 0,
+                "url": "https://t.co/AD7C44oVuL"
+              }
+            ]
+          }
+        },
+        "id": "2444038129",
+        "location": "Taiwan",
+        "name": "jX2🌈杏子ちゃんかっこいい",
+        "pinned_tweet_id": "1611381243756843009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1229379067868106752/qyPTzhBp_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8780,
+          "following_count": 606,
+          "like_count": 73440,
+          "listed_count": 48,
+          "media_count": 2078,
+          "tweet_count": 10173
+        },
+        "url": "https://t.co/AD7C44oVuL",
+        "username": "jennyiq2008",
+        "verified": false
+      }
+    ]
+  }
+}

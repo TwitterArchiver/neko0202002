@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2049343593132048384"
+      ],
+      "media_source_tweet_id": [
+        "2049343747662704845"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2049417581971550359",
+    "created_at": "2026-04-29T09:16:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T10:16:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049417581971550359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1653356395402792961",
+          "start": 3,
+          "username": "Yukiko_kkkkkkkk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8vFXuM42sV",
+          "end": 52,
+          "expanded_url": "https://x.com/Yukiko_kkkkkkkk/status/2049343747662704845/video/1",
+          "media_key": "13_2049343593132048384",
+          "start": 29,
+          "url": "https://t.co/8vFXuM42sV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049417581971550359",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049343747662704845",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yukiko_kkkkkkkk: love it https://t.co/8vFXuM42sV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18198,
+        "height": 1280,
+        "media_key": "13_2049343593132048384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049343593132048384/img/rV-uERs2eUolUegW.jpg",
+        "public_metrics": {
+          "view_count": 1153
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049343593132048384/vid/avc1/320x568/pXzroofzrG-t57Jq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049343593132048384/vid/avc1/480x852/X5VrxCkp3jSFgvk4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049343593132048384/vid/avc1/720x1280/VDdXv1VNBxWhS5u5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049343593132048384/pl/bjepL8Y9VvH2Gqm8.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049343593132048384"
+          ],
+          "media_source_tweet_id": [
+            "2049343747662704845"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2049417581971550359",
+        "created_at": "2026-04-29T09:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T10:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049417581971550359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1653356395402792961",
+              "start": 3,
+              "username": "Yukiko_kkkkkkkk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8vFXuM42sV",
+              "end": 52,
+              "expanded_url": "https://x.com/Yukiko_kkkkkkkk/status/2049343747662704845/video/1",
+              "media_key": "13_2049343593132048384",
+              "start": 29,
+              "url": "https://t.co/8vFXuM42sV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049417581971550359",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049343747662704845",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yukiko_kkkkkkkk: love it https://t.co/8vFXuM42sV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049343593132048384"
+          ]
+        },
+        "author_id": "1653356395402792961",
+        "conversation_id": "2049343747662704845",
+        "created_at": "2026-04-29T04:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T05:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049343747662704845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8vFXuM42sV",
+              "end": 31,
+              "expanded_url": "https://x.com/Yukiko_kkkkkkkk/status/2049343747662704845/video/1",
+              "media_key": "13_2049343593132048384",
+              "start": 8,
+              "url": "https://t.co/8vFXuM42sV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049343747662704845",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 3234,
+          "like_count": 441,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "love it https://t.co/8vFXuM42sV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 915,
+          "like_count": 1417,
+          "listed_count": 2,
+          "media_count": 1209,
+          "tweet_count": 3489
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-02T11:11:16.000Z",
+        "description": "=naomama=Yukiko=Yori=kk👁️ 18｜artist\n🚫AI/REPRINT WITHOUT AUTHORIZATION\n请你们喝我的脑酱汤🧠🥄神秘通道：@nao_mamamimimi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 86,
+                "username": "nao_mamamimimi"
+              }
+            ]
+          }
+        },
+        "id": "1653356395402792961",
+        "name": "脑酱",
+        "pinned_tweet_id": "2045403397789294693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846584236754800640/eR_EjPJO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1957,
+          "following_count": 395,
+          "like_count": 2721,
+          "listed_count": 3,
+          "media_count": 218,
+          "tweet_count": 1223
+        },
+        "username": "Yukiko_kkkkkkkk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030023143159410688"
+      ],
+      "media_source_tweet_id": [
+        "2030023149673197781"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2030270341218734305",
+    "created_at": "2026-03-07T13:12:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T14:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030270341218734305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1995935819551617024",
+          "start": 3,
+          "username": "gundamsonico"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GNO2mbrrqf",
+          "end": 41,
+          "expanded_url": "https://x.com/gundamsonico/status/2030023149673197781/photo/1",
+          "media_key": "3_2030023143159410688",
+          "start": 18,
+          "url": "https://t.co/GNO2mbrrqf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030270341218734305",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030023149673197781",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gundamsonico: https://t.co/GNO2mbrrqf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 980,
+        "media_key": "3_2030023143159410688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCwXSw3WsAATrPW.jpg",
+        "width": 1756
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030023143159410688"
+          ],
+          "media_source_tweet_id": [
+            "2030023149673197781"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2030270341218734305",
+        "created_at": "2026-03-07T13:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T14:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030270341218734305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1995935819551617024",
+              "start": 3,
+              "username": "gundamsonico"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GNO2mbrrqf",
+              "end": 41,
+              "expanded_url": "https://x.com/gundamsonico/status/2030023149673197781/photo/1",
+              "media_key": "3_2030023143159410688",
+              "start": 18,
+              "url": "https://t.co/GNO2mbrrqf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030270341218734305",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030023149673197781",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gundamsonico: https://t.co/GNO2mbrrqf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030023143159410688"
+          ]
+        },
+        "author_id": "1995935819551617024",
+        "conversation_id": "2030023149673197781",
+        "created_at": "2026-03-06T20:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T21:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030023149673197781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GNO2mbrrqf",
+              "end": 23,
+              "expanded_url": "https://x.com/gundamsonico/status/2030023149673197781/photo/1",
+              "media_key": "3_2030023143159410688",
+              "start": 0,
+              "url": "https://t.co/GNO2mbrrqf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030023149673197781",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 2993,
+          "like_count": 198,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GNO2mbrrqf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/玛利亚什么的在上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "周防院奏",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028525324649328640/d35polxT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 496,
+          "like_count": 508,
+          "listed_count": 1,
+          "media_count": 313,
+          "tweet_count": 1127
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-02T19:19:29.000Z",
+        "description": "",
+        "id": "1995935819551617024",
+        "location": "21",
+        "name": "yu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009316477019508736/ugnRSDUf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2008,
+          "following_count": 72,
+          "like_count": 4307,
+          "listed_count": 1,
+          "media_count": 208,
+          "tweet_count": 536
+        },
+        "username": "gundamsonico",
+        "verified": false
+      }
+    ]
+  }
+}

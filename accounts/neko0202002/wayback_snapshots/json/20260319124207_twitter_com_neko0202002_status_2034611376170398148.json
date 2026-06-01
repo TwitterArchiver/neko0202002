@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034601200390463488"
+      ],
+      "media_source_tweet_id": [
+        "2034601224436396273"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2034611376170398148",
+    "created_at": "2026-03-19T12:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T13:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034611376170398148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1189408919434625026",
+          "start": 3,
+          "username": "Purigetu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WhuzGBzWwi",
+          "end": 37,
+          "expanded_url": "https://x.com/Purigetu/status/2034601224436396273/photo/1",
+          "media_key": "3_2034601200390463488",
+          "start": 14,
+          "url": "https://t.co/WhuzGBzWwi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034611376170398148",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034601224436396273",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Purigetu: https://t.co/WhuzGBzWwi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1019,
+        "media_key": "3_2034601200390463488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDxbAxDbYAAtYrY.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034601200390463488"
+          ],
+          "media_source_tweet_id": [
+            "2034601224436396273"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2034611376170398148",
+        "created_at": "2026-03-19T12:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T13:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034611376170398148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1189408919434625026",
+              "start": 3,
+              "username": "Purigetu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WhuzGBzWwi",
+              "end": 37,
+              "expanded_url": "https://x.com/Purigetu/status/2034601224436396273/photo/1",
+              "media_key": "3_2034601200390463488",
+              "start": 14,
+              "url": "https://t.co/WhuzGBzWwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034611376170398148",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034601224436396273",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Purigetu: https://t.co/WhuzGBzWwi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034601200390463488"
+          ]
+        },
+        "author_id": "1189408919434625026",
+        "conversation_id": "2034601224436396273",
+        "created_at": "2026-03-19T12:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T13:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034601224436396273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WhuzGBzWwi",
+              "end": 23,
+              "expanded_url": "https://x.com/Purigetu/status/2034601224436396273/photo/1",
+              "media_key": "3_2034601200390463488",
+              "start": 0,
+              "url": "https://t.co/WhuzGBzWwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034601224436396273",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 2865,
+          "like_count": 303,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WhuzGBzWwi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/同类查成分互fo/请和我做朋友/ᗜ𖥦ᗜ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032192447573577728/C9yS_hXm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 622,
+          "like_count": 804,
+          "listed_count": 1,
+          "media_count": 542,
+          "tweet_count": 1720
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-30T05:09:37.000Z",
+        "description": "漫画家志望/色々描いています/杏さや推し🍎🐟/第3回オールKADOKAWAによるタテスクコミック大賞、部門賞受賞/pixiv→https://t.co/mVS57L8PXg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/6426495",
+                "end": 86,
+                "expanded_url": "http://pixiv.net/users/6426495",
+                "start": 63,
+                "url": "https://t.co/mVS57L8PXg"
+              }
+            ]
+          }
+        },
+        "id": "1189408919434625026",
+        "location": "🚫無断転載、転売❌",
+        "name": "ぷりげつ",
+        "pinned_tweet_id": "1375060143335821313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977818508563279872/YfG5xb5j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 37,
+          "like_count": 217,
+          "listed_count": 7,
+          "media_count": 16,
+          "tweet_count": 101
+        },
+        "username": "Purigetu",
+        "verified": false
+      }
+    ]
+  }
+}

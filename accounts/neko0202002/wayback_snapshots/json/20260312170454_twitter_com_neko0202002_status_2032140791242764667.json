@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2032120301580898304"
+      ],
+      "media_source_tweet_id": [
+        "2032120700790596083"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2032140791242764667",
+    "created_at": "2026-03-12T17:04:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T18:04:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032140791242764667"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "Shibou Yuugi",
+          "probability": 0.9492,
+          "start": 24,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1911956717002280961",
+          "start": 3,
+          "username": "Yuri_SRL3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n8WFLzjY4N",
+          "end": 91,
+          "expanded_url": "https://x.com/Yuri_SRL3/status/2032120700790596083/video/1",
+          "media_key": "13_2032120301580898304",
+          "start": 68,
+          "url": "https://t.co/n8WFLzjY4N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032140791242764667",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032120700790596083",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuri_SRL3: Love how Shibou Yuugi has its little yuriful moments https://t.co/n8WFLzjY4N"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39039,
+        "height": 1080,
+        "media_key": "13_2032120301580898304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032120301580898304/img/1HL4FMzWbNrEi-b4.jpg",
+        "public_metrics": {
+          "view_count": 10674
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032120301580898304/vid/avc1/640x360/3Ik9w5nweIA2bGmR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032120301580898304/vid/avc1/1280x720/5vN3Rc413C0NXZ-G.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032120301580898304/vid/avc1/1920x1080/Z8l8PtkXQKfxckhm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032120301580898304/pl/7iI_HkIFpWd9D9CE.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032120301580898304/vid/avc1/480x270/a35RsBNC_euEhK8X.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032120301580898304"
+          ],
+          "media_source_tweet_id": [
+            "2032120700790596083"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032140791242764667",
+        "created_at": "2026-03-12T17:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T18:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032140791242764667"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "Shibou Yuugi",
+              "probability": 0.9492,
+              "start": 24,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1911956717002280961",
+              "start": 3,
+              "username": "Yuri_SRL3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n8WFLzjY4N",
+              "end": 91,
+              "expanded_url": "https://x.com/Yuri_SRL3/status/2032120700790596083/video/1",
+              "media_key": "13_2032120301580898304",
+              "start": 68,
+              "url": "https://t.co/n8WFLzjY4N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032140791242764667",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032120700790596083",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuri_SRL3: Love how Shibou Yuugi has its little yuriful moments https://t.co/n8WFLzjY4N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032120301580898304"
+          ]
+        },
+        "author_id": "1911956717002280961",
+        "conversation_id": "2032120700790596083",
+        "created_at": "2026-03-12T15:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032120700790596083"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Shibou Yuugi",
+              "probability": 0.9387,
+              "start": 9,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n8WFLzjY4N",
+              "end": 76,
+              "expanded_url": "https://x.com/Yuri_SRL3/status/2032120700790596083/video/1",
+              "media_key": "13_2032120301580898304",
+              "start": 53,
+              "url": "https://t.co/n8WFLzjY4N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032120700790596083",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 185,
+          "impression_count": 18963,
+          "like_count": 600,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "Love how Shibou Yuugi has its little yuriful moments https://t.co/n8WFLzjY4N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/玛利亚什么的在上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031827855542534147/IPSe8w_P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 547,
+          "like_count": 650,
+          "listed_count": 1,
+          "media_count": 419,
+          "tweet_count": 1376
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-15T01:36:43.000Z",
+        "description": "The same posts and recommendations 💯 for overlooked, lesser known anime - manga (and yuri) to give more visibility to the titles I like. No censoring anyone",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "anilist.co/user/Naranja12…",
+                "end": 23,
+                "expanded_url": "https://anilist.co/user/Naranja128/animelist",
+                "start": 0,
+                "url": "https://t.co/OCq9dwcSga"
+              }
+            ]
+          }
+        },
+        "id": "1911956717002280961",
+        "location": "Segunda División Peruana 2014",
+        "name": "Underrated yuri & anime repository",
+        "pinned_tweet_id": "1975250003313508660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975298799695204352/hIKyQUmX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85234,
+          "following_count": 57,
+          "like_count": 1238,
+          "listed_count": 123,
+          "media_count": 281,
+          "tweet_count": 983
+        },
+        "url": "https://t.co/OCq9dwcSga",
+        "username": "Yuri_SRL3",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2037885626322964794",
+    "created_at": "2026-03-28T13:32:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T14:32:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037885626322964794"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/madoka_magica/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/madoka_magica/status/2007270691687612865",
+          "start": 11,
+          "url": "https://t.co/tI2Bmoapgd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037885626322964794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007270691687612865",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "门口这俩有点地狱了吧 https://t.co/tI2Bmoapgd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2465,
+        "media_key": "3_2005647895366877185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9V-ImvaQAEvQaT.jpg",
+        "width": 3697
+      },
+      {
+        "height": 900,
+        "media_key": "3_2005647924940939264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9V-KU6aoAACd61.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2037885626322964794",
+        "created_at": "2026-03-28T13:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T14:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037885626322964794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/madoka_magica/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/madoka_magica/status/2007270691687612865",
+              "start": 11,
+              "url": "https://t.co/tI2Bmoapgd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037885626322964794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007270691687612865",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "门口这俩有点地狱了吧 https://t.co/tI2Bmoapgd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005647895366877185",
+            "3_2005647924940939264"
+          ]
+        },
+        "author_id": "205592115",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2007270691687612865",
+        "created_at": "2026-01-03T02:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T03:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007270691687612865"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 45,
+              "tag": "魔法少女の祈り展"
+            }
+          ],
+          "urls": [
+            {
+              "description": "新房昭之×虚淵玄（ニトロプラス）×蒼樹うめ×シャフトによる『叛逆の物語』の正統なる続編――そして、新たな始まり。『劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』2026年8月28日(金)公開",
+              "display_url": "madoka-magica.com/wr/news/?id=69…",
+              "end": 84,
+              "expanded_url": "https://madoka-magica.com/wr/news/?id=69400",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2036236800495329280/q6IFOCWQ?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2036236800495329280/q6IFOCWQ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 61,
+              "status": 200,
+              "title": "劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉　公式サイト ｜ 2026年8月28日(金)公開",
+              "unwound_url": "https://www.madoka-magica.com/wr/news/?id=69400",
+              "url": "https://t.co/hFCiOny7nK"
+            },
+            {
+              "display_url": "pic.x.com/2SOS7sUvar",
+              "end": 108,
+              "expanded_url": "https://x.com/madoka_magica/status/2007270691687612865/photo/1",
+              "media_key": "3_2005647895366877185",
+              "start": 85,
+              "url": "https://t.co/2SOS7sUvar"
+            },
+            {
+              "display_url": "pic.x.com/2SOS7sUvar",
+              "end": 108,
+              "expanded_url": "https://x.com/madoka_magica/status/2007270691687612865/photo/1",
+              "media_key": "3_2005647924940939264",
+              "start": 85,
+              "url": "https://t.co/2SOS7sUvar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007270691687612865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 187406,
+          "like_count": 2410,
+          "quote_count": 54,
+          "reply_count": 5,
+          "retweet_count": 373
+        },
+        "reply_settings": "everyone",
+        "text": "📣本日最終日！\n\nぜひ遊びにきてください✨\n\n💡東急プラザ表参道「オモカド」ジャック\n⛩️#魔法少女の祈り展 同時開催\n\nhttps://t.co/hFCiOny7nK https://t.co/2SOS7sUvar"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/同类查成分互fo/请和我做朋友/ᗜ𖥦ᗜ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037065551403786240/r6CPsSyA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 685,
+          "like_count": 895,
+          "listed_count": 2,
+          "media_count": 653,
+          "tweet_count": 2013
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-21T06:07:04.000Z",
+        "description": "総監督：新房昭之×脚本：虚淵玄(ニトロプラス)×キャラクター原案：蒼樹うめ×アニメーション制作：シャフト による『叛逆の物語』の正統なる続編『劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』2026年8月28日公開　#まどかマギカ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 118,
+                "start": 111,
+                "tag": "まどかマギカ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "madoka-magica.com",
+                "end": 23,
+                "expanded_url": "https://www.madoka-magica.com/",
+                "start": 0,
+                "url": "https://t.co/PSfUr9lntF"
+              }
+            ]
+          }
+        },
+        "id": "205592115",
+        "name": "魔法少女まどか☆マギカ",
+        "pinned_tweet_id": "2027232233426448705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973764917862998016/SSAaMAtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464180,
+          "following_count": 16,
+          "like_count": 5,
+          "listed_count": 4630,
+          "media_count": 1001,
+          "tweet_count": 3159
+        },
+        "url": "https://t.co/PSfUr9lntF",
+        "username": "madoka_magica",
+        "verified": false
+      }
+    ]
+  }
+}

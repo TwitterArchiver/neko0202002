@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2038946752833937765",
+    "created_at": "2026-03-31T11:49:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T12:49:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038946752833937765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1892197607109476352",
+          "start": 3,
+          "username": "lianshufa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038946752833937765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 641
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038805006816809454",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lianshufa: 每年3月31日是跨性别现身日。\n社会学家与心理学家指出，跨性别者长期面临严重的身份认同困境与社会污名化，因歧视、暴力与自我认同冲突而导致的抑郁与自杀率远高于平均水平。为了提升公众对这一群体的尊重与理解，自2009年起，将这一天定为国际跨性别现身日。…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1153,
+        "media_key": "3_2038805004069548032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEtKWWHasAAgAZv.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2038805004287700992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEtKWW7bcAAMfVN.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2038946752833937765",
+        "created_at": "2026-03-31T11:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038946752833937765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1892197607109476352",
+              "start": 3,
+              "username": "lianshufa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038946752833937765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 641
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038805006816809454",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lianshufa: 每年3月31日是跨性别现身日。\n社会学家与心理学家指出，跨性别者长期面临严重的身份认同困境与社会污名化，因歧视、暴力与自我认同冲突而导致的抑郁与自杀率远高于平均水平。为了提升公众对这一群体的尊重与理解，自2009年起，将这一天定为国际跨性别现身日。…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038805004069548032",
+            "3_2038805004287700992"
+          ]
+        },
+        "author_id": "1892197607109476352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2038805006816809454",
+        "created_at": "2026-03-31T02:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T03:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038805006816809454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rg3BIBZUlh",
+              "end": 167,
+              "expanded_url": "https://x.com/lianshufa/status/2038805006816809454/photo/1",
+              "media_key": "3_2038805004069548032",
+              "start": 144,
+              "url": "https://t.co/rg3BIBZUlh"
+            },
+            {
+              "display_url": "pic.x.com/rg3BIBZUlh",
+              "end": 167,
+              "expanded_url": "https://x.com/lianshufa/status/2038805006816809454/photo/1",
+              "media_key": "3_2038805004287700992",
+              "start": 144,
+              "url": "https://t.co/rg3BIBZUlh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038805006816809454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 304,
+          "impression_count": 46556,
+          "like_count": 3219,
+          "quote_count": 15,
+          "reply_count": 15,
+          "retweet_count": 641
+        },
+        "reply_settings": "everyone",
+        "text": "每年3月31日是跨性别现身日。\n社会学家与心理学家指出，跨性别者长期面临严重的身份认同困境与社会污名化，因歧视、暴力与自我认同冲突而导致的抑郁与自杀率远高于平均水平。为了提升公众对这一群体的尊重与理解，自2009年起，将这一天定为国际跨性别现身日。\n「我们活着，就是对恶意的最大反抗！」 https://t.co/rg3BIBZUlh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/同类查成分互fo/请和我做朋友/ᗜ𖥦ᗜ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037978639053299712/JtGdeDp-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 701,
+          "like_count": 925,
+          "listed_count": 2,
+          "media_count": 703,
+          "tweet_count": 2102
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T13:01:39.000Z",
+        "description": "个人主页:https://t.co/zZum0DqESa｜生日2009.10.02｜XtF｜弹电吉他🎸｜化竞选手",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lsfself.top",
+                "end": 28,
+                "expanded_url": "http://lsfself.top",
+                "start": 5,
+                "url": "https://t.co/zZum0DqESa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lsfself.top",
+                "end": 23,
+                "expanded_url": "http://lsfself.top",
+                "start": 0,
+                "url": "https://t.co/zZum0DqESa"
+              }
+            ]
+          }
+        },
+        "id": "1892197607109476352",
+        "location": "北京回龙观医院门诊2层13诊室",
+        "name": "lsf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035628512263221248/duwFcH0d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3984,
+          "following_count": 1635,
+          "like_count": 2672,
+          "listed_count": 5,
+          "media_count": 74,
+          "tweet_count": 404
+        },
+        "url": "https://t.co/zZum0DqESa",
+        "username": "lianshufa",
+        "verified": false
+      }
+    ]
+  }
+}

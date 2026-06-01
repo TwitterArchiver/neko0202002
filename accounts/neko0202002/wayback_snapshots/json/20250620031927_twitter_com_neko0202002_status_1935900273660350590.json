@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "1935687470101991661",
+    "created_at": "2025-06-20T03:19:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T04:19:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935900273660350590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1654741326922137600",
+          "start": 0,
+          "username": "TeddyDeerNoBeer"
+        },
+        {
+          "end": 25,
+          "id": "1842276970861596672",
+          "start": 17,
+          "username": "Ayue223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935900273660350590",
+    "in_reply_to_user_id": "1654741326922137600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935899440218546530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TeddyDeerNoBeer @Ayue223 没事儿，还能吃鸡 APEX 等着你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "1935687470101991661",
+        "created_at": "2025-06-20T03:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T04:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935900273660350590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1654741326922137600",
+              "start": 0,
+              "username": "TeddyDeerNoBeer"
+            },
+            {
+              "end": 25,
+              "id": "1842276970861596672",
+              "start": 17,
+              "username": "Ayue223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935900273660350590",
+        "in_reply_to_user_id": "1654741326922137600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935899440218546530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TeddyDeerNoBeer @Ayue223 没事儿，还能吃鸡 APEX 等着你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654741326922137600",
+        "conversation_id": "1935687470101991661",
+        "created_at": "2025-06-20T03:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T04:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935899440218546530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1842276970861596672",
+              "start": 0,
+              "username": "Ayue223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935899440218546530",
+        "in_reply_to_user_id": "1842276970861596672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935687470101991661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayue223 每天对随机一种食物永久过敏，意思是第二天来了前一天的食物也不会解除过敏效果吗？那我还吃啥啊😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "千早！！！！",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "千早！！！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929434747094069248/aQdc4Y2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 158,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 184
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-06T06:54:33.000Z",
+        "description": "反弹反弹反弹反弹反弹！",
+        "id": "1654741326922137600",
+        "location": "Irvine, CA",
+        "name": "TeddyDeer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889769278641172480/r8amS8FP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 408,
+          "like_count": 396,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1074
+        },
+        "username": "TeddyDeerNoBeer",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T18:54:02.000Z",
+        "description": "互fo说明来意，一般24小时内必回，特殊情况最多48小时内。另一个号https://t.co/rDtRv1gFPb神亦有强弱之分，万神皆跪伏于我。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitter.com/yues666?s=09",
+                "end": 57,
+                "expanded_url": "https://twitter.com/yues666?s=09",
+                "start": 34,
+                "url": "https://t.co/rDtRv1gFPb"
+              }
+            ]
+          }
+        },
+        "id": "1842276970861596672",
+        "name": "灵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888400061954158592/2LbXmTrh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 38,
+          "like_count": 550,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 391
+        },
+        "username": "Ayue223",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2038221691118333952"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2038216414063120569",
+    "created_at": "2026-03-29T11:48:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T12:48:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038221701566333375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1946240021696040961",
+          "start": 0,
+          "username": "Noverdose_DBD"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TxcSe2POMP",
+          "end": 44,
+          "expanded_url": "https://x.com/neko0202002/status/2038221701566333375/photo/1",
+          "media_key": "16_2038221691118333952",
+          "start": 21,
+          "url": "https://t.co/TxcSe2POMP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038221701566333375",
+    "in_reply_to_user_id": "1946240021696040961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038216414063120569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Noverdose_DBD 这个是什么 https://t.co/TxcSe2POMP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 356,
+        "media_key": "16_2038221691118333952",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HEk31ECasAAdB-7.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HEk31ECasAAdB-7.mp4"
+          }
+        ],
+        "width": 342
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2038216406827970560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEkzBehasAAL3qL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2038221691118333952"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2038216414063120569",
+        "created_at": "2026-03-29T11:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T12:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038221701566333375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946240021696040961",
+              "start": 0,
+              "username": "Noverdose_DBD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TxcSe2POMP",
+              "end": 44,
+              "expanded_url": "https://x.com/neko0202002/status/2038221701566333375/photo/1",
+              "media_key": "16_2038221691118333952",
+              "start": 21,
+              "url": "https://t.co/TxcSe2POMP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038221701566333375",
+        "in_reply_to_user_id": "1946240021696040961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038216414063120569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Noverdose_DBD 这个是什么 https://t.co/TxcSe2POMP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038216406827970560"
+          ]
+        },
+        "author_id": "1946240021696040961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038216414063120569",
+        "created_at": "2026-03-29T11:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T12:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038216414063120569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dW53JvEhOg",
+              "end": 30,
+              "expanded_url": "https://x.com/Noverdose_DBD/status/2038216414063120569/photo/1",
+              "media_key": "3_2038216406827970560",
+              "start": 7,
+              "url": "https://t.co/dW53JvEhOg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038216414063120569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要的來訂貨吧 https://t.co/dW53JvEhOg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/同类查成分互fo/请和我做朋友/ᗜ𖥦ᗜ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037978639053299712/JtGdeDp-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 694,
+          "like_count": 913,
+          "listed_count": 2,
+          "media_count": 681,
+          "tweet_count": 2050
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T16:06:07.000Z",
+        "description": "💊🍥\n策划药\n薄荷糖，彩虹糖，飘飘糖，模拟ald-52\n物质：rush，类GHB,DBT,MiPT,苄达明\nhrt药物：泰补，土色，日雌\ntg客服https://t.co/N6cqoO848L\n客服服务时间8.00-11.00 14.00-00.00",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/liuxing2778",
+                "end": 96,
+                "expanded_url": "http://t.me/liuxing2778",
+                "start": 73,
+                "url": "https://t.co/N6cqoO848L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/liuxing2778",
+                "end": 23,
+                "expanded_url": "http://t.me/liuxing2778",
+                "start": 0,
+                "url": "https://t.co/N6cqoO848L"
+              }
+            ]
+          }
+        },
+        "id": "1946240021696040961",
+        "location": "终之空",
+        "name": "超级后后后藤🚪40",
+        "pinned_tweet_id": "2035741819619942820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984269351256473600/z_4Rg7td_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1374,
+          "following_count": 236,
+          "like_count": 887,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 727
+        },
+        "url": "https://t.co/N6cqoO848L",
+        "username": "Noverdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932316359020474368"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "1932316363877503326",
+    "created_at": "2025-06-10T05:58:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T06:58:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1932316363877503326"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pF5PesHlMy",
+          "end": 23,
+          "expanded_url": "https://x.com/neko0202002/status/1932316363877503326/photo/1",
+          "media_key": "3_1932316359020474368",
+          "start": 0,
+          "url": "https://t.co/pF5PesHlMy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932316363877503326",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/pF5PesHlMy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 562,
+        "media_key": "3_1932316359020474368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtD3fZ0XcAALz3q.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932316359020474368"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "1932316363877503326",
+        "created_at": "2025-06-10T05:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T06:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932316363877503326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pF5PesHlMy",
+              "end": 23,
+              "expanded_url": "https://x.com/neko0202002/status/1932316363877503326/photo/1",
+              "media_key": "3_1932316359020474368",
+              "start": 0,
+              "url": "https://t.co/pF5PesHlMy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932316363877503326",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pF5PesHlMy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "千早！！！！",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "千早！！！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929434747094069248/aQdc4Y2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 156,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 176
+        },
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}

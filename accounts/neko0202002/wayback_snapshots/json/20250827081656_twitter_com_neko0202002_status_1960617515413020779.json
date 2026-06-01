@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1960617515413020779",
+    "created_at": "2025-08-27T08:16:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T09:16:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960617515413020779"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 71,
+          "normalized_text": "オトメ世界の歩き方",
+          "probability": 0.5756,
+          "start": 63,
+          "type": "Other"
+        },
+        {
+          "end": 81,
+          "normalized_text": "姫乃アカリ",
+          "probability": 0.2835,
+          "start": 77,
+          "type": "Person"
+        },
+        {
+          "end": 119,
+          "normalized_text": "アカリさん",
+          "probability": 0.6956,
+          "start": 115,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 18,
+          "tag": "WF2025S"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3271473871",
+          "start": 3,
+          "username": "Q_six_hobby"
+        },
+        {
+          "end": 54,
+          "id": "1517530549988241410",
+          "start": 42,
+          "username": "Orthrossoft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960617515413020779",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952293440248520804",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Q_six_hobby: 【#WF2025S レポート】\n\nOrthros(@Orthrossoft)の大人気ゲーム『オトメ世界の歩き方』より、「姫乃アカリ」がフィギュア化決定！\n監修中の仮出力原型を展示いたしました！\n\nアカリさんの柔らかく繊細な魅力を再現しております…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1960617515413020779].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1960617515413020779",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1960617515413020779"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1952243752250363904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxfDWWfb0AAR0gf.jpg",
+        "width": 960
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1952243753189814272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxfDWZ_asAAMcK4.jpg",
+        "width": 960
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1952243753181421568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxfDWZ9aoAAphkF.jpg",
+        "width": 960
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1952243753370148864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxfDWaqaYAAleRt.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952243752250363904",
+            "3_1952243753189814272",
+            "3_1952243753181421568",
+            "3_1952243753370148864"
+          ]
+        },
+        "author_id": "3271473871",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1952293440248520804",
+        "created_at": "2025-08-04T09:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952293440248520804"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 54,
+              "normalized_text": "オトメ世界の歩き方",
+              "probability": 0.6301,
+              "start": 46,
+              "type": "Other"
+            },
+            {
+              "end": 64,
+              "normalized_text": "姫乃アカリ",
+              "probability": 0.2824,
+              "start": 60,
+              "type": "Person"
+            },
+            {
+              "end": 102,
+              "normalized_text": "アカリさん",
+              "probability": 0.7252,
+              "start": 98,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 1,
+              "tag": "WF2025S"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 37,
+              "id": "1517530549988241410",
+              "start": 25,
+              "username": "Orthrossoft"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/APOJR56sdE",
+              "end": 159,
+              "expanded_url": "https://x.com/Q_six_hobby/status/1952293440248520804/photo/1",
+              "media_key": "3_1952243752250363904",
+              "start": 136,
+              "url": "https://t.co/APOJR56sdE"
+            },
+            {
+              "display_url": "pic.x.com/APOJR56sdE",
+              "end": 159,
+              "expanded_url": "https://x.com/Q_six_hobby/status/1952293440248520804/photo/1",
+              "media_key": "3_1952243753189814272",
+              "start": 136,
+              "url": "https://t.co/APOJR56sdE"
+            },
+            {
+              "display_url": "pic.x.com/APOJR56sdE",
+              "end": 159,
+              "expanded_url": "https://x.com/Q_six_hobby/status/1952293440248520804/photo/1",
+              "media_key": "3_1952243753181421568",
+              "start": 136,
+              "url": "https://t.co/APOJR56sdE"
+            },
+            {
+              "display_url": "pic.x.com/APOJR56sdE",
+              "end": 159,
+              "expanded_url": "https://x.com/Q_six_hobby/status/1952293440248520804/photo/1",
+              "media_key": "3_1952243753370148864",
+              "start": 136,
+              "url": "https://t.co/APOJR56sdE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952293440248520804",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 19645,
+          "like_count": 84,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "【#WF2025S レポート】\n\nOrthros(@Orthrossoft)の大人気ゲーム『オトメ世界の歩き方』より、「姫乃アカリ」がフィギュア化決定！\n監修中の仮出力原型を展示いたしました！\n\nアカリさんの柔らかく繊細な魅力を再現しております✨\n続報にご期待ください！ https://t.co/APOJR56sdE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "千早！！！！",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "千早！！！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951284390094577664/Qy4Zs8HR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 170,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 209
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-08T01:00:11.000Z",
+        "description": "フィギュアブランド『Q-six (キューシックス)』公式アカウントです。\n新製品・出荷情報・イベントなどQ-six製品に関する最新情報をお伝えします。\n\n※当アカウントはXでのお問い合わせにはお答えしておりません。\n製品に関するお問い合わせはQ-six公式HPよりお願いいたします。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "q-six.net",
+                "end": 23,
+                "expanded_url": "https://q-six.net/",
+                "start": 0,
+                "url": "https://t.co/Bo72ULHVRC"
+              }
+            ]
+          }
+        },
+        "id": "3271473871",
+        "location": "東京都",
+        "name": "Q-six",
+        "pinned_tweet_id": "1945770462174147052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1149241655771316224/Yg_HJUeq_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29853,
+          "following_count": 176,
+          "like_count": 798,
+          "listed_count": 309,
+          "media_count": 2154,
+          "tweet_count": 4163
+        },
+        "url": "https://t.co/Bo72ULHVRC",
+        "username": "Q_six_hobby",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-22T15:48:28.000Z",
+        "description": "ワンワン！ゲームブランドOrthros広報のオル🐶とロス🐶としっぽ🐍だワン🐶 \n企画・シナリオ:NYAON、キャラクターデザイン・原画:mignonのOrthros最新作「オトメ世界の歩き方」絶賛発売中だワン🐶\n公式Discord：https://t.co/zABNYmM3WV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/CEU62Q5a7G",
+                "end": 139,
+                "expanded_url": "https://discord.gg/CEU62Q5a7G",
+                "start": 116,
+                "url": "https://t.co/zABNYmM3WV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "orthrossoft.jp",
+                "end": 23,
+                "expanded_url": "https://orthrossoft.jp/",
+                "start": 0,
+                "url": "https://t.co/PEJKI872Pi"
+              }
+            ]
+          }
+        },
+        "id": "1517530549988241410",
+        "name": "Orthros＠【オトメき】発売中！",
+        "pinned_tweet_id": "1944964073650831418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1517533512148025344/T_IEW190_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13604,
+          "following_count": 41,
+          "like_count": 3051,
+          "listed_count": 82,
+          "media_count": 276,
+          "tweet_count": 1995
+        },
+        "url": "https://t.co/PEJKI872Pi",
+        "username": "Orthrossoft",
+        "verified": false
+      }
+    ]
+  }
+}

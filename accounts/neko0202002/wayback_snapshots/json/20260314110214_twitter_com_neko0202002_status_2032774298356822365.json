@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2032622506230849536"
+      ],
+      "media_source_tweet_id": [
+        "2032622887765778901"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2032774298356822365",
+    "created_at": "2026-03-14T11:02:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T12:02:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032774298356822365"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 46,
+          "normalized_text": "yachiyo",
+          "probability": 0.7717,
+          "start": 40,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1341503709067444225",
+          "start": 3,
+          "username": "itsalwaysyuna"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aLgU1OANyf",
+          "end": 87,
+          "expanded_url": "https://x.com/itsalwaysyuna/status/2032622887765778901/video/1",
+          "media_key": "13_2032622506230849536",
+          "start": 64,
+          "url": "https://t.co/aLgU1OANyf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032774298356822365",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032622887765778901",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itsalwaysyuna: been making a lot of yachiyo stuff lately... https://t.co/aLgU1OANyf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14400,
+        "height": 1080,
+        "media_key": "13_2032622506230849536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032622506230849536/img/96zEhOmTA5B-h5cN.jpg",
+        "public_metrics": {
+          "view_count": 2049
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032622506230849536/vid/avc1/480x270/fZPy4sczequ1ttfr.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032622506230849536/vid/avc1/640x360/c3jhgwlTqbTQXlqS.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032622506230849536/vid/avc1/1280x720/wb4cKthUolqVe8As.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032622506230849536/pl/VejjKKaBjldHWknw.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032622506230849536"
+          ],
+          "media_source_tweet_id": [
+            "2032622887765778901"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032774298356822365",
+        "created_at": "2026-03-14T11:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T12:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032774298356822365"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "yachiyo",
+              "probability": 0.7717,
+              "start": 40,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1341503709067444225",
+              "start": 3,
+              "username": "itsalwaysyuna"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aLgU1OANyf",
+              "end": 87,
+              "expanded_url": "https://x.com/itsalwaysyuna/status/2032622887765778901/video/1",
+              "media_key": "13_2032622506230849536",
+              "start": 64,
+              "url": "https://t.co/aLgU1OANyf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032774298356822365",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032622887765778901",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itsalwaysyuna: been making a lot of yachiyo stuff lately... https://t.co/aLgU1OANyf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032622506230849536"
+          ]
+        },
+        "author_id": "1341503709067444225",
+        "conversation_id": "2032622887765778901",
+        "created_at": "2026-03-14T01:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T02:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032622887765778901"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "yachiyo",
+              "probability": 0.7963,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aLgU1OANyf",
+              "end": 68,
+              "expanded_url": "https://x.com/itsalwaysyuna/status/2032622887765778901/video/1",
+              "media_key": "13_2032622506230849536",
+              "start": 45,
+              "url": "https://t.co/aLgU1OANyf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032622887765778901",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 4706,
+          "like_count": 216,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "been making a lot of yachiyo stuff lately... https://t.co/aLgU1OANyf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/评论被吞呃啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032192447573577728/C9yS_hXm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 553,
+          "like_count": 656,
+          "listed_count": 1,
+          "media_count": 434,
+          "tweet_count": 1415
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-22T21:59:51.000Z",
+        "description": "the biggest yachiyo fan (probably) you will meet!\nPMMM edit/amv maker \n\ntiktok: https://t.co/oryke7IMwX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@itsalwaysyuna…",
+                "end": 103,
+                "expanded_url": "https://www.tiktok.com/@itsalwaysyuna?_r=1&_t=ZP-91qGzokVW75",
+                "start": 80,
+                "url": "https://t.co/oryke7IMwX"
+              }
+            ]
+          }
+        },
+        "id": "1341503709067444225",
+        "location": "Somewhere",
+        "name": "yachiyo nanami's #1 fan",
+        "pinned_tweet_id": "2022490227814916491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022174205719326721/lpjM-Ehp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 62,
+          "like_count": 4355,
+          "listed_count": 1,
+          "media_count": 513,
+          "tweet_count": 2079
+        },
+        "username": "itsalwaysyuna",
+        "verified": false
+      }
+    ]
+  }
+}

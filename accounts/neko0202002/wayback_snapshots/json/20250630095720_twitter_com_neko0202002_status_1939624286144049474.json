@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1916131941788880898"
+      ],
+      "media_source_tweet_id": [
+        "1916131946910126297"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "1939624286144049474",
+    "created_at": "2025-06-30T09:57:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T10:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939624286144049474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "988835405611986945",
+          "start": 3,
+          "username": "Mog_ikg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tvaUbyAXjh",
+          "end": 40,
+          "expanded_url": "https://x.com/Mog_ikg/status/1916131946910126297/photo/1",
+          "media_key": "3_1916131941788880898",
+          "start": 17,
+          "url": "https://t.co/tvaUbyAXjh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939624286144049474",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3202
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916131946910126297",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mog_ikg: 娘日記 https://t.co/tvaUbyAXjh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1916131941788880898",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpd32VUbEAI8fPz.jpg",
+        "width": 1411
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916131941788880898"
+          ],
+          "media_source_tweet_id": [
+            "1916131946910126297"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "1939624286144049474",
+        "created_at": "2025-06-30T09:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T10:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939624286144049474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "988835405611986945",
+              "start": 3,
+              "username": "Mog_ikg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tvaUbyAXjh",
+              "end": 40,
+              "expanded_url": "https://x.com/Mog_ikg/status/1916131946910126297/photo/1",
+              "media_key": "3_1916131941788880898",
+              "start": 17,
+              "url": "https://t.co/tvaUbyAXjh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939624286144049474",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3202
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916131946910126297",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mog_ikg: 娘日記 https://t.co/tvaUbyAXjh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916131941788880898"
+          ]
+        },
+        "author_id": "988835405611986945",
+        "conversation_id": "1916131946910126297",
+        "created_at": "2025-04-26T14:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T15:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916131946910126297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tvaUbyAXjh",
+              "end": 27,
+              "expanded_url": "https://x.com/Mog_ikg/status/1916131946910126297/photo/1",
+              "media_key": "3_1916131941788880898",
+              "start": 4,
+              "url": "https://t.co/tvaUbyAXjh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916131946910126297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1011,
+          "impression_count": 2023238,
+          "like_count": 40179,
+          "quote_count": 205,
+          "reply_count": 161,
+          "retweet_count": 3202
+        },
+        "reply_settings": "everyone",
+        "text": "娘日記 https://t.co/tvaUbyAXjh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "千早！！！！",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "千早！！！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937605976506662913/e8pb9dUU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 165,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 196
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-24T17:41:47.000Z",
+        "description": "気の小さい主婦 音楽を聴くこと　漫画を描くことが好き 夫のことを可愛い女の子に描いてみて可愛く思えるかという実験をしています",
+        "id": "988835405611986945",
+        "location": "千葉県",
+        "name": "もぐ🦫",
+        "pinned_tweet_id": "1933449275947581687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761312749223907328/r3ZBsbnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48302,
+          "following_count": 773,
+          "like_count": 155777,
+          "listed_count": 273,
+          "media_count": 2518,
+          "tweet_count": 91594
+        },
+        "username": "Mog_ikg",
+        "verified": true
+      }
+    ]
+  }
+}

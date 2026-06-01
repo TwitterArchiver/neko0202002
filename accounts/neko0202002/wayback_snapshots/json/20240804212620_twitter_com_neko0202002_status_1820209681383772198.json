@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1776024943181901824"
+      ],
+      "media_source_tweet_id": [
+        "1776024958864335330"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1820209681383772198",
+    "created_at": "2024-08-04T21:26:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-04T22:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820209681383772198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1750750577976295425",
+          "start": 3,
+          "username": "Max_As_Well"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/vLJ4OGrZes",
+          "end": 40,
+          "expanded_url": "https://twitter.com/Max_As_Well/status/1776024958864335330/video/1",
+          "media_key": "7_1776024943181901824",
+          "start": 17,
+          "url": "https://t.co/vLJ4OGrZes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820209681383772198",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 968
+    },
+    "referenced_tweets": [
+      {
+        "id": "1776024958864335330",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Max_As_Well: https://t.co/vLJ4OGrZes"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8661,
+        "height": 1024,
+        "media_key": "7_1776024943181901824",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1776024943181901824/pu/img/DF4jNWEl8QkLt-I0.jpg",
+        "public_metrics": {
+          "view_count": 23453
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1776024943181901824/pu/vid/avc1/320x568/7N5SXf4_c8kKbr1i.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1776024943181901824/pu/vid/avc1/480x852/z0sCN64-_q9uAC2P.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1776024943181901824/pu/vid/avc1/576x1024/GdLEaZamRhSyXHCW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1776024943181901824/pu/pl/uTRfZoFS3vAiOYNG.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1776024943181901824"
+          ],
+          "media_source_tweet_id": [
+            "1776024958864335330"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1820209681383772198",
+        "created_at": "2024-08-04T21:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T22:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820209681383772198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1750750577976295425",
+              "start": 3,
+              "username": "Max_As_Well"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/vLJ4OGrZes",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Max_As_Well/status/1776024958864335330/video/1",
+              "media_key": "7_1776024943181901824",
+              "start": 17,
+              "url": "https://t.co/vLJ4OGrZes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820209681383772198",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 968
+        },
+        "referenced_tweets": [
+          {
+            "id": "1776024958864335330",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Max_As_Well: https://t.co/vLJ4OGrZes"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1776024943181901824"
+          ]
+        },
+        "author_id": "1750750577976295425",
+        "conversation_id": "1776024958864335330",
+        "created_at": "2024-04-04T23:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-04-05T00:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1776024958864335330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/vLJ4OGrZes",
+              "end": 23,
+              "expanded_url": "https://twitter.com/Max_As_Well/status/1776024958864335330/video/1",
+              "media_key": "7_1776024943181901824",
+              "start": 0,
+              "url": "https://t.co/vLJ4OGrZes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1776024958864335330",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 525,
+          "impression_count": 77641,
+          "like_count": 5231,
+          "quote_count": 17,
+          "reply_count": 8,
+          "retweet_count": 968
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vLJ4OGrZes"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "けいおん! X デモノフォビア 那廻早栗 (Remake)",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "莉卡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820207946258636801/Y7EBnGVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 1,
+          "listed_count": 0,
+          "tweet_count": 3
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T05:36:40.000Z",
+        "description": "My tastes are very varied, I love NSO and helping others either by listening to them or advising them, I dream of having a community with which I can interact.",
+        "id": "1750750577976295425",
+        "location": "In a box.",
+        "name": "Sr. P-chan (Max) 🌸",
+        "pinned_tweet_id": "1766538499803513240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781398729251033089/bib50I9X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1123,
+          "following_count": 357,
+          "like_count": 5812,
+          "listed_count": 3,
+          "tweet_count": 3350
+        },
+        "username": "Max_As_Well",
+        "verified": false
+      }
+    ]
+  }
+}

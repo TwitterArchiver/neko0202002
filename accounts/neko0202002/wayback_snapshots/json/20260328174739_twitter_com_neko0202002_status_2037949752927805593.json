@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2037949746506321920"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2037901491403428303",
+    "created_at": "2026-03-28T17:47:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T18:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037949752927805593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1119752356831334400",
+          "start": 0,
+          "username": "meduka_ebooks"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OOTVkkPlUU",
+          "end": 38,
+          "expanded_url": "https://x.com/neko0202002/status/2037949752927805593/photo/1",
+          "media_key": "16_2037949746506321920",
+          "start": 15,
+          "url": "https://t.co/OOTVkkPlUU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037949752927805593",
+    "in_reply_to_user_id": "1119752356831334400",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037901491403428303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meduka_ebooks https://t.co/OOTVkkPlUU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 164,
+        "media_key": "16_2037949746506321920",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HEhAfzabUAAITV7.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HEhAfzabUAAITV7.mp4"
+          }
+        ],
+        "width": 164
+      },
+      {
+        "duration_ms": 12666,
+        "height": 1054,
+        "media_key": "13_2037901400798285824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037901400798285824/img/sd-ildifD1TPCVTw.jpg",
+        "public_metrics": {
+          "view_count": 4296
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037901400798285824/vid/avc1/320x468/3f9mS19GrPnjLZTS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037901400798285824/vid/avc1/480x702/q3j4aTB8BgqwZu-B.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037901400798285824/vid/avc1/720x1054/Zce5lZrzmTdrzIbx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037901400798285824/pl/iJU6JuCCVZrIWiE6.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2037949746506321920"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2037901491403428303",
+        "created_at": "2026-03-28T17:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T18:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037949752927805593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1119752356831334400",
+              "start": 0,
+              "username": "meduka_ebooks"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OOTVkkPlUU",
+              "end": 38,
+              "expanded_url": "https://x.com/neko0202002/status/2037949752927805593/photo/1",
+              "media_key": "16_2037949746506321920",
+              "start": 15,
+              "url": "https://t.co/OOTVkkPlUU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037949752927805593",
+        "in_reply_to_user_id": "1119752356831334400",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037901491403428303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meduka_ebooks https://t.co/OOTVkkPlUU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037901400798285824"
+          ]
+        },
+        "author_id": "1119752356831334400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2037901491403428303",
+        "created_at": "2026-03-28T14:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T15:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037901491403428303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bhn3Cr4HGw",
+              "end": 73,
+              "expanded_url": "https://x.com/meduka_ebooks/status/2037901491403428303/video/1",
+              "media_key": "13_2037901400798285824",
+              "start": 50,
+              "url": "https://t.co/Bhn3Cr4HGw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037901491403428303",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 9028,
+          "like_count": 830,
+          "quote_count": 9,
+          "reply_count": 21,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "Do you think people can tell I like Madoka Magica https://t.co/Bhn3Cr4HGw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/同类查成分互fo/请和我做朋友/ᗜ𖥦ᗜ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037065551403786240/r6CPsSyA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 687,
+          "like_count": 896,
+          "listed_count": 2,
+          "media_count": 657,
+          "tweet_count": 2023
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-20T23:59:00.000Z",
+        "description": "Madoka ✧ *:･ﾟ✧*:･ﾟ︵‿︵‿୨♡୧ All content is mine unless stated otherwise, reposts are ok with credit",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "medukaebooks.straw.page",
+                "end": 23,
+                "expanded_url": "https://medukaebooks.straw.page/",
+                "start": 0,
+                "url": "https://t.co/RBytCM8nfQ"
+              }
+            ]
+          }
+        },
+        "id": "1119752356831334400",
+        "location": "mitakihara",
+        "name": "Madoka 💘",
+        "pinned_tweet_id": "1918299674915590594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873041349877891072/qxwucTnT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20766,
+          "following_count": 146,
+          "like_count": 6451,
+          "listed_count": 30,
+          "media_count": 2390,
+          "tweet_count": 11084
+        },
+        "url": "https://t.co/RBytCM8nfQ",
+        "username": "meduka_ebooks",
+        "verified": false
+      }
+    ]
+  }
+}

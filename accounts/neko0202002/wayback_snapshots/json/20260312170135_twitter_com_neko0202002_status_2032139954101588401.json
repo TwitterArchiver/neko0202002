@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2031964862092623876"
+      ],
+      "media_source_tweet_id": [
+        "2031964959161434160"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "2032139954101588401",
+    "created_at": "2026-03-12T17:01:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T18:01:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032139954101588401"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 64,
+          "start": 60,
+          "tag": "類寧々"
+        },
+        {
+          "end": 74,
+          "start": 66,
+          "tag": "prsk_FA"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1460803554906882048",
+          "start": 3,
+          "username": "ukiNa77"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6jzo9qxgVD",
+          "end": 98,
+          "expanded_url": "https://x.com/ukiNa77/status/2031964959161434160/video/1",
+          "media_key": "13_2031964862092623876",
+          "start": 75,
+          "url": "https://t.co/6jzo9qxgVD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032139954101588401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 407
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031964959161434160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ukiNa77: 兔兔太可爱了，然后即兴画了个小手书，大家请吃qwq\n原曲：RRRingO 作者：Magens\n#類寧々\n #prsk_FA https://t.co/6jzo9qxgVD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26033,
+        "height": 960,
+        "media_key": "13_2031964862092623876",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2031964862092623876/img/nszRfpy4nrJELLOM.jpg",
+        "public_metrics": {
+          "view_count": 6725
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031964862092623876/vid/avc1/320x426/oN6xcjgi_dfBowuW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031964862092623876/vid/avc1/480x640/RXldxfoOA99pe9Za.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031964862092623876/vid/avc1/720x960/A6dJeW9lejt-X1zT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2031964862092623876/pl/nd3to3TLmcPt-xD6.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2031964862092623876"
+          ],
+          "media_source_tweet_id": [
+            "2031964959161434160"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2032139954101588401",
+        "created_at": "2026-03-12T17:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T18:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032139954101588401"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 60,
+              "tag": "類寧々"
+            },
+            {
+              "end": 74,
+              "start": 66,
+              "tag": "prsk_FA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1460803554906882048",
+              "start": 3,
+              "username": "ukiNa77"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6jzo9qxgVD",
+              "end": 98,
+              "expanded_url": "https://x.com/ukiNa77/status/2031964959161434160/video/1",
+              "media_key": "13_2031964862092623876",
+              "start": 75,
+              "url": "https://t.co/6jzo9qxgVD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032139954101588401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 407
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031964959161434160",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ukiNa77: 兔兔太可爱了，然后即兴画了个小手书，大家请吃qwq\n原曲：RRRingO 作者：Magens\n#類寧々\n #prsk_FA https://t.co/6jzo9qxgVD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2031964862092623876"
+          ]
+        },
+        "author_id": "1460803554906882048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2031964959161434160",
+        "created_at": "2026-03-12T05:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T06:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031964959161434160"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 47,
+              "tag": "類寧々"
+            },
+            {
+              "end": 61,
+              "start": 53,
+              "tag": "prsk_FA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6jzo9qxgVD",
+              "end": 85,
+              "expanded_url": "https://x.com/ukiNa77/status/2031964959161434160/video/1",
+              "media_key": "13_2031964862092623876",
+              "start": 62,
+              "url": "https://t.co/6jzo9qxgVD"
+            },
+            {
+              "display_url": "x.com/ukina77/status…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/ukina77/status/2029819011580760206",
+              "start": 86,
+              "url": "https://t.co/l3YeHe27q3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031964959161434160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 283,
+          "impression_count": 32490,
+          "like_count": 1715,
+          "quote_count": 9,
+          "reply_count": 2,
+          "retweet_count": 407
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029819011580760206",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "兔兔太可爱了，然后即兴画了个小手书，大家请吃qwq\n原曲：RRRingO 作者：Magens\n#類寧々\n #prsk_FA https://t.co/6jzo9qxgVD https://t.co/l3YeHe27q3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/玛利亚什么的在上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031827855542534147/IPSe8w_P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 547,
+          "like_count": 650,
+          "listed_count": 1,
+          "media_count": 419,
+          "tweet_count": 1375
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-17T02:55:04.000Z",
+        "description": "20⬆️｜中文｜English｜简单日本語🌟你好！这里uki雪鱼！🌟 大概什么都吃 谢谢喜欢！激推🎈🤖｜伸文",
+        "id": "1460803554906882048",
+        "name": "uki雪鱼🐟",
+        "pinned_tweet_id": "1691465015755431937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1691494941191548946/ErQXZ-W2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4116,
+          "following_count": 443,
+          "like_count": 7330,
+          "listed_count": 10,
+          "media_count": 116,
+          "tweet_count": 893
+        },
+        "username": "ukiNa77",
+        "verified": false
+      }
+    ]
+  }
+}

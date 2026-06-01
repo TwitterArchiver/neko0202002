@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2048690176864710656"
+      ],
+      "media_source_tweet_id": [
+        "2048690237195645053"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1236052936121151488",
+          "name": "Chainsaw Man"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2049031075968753922",
+    "created_at": "2026-04-28T07:40:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T08:40:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049031075968753922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1972937441612021760",
+          "start": 3,
+          "username": "Rezechannnnn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nDhV70cKKi",
+          "end": 57,
+          "expanded_url": "https://x.com/Rezechannnnn/status/2048690237195645053/video/1",
+          "media_key": "13_2048690176864710656",
+          "start": 34,
+          "url": "https://t.co/nDhV70cKKi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049031075968753922",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 418
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048690237195645053",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rezechannnnn: デンジの気持ちがよくわかります https://t.co/nDhV70cKKi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12260,
+        "height": 1280,
+        "media_key": "13_2048690176864710656",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048690176864710656/img/r3D0RiZIhMr877wJ.jpg",
+        "public_metrics": {
+          "view_count": 62345
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048690176864710656/vid/avc1/320x722/MEJS5ykUQn-B13ZK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048690176864710656/vid/avc1/480x1084/6PLwCFImY9ruSS-P.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048690176864710656/vid/avc1/566x1280/KrB9zc-PpM-gXfi6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048690176864710656/pl/oeaCGiWZ61lwFlFz.m3u8?v=f89"
+          }
+        ],
+        "width": 566
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048690176864710656"
+          ],
+          "media_source_tweet_id": [
+            "2048690237195645053"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2049031075968753922",
+        "created_at": "2026-04-28T07:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049031075968753922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1972937441612021760",
+              "start": 3,
+              "username": "Rezechannnnn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nDhV70cKKi",
+              "end": 57,
+              "expanded_url": "https://x.com/Rezechannnnn/status/2048690237195645053/video/1",
+              "media_key": "13_2048690176864710656",
+              "start": 34,
+              "url": "https://t.co/nDhV70cKKi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049031075968753922",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 418
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048690237195645053",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rezechannnnn: デンジの気持ちがよくわかります https://t.co/nDhV70cKKi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048690176864710656"
+          ]
+        },
+        "author_id": "1972937441612021760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236052936121151488",
+              "name": "Chainsaw Man"
+            }
+          }
+        ],
+        "conversation_id": "2048690237195645053",
+        "created_at": "2026-04-27T09:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048690237195645053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nDhV70cKKi",
+              "end": 39,
+              "expanded_url": "https://x.com/Rezechannnnn/status/2048690237195645053/video/1",
+              "media_key": "13_2048690176864710656",
+              "start": 16,
+              "url": "https://t.co/nDhV70cKKi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048690237195645053",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1038,
+          "impression_count": 158841,
+          "like_count": 4237,
+          "quote_count": 77,
+          "reply_count": 3,
+          "retweet_count": 418
+        },
+        "reply_settings": "everyone",
+        "text": "デンジの気持ちがよくわかります https://t.co/nDhV70cKKi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 903,
+          "like_count": 1381,
+          "listed_count": 2,
+          "media_count": 1178,
+          "tweet_count": 3413
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-30T08:12:08.000Z",
+        "description": "レゼちゃんレゼちゃんレゼちゃんレゼちゃんレゼちゃんレゼちゃんレゼちゃんレゼちゃんレゼちゃんレゼちゃんレゼちゃんレゼちゃんレゼちゃんレゼちゃんレゼちゃんレゼちゃんレゼちゃんレゼちゃんレゼちゃん デンレゼ レゼデン ⭕️ レゼちゃんが大好き 2部履修済 AI学習禁止",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chainsawman.dog",
+                "end": 23,
+                "expanded_url": "https://chainsawman.dog/",
+                "start": 0,
+                "url": "https://t.co/wXUPhlq2rG"
+              }
+            ]
+          }
+        },
+        "id": "1972937441612021760",
+        "location": "レゼちゃんレゼちゃんレゼちゃんレゼちゃん",
+        "name": "レゼちゃんレゼちゃんレゼちゃんレゼちゃんレゼちゃんレゼちゃんレゼちゃんレゼちゃんレゼちゃん",
+        "pinned_tweet_id": "1986352279990268130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989696963571585029/kS6PeQ7L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 70,
+          "like_count": 2109,
+          "listed_count": 6,
+          "media_count": 92,
+          "tweet_count": 1110
+        },
+        "url": "https://t.co/wXUPhlq2rG",
+        "username": "Rezechannnnn",
+        "verified": false
+      }
+    ]
+  }
+}

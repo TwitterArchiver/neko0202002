@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2046554260280950920",
+    "created_at": "2026-04-24T06:43:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T07:43:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047567071605833889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1804875241367433216",
+          "start": 0,
+          "username": "aberyoheiskm"
+        },
+        {
+          "end": 30,
+          "id": "1979068278673981440",
+          "start": 14,
+          "username": "orange219695619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047567071605833889",
+    "in_reply_to_user_id": "1804875241367433216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047558565825818834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aberyoheiskm @orange219695619 怎么说呢，不太建议舌下含服，除了最外面有一层甜甜的，溶解之后特别苦，甘草片需要几十t起步,舌下含服累计药物浓度特别慢，就比如一次30t，只需要吞两次,舌下含服的话，至少需要十几分钟吧,相比药物浓度，一次性累积，然后慢慢代谢，加上缓慢累积和缓慢代谢，完全是捡个芝麻，丢个西瓜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1652,
+        "media_key": "3_2047558563116298240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpjqitbMAA9Htw.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1830,
+        "media_key": "3_2047558562977869824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpjqiMa8AA6lRH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2046554260280950920",
+        "created_at": "2026-04-24T06:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T07:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047567071605833889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            },
+            {
+              "end": 30,
+              "id": "1979068278673981440",
+              "start": 14,
+              "username": "orange219695619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047567071605833889",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047558565825818834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm @orange219695619 怎么说呢，不太建议舌下含服，除了最外面有一层甜甜的，溶解之后特别苦，甘草片需要几十t起步,舌下含服累计药物浓度特别慢，就比如一次30t，只需要吞两次,舌下含服的话，至少需要十几分钟吧,相比药物浓度，一次性累积，然后慢慢代谢，加上缓慢累积和缓慢代谢，完全是捡个芝麻，丢个西瓜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047558563116298240",
+            "3_2047558562977869824"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2046554260280950920",
+        "created_at": "2026-04-24T06:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T07:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047558565825818834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979068278673981440",
+              "start": 0,
+              "username": "orange219695619"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NtZBlEahM8",
+              "end": 89,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2047558565825818834/photo/1",
+              "media_key": "3_2047558563116298240",
+              "start": 66,
+              "url": "https://t.co/NtZBlEahM8"
+            },
+            {
+              "display_url": "pic.x.com/NtZBlEahM8",
+              "end": 89,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2047558565825818834/photo/1",
+              "media_key": "3_2047558562977869824",
+              "start": 66,
+              "url": "https://t.co/NtZBlEahM8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047558565825818834",
+        "in_reply_to_user_id": "1979068278673981440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047556737671237903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orange219695619 刚刚那个结论是之前朋友告诉我的，首过效应具体我也不清楚查了一下百度应该是这个🤔然后p2是问了ai https://t.co/NtZBlEahM8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 876,
+          "like_count": 1344,
+          "listed_count": 2,
+          "media_count": 1132,
+          "tweet_count": 3306
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ 不安所以到处评论见谅⌇逃离墙内中⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 190,
+          "like_count": 2133,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1206
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T06:14:40.000Z",
+        "description": "",
+        "id": "1979068278673981440",
+        "name": "orange",
+        "pinned_tweet_id": "2040422947824017866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979068526590894080/r9hJIHsN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 81,
+          "like_count": 1034,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1455
+        },
+        "username": "orange219695619",
+        "verified": false
+      }
+    ]
+  }
+}

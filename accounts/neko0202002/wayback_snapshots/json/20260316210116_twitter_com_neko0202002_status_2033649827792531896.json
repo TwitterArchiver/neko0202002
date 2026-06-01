@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033649825326219264"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2033614995968397735",
+    "created_at": "2026-03-16T21:01:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T22:01:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033649827792531896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1486755570694729729",
+          "start": 0,
+          "username": "inks_chain"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TFyU28j3cJ",
+          "end": 47,
+          "expanded_url": "https://x.com/neko0202002/status/2033649827792531896/photo/1",
+          "media_key": "3_2033649825326219264",
+          "start": 24,
+          "url": "https://t.co/TFyU28j3cJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033649827792531896",
+    "in_reply_to_user_id": "1486755570694729729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033614995968397735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inks_chain 我多互动互动，来挤一下 https://t.co/TFyU28j3cJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 504,
+        "media_key": "3_2033649825326219264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDj5vcwawAAtRoa.jpg",
+        "width": 600
+      },
+      {
+        "height": 1000,
+        "media_key": "3_2033614991748927488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDjaD3kakAAQX7K.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033649825326219264"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2033614995968397735",
+        "created_at": "2026-03-16T21:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T22:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033649827792531896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1486755570694729729",
+              "start": 0,
+              "username": "inks_chain"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TFyU28j3cJ",
+              "end": 47,
+              "expanded_url": "https://x.com/neko0202002/status/2033649827792531896/photo/1",
+              "media_key": "3_2033649825326219264",
+              "start": 24,
+              "url": "https://t.co/TFyU28j3cJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033649827792531896",
+        "in_reply_to_user_id": "1486755570694729729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033614995968397735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inks_chain 我多互动互动，来挤一下 https://t.co/TFyU28j3cJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033614991748927488"
+          ]
+        },
+        "author_id": "1486755570694729729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2033614995968397735",
+        "created_at": "2026-03-16T18:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T19:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033614995968397735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2033210933179449344/bnfJ4X6Q?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2033210933179449344/bnfJ4X6Q?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/NWXtuED9SC"
+            },
+            {
+              "display_url": "pic.x.com/WwhMxtOD9O",
+              "end": 64,
+              "expanded_url": "https://x.com/inks_chain/status/2033614995968397735/photo/1",
+              "media_key": "3_2033614991748927488",
+              "start": 41,
+              "url": "https://t.co/WwhMxtOD9O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033614995968397735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/NWXtuED9SC https://t.co/WwhMxtOD9O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理/同类查成分互fo/请和我做朋友/ᗜ𖥦ᗜ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032192447573577728/C9yS_hXm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 584,
+          "like_count": 712,
+          "listed_count": 1,
+          "media_count": 481,
+          "tweet_count": 1522
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-27T17:38:56.000Z",
+        "description": "流浪在互联网上的幽灵，一个不该继续活着的人\n#odtwt#shtwt\n#自残#od\n嗯，性别？别在意，至少我自己早就不在意了。。。或许吧\nCN/EN/JP",
+        "id": "1486755570694729729",
+        "name": "ヰ世界优泠#参宿七",
+        "pinned_tweet_id": "2033630188790288778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000078965458014209/yImgtI0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 494,
+          "like_count": 7329,
+          "listed_count": 0,
+          "media_count": 235,
+          "tweet_count": 2907
+        },
+        "username": "inks_chain",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049431058685599744"
+      ],
+      "media_source_tweet_id": [
+        "2049431061147619636"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2049454903882654067",
+    "created_at": "2026-04-29T11:45:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T12:45:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049454903882654067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "272224401",
+          "start": 3,
+          "username": "garisaw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k6zJoZVkL5",
+          "end": 89,
+          "expanded_url": "https://x.com/garisaw/status/2049431061147619636/photo/1",
+          "media_key": "3_2049431058685599744",
+          "start": 66,
+          "url": "https://t.co/k6zJoZVkL5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049454903882654067",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049431061147619636",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @garisaw: 本日お部屋の大規模掃除をして，数年ぶりにまんがタイム きらら☆マギカ全30号が集結しました\n壮観ですね～ https://t.co/k6zJoZVkL5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 575,
+        "media_key": "3_2049431058685599744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEKsISboAAe0wU.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049431058685599744"
+          ],
+          "media_source_tweet_id": [
+            "2049431061147619636"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049454903882654067",
+        "created_at": "2026-04-29T11:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T12:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049454903882654067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "272224401",
+              "start": 3,
+              "username": "garisaw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k6zJoZVkL5",
+              "end": 89,
+              "expanded_url": "https://x.com/garisaw/status/2049431061147619636/photo/1",
+              "media_key": "3_2049431058685599744",
+              "start": 66,
+              "url": "https://t.co/k6zJoZVkL5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049454903882654067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049431061147619636",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @garisaw: 本日お部屋の大規模掃除をして，数年ぶりにまんがタイム きらら☆マギカ全30号が集結しました\n壮観ですね～ https://t.co/k6zJoZVkL5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049431058685599744"
+          ]
+        },
+        "author_id": "272224401",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049431061147619636",
+        "created_at": "2026-04-29T10:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T11:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049431061147619636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k6zJoZVkL5",
+              "end": 76,
+              "expanded_url": "https://x.com/garisaw/status/2049431061147619636/photo/1",
+              "media_key": "3_2049431058685599744",
+              "start": 53,
+              "url": "https://t.co/k6zJoZVkL5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049431061147619636",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 616,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "本日お部屋の大規模掃除をして，数年ぶりにまんがタイム きらら☆マギカ全30号が集結しました\n壮観ですね～ https://t.co/k6zJoZVkL5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 918,
+          "like_count": 1425,
+          "listed_count": 2,
+          "media_count": 1213,
+          "tweet_count": 3504
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-26T02:44:18.000Z",
+        "description": "ゲーム模型アニメ等",
+        "id": "272224401",
+        "location": "みやぎ",
+        "name": "がりそー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/442677066769510401/VenqM7Rz_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 168,
+          "like_count": 40791,
+          "listed_count": 22,
+          "media_count": 6723,
+          "tweet_count": 103319
+        },
+        "username": "garisaw",
+        "verified": false
+      }
+    ]
+  }
+}

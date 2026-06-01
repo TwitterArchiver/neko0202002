@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2024169280234016768"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2023777085068898469",
+    "created_at": "2026-02-18T17:09:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T18:09:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024169292833435933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2016175327069011971",
+          "start": 0,
+          "username": "shanhu_mi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0FboXNYRZi",
+          "end": 54,
+          "expanded_url": "https://x.com/neko0202002/status/2024169292833435933/photo/1",
+          "media_key": "16_2024169280234016768",
+          "start": 31,
+          "url": "https://t.co/0FboXNYRZi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024169292833435933",
+    "in_reply_to_user_id": "2016175327069011971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023777085068898469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shanhu_mi 玉米掰开装胶囊会影响药效吗，没有试过欸 https://t.co/0FboXNYRZi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 322,
+        "media_key": "16_2024169280234016768",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HBdLPGGbUAArN4q.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HBdLPGGbUAArN4q.mp4"
+          }
+        ],
+        "width": 498
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023777081264582656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBXmiHFaMAAsUo3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2024169280234016768"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2023777085068898469",
+        "created_at": "2026-02-18T17:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T18:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024169292833435933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2016175327069011971",
+              "start": 0,
+              "username": "shanhu_mi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0FboXNYRZi",
+              "end": 54,
+              "expanded_url": "https://x.com/neko0202002/status/2024169292833435933/photo/1",
+              "media_key": "16_2024169280234016768",
+              "start": 31,
+              "url": "https://t.co/0FboXNYRZi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024169292833435933",
+        "in_reply_to_user_id": "2016175327069011971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023777085068898469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shanhu_mi 玉米掰开装胶囊会影响药效吗，没有试过欸 https://t.co/0FboXNYRZi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023777081264582656"
+          ]
+        },
+        "author_id": "2016175327069011971",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2023777085068898469",
+        "created_at": "2026-02-17T15:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T16:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023777085068898469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Afrl8emOOn",
+              "end": 31,
+              "expanded_url": "https://x.com/shanhu_mi/status/2023777085068898469/photo/1",
+              "media_key": "3_2023777081264582656",
+              "start": 8,
+              "url": "https://t.co/Afrl8emOOn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023777085068898469",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "42pr4玉米 https://t.co/Afrl8emOOn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "os.remove ( '' characters / Itami. chr '' )\n\n啧，删不掉… … …有人在看吗？啊！我是Monika,我们又见面了/同类互fo",
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "宫小路优",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023488620305547264/eHtrA7bd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 340,
+          "like_count": 98,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 409
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T15:44:09.000Z",
+        "description": "od丨自伤 不喜欢屏蔽就好                                                    同类直fo 喜欢被评论和胡言乱语",
+        "id": "2016175327069011971",
+        "location": "自己家",
+        "name": "T^",
+        "pinned_tweet_id": "2019610025841553863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016175486901342208/pLxE9i7O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 36,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 203
+        },
+        "username": "shanhu_mi",
+        "verified": false
+      }
+    ]
+  }
+}

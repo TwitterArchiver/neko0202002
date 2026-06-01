@@ -1,0 +1,505 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1644279701312278530"
+      ],
+      "media_source_tweet_id": [
+        "1644279827682443264"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1998096166177915020",
+    "created_at": "2025-12-08T18:23:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T19:23:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998096166177915020"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 25,
+          "tag": "原神"
+        },
+        {
+          "end": 31,
+          "start": 29,
+          "tag": "荧"
+        },
+        {
+          "end": 35,
+          "start": 32,
+          "tag": "派蒙"
+        },
+        {
+          "end": 51,
+          "start": 36,
+          "tag": "Genshin_Impact"
+        },
+        {
+          "end": 60,
+          "start": 52,
+          "tag": "Genshin"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1515905121900986369",
+          "start": 3,
+          "username": "twcloudman"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/usQx4IoUc6",
+          "end": 84,
+          "expanded_url": "https://x.com/twcloudman/status/1644279827682443264/photo/1",
+          "media_key": "3_1644279701312278530",
+          "start": 61,
+          "url": "https://t.co/usQx4IoUc6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998096166177915020",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1644279827682443264",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @twcloudman: 去吧，皮卡派蒙～。#原神 #荧 #派蒙 #Genshin_Impact #Genshin https://t.co/usQx4IoUc6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1824,
+        "media_key": "3_1644279701312278530",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FtGnrTQakAIWRaM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1644279701312278530"
+          ],
+          "media_source_tweet_id": [
+            "1644279827682443264"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1998096166177915020",
+        "created_at": "2025-12-08T18:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T19:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998096166177915020"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "原神"
+            },
+            {
+              "end": 31,
+              "start": 29,
+              "tag": "荧"
+            },
+            {
+              "end": 35,
+              "start": 32,
+              "tag": "派蒙"
+            },
+            {
+              "end": 51,
+              "start": 36,
+              "tag": "Genshin_Impact"
+            },
+            {
+              "end": 60,
+              "start": 52,
+              "tag": "Genshin"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1515905121900986369",
+              "start": 3,
+              "username": "twcloudman"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/usQx4IoUc6",
+              "end": 84,
+              "expanded_url": "https://x.com/twcloudman/status/1644279827682443264/photo/1",
+              "media_key": "3_1644279701312278530",
+              "start": 61,
+              "url": "https://t.co/usQx4IoUc6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998096166177915020",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1644279827682443264",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @twcloudman: 去吧，皮卡派蒙～。#原神 #荧 #派蒙 #Genshin_Impact #Genshin https://t.co/usQx4IoUc6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1644279701312278530"
+          ]
+        },
+        "author_id": "1515905121900986369",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1644279827682443264",
+        "created_at": "2023-04-07T10:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-07T10:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1644279827682443264"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "原神"
+            },
+            {
+              "end": 15,
+              "start": 13,
+              "tag": "荧"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "派蒙"
+            },
+            {
+              "end": 35,
+              "start": 20,
+              "tag": "Genshin_Impact"
+            },
+            {
+              "end": 44,
+              "start": 36,
+              "tag": "Genshin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/usQx4IoUc6",
+              "end": 68,
+              "expanded_url": "https://x.com/twcloudman/status/1644279827682443264/photo/1",
+              "media_key": "3_1644279701312278530",
+              "start": 45,
+              "url": "https://t.co/usQx4IoUc6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1644279827682443264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3945,
+          "like_count": 90,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "去吧，皮卡派蒙～。#原神 #荧 #派蒙 #Genshin_Impact #Genshin https://t.co/usQx4IoUc6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "Caramel Box",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "九重",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997232524024774657/EdJxwXIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 230,
+          "like_count": 68,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 267
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-18T04:09:00.000Z",
+        "description": "感谢关注w  禁止炼丹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "weibo.com/u/6591855370",
+                "end": 23,
+                "expanded_url": "https://weibo.com/u/6591855370",
+                "start": 0,
+                "url": "https://t.co/1A5JROxe6u"
+              }
+            ]
+          }
+        },
+        "id": "1515905121900986369",
+        "name": "飞机云君",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515905452512780291/s3yR2NtL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16330,
+          "following_count": 425,
+          "like_count": 114,
+          "listed_count": 127,
+          "media_count": 153,
+          "tweet_count": 158
+        },
+        "url": "https://t.co/1A5JROxe6u",
+        "username": "twcloudman",
+        "verified": false
+      }
+    ]
+  }
+}

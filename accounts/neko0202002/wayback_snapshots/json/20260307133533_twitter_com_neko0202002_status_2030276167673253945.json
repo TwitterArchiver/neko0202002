@@ -1,0 +1,621 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "this entity for all conversations for valentine's day all year ",
+          "id": "1201528585682423809",
+          "name": "Valentine's Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "this entity for all conversations for valentine's day all year ",
+          "id": "1201528585682423809",
+          "name": "Valentine's Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "this entity for all conversations for valentine's day all year ",
+          "id": "1201528585682423809",
+          "name": "Valentine's Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cooking/Baking",
+          "id": "831530561680191490",
+          "name": "Cooking"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Desserts and baked goods",
+          "id": "847863957599567872",
+          "name": "Desserts and baked goods"
+        }
+      }
+    ],
+    "conversation_id": "2030276167673253945",
+    "created_at": "2026-03-07T13:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T14:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030276167673253945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1777865487755718656",
+          "start": 3,
+          "username": "madoka_exedra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030276167673253945",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 176
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023668745508712600",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @madoka_exedra: ✧━━━━━━━━━━━━✧\nパラレルストーリーイベント\n　想い伝わる甘い魔法 前編\n✧━━━━━━━━━━━━✧\nここは“ミタキハラ”にある魔法のパティスリー\n友情に、恋に…どんな悩みも魔法のお菓子でなんでも解決！\nバレンタインは終わった…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41033,
+        "height": 1080,
+        "media_key": "13_2023310861260185600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023310861260185600/img/mWrPXiE_Mmx9iuuy.jpg",
+        "public_metrics": {
+          "view_count": 13396
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023310861260185600/pl/EPRVRQmDZl50Ih-s.m3u8?v=98f"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023310861260185600/vid/avc1/1920x1080/ujDtyUw9GZmUvzzY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023310861260185600/vid/avc1/1280x720/ZpzvPT2dWXWkXQ_F.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023310861260185600/vid/avc1/480x270/ggtn4Dm_e6VUiU1o.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023310861260185600/vid/avc1/640x360/pDL8k8-OAxEIwYJ7.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "this entity for all conversations for valentine's day all year ",
+              "id": "1201528585682423809",
+              "name": "Valentine's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "this entity for all conversations for valentine's day all year ",
+              "id": "1201528585682423809",
+              "name": "Valentine's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "this entity for all conversations for valentine's day all year ",
+              "id": "1201528585682423809",
+              "name": "Valentine's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Desserts and baked goods",
+              "id": "847863957599567872",
+              "name": "Desserts and baked goods"
+            }
+          }
+        ],
+        "conversation_id": "2030276167673253945",
+        "created_at": "2026-03-07T13:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T14:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030276167673253945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1777865487755718656",
+              "start": 3,
+              "username": "madoka_exedra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030276167673253945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 176
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023668745508712600",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @madoka_exedra: ✧━━━━━━━━━━━━✧\nパラレルストーリーイベント\n　想い伝わる甘い魔法 前編\n✧━━━━━━━━━━━━✧\nここは“ミタキハラ”にある魔法のパティスリー\n友情に、恋に…どんな悩みも魔法のお菓子でなんでも解決！\nバレンタインは終わった…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023310861260185600"
+          ]
+        },
+        "author_id": "1777865487755718656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "this entity for all conversations for valentine's day all year ",
+              "id": "1201528585682423809",
+              "name": "Valentine's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "this entity for all conversations for valentine's day all year ",
+              "id": "1201528585682423809",
+              "name": "Valentine's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "this entity for all conversations for valentine's day all year ",
+              "id": "1201528585682423809",
+              "name": "Valentine's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Desserts and baked goods",
+              "id": "847863957599567872",
+              "name": "Desserts and baked goods"
+            }
+          }
+        ],
+        "conversation_id": "2023668745508712600",
+        "created_at": "2026-02-17T08:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T09:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023668745508712600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mTsKCH2QvC",
+              "end": 168,
+              "expanded_url": "https://x.com/madoka_exedra/status/2023668745508712600/video/1",
+              "media_key": "13_2023310861260185600",
+              "start": 145,
+              "url": "https://t.co/mTsKCH2QvC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023668745508712600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 151,
+                "start": 146,
+                "tag": "まどドラ"
+              }
+            ]
+          },
+          "text": "✧━━━━━━━━━━━━✧\nパラレルストーリーイベント\n　想い伝わる甘い魔法 前編\n✧━━━━━━━━━━━━✧\nここは“ミタキハラ”にある魔法のパティスリー\n友情に、恋に…どんな悩みも魔法のお菓子でなんでも解決！\nバレンタインは終わったけれど\nパティスリーには今日も悩める乙女が訪れる\n\n#まどドラ"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 79533,
+          "like_count": 639,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 176
+        },
+        "reply_settings": "everyone",
+        "text": "✧━━━━━━━━━━━━✧\nパラレルストーリーイベント\n　想い伝わる甘い魔法 前編\n✧━━━━━━━━━━━━✧\nここは“ミタキハラ”にある魔法のパティスリー\n友情に、恋に…どんな悩みも魔法のお菓子でなんでも解決！\nバレンタインは終わったけれど\nパティスリーには今日も悩める乙女が訪れる https://t.co/mTsKCH2QvC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/玛利亚什么的在上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "周防院奏",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028525324649328640/d35polxT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 499,
+          "like_count": 508,
+          "listed_count": 1,
+          "media_count": 313,
+          "tweet_count": 1135
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-10T01:05:45.000Z",
+        "description": "スマートフォン/PC向けRPG「魔法少女まどか☆マギカ Magia Exedra」公式アカウント！\n#まどドラ のゲーム内最新情報をお届けします！\nアプリ内よりお得なWEBSHOP：https://t.co/0sxQAugQCb",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 50,
+                "tag": "まどドラ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "webshop-jp.games.madoka-exedra.com",
+                "end": 114,
+                "expanded_url": "https://webshop-jp.games.madoka-exedra.com",
+                "start": 91,
+                "url": "https://t.co/0sxQAugQCb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "madoka-exedra.com",
+                "end": 23,
+                "expanded_url": "https://madoka-exedra.com/",
+                "start": 0,
+                "url": "https://t.co/HB6UyS41Py"
+              }
+            ]
+          }
+        },
+        "id": "1777865487755718656",
+        "name": "【まどドラ】魔法少女まどか☆マギカ Magia Exedra 公式",
+        "pinned_tweet_id": "2029881722033295596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027218998845485056/5WH5H07M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235890,
+          "following_count": 7,
+          "like_count": 0,
+          "listed_count": 506,
+          "media_count": 1853,
+          "tweet_count": 2418
+        },
+        "url": "https://t.co/HB6UyS41Py",
+        "username": "madoka_exedra",
+        "verified": true
+      }
+    ]
+  }
+}

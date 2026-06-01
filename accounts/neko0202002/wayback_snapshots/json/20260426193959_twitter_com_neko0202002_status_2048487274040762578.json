@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2048487256332382208",
+        "3_2048487257829687296"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2048487274040762578",
+    "created_at": "2026-04-26T19:39:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T20:39:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048487274040762578"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tQtTFT5Idg",
+          "end": 32,
+          "expanded_url": "https://x.com/neko0202002/status/2048487274040762578/video/1",
+          "media_key": "7_2048487256332382208",
+          "start": 9,
+          "url": "https://t.co/tQtTFT5Idg"
+        },
+        {
+          "display_url": "pic.x.com/tQtTFT5Idg",
+          "end": 32,
+          "expanded_url": "https://x.com/neko0202002/status/2048487274040762578/video/1",
+          "media_key": "3_2048487257829687296",
+          "start": 9,
+          "url": "https://t.co/tQtTFT5Idg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048487274040762578",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "呃啊啊啊啊啊啊啊 https://t.co/tQtTFT5Idg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5914,
+        "height": 1280,
+        "media_key": "7_2048487256332382208",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2048487256332382208/pu/img/6zg3kX7jn7LggNrT.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048487256332382208/pu/vid/avc1/320x694/g7d6AZMgnqhEgbb-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048487256332382208/pu/vid/avc1/480x1040/AEJT9qbaBzsoC819.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048487256332382208/pu/vid/avc1/590x1280/68DbeakHCVwd13Xu.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2048487256332382208/pu/pl/9i4AWa4IyAkLN4QK.m3u8?tag=12"
+          }
+        ],
+        "width": 590
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048487257829687296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2wTsHaQAApqb-.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2048487256332382208",
+            "3_2048487257829687296"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048487274040762578",
+        "created_at": "2026-04-26T19:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T20:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048487274040762578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tQtTFT5Idg",
+              "end": 32,
+              "expanded_url": "https://x.com/neko0202002/status/2048487274040762578/video/1",
+              "media_key": "7_2048487256332382208",
+              "start": 9,
+              "url": "https://t.co/tQtTFT5Idg"
+            },
+            {
+              "display_url": "pic.x.com/tQtTFT5Idg",
+              "end": 32,
+              "expanded_url": "https://x.com/neko0202002/status/2048487274040762578/video/1",
+              "media_key": "3_2048487257829687296",
+              "start": 9,
+              "url": "https://t.co/tQtTFT5Idg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048487274040762578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃啊啊啊啊啊啊啊 https://t.co/tQtTFT5Idg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 892,
+          "like_count": 1375,
+          "listed_count": 2,
+          "media_count": 1164,
+          "tweet_count": 3387
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}

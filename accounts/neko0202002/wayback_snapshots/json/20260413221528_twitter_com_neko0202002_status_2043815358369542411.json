@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2043743028846711188",
+    "created_at": "2026-04-13T22:15:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T23:15:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043815358369542411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1688104374042836992",
+          "start": 0,
+          "username": "ovocaize"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043815358369542411",
+    "in_reply_to_user_id": "1688104374042836992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043743028846711188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ovocaize 对面假酒喝多了吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043743010597298176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFzVcJ7W4AAjyhm.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2043743028846711188",
+        "created_at": "2026-04-13T22:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T23:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043815358369542411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1688104374042836992",
+              "start": 0,
+              "username": "ovocaize"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043815358369542411",
+        "in_reply_to_user_id": "1688104374042836992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043743028846711188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ovocaize 对面假酒喝多了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043743010597298176"
+          ]
+        },
+        "author_id": "1688104374042836992",
+        "conversation_id": "2043743028846711188",
+        "created_at": "2026-04-13T17:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T18:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043743028846711188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ajeYUbYOjV",
+              "end": 31,
+              "expanded_url": "https://x.com/ovocaize/status/2043743028846711188/photo/1",
+              "media_key": "3_2043743010597298176",
+              "start": 8,
+              "url": "https://t.co/ajeYUbYOjV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043743028846711188",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有病吗大哥哥？ https://t.co/ajeYUbYOjV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 838,
+          "like_count": 1168,
+          "listed_count": 2,
+          "media_count": 1014,
+          "tweet_count": 2904
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T08:27:09.000Z",
+        "description": "小鼠｜顺女｜Tibetan｜自伤od碎碎念黑泥聚集地（戒药版）｜查成分后互fo｜👁️@Naijin66998｜入门支持口令/赞赏码（置顶评论区） 不回任何其他",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 42,
+                "username": "Naijin66998"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gogochun",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gogochun",
+                "start": 0,
+                "url": "https://t.co/rMh869vg8F"
+              }
+            ]
+          }
+        },
+        "id": "1688104374042836992",
+        "location": "🚪188/288/520/1314",
+        "name": "为了没有眼泪的明天",
+        "pinned_tweet_id": "2043562112476205267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036801868295458817/jvpoWDKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 221,
+          "like_count": 9031,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 2296
+        },
+        "url": "https://t.co/rMh869vg8F",
+        "username": "ovocaize",
+        "verified": false
+      }
+    ]
+  }
+}

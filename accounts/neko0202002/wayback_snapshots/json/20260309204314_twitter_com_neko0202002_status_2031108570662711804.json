@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2031108570662711804",
+    "created_at": "2026-03-09T20:43:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T21:43:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031108570662711804"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 93,
+          "normalized_text": "さやかちゃん",
+          "probability": 0.8942,
+          "start": 88,
+          "type": "Person"
+        },
+        {
+          "end": 103,
+          "normalized_text": "さやかちゃん",
+          "probability": 0.776,
+          "start": 98,
+          "type": "Person"
+        },
+        {
+          "end": 109,
+          "normalized_text": "取るなら杏子",
+          "probability": 0.7426,
+          "start": 104,
+          "type": "Person"
+        },
+        {
+          "end": 127,
+          "normalized_text": "マミなぎ",
+          "probability": 0.6953,
+          "start": 124,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "465361246",
+          "start": 3,
+          "username": "Akemi_Homuka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031108570662711804",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030991146034577735",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Akemi_Homuka: 全部欲しいけど全部揃えようとするとまぁまぁいい値段するんだよな…まどドラアニバーサリー直前でなければ…まどほむだけは確実に確保する\nしかし、さやかちゃん欲しい…さやかちゃん取るなら杏子を取らないわけには…となるとマミなぎも…… https:/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030991143375405058",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC-HryrbAAIrjH9.jpg",
+        "width": 912
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2031108570662711804",
+        "created_at": "2026-03-09T20:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T21:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031108570662711804"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 93,
+              "normalized_text": "さやかちゃん",
+              "probability": 0.8942,
+              "start": 88,
+              "type": "Person"
+            },
+            {
+              "end": 103,
+              "normalized_text": "さやかちゃん",
+              "probability": 0.776,
+              "start": 98,
+              "type": "Person"
+            },
+            {
+              "end": 109,
+              "normalized_text": "取るなら杏子",
+              "probability": 0.7426,
+              "start": 104,
+              "type": "Person"
+            },
+            {
+              "end": 127,
+              "normalized_text": "マミなぎ",
+              "probability": 0.6953,
+              "start": 124,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "465361246",
+              "start": 3,
+              "username": "Akemi_Homuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031108570662711804",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030991146034577735",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Akemi_Homuka: 全部欲しいけど全部揃えようとするとまぁまぁいい値段するんだよな…まどドラアニバーサリー直前でなければ…まどほむだけは確実に確保する\nしかし、さやかちゃん欲しい…さやかちゃん取るなら杏子を取らないわけには…となるとマミなぎも…… https:/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030991143375405058"
+          ]
+        },
+        "author_id": "465361246",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030991146034577735",
+        "created_at": "2026-03-09T12:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T13:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030991146034577735"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 75,
+              "normalized_text": "さやかちゃん",
+              "probability": 0.8963,
+              "start": 70,
+              "type": "Person"
+            },
+            {
+              "end": 85,
+              "normalized_text": "さやかちゃん",
+              "probability": 0.7905,
+              "start": 80,
+              "type": "Person"
+            },
+            {
+              "end": 91,
+              "normalized_text": "取るなら杏子",
+              "probability": 0.7561,
+              "start": 86,
+              "type": "Person"
+            },
+            {
+              "end": 109,
+              "normalized_text": "マミなぎ",
+              "probability": 0.7208,
+              "start": 106,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lvF66p7cTg",
+              "end": 137,
+              "expanded_url": "https://x.com/Akemi_Homuka/status/2030991146034577735/photo/1",
+              "media_key": "3_2030991143375405058",
+              "start": 114,
+              "url": "https://t.co/lvF66p7cTg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030991146034577735",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 4675,
+          "like_count": 109,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "全部欲しいけど全部揃えようとするとまぁまぁいい値段するんだよな…まどドラアニバーサリー直前でなければ…まどほむだけは確実に確保する\nしかし、さやかちゃん欲しい…さやかちゃん取るなら杏子を取らないわけには…となるとマミなぎも…… https://t.co/lvF66p7cTg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/玛利亚什么的在上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "周防院奏",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028525324649328640/d35polxT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 540,
+          "like_count": 605,
+          "listed_count": 1,
+          "media_count": 376,
+          "tweet_count": 1264
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-16T08:07:03.000Z",
+        "description": "加賀見まさら✨粟根こころ💛まどドラ&マギレコとまさここが大好き！2023/6/9まさここ結婚おめでとう💙💛💙💛！まさここイラストやマギレココラも少々。ブログにて、まどマギ&マギレコのSS等もやってます。無断転載&AI学習禁止！Pixiv→https://t.co/W1mmKUdgKV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/40340956",
+                "end": 142,
+                "expanded_url": "https://www.pixiv.net/users/40340956",
+                "start": 119,
+                "url": "https://t.co/W1mmKUdgKV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "akemi-homuka.doorblog.jp",
+                "end": 23,
+                "expanded_url": "http://akemi-homuka.doorblog.jp/",
+                "start": 0,
+                "url": "https://t.co/8V9oaVtxiq"
+              }
+            ]
+          }
+        },
+        "id": "465361246",
+        "location": "こころの故郷まさらタウン",
+        "name": "ほむか✨まさここは運命💛",
+        "pinned_tweet_id": "1818938349127901379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987403304838832131/hCtY1m4y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3680,
+          "following_count": 145,
+          "like_count": 231723,
+          "listed_count": 45,
+          "media_count": 50875,
+          "tweet_count": 241408
+        },
+        "url": "https://t.co/8V9oaVtxiq",
+        "username": "Akemi_Homuka",
+        "verified": false
+      }
+    ]
+  }
+}

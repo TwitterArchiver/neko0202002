@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2049566637792382976"
+      ],
+      "media_source_tweet_id": [
+        "2049566704112706018"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2049593378296430684",
+    "created_at": "2026-04-29T20:55:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T21:55:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049593378296430684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1607745301712089089",
+          "start": 3,
+          "username": "miyaka_0114"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KhUW5ls4u5",
+          "end": 48,
+          "expanded_url": "https://x.com/miyaka_0114/status/2049566704112706018/video/1",
+          "media_key": "13_2049566637792382976",
+          "start": 25,
+          "url": "https://t.co/KhUW5ls4u5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049593378296430684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049566704112706018",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miyaka_0114: 所有人立刻观看 https://t.co/KhUW5ls4u5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14141,
+        "height": 1280,
+        "media_key": "13_2049566637792382976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049566637792382976/img/zRsG3pcus93342g6.jpg",
+        "public_metrics": {
+          "view_count": 16
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049566637792382976/vid/avc1/320x568/HXPAUz51DqU242jy.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049566637792382976/vid/avc1/480x852/GeIYe6oZyfNtpUib.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049566637792382976/vid/avc1/720x1280/3MBKhfBH_BQ6oSao.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049566637792382976/pl/8pT8TYq8A0QldZVW.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049566637792382976"
+          ],
+          "media_source_tweet_id": [
+            "2049566704112706018"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2049593378296430684",
+        "created_at": "2026-04-29T20:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T21:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049593378296430684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1607745301712089089",
+              "start": 3,
+              "username": "miyaka_0114"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KhUW5ls4u5",
+              "end": 48,
+              "expanded_url": "https://x.com/miyaka_0114/status/2049566704112706018/video/1",
+              "media_key": "13_2049566637792382976",
+              "start": 25,
+              "url": "https://t.co/KhUW5ls4u5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049593378296430684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049566704112706018",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miyaka_0114: 所有人立刻观看 https://t.co/KhUW5ls4u5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049566637792382976"
+          ]
+        },
+        "author_id": "1607745301712089089",
+        "conversation_id": "2049566704112706018",
+        "created_at": "2026-04-29T19:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T20:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049566704112706018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KhUW5ls4u5",
+              "end": 31,
+              "expanded_url": "https://x.com/miyaka_0114/status/2049566704112706018/video/1",
+              "media_key": "13_2049566637792382976",
+              "start": 8,
+              "url": "https://t.co/KhUW5ls4u5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049566704112706018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 45,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "所有人立刻观看 https://t.co/KhUW5ls4u5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 930,
+          "like_count": 1442,
+          "listed_count": 2,
+          "media_count": 1237,
+          "tweet_count": 3546
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-27T14:29:16.000Z",
+        "description": "",
+        "id": "1607745301712089089",
+        "location": "🪦",
+        "name": "みやか",
+        "pinned_tweet_id": "2015241446899757066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015243743008264192/iUtUxLfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3868,
+          "following_count": 136,
+          "like_count": 27300,
+          "listed_count": 17,
+          "media_count": 85,
+          "tweet_count": 3677
+        },
+        "username": "miyaka_0114",
+        "verified": false
+      }
+    ]
+  }
+}

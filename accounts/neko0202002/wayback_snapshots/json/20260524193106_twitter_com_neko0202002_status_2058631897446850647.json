@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057856012292702208",
+        "3_2057856012288475136",
+        "3_2057856012292689920",
+        "3_2057856012296822784"
+      ],
+      "media_source_tweet_id": [
+        "2057856018747703557",
+        "2057856018747703557",
+        "2057856018747703557",
+        "2057856018747703557"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2058631897446850647",
+    "created_at": "2026-05-24T19:31:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T20:31:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058631897446850647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1381132533589364736",
+          "start": 3,
+          "username": "o0ounimo0o"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nYVvDtbDkt",
+          "end": 66,
+          "expanded_url": "https://x.com/o0ounimo0o/status/2057856018747703557/photo/1",
+          "media_key": "3_2057856012292702208",
+          "start": 43,
+          "url": "https://t.co/nYVvDtbDkt"
+        },
+        {
+          "display_url": "pic.x.com/nYVvDtbDkt",
+          "end": 66,
+          "expanded_url": "https://x.com/o0ounimo0o/status/2057856018747703557/photo/1",
+          "media_key": "3_2057856012288475136",
+          "start": 43,
+          "url": "https://t.co/nYVvDtbDkt"
+        },
+        {
+          "display_url": "pic.x.com/nYVvDtbDkt",
+          "end": 66,
+          "expanded_url": "https://x.com/o0ounimo0o/status/2057856018747703557/photo/1",
+          "media_key": "3_2057856012292689920",
+          "start": 43,
+          "url": "https://t.co/nYVvDtbDkt"
+        },
+        {
+          "display_url": "pic.x.com/nYVvDtbDkt",
+          "end": 66,
+          "expanded_url": "https://x.com/o0ounimo0o/status/2057856018747703557/photo/1",
+          "media_key": "3_2057856012296822784",
+          "start": 43,
+          "url": "https://t.co/nYVvDtbDkt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058631897446850647",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057856018747703557",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @o0ounimo0o: 苦しみをわけて 夢想に溶けて 目覚めなければどんなに https://t.co/nYVvDtbDkt"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2058631897446850647].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2058631897446850647",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2058631897446850647"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1992,
+        "media_key": "3_2057856012292702208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI75I-ObwAAGryA.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2989,
+        "media_key": "3_2057856012288475136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI75I-NbQAAmD-g.jpg",
+        "width": 2504
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057856012292689920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI75I-ObkAAYFoL.jpg",
+        "width": 1506
+      },
+      {
+        "height": 1867,
+        "media_key": "3_2057856012296822784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI75I-PaoAAvdAv.jpg",
+        "width": 2500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057856012292702208",
+            "3_2057856012288475136",
+            "3_2057856012292689920",
+            "3_2057856012296822784"
+          ]
+        },
+        "author_id": "1381132533589364736",
+        "conversation_id": "2057856018747703557",
+        "created_at": "2026-05-22T16:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057856018747703557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nYVvDtbDkt",
+              "end": 50,
+              "expanded_url": "https://x.com/o0ounimo0o/status/2057856018747703557/photo/1",
+              "media_key": "3_2057856012292702208",
+              "start": 27,
+              "url": "https://t.co/nYVvDtbDkt"
+            },
+            {
+              "display_url": "pic.x.com/nYVvDtbDkt",
+              "end": 50,
+              "expanded_url": "https://x.com/o0ounimo0o/status/2057856018747703557/photo/1",
+              "media_key": "3_2057856012288475136",
+              "start": 27,
+              "url": "https://t.co/nYVvDtbDkt"
+            },
+            {
+              "display_url": "pic.x.com/nYVvDtbDkt",
+              "end": 50,
+              "expanded_url": "https://x.com/o0ounimo0o/status/2057856018747703557/photo/1",
+              "media_key": "3_2057856012292689920",
+              "start": 27,
+              "url": "https://t.co/nYVvDtbDkt"
+            },
+            {
+              "display_url": "pic.x.com/nYVvDtbDkt",
+              "end": 50,
+              "expanded_url": "https://x.com/o0ounimo0o/status/2057856018747703557/photo/1",
+              "media_key": "3_2057856012296822784",
+              "start": 27,
+              "url": "https://t.co/nYVvDtbDkt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057856018747703557",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 1492,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "苦しみをわけて 夢想に溶けて 目覚めなければどんなに https://t.co/nYVvDtbDkt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 981,
+          "like_count": 1596,
+          "listed_count": 2,
+          "media_count": 1434,
+          "tweet_count": 4023
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-11T06:30:57.000Z",
+        "description": "ゆにこみと申します 甘くてかわいくて危ない この世で生きる女の子をかいています！(楽園在住)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/apt/35709e16-1…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/apt/35709e16-1fa4-46b6-a7db-eae739cdbd3c",
+                "start": 0,
+                "url": "https://t.co/juE6WRMg4V"
+              }
+            ]
+          }
+        },
+        "id": "1381132533589364736",
+        "name": "ゆにこみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952766487002763269/CcS483_K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1535,
+          "following_count": 104,
+          "like_count": 11174,
+          "listed_count": 25,
+          "media_count": 360,
+          "tweet_count": 1406
+        },
+        "url": "https://t.co/juE6WRMg4V",
+        "username": "o0ounimo0o",
+        "verified": false
+      }
+    ]
+  }
+}

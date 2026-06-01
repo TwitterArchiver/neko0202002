@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1418358396516851713",
+          "name": "Ko-fi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1418358396516851713",
+          "name": "Ko-fi"
+        }
+      }
+    ],
+    "conversation_id": "2046053396667650464",
+    "created_at": "2026-04-20T02:28:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T03:28:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046053396667650464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1926490336781545472",
+          "start": 3,
+          "username": "Chiarasdrawings"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046053396667650464",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025318714112180506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chiarasdrawings: I'm opening commissions! Commission details in my Ko-fi\nDm me if you're interested :D\n--\nSadly, I deleted all of my ar…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2025318712123740160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBtgo1kWUAA3pJG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418358396516851713",
+              "name": "Ko-fi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418358396516851713",
+              "name": "Ko-fi"
+            }
+          }
+        ],
+        "conversation_id": "2046053396667650464",
+        "created_at": "2026-04-20T02:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T03:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046053396667650464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1926490336781545472",
+              "start": 3,
+              "username": "Chiarasdrawings"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046053396667650464",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025318714112180506",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chiarasdrawings: I'm opening commissions! Commission details in my Ko-fi\nDm me if you're interested :D\n--\nSadly, I deleted all of my ar…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025318712123740160"
+          ]
+        },
+        "author_id": "1926490336781545472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418358396516851713",
+              "name": "Ko-fi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418358396516851713",
+              "name": "Ko-fi"
+            }
+          }
+        ],
+        "conversation_id": "2025318714112180506",
+        "created_at": "2026-02-21T21:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T22:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025318714112180506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZSQgWflMLT",
+              "end": 217,
+              "expanded_url": "https://x.com/Chiarasdrawings/status/2025318714112180506/photo/1",
+              "media_key": "3_2025318712123740160",
+              "start": 194,
+              "url": "https://t.co/ZSQgWflMLT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025318714112180506",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "I'm opening commissions! Commission details in my Ko-fi\nDm me if you're interested :D\n--\nSadly, I deleted all of my art posts here. If you want to see my past works, I'll link my other socials. https://t.co/ZSQgWflMLT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 858,
+          "like_count": 1268,
+          "listed_count": 2,
+          "media_count": 1101,
+          "tweet_count": 3140
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T04:08:05.000Z",
+        "description": "I make art ||\nAdo and Mafuyu oshi ♡ ||\nWill repost FA cause they're cool || ALLY || AroAce Enby || Minor || 🚫NO AI🚫 || Basic DNI ||",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ChiaraIsDrawi…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@ChiaraIsDrawing",
+                "start": 0,
+                "url": "https://t.co/CV5bNitENq"
+              }
+            ]
+          }
+        },
+        "id": "1926490336781545472",
+        "location": "She/THEY/THEM/he 🎀❄️",
+        "name": "Chiara",
+        "pinned_tweet_id": "2025318714112180506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031197838974267396/bU3dtZlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 78,
+          "like_count": 12633,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1929
+        },
+        "url": "https://t.co/CV5bNitENq",
+        "username": "Chiarasdrawings",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2030951055497060352"
+      ],
+      "media_source_tweet_id": [
+        "2030951119195931054"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2031103324452433976",
+    "created_at": "2026-03-09T20:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T21:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031103324452433976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1520784045021724672",
+          "start": 3,
+          "username": "akutan_bot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mYVKwtBpAP",
+          "end": 58,
+          "expanded_url": "https://x.com/akutan_bot/status/2030951119195931054/video/1",
+          "media_key": "13_2030951055497060352",
+          "start": 35,
+          "url": "https://t.co/mYVKwtBpAP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031103324452433976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 187
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030951119195931054",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akutan_bot: シャフトが描く戦闘シーンレベチすぎる https://t.co/mYVKwtBpAP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29779,
+        "height": 720,
+        "media_key": "13_2030951055497060352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030951055497060352/img/Fl5C4t0r59ZH2ZDl.jpg",
+        "public_metrics": {
+          "view_count": 207860
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030951055497060352/vid/avc1/480x270/dj4-gztIkHtrDOkl.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030951055497060352/vid/avc1/640x360/EpOshdBuAnHKE1CL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030951055497060352/vid/avc1/1280x720/ldHQUU7q_VA2yNpD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030951055497060352/pl/VOwCpzWnmIUeyHRF.m3u8?v=f50"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030951055497060352"
+          ],
+          "media_source_tweet_id": [
+            "2030951119195931054"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031103324452433976",
+        "created_at": "2026-03-09T20:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T21:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031103324452433976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1520784045021724672",
+              "start": 3,
+              "username": "akutan_bot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mYVKwtBpAP",
+              "end": 58,
+              "expanded_url": "https://x.com/akutan_bot/status/2030951119195931054/video/1",
+              "media_key": "13_2030951055497060352",
+              "start": 35,
+              "url": "https://t.co/mYVKwtBpAP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031103324452433976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 187
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030951119195931054",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akutan_bot: シャフトが描く戦闘シーンレベチすぎる https://t.co/mYVKwtBpAP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030951055497060352"
+          ]
+        },
+        "author_id": "1520784045021724672",
+        "conversation_id": "2030951119195931054",
+        "created_at": "2026-03-09T10:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T11:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030951119195931054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mYVKwtBpAP",
+              "end": 42,
+              "expanded_url": "https://x.com/akutan_bot/status/2030951119195931054/video/1",
+              "media_key": "13_2030951055497060352",
+              "start": 19,
+              "url": "https://t.co/mYVKwtBpAP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030951119195931054",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 479,
+          "impression_count": 383690,
+          "like_count": 3092,
+          "quote_count": 24,
+          "reply_count": 15,
+          "retweet_count": 187
+        },
+        "reply_settings": "everyone",
+        "text": "シャフトが描く戦闘シーンレベチすぎる https://t.co/mYVKwtBpAP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/玛利亚什么的在上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "周防院奏",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028525324649328640/d35polxT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 539,
+          "like_count": 602,
+          "listed_count": 1,
+          "media_count": 374,
+          "tweet_count": 1259
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-01T15:15:54.000Z",
+        "description": "■アニメAnime■漫画■ネタツイ■イラスト■ツイ廃■サブ@mco_az■分身 @a_bkro■251 @114514Maaa■bot @f6kof @5kn_3 @3ev34■鍵@akukinbot■絡みあればフォロバします",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "mco_az"
+              },
+              {
+                "end": 47,
+                "start": 40,
+                "username": "a_bkro"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "114514Maaa"
+              },
+              {
+                "end": 74,
+                "start": 68,
+                "username": "f6kof"
+              },
+              {
+                "end": 81,
+                "start": 75,
+                "username": "5kn_3"
+              },
+              {
+                "end": 88,
+                "start": 82,
+                "username": "3ev34"
+              },
+              {
+                "end": 100,
+                "start": 90,
+                "username": "akukinbot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@yzkrb",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@yzkrb",
+                "start": 0,
+                "url": "https://t.co/FuguaoErz6"
+              }
+            ]
+          }
+        },
+        "id": "1520784045021724672",
+        "location": "フォロワー4万人目標‼️",
+        "name": "夜桜🌸@アニメ•漫画",
+        "pinned_tweet_id": "1983131003607814461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953395257430929408/Rryg0qv3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39488,
+          "following_count": 998,
+          "like_count": 33443,
+          "listed_count": 99,
+          "media_count": 3924,
+          "tweet_count": 17132
+        },
+        "url": "https://t.co/FuguaoErz6",
+        "username": "akutan_bot",
+        "verified": true
+      }
+    ]
+  }
+}

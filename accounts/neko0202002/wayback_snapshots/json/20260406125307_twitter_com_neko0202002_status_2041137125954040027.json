@@ -1,0 +1,473 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041102034741653504"
+      ],
+      "media_source_tweet_id": [
+        "2041102055952290067"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2041137125954040027",
+    "created_at": "2026-04-06T12:53:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T13:53:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041137125954040027"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 17,
+          "tag": "まどマギ"
+        },
+        {
+          "end": 28,
+          "start": 23,
+          "tag": "まどドラ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1885702777097326592",
+          "start": 3,
+          "username": "urokawa_you"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o2adId9E8w",
+          "end": 70,
+          "expanded_url": "https://x.com/urokawa_you/status/2041102055952290067/photo/1",
+          "media_key": "3_2041102034741653504",
+          "start": 47,
+          "url": "https://t.co/o2adId9E8w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041137125954040027",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 105
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041102055952290067",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @urokawa_you: #まどマギ #まどドラ\n 間に合わなかったけどおめでとう👏 https://t.co/o2adId9E8w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041102034741653504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFNzfIMacAA1VDp.jpg",
+        "width": 1746
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041102034741653504"
+          ],
+          "media_source_tweet_id": [
+            "2041102055952290067"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2041137125954040027",
+        "created_at": "2026-04-06T12:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T13:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041137125954040027"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "まどマギ"
+            },
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "まどドラ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1885702777097326592",
+              "start": 3,
+              "username": "urokawa_you"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o2adId9E8w",
+              "end": 70,
+              "expanded_url": "https://x.com/urokawa_you/status/2041102055952290067/photo/1",
+              "media_key": "3_2041102034741653504",
+              "start": 47,
+              "url": "https://t.co/o2adId9E8w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041137125954040027",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 105
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041102055952290067",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @urokawa_you: #まどマギ #まどドラ\n 間に合わなかったけどおめでとう👏 https://t.co/o2adId9E8w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041102034741653504"
+          ]
+        },
+        "author_id": "1885702777097326592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2041102055952290067",
+        "created_at": "2026-04-06T10:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T11:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041102055952290067"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "まどマギ"
+            },
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "まどドラ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o2adId9E8w",
+              "end": 53,
+              "expanded_url": "https://x.com/urokawa_you/status/2041102055952290067/photo/1",
+              "media_key": "3_2041102034741653504",
+              "start": 30,
+              "url": "https://t.co/o2adId9E8w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041102055952290067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 4762,
+          "like_count": 743,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 105
+        },
+        "reply_settings": "everyone",
+        "text": "#まどマギ #まどドラ\n 間に合わなかったけどおめでとう👏 https://t.co/o2adId9E8w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/同类查成分互fo/可以称为千早/心理学重度依赖/学习学习学习/请和我做朋友ᗜ𖥦ᗜ✝︎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041043664290639872/MsU7KOlV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 767,
+          "like_count": 1023,
+          "listed_count": 2,
+          "media_count": 853,
+          "tweet_count": 2455
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T14:53:22.000Z",
+        "description": "illustration/雑多/無断転載･無断使用･AI学習禁止",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/62302762",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/62302762",
+                "start": 0,
+                "url": "https://t.co/HqXPBFiXNt"
+              }
+            ]
+          }
+        },
+        "id": "1885702777097326592",
+        "name": "空川憂",
+        "pinned_tweet_id": "2005609964543570420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992635869719855104/NNVcfqp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 92,
+          "like_count": 7871,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 394
+        },
+        "url": "https://t.co/HqXPBFiXNt",
+        "username": "urokawa_you",
+        "verified": false
+      }
+    ]
+  }
+}

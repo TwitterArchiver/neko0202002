@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2059913198963229103",
+    "created_at": "2026-05-28T19:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T20:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060076293316866322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1332328237339451396",
+          "start": 0,
+          "username": "satsuji75752136"
+        },
+        {
+          "end": 31,
+          "id": "402999736",
+          "start": 17,
+          "username": "GossipRoomOff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060076293316866322",
+    "in_reply_to_user_id": "1332328237339451396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059998381389349320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@satsuji75752136 @GossipRoomOff 因为这是中国校服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2059913198963229103",
+        "created_at": "2026-05-28T19:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060076293316866322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1332328237339451396",
+              "start": 0,
+              "username": "satsuji75752136"
+            },
+            {
+              "end": 31,
+              "id": "402999736",
+              "start": 17,
+              "username": "GossipRoomOff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060076293316866322",
+        "in_reply_to_user_id": "1332328237339451396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059998381389349320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@satsuji75752136 @GossipRoomOff 因为这是中国校服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1332328237339451396",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          }
+        ],
+        "conversation_id": "2059913198963229103",
+        "created_at": "2026-05-28T14:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059998381389349320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "402999736",
+              "start": 0,
+              "username": "GossipRoomOff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059998381389349320",
+        "in_reply_to_user_id": "402999736",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14874,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059913198963229103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GossipRoomOff L'image qui a servi de modèle à cette IA n'est pas au Japon. Polos moches, bracelets... 😉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 956,
+          "like_count": 1648,
+          "listed_count": 2,
+          "media_count": 1493,
+          "tweet_count": 4163
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-27T14:19:58.000Z",
+        "description": "YouTubeチャンネルX公式アカウント。 Compte officiel de la chaîne YouTube Satsujin, meurtres au Japon https://t.co/nh3lPkEWAz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@satsujinmeurt…",
+                "end": 110,
+                "expanded_url": "https://youtube.com/@satsujinmeurtresauJapon?si=HTFyLgIi2kz3LzO2",
+                "start": 87,
+                "url": "https://t.co/nh3lPkEWAz"
+              }
+            ]
+          }
+        },
+        "id": "1332328237339451396",
+        "name": "Satsujin/殺人/Satsujin-Shuppan/殺人出版 🇯🇵🇮🇱🇫🇷",
+        "pinned_tweet_id": "2057427976157851884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975801715648516096/tjnEOENO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1560,
+          "following_count": 315,
+          "like_count": 39393,
+          "listed_count": 7,
+          "media_count": 4016,
+          "tweet_count": 17592
+        },
+        "username": "satsuji75752136",
+        "verified": true
+      },
+      {
+        "created_at": "2011-11-01T21:45:44.000Z",
+        "description": "Toutes les photos et infos de l'actualité du moment !",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "officielles.fr",
+                "end": 23,
+                "expanded_url": "https://www.officielles.fr",
+                "start": 0,
+                "url": "https://t.co/wZ3my6Phyb"
+              }
+            ]
+          }
+        },
+        "id": "402999736",
+        "location": "turn on notifications ⤴️",
+        "name": "GOSSIP ROOM",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998775219138306048/nAJ9zJk-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331908,
+          "following_count": 28,
+          "like_count": 1623,
+          "listed_count": 238,
+          "media_count": 41064,
+          "tweet_count": 62602
+        },
+        "url": "https://t.co/wZ3my6Phyb",
+        "username": "GossipRoomOff",
+        "verified": true
+      }
+    ]
+  }
+}

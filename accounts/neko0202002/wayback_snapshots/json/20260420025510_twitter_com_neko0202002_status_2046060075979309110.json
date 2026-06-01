@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2045801222653812867",
+    "created_at": "2026-04-20T02:55:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T03:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046060075979309110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1893580687200157696",
+          "start": 0,
+          "username": "kittsayes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046060075979309110",
+    "in_reply_to_user_id": "1893580687200157696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045801222653812867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kittsayes 来了宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2045801222653812867",
+        "created_at": "2026-04-20T02:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T03:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046060075979309110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1893580687200157696",
+              "start": 0,
+              "username": "kittsayes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046060075979309110",
+        "in_reply_to_user_id": "1893580687200157696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045801222653812867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kittsayes 来了宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893580687200157696",
+        "conversation_id": "2045801222653812867",
+        "created_at": "2026-04-19T09:46:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045801222653812867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "大号被举报了。互fo。。。。",
+              "display_url": "x.com/keso03111314sx…",
+              "end": 44,
+              "expanded_url": "https://x.com/keso03111314sxh?s=11",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/2045801265087610880/qFSVABK0?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2045801265087610880/qFSVABK0?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 21,
+              "status": 200,
+              "title": "Croissant(2.0） (@keso03111314sxh) on X",
+              "unwound_url": "https://x.com/keso03111314sxh?s=11",
+              "url": "https://t.co/6f8gEsLLFn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045801222653812867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 341,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝宝们这是我小号餐券妹快来跟我互fo呀！ https://t.co/6f8gEsLLFn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 859,
+          "like_count": 1268,
+          "listed_count": 2,
+          "media_count": 1101,
+          "tweet_count": 3141
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T08:36:54.000Z",
+        "description": "cn杨诺/可颂\n｜10年高一｜双相｜目前已休学｜\n｜03.11｜双鱼｜infp｜od｜自残｜碎碎念｜\n喜欢跟同类互fo 萌妹纸和萌弟子也可以来呀（查成分回 ）\n二次深空沈星回高浓度激推梦女 纸性恋已有老公\n加联系过🚪过🚪过🚪我很缺钱我妈不给钱\n所以我还是希望能有点钱。谢谢你们❗️\n欢迎提问👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/croissant56414",
+                "end": 23,
+                "expanded_url": "https://ngl.link/croissant56414",
+                "start": 0,
+                "url": "https://t.co/3pRf1TkeZk"
+              }
+            ]
+          }
+        },
+        "id": "1893580687200157696",
+        "location": "🚪52纯绿  获得一个碎碎念的我",
+        "name": "Croissant",
+        "pinned_tweet_id": "2044376056078258341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044355523835985920/3SvZJ1av_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 724,
+          "like_count": 4393,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 2046
+        },
+        "url": "https://t.co/3pRf1TkeZk",
+        "username": "kittsayes",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2040765917659881472"
+      ],
+      "media_source_tweet_id": [
+        "2040765977739100302"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2040782172496515195",
+    "created_at": "2026-04-05T13:22:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T14:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040782172496515195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "855684823947587584",
+          "start": 3,
+          "username": "_orikitty_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6C6SQWmdxT",
+          "end": 42,
+          "expanded_url": "https://x.com/_orikitty_/status/2040765977739100302/video/1",
+          "media_key": "13_2040765917659881472",
+          "start": 19,
+          "url": "https://t.co/6C6SQWmdxT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040782172496515195",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040765977739100302",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_orikitty_: 🧬🪽 https://t.co/6C6SQWmdxT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11631,
+        "height": 1920,
+        "media_key": "13_2040765917659881472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2040765917659881472/img/F4DJFvv9FXd5SZLr.jpg",
+        "public_metrics": {
+          "view_count": 774
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2040765917659881472/pl/F3uC0IpzPye6UWh0.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040765917659881472/vid/avc1/480x852/8SQjlIcvKiZn-36F.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040765917659881472/vid/avc1/720x1280/v9K-TZ9C6f5tHJG8.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040765917659881472/vid/avc1/1080x1920/qrLdoEB9h1sDq_-w.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040765917659881472/vid/avc1/320x568/S6ICJpfu4hjrZatG.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040765917659881472"
+          ],
+          "media_source_tweet_id": [
+            "2040765977739100302"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2040782172496515195",
+        "created_at": "2026-04-05T13:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040782172496515195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "855684823947587584",
+              "start": 3,
+              "username": "_orikitty_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6C6SQWmdxT",
+              "end": 42,
+              "expanded_url": "https://x.com/_orikitty_/status/2040765977739100302/video/1",
+              "media_key": "13_2040765917659881472",
+              "start": 19,
+              "url": "https://t.co/6C6SQWmdxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040782172496515195",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040765977739100302",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_orikitty_: 🧬🪽 https://t.co/6C6SQWmdxT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040765917659881472"
+          ]
+        },
+        "author_id": "855684823947587584",
+        "conversation_id": "2040765977739100302",
+        "created_at": "2026-04-05T12:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T13:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040765977739100302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6C6SQWmdxT",
+              "end": 26,
+              "expanded_url": "https://x.com/_orikitty_/status/2040765977739100302/video/1",
+              "media_key": "13_2040765917659881472",
+              "start": 3,
+              "url": "https://t.co/6C6SQWmdxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040765977739100302",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2169,
+          "like_count": 273,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "🧬🪽 https://t.co/6C6SQWmdxT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/同类查成分互fo/可以称为千早/心理学重度依赖/学习学习学习/请和我做朋友ᗜ𖥦ᗜ✝︎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040683061646602240/uSc9Up5F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 756,
+          "like_count": 989,
+          "listed_count": 2,
+          "media_count": 837,
+          "tweet_count": 2378
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-22T07:28:54.000Z",
+        "description": "オリンピア ♡ infp わいの中 悲しみと愛しかない スペインイベリコ豚🇪🇸 wlw",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/user/129442866",
+                "end": 23,
+                "expanded_url": "https://www.nicovideo.jp/user/129442866",
+                "start": 0,
+                "url": "https://t.co/BmfuE18ci8"
+              }
+            ]
+          }
+        },
+        "id": "855684823947587584",
+        "name": "オリキティ",
+        "pinned_tweet_id": "2031127634130665682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034752019270180864/dpeDi-1v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40102,
+          "following_count": 839,
+          "like_count": 54610,
+          "listed_count": 120,
+          "media_count": 254,
+          "tweet_count": 4875
+        },
+        "url": "https://t.co/BmfuE18ci8",
+        "username": "_orikitty_",
+        "verified": true
+      }
+    ]
+  }
+}

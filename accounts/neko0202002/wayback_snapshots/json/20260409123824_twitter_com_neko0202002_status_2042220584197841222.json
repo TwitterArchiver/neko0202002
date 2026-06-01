@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2042220584197841222",
+    "created_at": "2026-04-09T12:38:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T13:38:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042220584197841222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1472219833261772801",
+          "start": 3,
+          "username": "xxx_jjkk"
+        }
+      ],
+      "urls": [
+        {
+          "description": "引言",
+          "display_url": "od-wiki.com",
+          "end": 66,
+          "expanded_url": "http://od-wiki.com",
+          "start": 43,
+          "status": 200,
+          "title": "欢迎来到 od-wiki.com",
+          "unwound_url": "https://www.od-wiki.com/",
+          "url": "https://t.co/2vPIO2kV6r"
+        },
+        {
+          "display_url": "fayou.club",
+          "end": 98,
+          "expanded_url": "http://fayou.club",
+          "start": 75,
+          "unwound_url": "http://fayou.club",
+          "url": "https://t.co/aqAF3kAm8e"
+        },
+        {
+          "description": "在这里所有od知识都是自由开源编辑的，你可以来解决你的疑惑，顺便帮我们完善我们的od百科喵！",
+          "display_url": "freeodwiki.org",
+          "end": 136,
+          "expanded_url": "http://freeodwiki.org",
+          "images": [
+            {
+              "height": 352,
+              "url": "https://pbs.twimg.com/news_img/2042174015348035584/7Y6dhBZr?format=png&name=orig",
+              "width": 459
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2042174015348035584/7Y6dhBZr?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 113,
+          "status": 200,
+          "title": "FreeODWiki主页 - FreeODwiki——可自由编辑的开源Overdose百科",
+          "unwound_url": "http://freeodwiki.org",
+          "url": "https://t.co/FJ8fLUFwFD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042220584197841222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027914293203898807",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxx_jjkk: 列一下我知道的od百科 评论可补充其他\n1.odwiki\nhttps://t.co/2vPIO2kV6r\n2.超法友百科\nhttps://t.co/aqAF3kAm8e\n3. freeodwiki\nhttps://t.co/FJ8fLUFwFD\n4.…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2042220584197841222",
+        "created_at": "2026-04-09T12:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042220584197841222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1472219833261772801",
+              "start": 3,
+              "username": "xxx_jjkk"
+            }
+          ],
+          "urls": [
+            {
+              "description": "引言",
+              "display_url": "od-wiki.com",
+              "end": 66,
+              "expanded_url": "http://od-wiki.com",
+              "start": 43,
+              "status": 200,
+              "title": "欢迎来到 od-wiki.com",
+              "unwound_url": "https://www.od-wiki.com/",
+              "url": "https://t.co/2vPIO2kV6r"
+            },
+            {
+              "display_url": "fayou.club",
+              "end": 98,
+              "expanded_url": "http://fayou.club",
+              "start": 75,
+              "unwound_url": "http://fayou.club",
+              "url": "https://t.co/aqAF3kAm8e"
+            },
+            {
+              "description": "在这里所有od知识都是自由开源编辑的，你可以来解决你的疑惑，顺便帮我们完善我们的od百科喵！",
+              "display_url": "freeodwiki.org",
+              "end": 136,
+              "expanded_url": "http://freeodwiki.org",
+              "images": [
+                {
+                  "height": 352,
+                  "url": "https://pbs.twimg.com/news_img/2042174015348035584/7Y6dhBZr?format=png&name=orig",
+                  "width": 459
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2042174015348035584/7Y6dhBZr?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 113,
+              "status": 200,
+              "title": "FreeODWiki主页 - FreeODwiki——可自由编辑的开源Overdose百科",
+              "unwound_url": "http://freeodwiki.org",
+              "url": "https://t.co/FJ8fLUFwFD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042220584197841222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027914293203898807",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xxx_jjkk: 列一下我知道的od百科 评论可补充其他\n1.odwiki\nhttps://t.co/2vPIO2kV6r\n2.超法友百科\nhttps://t.co/aqAF3kAm8e\n3. freeodwiki\nhttps://t.co/FJ8fLUFwFD\n4.…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472219833261772801",
+        "conversation_id": "2027914293203898807",
+        "created_at": "2026-03-01T01:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T02:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027914293203898807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "引言",
+              "display_url": "od-wiki.com",
+              "end": 52,
+              "expanded_url": "http://od-wiki.com",
+              "start": 29,
+              "status": 200,
+              "title": "欢迎来到 od-wiki.com",
+              "unwound_url": "https://www.od-wiki.com/",
+              "url": "https://t.co/2vPIO2kV6r"
+            },
+            {
+              "display_url": "fayou.club",
+              "end": 84,
+              "expanded_url": "http://fayou.club",
+              "start": 61,
+              "unwound_url": "http://fayou.club",
+              "url": "https://t.co/aqAF3kAm8e"
+            },
+            {
+              "description": "在这里所有od知识都是自由开源编辑的，你可以来解决你的疑惑，顺便帮我们完善我们的od百科喵！",
+              "display_url": "freeodwiki.org",
+              "end": 122,
+              "expanded_url": "http://freeodwiki.org",
+              "images": [
+                {
+                  "height": 352,
+                  "url": "https://pbs.twimg.com/news_img/2042174015348035584/7Y6dhBZr?format=png&name=orig",
+                  "width": 459
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2042174015348035584/7Y6dhBZr?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 99,
+              "status": 200,
+              "title": "FreeODWiki主页 - FreeODwiki——可自由编辑的开源Overdose百科",
+              "unwound_url": "http://freeodwiki.org",
+              "url": "https://t.co/FJ8fLUFwFD"
+            },
+            {
+              "description": "精神药物安全使用指南、药物相互作用、过量处理和康复经验分享。提供专业的药物安全知识、紧急处理方案和真实案例报告，帮助用户了解精神活性物质的风险与防范。",
+              "display_url": "psydrugs.org",
+              "end": 161,
+              "expanded_url": "http://psydrugs.org",
+              "start": 138,
+              "status": 200,
+              "title": "精神活性物质指南",
+              "unwound_url": "https://psydrugs.org/",
+              "url": "https://t.co/Vyvcg1y8KL"
+            },
+            {
+              "description": "A VitePress site",
+              "display_url": "yaowubaike.ca",
+              "end": 192,
+              "expanded_url": "http://yaowubaike.ca",
+              "start": 169,
+              "status": 200,
+              "title": "药物百科",
+              "unwound_url": "https://yaowubaike.ca/",
+              "url": "https://t.co/wsRnu24NCj"
+            },
+            {
+              "description": "Practices: Breathing techniques ⋅ Fasting ⋅ Meditation ⋅ Sensory deprivation ⋅ Sleep deprivation ⋅ Tulpa Tools: Meditation frequency ⋅ Psychedelic art ⋅ Shulgin Rating Scale ⋅ Vibes (Good vibes ⋅ Trippy vibes ⋅ Bad vibes)",
+              "display_url": "psychonautwiki.org",
+              "end": 233,
+              "expanded_url": "http://psychonautwiki.org",
+              "start": 210,
+              "status": 200,
+              "title": "PsychonautWiki",
+              "unwound_url": "https://psychonautwiki.org/wiki/Main_Page",
+              "url": "https://t.co/nd9qBI7bhs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027914293203898807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 7447,
+          "like_count": 85,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "列一下我知道的od百科 评论可补充其他\n1.odwiki\nhttps://t.co/2vPIO2kV6r\n2.超法友百科\nhttps://t.co/aqAF3kAm8e\n3. freeodwiki\nhttps://t.co/FJ8fLUFwFD\n4.psydrugswiki\nhttps://t.co/Vyvcg1y8KL\n5.药物百科\nhttps://t.co/wsRnu24NCj\n6.psychonautwiki\nhttps://t.co/nd9qBI7bhs\n7.overspeed(但已失效"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/同类查成分互fo/可以称为千早/心理学重度依赖/学习学习学习/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案/可以点下方链接发提问喔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 802,
+          "like_count": 1071,
+          "listed_count": 2,
+          "media_count": 919,
+          "tweet_count": 2603
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T14:59:07.000Z",
+        "description": "我把一生都存进这小小的屏幕里\n当我离去\n这里至少还留有我曾活过的痕迹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/yz1Ew7xhf4"
+              }
+            ]
+          }
+        },
+        "id": "1472219833261772801",
+        "location": "开放私信 欢迎聊天",
+        "name": "旖旎",
+        "pinned_tweet_id": "2036763868152934681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035262095277862912/s0vuE8mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 411,
+          "like_count": 9426,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1403
+        },
+        "url": "https://t.co/yz1Ew7xhf4",
+        "username": "xxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

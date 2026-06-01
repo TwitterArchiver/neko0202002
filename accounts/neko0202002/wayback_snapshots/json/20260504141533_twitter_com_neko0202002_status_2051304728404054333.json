@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2051214639661510656"
+      ],
+      "media_source_tweet_id": [
+        "2051214722603929987"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2051304728404054333",
+    "created_at": "2026-05-04T14:15:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T15:15:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051304728404054333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "836600441932636160",
+          "start": 3,
+          "username": "love_channnn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J0DMUr7DJu",
+          "end": 49,
+          "expanded_url": "https://x.com/love_channnn/status/2051214722603929987/video/1",
+          "media_key": "13_2051214639661510656",
+          "start": 26,
+          "url": "https://t.co/J0DMUr7DJu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051304728404054333",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 150
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051214722603929987",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @love_channnn: せーの！😂✨✨ https://t.co/J0DMUr7DJu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30058,
+        "height": 720,
+        "media_key": "13_2051214639661510656",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051214639661510656/img/BljdiQTnF6vHyNIM.jpg",
+        "public_metrics": {
+          "view_count": 30471
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051214639661510656/vid/avc1/480x270/zRXjAU6GOPS24pLy.mp4?tag=27"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051214639661510656/vid/avc1/640x360/TiySUQGzdKxfF19M.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051214639661510656/vid/avc1/1280x720/7PzPRAmy69297FmE.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051214639661510656/pl/7la4tw0y_O5qLG5N.m3u8?tag=27"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051214639661510656"
+          ],
+          "media_source_tweet_id": [
+            "2051214722603929987"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2051304728404054333",
+        "created_at": "2026-05-04T14:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T15:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051304728404054333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "836600441932636160",
+              "start": 3,
+              "username": "love_channnn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J0DMUr7DJu",
+              "end": 49,
+              "expanded_url": "https://x.com/love_channnn/status/2051214722603929987/video/1",
+              "media_key": "13_2051214639661510656",
+              "start": 26,
+              "url": "https://t.co/J0DMUr7DJu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051304728404054333",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 150
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051214722603929987",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @love_channnn: せーの！😂✨✨ https://t.co/J0DMUr7DJu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051214639661510656"
+          ]
+        },
+        "author_id": "836600441932636160",
+        "conversation_id": "2051214722603929987",
+        "created_at": "2026-05-04T08:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T09:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051214722603929987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J0DMUr7DJu",
+              "end": 31,
+              "expanded_url": "https://x.com/love_channnn/status/2051214722603929987/video/1",
+              "media_key": "13_2051214639661510656",
+              "start": 8,
+              "url": "https://t.co/J0DMUr7DJu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051214722603929987",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 219,
+          "impression_count": 70831,
+          "like_count": 874,
+          "quote_count": 12,
+          "reply_count": 3,
+          "retweet_count": 150
+        },
+        "reply_settings": "everyone",
+        "text": "せーの！😂✨✨ https://t.co/J0DMUr7DJu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 954,
+          "like_count": 1502,
+          "listed_count": 2,
+          "media_count": 1328,
+          "tweet_count": 3726
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-28T15:34:23.000Z",
+        "description": "バズってるツイートを厳選",
+        "id": "836600441932636160",
+        "name": "最近の人気ツイ",
+        "pinned_tweet_id": "2049056897354133945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010707368112500736/4eDQ3YvP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13658,
+          "following_count": 2655,
+          "like_count": 1853,
+          "listed_count": 19,
+          "media_count": 1489,
+          "tweet_count": 9565
+        },
+        "username": "love_channnn",
+        "verified": true
+      }
+    ]
+  }
+}

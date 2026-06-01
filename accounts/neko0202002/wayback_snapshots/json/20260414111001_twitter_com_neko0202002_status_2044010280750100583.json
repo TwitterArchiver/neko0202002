@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2044008743105638562",
+    "created_at": "2026-04-14T11:10:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T12:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044010280750100583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1261560609214087168",
+          "start": 0,
+          "username": "Cathy_eko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044010280750100583",
+    "in_reply_to_user_id": "1261560609214087168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044008743105638562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cathy_eko 感觉像精装优雅小餐厅里的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 134373,
+        "height": 1080,
+        "media_key": "13_2039201214232199168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2039201214232199168/img/JoOtLzadAmRikDqN.jpg",
+        "public_metrics": {
+          "view_count": 1762
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039201214232199168/vid/avc1/276x270/Fm-1TmJUJnqG7ZK1.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039201214232199168/vid/avc1/370x360/fsnDiPCdYxCYrDyw.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039201214232199168/vid/avc1/740x720/kvkFTADVBig7h0MQ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2039201214232199168/pl/YVAk3hUc-9JhgAkg.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1110
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2044008743105638562",
+        "created_at": "2026-04-14T11:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044010280750100583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1261560609214087168",
+              "start": 0,
+              "username": "Cathy_eko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044010280750100583",
+        "in_reply_to_user_id": "1261560609214087168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044008743105638562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cathy_eko 感觉像精装优雅小餐厅里的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039201214232199168"
+          ],
+          "media_source_tweet_id": [
+            "2039201275481411701"
+          ]
+        },
+        "author_id": "1261560609214087168",
+        "conversation_id": "2044008743105638562",
+        "created_at": "2026-04-14T11:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044008743105638562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nxDH761pKP",
+              "end": 44,
+              "expanded_url": "https://x.com/nakigeost/status/2039201275481411701/video/1",
+              "media_key": "13_2039201214232199168",
+              "start": 21,
+              "url": "https://t.co/nxDH761pKP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044008743105638562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉这种歌很像中式高档酒楼餐厅的bgm😭 https://t.co/nxDH761pKP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 841,
+          "like_count": 1182,
+          "listed_count": 2,
+          "media_count": 1022,
+          "tweet_count": 2931
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-16T07:34:41.000Z",
+        "description": "7-20-1999",
+        "id": "1261560609214087168",
+        "location": "奇美拉咖啡馆",
+        "name": "南茜",
+        "pinned_tweet_id": "1597412027227836416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995015582014738436/pqwajC9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4733,
+          "following_count": 1368,
+          "like_count": 154138,
+          "listed_count": 58,
+          "media_count": 6038,
+          "tweet_count": 62813
+        },
+        "username": "Cathy_eko",
+        "verified": false
+      }
+    ]
+  }
+}

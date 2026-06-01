@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008930003984240640"
+      ],
+      "media_source_tweet_id": [
+        "2008930033050730725"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2009050594573701427",
+    "created_at": "2026-01-07T23:52:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T00:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009050594573701427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1929232314175000576",
+          "start": 3,
+          "username": "xiangdeleiwww"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WoQ8PnqBqH",
+          "end": 42,
+          "expanded_url": "https://x.com/xiangdeleiwww/status/2008930033050730725/photo/1",
+          "media_key": "3_2008930003984240640",
+          "start": 19,
+          "url": "https://t.co/WoQ8PnqBqH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009050594573701427",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008930033050730725",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiangdeleiwww: https://t.co/WoQ8PnqBqH"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2009050594573701427].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2009050594573701427",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2009050594573701427"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2008930003984240640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-EnMeIa0AAw7mr.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008930003984240640"
+          ]
+        },
+        "author_id": "1929232314175000576",
+        "conversation_id": "2008930033050730725",
+        "created_at": "2026-01-07T15:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T16:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008930033050730725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WoQ8PnqBqH",
+              "end": 23,
+              "expanded_url": "https://x.com/xiangdeleiwww/status/2008930033050730725/photo/1",
+              "media_key": "3_2008930003984240640",
+              "start": 0,
+              "url": "https://t.co/WoQ8PnqBqH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008930033050730725",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WoQ8PnqBqH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "Caramel Box",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "九重",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997232524024774657/EdJxwXIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 281,
+          "like_count": 69,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 284
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T17:43:35.000Z",
+        "description": "",
+        "id": "1929232314175000576",
+        "name": "sioshu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929232491493400576/2tnBaYdj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 11
+        },
+        "username": "xiangdeleiwww",
+        "verified": false
+      }
+    ]
+  }
+}

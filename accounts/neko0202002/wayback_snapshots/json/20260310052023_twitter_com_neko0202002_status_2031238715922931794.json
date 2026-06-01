@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2031100473701273601"
+      ],
+      "media_source_tweet_id": [
+        "2031100536821346452"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2031238715922931794",
+    "created_at": "2026-03-10T05:20:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T06:20:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031238715922931794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1912411999243288577",
+          "start": 3,
+          "username": "bebemahoshojo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n7qk3J1eGT",
+          "end": 42,
+          "expanded_url": "https://x.com/bebemahoshojo/status/2031100536821346452/video/1",
+          "media_key": "13_2031100473701273601",
+          "start": 19,
+          "url": "https://t.co/n7qk3J1eGT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031238715922931794",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031100536821346452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bebemahoshojo: https://t.co/n7qk3J1eGT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31766,
+        "height": 738,
+        "media_key": "13_2031100473701273601",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2031100473701273601/img/zT3wZVjfHUSKUnO-.jpg",
+        "public_metrics": {
+          "view_count": 122
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031100473701273601/vid/avc1/400x270/69cOD8XfPOFp2zsI.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031100473701273601/vid/avc1/534x360/txPn68lRXbyUvo-q.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031100473701273601/vid/avc1/1098x738/agfTJ7CYGIbjGt47.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2031100473701273601/pl/g9Ow1FKrioS9YAil.m3u8"
+          }
+        ],
+        "width": 1098
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2031100473701273601"
+          ],
+          "media_source_tweet_id": [
+            "2031100536821346452"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031238715922931794",
+        "created_at": "2026-03-10T05:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T06:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031238715922931794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1912411999243288577",
+              "start": 3,
+              "username": "bebemahoshojo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n7qk3J1eGT",
+              "end": 42,
+              "expanded_url": "https://x.com/bebemahoshojo/status/2031100536821346452/video/1",
+              "media_key": "13_2031100473701273601",
+              "start": 19,
+              "url": "https://t.co/n7qk3J1eGT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031238715922931794",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031100536821346452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bebemahoshojo: https://t.co/n7qk3J1eGT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2031100473701273601"
+          ]
+        },
+        "author_id": "1912411999243288577",
+        "conversation_id": "2031100536821346452",
+        "created_at": "2026-03-09T20:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T21:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031100536821346452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n7qk3J1eGT",
+              "end": 23,
+              "expanded_url": "https://x.com/bebemahoshojo/status/2031100536821346452/video/1",
+              "media_key": "13_2031100473701273601",
+              "start": 0,
+              "url": "https://t.co/n7qk3J1eGT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031100536821346452",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 251,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/n7qk3J1eGT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/玛利亚什么的在上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "周防院奏",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028525324649328640/d35polxT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 542,
+          "like_count": 623,
+          "listed_count": 1,
+          "media_count": 382,
+          "tweet_count": 1277
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T07:46:24.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "markitten.straw.page",
+                "end": 23,
+                "expanded_url": "https://markitten.straw.page/",
+                "start": 0,
+                "url": "https://t.co/MRrtTVlehv"
+              }
+            ]
+          }
+        },
+        "id": "1912411999243288577",
+        "location": "Español/English/Português",
+        "name": "Markitten ✘ ˵ ╹ ◡ ╹ ˶ ✘",
+        "pinned_tweet_id": "2025978821711646894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023855610266050560/G6-0sJTe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 492,
+          "like_count": 19028,
+          "listed_count": 0,
+          "media_count": 513,
+          "tweet_count": 988
+        },
+        "url": "https://t.co/MRrtTVlehv",
+        "username": "bebemahoshojo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2031016159034912904",
+    "created_at": "2026-03-10T08:30:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T09:30:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031286480983998971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1794447634444476416",
+          "start": 0,
+          "username": "BianPing2843"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031286480983998971",
+    "in_reply_to_user_id": "1794447634444476416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031285063380513248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BianPing2843 欸，我去试试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2031016159034912904",
+        "created_at": "2026-03-10T08:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T09:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031286480983998971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794447634444476416",
+              "start": 0,
+              "username": "BianPing2843"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031286480983998971",
+        "in_reply_to_user_id": "1794447634444476416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031285063380513248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BianPing2843 欸，我去试试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794447634444476416",
+        "conversation_id": "2031016159034912904",
+        "created_at": "2026-03-10T08:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T09:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031285063380513248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031285063380513248",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031016159034912904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 玉米30多会吐。pr不会。我发现含薄荷糖可以抑制玉米带来的恶心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/玛利亚什么的在上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "周防院奏",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028525324649328640/d35polxT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 547,
+          "like_count": 626,
+          "listed_count": 1,
+          "media_count": 387,
+          "tweet_count": 1291
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T19:18:49.000Z",
+        "description": "阳光灿烂的日子只存在于耀眼的睡梦中",
+        "id": "1794447634444476416",
+        "name": "一只小便瓶🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837553048966909952/IbVusAgu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 161,
+          "like_count": 2096,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 172
+        },
+        "username": "BianPing2843",
+        "verified": true
+      }
+    ]
+  }
+}

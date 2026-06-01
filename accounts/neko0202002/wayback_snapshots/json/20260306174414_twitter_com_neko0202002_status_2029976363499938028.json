@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2029922445050916865"
+      ],
+      "media_source_tweet_id": [
+        "2029922524902125726"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2029976363499938028",
+    "created_at": "2026-03-06T17:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T18:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029976363499938028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1775833048493240320",
+          "start": 3,
+          "username": "kuukiwfn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GBXzc0Ee0y",
+          "end": 74,
+          "expanded_url": "https://x.com/kuukiwfn/status/2029922524902125726/video/1",
+          "media_key": "13_2029922445050916865",
+          "start": 51,
+          "url": "https://t.co/GBXzc0Ee0y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029976363499938028",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029922524902125726",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuukiwfn: yaohoooooooo\n这东西好玩呀 啥时候给我一个真的给我草😋😋🥰🥰 https://t.co/GBXzc0Ee0y"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2029976363499938028].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2029976363499938028",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2029976363499938028"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43406,
+        "height": 588,
+        "media_key": "13_2029922445050916865",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2029922445050916865/img/_fVA5998PeJQdVgB.jpg",
+        "public_metrics": {
+          "view_count": 66
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029922445050916865/vid/avc1/586x270/QRse5ibRM0ZErQzF.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029922445050916865/vid/avc1/782x360/yL_b45grV4DAdSBj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029922445050916865/vid/avc1/1280x588/kImhkMSr9N3XsdjM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2029922445050916865/pl/dLFoL6J_h3LnCTRW.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2029922445050916865"
+          ]
+        },
+        "author_id": "1775833048493240320",
+        "conversation_id": "2029922524902125726",
+        "created_at": "2026-03-06T14:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T15:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029922524902125726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GBXzc0Ee0y",
+              "end": 60,
+              "expanded_url": "https://x.com/kuukiwfn/status/2029922524902125726/video/1",
+              "media_key": "13_2029922445050916865",
+              "start": 37,
+              "url": "https://t.co/GBXzc0Ee0y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029922524902125726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 187,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "yaohoooooooo\n这东西好玩呀 啥时候给我一个真的给我草😋😋🥰🥰 https://t.co/GBXzc0Ee0y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/玛利亚什么的在上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "周防院奏",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028525324649328640/d35polxT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 492,
+          "like_count": 467,
+          "listed_count": 1,
+          "media_count": 285,
+          "tweet_count": 1052
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T10:29:48.000Z",
+        "description": "✝️2010transgender 🏳️‍⚧️ 🖤 💊overdose lover 🩸喜欢非主流 ❤️ rebzyyx ,kets4eki..scenecore ..💉 dm互fo 😋😋 |",
+        "id": "1775833048493240320",
+        "location": "kuuki小黒屋",
+        "name": "✝️kuuki✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028531881999036416/YxNVIIbZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 593,
+          "like_count": 27331,
+          "listed_count": 0,
+          "media_count": 501,
+          "tweet_count": 1868
+        },
+        "username": "kuukiwfn",
+        "verified": false
+      }
+    ]
+  }
+}

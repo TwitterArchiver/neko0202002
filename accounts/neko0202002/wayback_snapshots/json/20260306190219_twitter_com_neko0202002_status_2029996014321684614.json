@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029995995711643648"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2029996014321684614",
+    "created_at": "2026-03-06T19:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T20:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029996014321684614"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7GR0sFSdlf",
+          "end": 53,
+          "expanded_url": "https://x.com/neko0202002/status/2029996014321684614/photo/1",
+          "media_key": "3_2029995995711643648",
+          "start": 30,
+          "url": "https://t.co/7GR0sFSdlf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029996014321684614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这死小孩……虽然我不介意，但你能不能对我说一声呃啊啊啊啊啊 https://t.co/7GR0sFSdlf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2029995995711643648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCv-mkvboAALF2R.jpg",
+        "width": 1019
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029995995711643648"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2029996014321684614",
+        "created_at": "2026-03-06T19:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T20:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029996014321684614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7GR0sFSdlf",
+              "end": 53,
+              "expanded_url": "https://x.com/neko0202002/status/2029996014321684614/photo/1",
+              "media_key": "3_2029995995711643648",
+              "start": 30,
+              "url": "https://t.co/7GR0sFSdlf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029996014321684614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这死小孩……虽然我不介意，但你能不能对我说一声呃啊啊啊啊啊 https://t.co/7GR0sFSdlf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/玛利亚什么的在上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "周防院奏",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028525324649328640/d35polxT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 493,
+          "like_count": 475,
+          "listed_count": 1,
+          "media_count": 293,
+          "tweet_count": 1077
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}

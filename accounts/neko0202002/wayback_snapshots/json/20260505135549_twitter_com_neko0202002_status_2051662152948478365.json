@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050968875488165888"
+      ],
+      "media_source_tweet_id": [
+        "2050968884413669498"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2051662152948478365",
+    "created_at": "2026-05-05T13:55:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T14:55:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051662152948478365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "81331823",
+          "start": 3,
+          "username": "Shiika_Sadamasa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g0GQ6djXie",
+          "end": 53,
+          "expanded_url": "https://x.com/Shiika_Sadamasa/status/2050968884413669498/photo/1",
+          "media_key": "3_2050968875488165888",
+          "start": 30,
+          "url": "https://t.co/g0GQ6djXie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051662152948478365",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 254
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050968884413669498",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shiika_Sadamasa: ファンアートです https://t.co/g0GQ6djXie"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1520,
+        "media_key": "3_2050968875488165888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHaBU2TawAA9oJP.jpg",
+        "width": 2148
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050968875488165888"
+          ],
+          "media_source_tweet_id": [
+            "2050968884413669498"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2051662152948478365",
+        "created_at": "2026-05-05T13:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T14:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051662152948478365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "81331823",
+              "start": 3,
+              "username": "Shiika_Sadamasa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g0GQ6djXie",
+              "end": 53,
+              "expanded_url": "https://x.com/Shiika_Sadamasa/status/2050968884413669498/photo/1",
+              "media_key": "3_2050968875488165888",
+              "start": 30,
+              "url": "https://t.co/g0GQ6djXie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051662152948478365",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 254
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050968884413669498",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shiika_Sadamasa: ファンアートです https://t.co/g0GQ6djXie"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050968875488165888"
+          ]
+        },
+        "author_id": "81331823",
+        "conversation_id": "2050968884413669498",
+        "created_at": "2026-05-03T16:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T17:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050968884413669498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g0GQ6djXie",
+              "end": 32,
+              "expanded_url": "https://x.com/Shiika_Sadamasa/status/2050968884413669498/photo/1",
+              "media_key": "3_2050968875488165888",
+              "start": 9,
+              "url": "https://t.co/g0GQ6djXie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050968884413669498",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 293,
+          "impression_count": 20116,
+          "like_count": 1761,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 254
+        },
+        "reply_settings": "everyone",
+        "text": "ファンアートです https://t.co/g0GQ6djXie"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 952,
+          "like_count": 1512,
+          "listed_count": 2,
+          "media_count": 1339,
+          "tweet_count": 3758
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-10T11:00:46.000Z",
+        "description": "初音ミクのアニメPV【ワイズマ】作りました。副業アニメータ(LO原画)、小説表紙。昼間は名古屋のサラリーマン。同人アニメMV製作。 \nアニメ作業依頼はDMかメールでお願いします。★2026年10月まで受注不可\nssadamasa@deneikoubou.net\n私の技量・実績はハイライト参照して下さい。\nAI学習拒",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "deneikoubou.net",
+                "end": 23,
+                "expanded_url": "http://deneikoubou.net",
+                "start": 0,
+                "url": "https://t.co/fkGlTfo9s0"
+              }
+            ]
+          }
+        },
+        "id": "81331823",
+        "location": "名古屋",
+        "name": "椎香貞正＠作業しれ",
+        "pinned_tweet_id": "1025730638668738561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/957609707627147264/_qPQLL5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48916,
+          "following_count": 8163,
+          "like_count": 44384,
+          "listed_count": 712,
+          "media_count": 3713,
+          "tweet_count": 119562
+        },
+        "url": "https://t.co/fkGlTfo9s0",
+        "username": "Shiika_Sadamasa",
+        "verified": true
+      }
+    ]
+  }
+}

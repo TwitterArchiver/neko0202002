@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032805201799950336"
+      ],
+      "media_source_tweet_id": [
+        "2032805208380801279"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2032851944767894022",
+    "created_at": "2026-03-14T16:10:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T17:10:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032851944767894022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1708493840477458432",
+          "start": 3,
+          "username": "gCdQqjm35088619"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UE1l7hLtaJ",
+          "end": 70,
+          "expanded_url": "https://x.com/gCdQqjm35088619/status/2032805208380801279/photo/1",
+          "media_key": "3_2032805201799950336",
+          "start": 47,
+          "url": "https://t.co/UE1l7hLtaJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032851944767894022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032805208380801279",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gCdQqjm35088619: 然而美国的毒蛆是真能吃上好东西再去死的..令人感叹 https://t.co/UE1l7hLtaJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 687,
+        "media_key": "3_2032805201799950336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDX5j47aMAAqNff.png",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032805201799950336"
+          ],
+          "media_source_tweet_id": [
+            "2032805208380801279"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2032851944767894022",
+        "created_at": "2026-03-14T16:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T17:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032851944767894022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1708493840477458432",
+              "start": 3,
+              "username": "gCdQqjm35088619"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UE1l7hLtaJ",
+              "end": 70,
+              "expanded_url": "https://x.com/gCdQqjm35088619/status/2032805208380801279/photo/1",
+              "media_key": "3_2032805201799950336",
+              "start": 47,
+              "url": "https://t.co/UE1l7hLtaJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032851944767894022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032805208380801279",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gCdQqjm35088619: 然而美国的毒蛆是真能吃上好东西再去死的..令人感叹 https://t.co/UE1l7hLtaJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032805201799950336"
+          ]
+        },
+        "author_id": "1708493840477458432",
+        "conversation_id": "2032805208380801279",
+        "created_at": "2026-03-14T13:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T14:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032805208380801279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UE1l7hLtaJ",
+              "end": 49,
+              "expanded_url": "https://x.com/gCdQqjm35088619/status/2032805208380801279/photo/1",
+              "media_key": "3_2032805201799950336",
+              "start": 26,
+              "url": "https://t.co/UE1l7hLtaJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032805208380801279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "然而美国的毒蛆是真能吃上好东西再去死的..令人感叹 https://t.co/UE1l7hLtaJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/评论被吞呃啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032192447573577728/C9yS_hXm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 555,
+          "like_count": 660,
+          "listed_count": 1,
+          "media_count": 438,
+          "tweet_count": 1422
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T14:47:38.000Z",
+        "description": "",
+        "id": "1708493840477458432",
+        "name": "電気サーカス",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004188978749345792/74sAh7CM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 107,
+          "like_count": 519,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 311
+        },
+        "username": "gCdQqjm35088619",
+        "verified": false
+      }
+    ]
+  }
+}

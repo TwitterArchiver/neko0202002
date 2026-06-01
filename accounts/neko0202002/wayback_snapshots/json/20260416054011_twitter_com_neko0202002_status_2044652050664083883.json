@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2044199613658480640"
+      ],
+      "media_source_tweet_id": [
+        "2044199932903731336"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2044652050664083883",
+    "created_at": "2026-04-16T05:40:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T06:40:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044652050664083883"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 33,
+          "tag": "NecoArc"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1573138450198446080",
+          "start": 3,
+          "username": "LillyAlbarn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PMv5wDATRR",
+          "end": 65,
+          "expanded_url": "https://x.com/LillyAlbarn/status/2044199932903731336/video/1",
+          "media_key": "13_2044199613658480640",
+          "start": 42,
+          "url": "https://t.co/PMv5wDATRR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044652050664083883",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 480
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044199932903731336",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LillyAlbarn: Ring Ding Dong\n\n#NecoArc https://t.co/PMv5wDATRR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26875,
+        "height": 1920,
+        "media_key": "13_2044199613658480640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044199613658480640/img/mF2OodYfLG3iHGwh.jpg",
+        "public_metrics": {
+          "view_count": 15455
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044199613658480640/vid/avc1/320x568/aFscJj5sSqtKf9du.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044199613658480640/vid/avc1/480x852/5LyIpEsKwtNSaAmS.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044199613658480640/vid/avc1/720x1280/yNOIkbJYvZ-8wOv1.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044199613658480640/pl/By5Jh6OsVEiD8rLi.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 26875,
+        "height": 1920,
+        "media_key": "13_2044199613658480640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044199613658480640/img/mF2OodYfLG3iHGwh.jpg",
+        "public_metrics": {
+          "view_count": 15470
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044199613658480640/vid/avc1/320x568/aFscJj5sSqtKf9du.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044199613658480640/vid/avc1/480x852/5LyIpEsKwtNSaAmS.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044199613658480640/vid/avc1/720x1280/yNOIkbJYvZ-8wOv1.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044199613658480640/pl/By5Jh6OsVEiD8rLi.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044199613658480640"
+          ],
+          "media_source_tweet_id": [
+            "2044199932903731336"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044652050664083883",
+        "created_at": "2026-04-16T05:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T06:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044652050664083883"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 33,
+              "tag": "NecoArc"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1573138450198446080",
+              "start": 3,
+              "username": "LillyAlbarn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PMv5wDATRR",
+              "end": 65,
+              "expanded_url": "https://x.com/LillyAlbarn/status/2044199932903731336/video/1",
+              "media_key": "13_2044199613658480640",
+              "start": 42,
+              "url": "https://t.co/PMv5wDATRR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044652050664083883",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 480
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044199932903731336",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LillyAlbarn: Ring Ding Dong\n\n#NecoArc https://t.co/PMv5wDATRR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044199613658480640"
+          ]
+        },
+        "author_id": "1573138450198446080",
+        "conversation_id": "2044199932903731336",
+        "created_at": "2026-04-14T23:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T00:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044199932903731336"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 16,
+              "tag": "NecoArc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PMv5wDATRR",
+              "end": 48,
+              "expanded_url": "https://x.com/LillyAlbarn/status/2044199932903731336/video/1",
+              "media_key": "13_2044199613658480640",
+              "start": 25,
+              "url": "https://t.co/PMv5wDATRR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044199932903731336",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 781,
+          "impression_count": 39108,
+          "like_count": 3075,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 480
+        },
+        "reply_settings": "everyone",
+        "text": "Ring Ding Dong\n\n#NecoArc https://t.co/PMv5wDATRR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 844,
+          "like_count": 1210,
+          "listed_count": 2,
+          "media_count": 1050,
+          "tweet_count": 3004
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-23T02:34:08.000Z",
+        "description": "I make low-quality drawings and animations | NSFW drawings here @ImNotLilly_ |  Neco Arc Enjoyer\n\nhttps://t.co/XvOkZpkwfD For my mom surgery",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "ImNotLilly_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "gofund.me/30c93b1ad",
+                "end": 121,
+                "expanded_url": "https://gofund.me/30c93b1ad",
+                "start": 98,
+                "url": "https://t.co/XvOkZpkwfD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lillyalbarn.carrd.co",
+                "end": 23,
+                "expanded_url": "https://lillyalbarn.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/rYgZs4Fwvh"
+              }
+            ]
+          }
+        },
+        "id": "1573138450198446080",
+        "location": "@kakasmaeda @pakokako_",
+        "name": "LillyAlbarn || COMMISSIONS OPEN!!",
+        "pinned_tweet_id": "2043790034189594658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912052291256918016/Qw_5Vwj7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4039,
+          "following_count": 81,
+          "like_count": 7008,
+          "listed_count": 3,
+          "media_count": 2040,
+          "tweet_count": 4373
+        },
+        "url": "https://t.co/rYgZs4Fwvh",
+        "username": "LillyAlbarn",
+        "verified": false
+      }
+    ]
+  }
+}

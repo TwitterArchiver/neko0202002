@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2059486906426282002",
+    "created_at": "2026-05-27T04:08:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T05:08:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059486906426282002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2009492855262466051",
+          "start": 3,
+          "username": "BeckfordBl61271"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059486906426282002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059139914621714690",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BeckfordBl61271: 寻回互关ing"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2059486906426282002",
+        "created_at": "2026-05-27T04:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059486906426282002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2009492855262466051",
+              "start": 3,
+              "username": "BeckfordBl61271"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059486906426282002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059139914621714690",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BeckfordBl61271: 寻回互关ing"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009492855262466051",
+        "conversation_id": "2059139914621714690",
+        "created_at": "2026-05-26T05:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T06:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059139914621714690"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059139914621714690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 787,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "寻回互关ing"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 1003,
+          "like_count": 1636,
+          "listed_count": 2,
+          "media_count": 1486,
+          "tweet_count": 4132
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-09T05:10:19.000Z",
+        "description": "耐药王还是\ntg@ngdj1124",
+        "id": "2009492855262466051",
+        "name": "猫三号机(我错了别再封了)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059089775110635520/xC601_r-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 14,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "BeckfordBl61271",
+        "verified": false
+      }
+    ]
+  }
+}

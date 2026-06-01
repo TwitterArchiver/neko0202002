@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1998722418291126275"
+      ],
+      "media_source_tweet_id": [
+        "1998722469671350707"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2059014954049761320",
+    "created_at": "2026-05-25T20:53:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T21:53:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059014954049761320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1834587382504624129",
+          "start": 3,
+          "username": "Azumame_1011"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LTFFxeFiic",
+          "end": 58,
+          "expanded_url": "https://x.com/Azumame_1011/status/1998722469671350707/video/1",
+          "media_key": "13_1998722418291126275",
+          "start": 35,
+          "url": "https://t.co/LTFFxeFiic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059014954049761320",
+    "lang": "pl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 776
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998722469671350707",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Azumame_1011: Mizuki rat dance https://t.co/LTFFxeFiic"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19483,
+        "height": 1060,
+        "media_key": "13_1998722418291126275",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1998722418291126275/img/yDfyrl_04N6rJUnF.jpg",
+        "public_metrics": {
+          "view_count": 10514
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998722418291126275/vid/avc1/320x320/XMqmRJ7WdlASByWN.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998722418291126275/vid/avc1/540x540/uqhOL-DM3Vgu-4Nh.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998722418291126275/vid/avc1/720x720/93PO_33IBO94PKkH.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1998722418291126275/pl/P4Ar8u2UPjy0h_Pz.m3u8?tag=14"
+          }
+        ],
+        "width": 1060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1998722418291126275"
+          ],
+          "media_source_tweet_id": [
+            "1998722469671350707"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2059014954049761320",
+        "created_at": "2026-05-25T20:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T21:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059014954049761320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1834587382504624129",
+              "start": 3,
+              "username": "Azumame_1011"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LTFFxeFiic",
+              "end": 58,
+              "expanded_url": "https://x.com/Azumame_1011/status/1998722469671350707/video/1",
+              "media_key": "13_1998722418291126275",
+              "start": 35,
+              "url": "https://t.co/LTFFxeFiic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059014954049761320",
+        "lang": "pl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 776
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998722469671350707",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Azumame_1011: Mizuki rat dance https://t.co/LTFFxeFiic"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1998722418291126275"
+          ]
+        },
+        "author_id": "1834587382504624129",
+        "conversation_id": "1998722469671350707",
+        "created_at": "2025-12-10T11:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T12:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998722469671350707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LTFFxeFiic",
+              "end": 40,
+              "expanded_url": "https://x.com/Azumame_1011/status/1998722469671350707/video/1",
+              "media_key": "13_1998722418291126275",
+              "start": 17,
+              "url": "https://t.co/LTFFxeFiic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998722469671350707",
+        "lang": "pl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 443,
+          "impression_count": 28827,
+          "like_count": 2507,
+          "quote_count": 7,
+          "reply_count": 2,
+          "retweet_count": 776
+        },
+        "reply_settings": "everyone",
+        "text": "Mizuki rat dance https://t.co/LTFFxeFiic"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 991,
+          "like_count": 1614,
+          "listed_count": 2,
+          "media_count": 1452,
+          "tweet_count": 4060
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T13:38:24.000Z",
+        "description": "prsk🎀 ¦ 18↓",
+        "id": "1834587382504624129",
+        "name": "あずまめ",
+        "pinned_tweet_id": "1928033516241178950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988026226620137472/tBaPYNy-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 148,
+          "like_count": 35790,
+          "listed_count": 18,
+          "media_count": 212,
+          "tweet_count": 932
+        },
+        "username": "Azumame_1011",
+        "verified": false
+      }
+    ]
+  }
+}

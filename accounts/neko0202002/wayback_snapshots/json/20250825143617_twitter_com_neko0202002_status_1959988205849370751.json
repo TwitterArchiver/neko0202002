@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "1958870425087127860",
+    "created_at": "2025-08-25T14:36:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T15:36:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959988205849370751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1894364220151783424",
+          "start": 0,
+          "username": "sakura19864"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959988205849370751",
+    "in_reply_to_user_id": "1894364220151783424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958870425087127860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakura19864 发到推特上求助呗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 741,
+        "media_key": "3_1958870422642143233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy9ORVaasAEd2PG.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "1958870425087127860",
+        "created_at": "2025-08-25T14:36:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T15:36:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959988205849370751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1894364220151783424",
+              "start": 0,
+              "username": "sakura19864"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959988205849370751",
+        "in_reply_to_user_id": "1894364220151783424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958870425087127860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura19864 发到推特上求助呗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958870422642143233"
+          ]
+        },
+        "author_id": "1894364220151783424",
+        "conversation_id": "1958870425087127860",
+        "created_at": "2025-08-22T12:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T13:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958870425087127860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/chSZgS9Fqa",
+              "end": 28,
+              "expanded_url": "https://x.com/sakura19864/status/1958870425087127860/photo/1",
+              "media_key": "3_1958870422642143233",
+              "start": 5,
+              "url": "https://t.co/chSZgS9Fqa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958870425087127860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 75464,
+          "like_count": 333,
+          "quote_count": 0,
+          "reply_count": 96,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "怎么找出 https://t.co/chSZgS9Fqa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "千早！！！！",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "千早！！！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951284390094577664/Qy4Zs8HR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 170,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 207
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T12:30:12.000Z",
+        "description": "噫吁嚱，危乎高哉。慎终如始，则无败事/可互fo",
+        "id": "1894364220151783424",
+        "location": "上海再教育集中营",
+        "name": "高夫☭⃠",
+        "pinned_tweet_id": "1957421205901939005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955886660203503616/cJOAsLMq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 246,
+          "like_count": 230,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 88
+        },
+        "username": "sakura19864",
+        "verified": false
+      }
+    ]
+  }
+}

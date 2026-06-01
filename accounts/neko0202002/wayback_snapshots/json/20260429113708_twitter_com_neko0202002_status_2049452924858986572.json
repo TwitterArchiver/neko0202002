@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049115060312870912"
+      ],
+      "media_source_tweet_id": [
+        "2049115066101035170"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2049452924858986572",
+    "created_at": "2026-04-29T11:37:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T12:37:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049452924858986572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1128923778992357376",
+          "start": 3,
+          "username": "xetaiseikii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vfzaf5Ndjj",
+          "end": 40,
+          "expanded_url": "https://x.com/xetaiseikii/status/2049115066101035170/photo/1",
+          "media_key": "3_2049115060312870912",
+          "start": 17,
+          "url": "https://t.co/Vfzaf5Ndjj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049452924858986572",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 255
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049115066101035170",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xetaiseikii: https://t.co/Vfzaf5Ndjj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049115060312870912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_rSmnaEAAGUtF.jpg",
+        "width": 1518
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049115060312870912"
+          ],
+          "media_source_tweet_id": [
+            "2049115066101035170"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2049452924858986572",
+        "created_at": "2026-04-29T11:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T12:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049452924858986572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1128923778992357376",
+              "start": 3,
+              "username": "xetaiseikii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vfzaf5Ndjj",
+              "end": 40,
+              "expanded_url": "https://x.com/xetaiseikii/status/2049115066101035170/photo/1",
+              "media_key": "3_2049115060312870912",
+              "start": 17,
+              "url": "https://t.co/Vfzaf5Ndjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049452924858986572",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 255
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049115066101035170",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xetaiseikii: https://t.co/Vfzaf5Ndjj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049115060312870912"
+          ]
+        },
+        "author_id": "1128923778992357376",
+        "conversation_id": "2049115066101035170",
+        "created_at": "2026-04-28T13:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049115066101035170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vfzaf5Ndjj",
+              "end": 23,
+              "expanded_url": "https://x.com/xetaiseikii/status/2049115066101035170/photo/1",
+              "media_key": "3_2049115060312870912",
+              "start": 0,
+              "url": "https://t.co/Vfzaf5Ndjj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049115066101035170",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 23648,
+          "like_count": 2504,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 255
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Vfzaf5Ndjj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 917,
+          "like_count": 1425,
+          "listed_count": 2,
+          "media_count": 1213,
+          "tweet_count": 3504
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-16T07:22:58.000Z",
+        "description": "절대성역",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/xetaiseikii",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/xetaiseikii",
+                "start": 0,
+                "url": "https://t.co/RHCuZedEuZ"
+              }
+            ]
+          }
+        },
+        "id": "1128923778992357376",
+        "location": "save & repost X ",
+        "name": "♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028716582642577408/a331bvBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10986,
+          "following_count": 84,
+          "like_count": 25408,
+          "listed_count": 40,
+          "media_count": 4352,
+          "tweet_count": 37332
+        },
+        "url": "https://t.co/RHCuZedEuZ",
+        "username": "xetaiseikii",
+        "verified": false
+      }
+    ]
+  }
+}

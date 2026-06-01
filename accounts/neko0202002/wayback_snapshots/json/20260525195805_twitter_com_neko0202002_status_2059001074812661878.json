@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2058964653405884416"
+      ],
+      "media_source_tweet_id": [
+        "2058964661974847916"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2059001074812661878",
+    "created_at": "2026-05-25T19:58:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T20:58:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059001074812661878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2045628200152182784",
+          "start": 3,
+          "username": "kobitokoibito"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uwtcQ7wA7R",
+          "end": 55,
+          "expanded_url": "https://x.com/kobitokoibito/status/2058964661974847916/video/1",
+          "media_key": "7_2058964653405884416",
+          "start": 32,
+          "url": "https://t.co/uwtcQ7wA7R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059001074812661878",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058964661974847916",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kobitokoibito: good morning https://t.co/uwtcQ7wA7R"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6175,
+        "height": 480,
+        "media_key": "7_2058964653405884416",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2058964653405884416/pu/img/jVW0fcaLDbuyMngw.jpg",
+        "public_metrics": {
+          "view_count": 93
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058964653405884416/pu/vid/avc1/478x270/Y-pMRsgOZnruCx4B.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058964653405884416/pu/vid/avc1/638x360/w0DgSvg4eiVyZZ2t.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058964653405884416/pu/vid/avc1/852x480/DdPj5yF5q068uKjx.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2058964653405884416/pu/pl/CB-VIhb_aUDo80Sa.m3u8?tag=12"
+          }
+        ],
+        "width": 852
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2058964653405884416"
+          ],
+          "media_source_tweet_id": [
+            "2058964661974847916"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2059001074812661878",
+        "created_at": "2026-05-25T19:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T20:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059001074812661878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2045628200152182784",
+              "start": 3,
+              "username": "kobitokoibito"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uwtcQ7wA7R",
+              "end": 55,
+              "expanded_url": "https://x.com/kobitokoibito/status/2058964661974847916/video/1",
+              "media_key": "7_2058964653405884416",
+              "start": 32,
+              "url": "https://t.co/uwtcQ7wA7R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059001074812661878",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058964661974847916",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kobitokoibito: good morning https://t.co/uwtcQ7wA7R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2058964653405884416"
+          ]
+        },
+        "author_id": "2045628200152182784",
+        "conversation_id": "2058964661974847916",
+        "created_at": "2026-05-25T17:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T18:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058964661974847916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uwtcQ7wA7R",
+              "end": 36,
+              "expanded_url": "https://x.com/kobitokoibito/status/2058964661974847916/video/1",
+              "media_key": "7_2058964653405884416",
+              "start": 13,
+              "url": "https://t.co/uwtcQ7wA7R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058964661974847916",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 304,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "good morning https://t.co/uwtcQ7wA7R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 991,
+          "like_count": 1614,
+          "listed_count": 2,
+          "media_count": 1452,
+          "tweet_count": 4058
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-18T22:19:11.000Z",
+        "description": "only cool guys and flat chested girls can interact alt @marifetter priv @chibikkoner",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "marifetter"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "chibikkoner"
+              }
+            ]
+          }
+        },
+        "id": "2045628200152182784",
+        "location": "dc: userzone",
+        "name": "kokoibito",
+        "pinned_tweet_id": "2053899777117487346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055511040465485824/PcTWAVfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 33,
+          "like_count": 10687,
+          "listed_count": 0,
+          "media_count": 621,
+          "tweet_count": 2558
+        },
+        "username": "kobitokoibito",
+        "verified": false
+      }
+    ]
+  }
+}

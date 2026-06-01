@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2043357175670767616"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2043349227930325212",
+    "created_at": "2026-04-12T15:54:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T16:54:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043357191634354501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1814174084617666560",
+          "start": 0,
+          "username": "MianXue525"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VXmfqF70Gs",
+          "end": 41,
+          "expanded_url": "https://x.com/neko0202002/status/2043357191634354501/photo/1",
+          "media_key": "16_2043357175670767616",
+          "start": 18,
+          "url": "https://t.co/VXmfqF70Gs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043357191634354501",
+    "in_reply_to_user_id": "1814174084617666560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043349227930325212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MianXue525 内圈贴贴！ https://t.co/VXmfqF70Gs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 382,
+        "media_key": "16_2043357175670767616",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HFt2hm0aAAAArlF.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HFt2hm0aAAAArlF.mp4"
+          }
+        ],
+        "width": 498
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043349212671381504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFtvSGVaEAAbvfi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2043357175670767616"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2043349227930325212",
+        "created_at": "2026-04-12T15:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043357191634354501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1814174084617666560",
+              "start": 0,
+              "username": "MianXue525"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VXmfqF70Gs",
+              "end": 41,
+              "expanded_url": "https://x.com/neko0202002/status/2043357191634354501/photo/1",
+              "media_key": "16_2043357175670767616",
+              "start": 18,
+              "url": "https://t.co/VXmfqF70Gs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043357191634354501",
+        "in_reply_to_user_id": "1814174084617666560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043349227930325212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MianXue525 内圈贴贴！ https://t.co/VXmfqF70Gs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043349212671381504"
+          ]
+        },
+        "author_id": "1814174084617666560",
+        "conversation_id": "2043349227930325212",
+        "created_at": "2026-04-12T15:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043349227930325212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YEMEO10Vsf",
+              "end": 33,
+              "expanded_url": "https://x.com/MianXue525/status/2043349227930325212/photo/1",
+              "media_key": "3_2043349212671381504",
+              "start": 10,
+              "url": "https://t.co/YEMEO10Vsf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043349227930325212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "超级大的互动圈！！ https://t.co/YEMEO10Vsf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 818,
+          "like_count": 1126,
+          "listed_count": 2,
+          "media_count": 983,
+          "tweet_count": 2825
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n♡⋰ ♱💉od｜双向｜精分｜餐劵｜无性别❄️ ♱ ⋱♡\n♡ ❄️眠雪 09休学（回fo餐劵.od.跨妹.女孩子）❄️ ♡\n ♡⋰ 🌙 月は見ている時だけ存在💧 ⋱♡\n🐾♱❄️网站链接提问箱欢迎来玩🫶🏻❄️ ♱🐾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪❄️",
+        "pinned_tweet_id": "2040247165252247975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040922964645007360/CCSlCpXW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1909,
+          "following_count": 349,
+          "like_count": 614,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 832
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": true
+      }
+    ]
+  }
+}

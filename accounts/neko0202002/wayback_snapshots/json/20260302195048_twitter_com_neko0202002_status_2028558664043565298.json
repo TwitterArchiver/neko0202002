@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2028558643214630912"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2028558664043565298",
+    "created_at": "2026-03-02T19:50:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T20:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028558664043565298"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hOM7BvD2qi",
+          "end": 38,
+          "expanded_url": "https://x.com/neko0202002/status/2028558664043565298/photo/1",
+          "media_key": "16_2028558643214630912",
+          "start": 15,
+          "url": "https://t.co/hOM7BvD2qi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028558664043565298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "头好痛喔，一直吐血头又晕晕的 https://t.co/hOM7BvD2qi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 278,
+        "media_key": "16_2028558643214630912",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HCbjVpbbQAAXwQc.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HCbjVpbbQAAXwQc.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2028558643214630912"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2028558664043565298",
+        "created_at": "2026-03-02T19:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T20:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028558664043565298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hOM7BvD2qi",
+              "end": 38,
+              "expanded_url": "https://x.com/neko0202002/status/2028558664043565298/photo/1",
+              "media_key": "16_2028558643214630912",
+              "start": 15,
+              "url": "https://t.co/hOM7BvD2qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028558664043565298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "头好痛喔，一直吐血头又晕晕的 https://t.co/hOM7BvD2qi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/('ᗜ')",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "周防院奏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028525324649328640/d35polxT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 434,
+          "like_count": 263,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 696
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2027670234661089280"
+      ],
+      "media_source_tweet_id": [
+        "2027670274569867311"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2027847939318812751",
+    "created_at": "2026-02-28T20:46:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T21:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027847939318812751"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 43,
+          "normalized_text": "乃依くん",
+          "probability": 0.628,
+          "start": 40,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 56,
+          "start": 50,
+          "tag": "超かぐや姫"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1993230583191994368",
+          "start": 3,
+          "username": "YXichan245101"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q2jN9LjBKl",
+          "end": 80,
+          "expanded_url": "https://x.com/YXichan245101/status/2027670274569867311/video/1",
+          "media_key": "7_2027670234661089280",
+          "start": 57,
+          "url": "https://t.co/Q2jN9LjBKl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027847939318812751",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 669
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027670274569867311",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YXichan245101: 個人的になんだけどこうやって手振ってくれる乃依くん好き👊🏻\n #超かぐや姫 https://t.co/Q2jN9LjBKl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8614,
+        "height": 720,
+        "media_key": "7_2027670234661089280",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2027670234661089280/pu/img/01FGIzSWUidjRbRd.jpg",
+        "public_metrics": {
+          "view_count": 36216
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027670234661089280/pu/vid/avc1/320x320/kizaCdCB2s5q7D37.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027670234661089280/pu/vid/avc1/540x540/SKEltbcHqyf3ghvL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2027670234661089280/pu/vid/avc1/720x720/ptvAjmy6k5X2_PqZ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2027670234661089280/pu/pl/hXs-gqBRwv0KAeGW.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2027670234661089280"
+          ],
+          "media_source_tweet_id": [
+            "2027670274569867311"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027847939318812751",
+        "created_at": "2026-02-28T20:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T21:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027847939318812751"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 43,
+              "normalized_text": "乃依くん",
+              "probability": 0.628,
+              "start": 40,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 50,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1993230583191994368",
+              "start": 3,
+              "username": "YXichan245101"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q2jN9LjBKl",
+              "end": 80,
+              "expanded_url": "https://x.com/YXichan245101/status/2027670274569867311/video/1",
+              "media_key": "7_2027670234661089280",
+              "start": 57,
+              "url": "https://t.co/Q2jN9LjBKl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027847939318812751",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 669
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027670274569867311",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YXichan245101: 個人的になんだけどこうやって手振ってくれる乃依くん好き👊🏻\n #超かぐや姫 https://t.co/Q2jN9LjBKl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2027670234661089280"
+          ]
+        },
+        "author_id": "1993230583191994368",
+        "conversation_id": "2027670274569867311",
+        "created_at": "2026-02-28T09:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T10:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027670274569867311"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "乃依くん",
+              "probability": 0.6097,
+              "start": 21,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 31,
+              "tag": "超かぐや姫"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q2jN9LjBKl",
+              "end": 61,
+              "expanded_url": "https://x.com/YXichan245101/status/2027670274569867311/video/1",
+              "media_key": "7_2027670234661089280",
+              "start": 38,
+              "url": "https://t.co/Q2jN9LjBKl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027670274569867311",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 725,
+          "impression_count": 76497,
+          "like_count": 7882,
+          "quote_count": 50,
+          "reply_count": 5,
+          "retweet_count": 669
+        },
+        "reply_settings": "everyone",
+        "text": "個人的になんだけどこうやって手振ってくれる乃依くん好き👊🏻\n #超かぐや姫 https://t.co/Q2jN9LjBKl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "宫小路优",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027720039554813953/8Y7qFh4u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 408,
+          "like_count": 214,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 590
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T08:09:59.000Z",
+        "description": "11'' 透き通るほどの儚い笑顔が好きなんです🫧 ͛.*┊︎ 雑多垢,フォロバ目的❌‖ 𝓵𝓲𝓴𝓮 ❥🎸🎹,ニーゴ箱┊︎ pjsk(2021.12/14～)🎤🎶┊︎学マス復帰(2025.12/9〜)︎🎤💭︎‖ 別ゲー垢→@yuyuchanda_000(HoYoverse系)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 109,
+                "username": "yuyuchanda_000"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/h0lqfL9XUqeS…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/h0lqfL9XUqeSq4fkCtX9RyVc8Xq1",
+                "start": 0,
+                "url": "https://t.co/Kp9IEhxKQu"
+              }
+            ]
+          }
+        },
+        "id": "1993230583191994368",
+        "location": "フォロバ100(厳選有)。超かぐ、リコリコ、葬フリ大好き！",
+        "name": "天野 優咲☁💫 @めんだこ同盟",
+        "pinned_tweet_id": "2024080600995348981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003495257401667584/H1YBzXZq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 444,
+          "like_count": 7179,
+          "listed_count": 5,
+          "media_count": 321,
+          "tweet_count": 3842
+        },
+        "url": "https://t.co/Kp9IEhxKQu",
+        "username": "YXichan245101",
+        "verified": false
+      }
+    ]
+  }
+}

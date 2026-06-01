@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045745337965355008"
+      ],
+      "media_source_tweet_id": [
+        "2045745343745147076"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2046060131708981262",
+    "created_at": "2026-04-20T02:55:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T03:55:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046060131708981262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1813353909412413440",
+          "start": 3,
+          "username": "sohidere"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/htN5DTagIu",
+          "end": 37,
+          "expanded_url": "https://x.com/sohidere/status/2045745343745147076/photo/1",
+          "media_key": "3_2045745337965355008",
+          "start": 14,
+          "url": "https://t.co/htN5DTagIu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046060131708981262",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 438
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045745343745147076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sohidere: https://t.co/htN5DTagIu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1016,
+        "media_key": "3_2045745337965355008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPyi8pWIAAPoWr.jpg",
+        "width": 1522
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045745337965355008"
+          ],
+          "media_source_tweet_id": [
+            "2045745343745147076"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2046060131708981262",
+        "created_at": "2026-04-20T02:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T03:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046060131708981262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1813353909412413440",
+              "start": 3,
+              "username": "sohidere"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/htN5DTagIu",
+              "end": 37,
+              "expanded_url": "https://x.com/sohidere/status/2045745343745147076/photo/1",
+              "media_key": "3_2045745337965355008",
+              "start": 14,
+              "url": "https://t.co/htN5DTagIu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046060131708981262",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 438
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045745343745147076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sohidere: https://t.co/htN5DTagIu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045745337965355008"
+          ]
+        },
+        "author_id": "1813353909412413440",
+        "conversation_id": "2045745343745147076",
+        "created_at": "2026-04-19T06:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T07:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045745343745147076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/htN5DTagIu",
+              "end": 23,
+              "expanded_url": "https://x.com/sohidere/status/2045745343745147076/photo/1",
+              "media_key": "3_2045745337965355008",
+              "start": 0,
+              "url": "https://t.co/htN5DTagIu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045745343745147076",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 660,
+          "impression_count": 37114,
+          "like_count": 5892,
+          "quote_count": 4,
+          "reply_count": 19,
+          "retweet_count": 438
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/htN5DTagIu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 608,
+          "following_count": 859,
+          "like_count": 1268,
+          "listed_count": 2,
+          "media_count": 1102,
+          "tweet_count": 3143
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T23:24:10.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/wttach",
+                "end": 23,
+                "expanded_url": "http://instagram.com/wttach",
+                "start": 0,
+                "url": "https://t.co/V2hKlNCgMH"
+              }
+            ]
+          }
+        },
+        "id": "1813353909412413440",
+        "name": "🐇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045194173520003072/XdhoLZOe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 14,
+          "like_count": 5892,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 24
+        },
+        "url": "https://t.co/V2hKlNCgMH",
+        "username": "sohidere",
+        "verified": false
+      }
+    ]
+  }
+}

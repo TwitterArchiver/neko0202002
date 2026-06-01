@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "1879353929089339733",
+    "created_at": "2025-01-15T02:24:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-15T03:24:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879353929089339733"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "オトメドメイン",
+          "probability": 0.6247,
+          "start": 31,
+          "type": "Other"
+        },
+        {
+          "end": 120,
+          "normalized_text": "湊くん",
+          "probability": 0.8228,
+          "start": 118,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "742061326684409856",
+          "start": 3,
+          "username": "usagu_MM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879353929089339733",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875476763540946957",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @usagu_MM: 気になっていた、2016年発売の「オトメドメイン」パッケージ版買っちゃった！\n\n…んだけど未開封フィルム付きなので開けられないんだワどうしてくれるんだよDL版買うわ英語版も買うわあとパッケージのヒロイン3人と湊くんかわいすぎんだろ好き https:/…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "1879353929089339733",
+        "created_at": "2025-01-15T02:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T03:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879353929089339733"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "オトメドメイン",
+              "probability": 0.6247,
+              "start": 31,
+              "type": "Other"
+            },
+            {
+              "end": 120,
+              "normalized_text": "湊くん",
+              "probability": 0.8228,
+              "start": 118,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "742061326684409856",
+              "start": 3,
+              "username": "usagu_MM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879353929089339733",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875476763540946957",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @usagu_MM: 気になっていた、2016年発売の「オトメドメイン」パッケージ版買っちゃった！\n\n…んだけど未開封フィルム付きなので開けられないんだワどうしてくれるんだよDL版買うわ英語版も買うわあとパッケージのヒロイン3人と湊くんかわいすぎんだろ好き https:/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1875474645593550848"
+          ]
+        },
+        "author_id": "742061326684409856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1875476763540946957",
+        "created_at": "2025-01-04T09:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-04T10:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1875476763540946957"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "オトメドメイン",
+              "probability": 0.6587,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 106,
+              "normalized_text": "湊くん",
+              "probability": 0.8346,
+              "start": 104,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4EfTWuirWX",
+              "end": 141,
+              "expanded_url": "https://x.com/usagu_MM/status/1875476763540946957/photo/1",
+              "media_key": "3_1875474645593550848",
+              "start": 118,
+              "url": "https://t.co/4EfTWuirWX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875476763540946957",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 226,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "気になっていた、2016年発売の「オトメドメイン」パッケージ版買っちゃった！\n\n…んだけど未開封フィルム付きなので開けられないんだワどうしてくれるんだよDL版買うわ英語版も買うわあとパッケージのヒロイン3人と湊くんかわいすぎんだろ好き https://t.co/4EfTWuirWX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "けいおん! X デモノフォビア 那廻早栗 (Remake)",
+        "id": "1820207828931424256",
+        "location": "東京 渋谷区",
+        "name": "莉卡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820207946258636801/Y7EBnGVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 42,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-12T18:29:41.000Z",
+        "description": "普通の一般垢です。子兎音様が大好きです。無言フォローごめんね。隠れポサ村村民だったり。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/usagus…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/usagusama.bsky.social",
+                "start": 0,
+                "url": "https://t.co/4zaNsEnwJH"
+              }
+            ]
+          }
+        },
+        "id": "742061326684409856",
+        "location": "自我は青空で。",
+        "name": "うさぐ⛩🌿",
+        "pinned_tweet_id": "1874718323272982695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868281202001727488/DQqYkQQQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 1195,
+          "like_count": 42713,
+          "listed_count": 7,
+          "media_count": 652,
+          "tweet_count": 10847
+        },
+        "url": "https://t.co/4zaNsEnwJH",
+        "username": "usagu_MM",
+        "verified": false
+      }
+    ]
+  }
+}

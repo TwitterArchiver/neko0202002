@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2030933041590521857"
+      ],
+      "media_source_tweet_id": [
+        "2030934113486766556"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2031238229203234883",
+    "created_at": "2026-03-10T05:18:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T06:18:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031238229203234883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1918068518479904769",
+          "start": 3,
+          "username": "konataso464946"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DECglDn3xI",
+          "end": 63,
+          "expanded_url": "https://x.com/konataso464946/status/2030934113486766556/video/1",
+          "media_key": "13_2030933041590521857",
+          "start": 40,
+          "url": "https://t.co/DECglDn3xI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031238229203234883",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 257
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030934113486766556",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @konataso464946: ネット上で風評被害を受けまくった神OP https://t.co/DECglDn3xI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 89745,
+        "height": 720,
+        "media_key": "13_2030933041590521857",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030933041590521857/img/a02xKYQ4RRWhaH6U.jpg",
+        "public_metrics": {
+          "view_count": 32061
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030933041590521857/vid/avc1/478x270/ATDH9F-SvAsfagp2.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030933041590521857/vid/avc1/638x360/4sSGD5LPU7nfIr4v.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030933041590521857/vid/avc1/1276x720/ap_AHoepZ5uWsN_j.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030933041590521857/pl/PzkSLrnQ7AxmUHK9.m3u8?tag=14"
+          }
+        ],
+        "width": 1276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030933041590521857"
+          ],
+          "media_source_tweet_id": [
+            "2030934113486766556"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031238229203234883",
+        "created_at": "2026-03-10T05:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T06:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031238229203234883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1918068518479904769",
+              "start": 3,
+              "username": "konataso464946"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DECglDn3xI",
+              "end": 63,
+              "expanded_url": "https://x.com/konataso464946/status/2030934113486766556/video/1",
+              "media_key": "13_2030933041590521857",
+              "start": 40,
+              "url": "https://t.co/DECglDn3xI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031238229203234883",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 257
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030934113486766556",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @konataso464946: ネット上で風評被害を受けまくった神OP https://t.co/DECglDn3xI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030933041590521857"
+          ]
+        },
+        "author_id": "1918068518479904769",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030934113486766556",
+        "created_at": "2026-03-09T09:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T10:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030934113486766556"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DECglDn3xI",
+              "end": 43,
+              "expanded_url": "https://x.com/konataso464946/status/2030934113486766556/video/1",
+              "media_key": "13_2030933041590521857",
+              "start": 20,
+              "url": "https://t.co/DECglDn3xI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030934113486766556",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 252,
+          "impression_count": 71512,
+          "like_count": 1490,
+          "quote_count": 46,
+          "reply_count": 40,
+          "retweet_count": 257
+        },
+        "reply_settings": "everyone",
+        "text": "ネット上で風評被害を受けまくった神OP https://t.co/DECglDn3xI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/玛利亚什么的在上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "周防院奏",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028525324649328640/d35polxT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 542,
+          "like_count": 623,
+          "listed_count": 1,
+          "media_count": 382,
+          "tweet_count": 1276
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T22:22:54.000Z",
+        "description": "アニメの事やネタ系のツイートをしてます。陰キャです。気軽に絡んでくれると嬉しいです！少しずつフォロバしていきます。サブ垢@seserori2 251 @neeche24",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 60,
+                "username": "seserori2"
+              },
+              {
+                "end": 84,
+                "start": 75,
+                "username": "neeche24"
+              }
+            ]
+          }
+        },
+        "id": "1918068518479904769",
+        "name": "せせろり@Anime情報",
+        "pinned_tweet_id": "2025885693592138101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030931411256164352/6BAlhMTt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9684,
+          "following_count": 3981,
+          "like_count": 2425,
+          "listed_count": 21,
+          "media_count": 395,
+          "tweet_count": 4569
+        },
+        "username": "konataso464946",
+        "verified": false
+      }
+    ]
+  }
+}

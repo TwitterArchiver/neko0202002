@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2060125607095341088",
+    "created_at": "2026-05-28T22:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T23:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060125607095341088"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/adogtwting/sta…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/adogtwting/status/2059973200440692994",
+          "start": 19,
+          "url": "https://t.co/DjyPXJDtAs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060125607095341088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059973200440692994",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喵~喵喵喵~喵喵喵喵喵喵喵喵~~~~ https://t.co/DjyPXJDtAs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2060125607095341088",
+        "created_at": "2026-05-28T22:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T23:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060125607095341088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/adogtwting/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/adogtwting/status/2059973200440692994",
+              "start": 19,
+              "url": "https://t.co/DjyPXJDtAs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060125607095341088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059973200440692994",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喵~喵喵喵~喵喵喵喵喵喵喵喵~~~~ https://t.co/DjyPXJDtAs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892530438125875201",
+        "conversation_id": "2059973200440692994",
+        "created_at": "2026-05-28T12:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059973200440692994"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059973200440692994",
+        "lang": "nl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 15431,
+          "like_count": 546,
+          "quote_count": 22,
+          "reply_count": 69,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "woof woof woof woof woof woof woof"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 962,
+          "like_count": 1658,
+          "listed_count": 2,
+          "media_count": 1509,
+          "tweet_count": 4198
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-20T11:03:19.000Z",
+        "description": "literally just a dog with a blog",
+        "id": "1892530438125875201",
+        "location": "dog park",
+        "name": "dog",
+        "pinned_tweet_id": "2060073732308111493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050344276744159232/d2wBHGv8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12001,
+          "following_count": 126,
+          "like_count": 183,
+          "listed_count": 40,
+          "media_count": 68,
+          "tweet_count": 344
+        },
+        "username": "adogtwting",
+        "verified": true
+      }
+    ]
+  }
+}

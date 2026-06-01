@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048447994782195712"
+      ],
+      "media_source_tweet_id": [
+        "2048447997412049100"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2049425328121238005",
+    "created_at": "2026-04-29T09:47:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T10:47:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049425328121238005"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 20,
+          "tag": "ぽじめ色紙"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2281619348",
+          "start": 3,
+          "username": "Leon_ahp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9t6FGCyc7O",
+          "end": 50,
+          "expanded_url": "https://x.com/Leon_ahp/status/2048447997412049100/photo/1",
+          "media_key": "3_2048447994782195712",
+          "start": 27,
+          "url": "https://t.co/9t6FGCyc7O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049425328121238005",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 111
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048447997412049100",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Leon_ahp: 🎂巴マミ🎂\n#ぽじめ色紙 https://t.co/9t6FGCyc7O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048447994782195712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2MmR3aoAAQ0LE.jpg",
+        "width": 1367
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048447994782195712"
+          ],
+          "media_source_tweet_id": [
+            "2048447997412049100"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2049425328121238005",
+        "created_at": "2026-04-29T09:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T10:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049425328121238005"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 20,
+              "tag": "ぽじめ色紙"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2281619348",
+              "start": 3,
+              "username": "Leon_ahp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9t6FGCyc7O",
+              "end": 50,
+              "expanded_url": "https://x.com/Leon_ahp/status/2048447997412049100/photo/1",
+              "media_key": "3_2048447994782195712",
+              "start": 27,
+              "url": "https://t.co/9t6FGCyc7O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049425328121238005",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 111
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048447997412049100",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Leon_ahp: 🎂巴マミ🎂\n#ぽじめ色紙 https://t.co/9t6FGCyc7O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048447994782195712"
+          ]
+        },
+        "author_id": "2281619348",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2048447997412049100",
+        "created_at": "2026-04-26T17:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T18:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048447997412049100"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 6,
+              "tag": "ぽじめ色紙"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9t6FGCyc7O",
+              "end": 36,
+              "expanded_url": "https://x.com/Leon_ahp/status/2048447997412049100/photo/1",
+              "media_key": "3_2048447994782195712",
+              "start": 13,
+              "url": "https://t.co/9t6FGCyc7O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048447997412049100",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 8756,
+          "like_count": 911,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 111
+        },
+        "reply_settings": "everyone",
+        "text": "🎂巴マミ🎂\n#ぽじめ色紙 https://t.co/9t6FGCyc7O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 916,
+          "like_count": 1421,
+          "listed_count": 2,
+          "media_count": 1211,
+          "tweet_count": 3492
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-08T05:13:31.000Z",
+        "description": "お絵描き大好きで主にまどか☆マギカ関連のイラスト描いてTLにぶん投げます( ˘ω˘ )┓≡(絵)\n関西のイベントに出たり出なかったりしてますので機会があれば是非お立ち寄りください💨",
+        "id": "2281619348",
+        "name": "٩(⊙ω⊙)وぽじめ🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1689311228412514304/ExWE2WwJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7326,
+          "following_count": 819,
+          "like_count": 5717,
+          "listed_count": 141,
+          "media_count": 8502,
+          "tweet_count": 66577
+        },
+        "username": "Leon_ahp",
+        "verified": false
+      }
+    ]
+  }
+}

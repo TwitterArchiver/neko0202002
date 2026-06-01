@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations about going out.",
+          "id": "1045046778876153856",
+          "name": "Going Out"
+        }
+      }
+    ],
+    "conversation_id": "2021310259042689049",
+    "created_at": "2026-02-10T19:48:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T20:48:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021310259042689049"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 21,
+          "tag": "処女はお姉さまに恋してる"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "160800753",
+          "start": 3,
+          "username": "CGF_EV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021310259042689049",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1112626712058040320",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CGF_EV: 【新作情報】\n『「#処女はお姉さまに恋してる」写真①4000mAh／写真②③8000mAhモバイルバッテリー』\nいつでも充電が可能なモバイルバッテリーです。\n今回は大容量で長く使いたい！という方へ容量2倍Verもご用意！\n絵柄はそれぞれ選べる３種類。外出…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2021310259042689049].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2021310259042689049",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2021310259042689049"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 853,
+        "media_key": "3_1112626568713535488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/D3DX-CPVAAAgdSM.jpg",
+        "width": 1280
+      },
+      {
+        "height": 853,
+        "media_key": "3_1112626589362065408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/D3DX_PKUkAAaKhn.jpg",
+        "width": 1280
+      },
+      {
+        "height": 853,
+        "media_key": "3_1112626602263797761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/D3DX__OVYAEiKCL.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1112626568713535488",
+            "3_1112626589362065408",
+            "3_1112626602263797761"
+          ]
+        },
+        "author_id": "160800753",
+        "conversation_id": "1112626712058040320",
+        "created_at": "2019-04-01T08:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2019-04-01T08:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1112626712058040320"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 9,
+              "tag": "処女はお姉さまに恋してる"
+            },
+            {
+              "end": 149,
+              "start": 142,
+              "tag": "chara1"
+            },
+            {
+              "end": 155,
+              "start": 150,
+              "tag": "おとボク"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9JlTIx8Jfu",
+              "end": 179,
+              "expanded_url": "https://x.com/HB_EV/status/1112626712058040320/photo/1",
+              "media_key": "3_1112626568713535488",
+              "start": 156,
+              "url": "https://t.co/9JlTIx8Jfu"
+            },
+            {
+              "display_url": "pic.x.com/9JlTIx8Jfu",
+              "end": 179,
+              "expanded_url": "https://x.com/HB_EV/status/1112626712058040320/photo/1",
+              "media_key": "3_1112626589362065408",
+              "start": 156,
+              "url": "https://t.co/9JlTIx8Jfu"
+            },
+            {
+              "display_url": "pic.x.com/9JlTIx8Jfu",
+              "end": 179,
+              "expanded_url": "https://x.com/HB_EV/status/1112626712058040320/photo/1",
+              "media_key": "3_1112626602263797761",
+              "start": 156,
+              "url": "https://t.co/9JlTIx8Jfu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1112626712058040320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 0,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "【新作情報】\n『「#処女はお姉さまに恋してる」写真①4000mAh／写真②③8000mAhモバイルバッテリー』\nいつでも充電が可能なモバイルバッテリーです。\n今回は大容量で長く使いたい！という方へ容量2倍Verもご用意！\n絵柄はそれぞれ選べる３種類。外出時に大活躍の便利グッズです。\n#chara1 #おとボク https://t.co/9JlTIx8Jfu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "os.remove ( '' characters / Itami. chr '' )\n\n啧，删不掉… … …有人在看吗？啊！我是Monika,你好，又见面了",
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "たかしま　いちこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020556596078882816/biv5D8wv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 309,
+          "like_count": 71,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 339
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-29T04:36:38.000Z",
+        "description": "グッズのオンライン販売イベント『Character Goods Festa』の公式アカウントです！\n二次元グッズの魅力を広げるべく頑張ります！\nハッシュタグは「#きゃらぐふぇ」でよろしくお願いします！\n※本アカウントでのリプライへのお返事は行っておりません。\n※こちらは成年向けアカウントとなります。ご注意ください。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 80,
+                "tag": "きゃらぐふぇ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "character-goods-festa.com",
+                "end": 23,
+                "expanded_url": "https://character-goods-festa.com/",
+                "start": 0,
+                "url": "https://t.co/FxYVR46wOB"
+              }
+            ]
+          }
+        },
+        "id": "160800753",
+        "location": "東京",
+        "name": "シャーロッタ@CGF公式_R18",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1674613540311957504/imfztKl0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4365,
+          "following_count": 1277,
+          "like_count": 708,
+          "listed_count": 71,
+          "media_count": 1234,
+          "tweet_count": 4024
+        },
+        "url": "https://t.co/FxYVR46wOB",
+        "username": "CGF_EV",
+        "verified": false
+      }
+    ]
+  }
+}

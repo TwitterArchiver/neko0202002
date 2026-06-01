@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2058494473458634979",
+    "created_at": "2026-05-24T18:34:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T19:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058617694484849029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2058484419581870080",
+          "start": 0,
+          "username": "12S1dsb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058617694484849029",
+    "in_reply_to_user_id": "2058484419581870080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058494473458634979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@12S1dsb 我服了，你又没了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058494452151570432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJE9zECbUAAhSxi.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058494452818456576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJE9zGhbMAAnle0.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058494455104307200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJE9zPCagAAUddc.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058494452159942656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJE9zEEbEAAdNjN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2058494473458634979",
+        "created_at": "2026-05-24T18:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T19:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058617694484849029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2058484419581870080",
+              "start": 0,
+              "username": "12S1dsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058617694484849029",
+        "in_reply_to_user_id": "2058484419581870080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058494473458634979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@12S1dsb 我服了，你又没了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058494452151570432",
+            "3_2058494452818456576",
+            "3_2058494455104307200",
+            "3_2058494452159942656"
+          ]
+        },
+        "author_id": "2058484419581870080",
+        "conversation_id": "2058494473458634979",
+        "created_at": "2026-05-24T10:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T11:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058494473458634979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/035LI0owl1",
+              "end": 95,
+              "expanded_url": "https://x.com/12S1dsb/status/2058494473458634979/photo/1",
+              "media_key": "3_2058494452151570432",
+              "start": 72,
+              "url": "https://t.co/035LI0owl1"
+            },
+            {
+              "display_url": "pic.x.com/035LI0owl1",
+              "end": 95,
+              "expanded_url": "https://x.com/12S1dsb/status/2058494473458634979/photo/1",
+              "media_key": "3_2058494452818456576",
+              "start": 72,
+              "url": "https://t.co/035LI0owl1"
+            },
+            {
+              "display_url": "pic.x.com/035LI0owl1",
+              "end": 95,
+              "expanded_url": "https://x.com/12S1dsb/status/2058494473458634979/photo/1",
+              "media_key": "3_2058494455104307200",
+              "start": 72,
+              "url": "https://t.co/035LI0owl1"
+            },
+            {
+              "display_url": "pic.x.com/035LI0owl1",
+              "end": 95,
+              "expanded_url": "https://x.com/12S1dsb/status/2058494473458634979/photo/1",
+              "media_key": "3_2058494452159942656",
+              "start": 72,
+              "url": "https://t.co/035LI0owl1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058494473458634979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2532,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "以后就用这个号啦，虽然我只是个小透明的说\n自我介绍一下我叫12\n这里就不放实名了 会被骂哈哈哈哈哈\n不管了点跟烟先！还有我正在干烟袋哦欢迎咨询 https://t.co/035LI0owl1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "乐园",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 975,
+          "like_count": 1593,
+          "listed_count": 2,
+          "media_count": 1425,
+          "tweet_count": 4006
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T09:45:49.000Z",
+        "description": "12",
+        "id": "2058484419581870080",
+        "location": "Jiput, Indonesia",
+        "name": "叫我12就好了",
+        "pinned_tweet_id": "2058494473458634979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058493615861907457/hNojcrDP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 33,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 15
+        },
+        "username": "12S1dsb",
+        "verified": false
+      }
+    ]
+  }
+}

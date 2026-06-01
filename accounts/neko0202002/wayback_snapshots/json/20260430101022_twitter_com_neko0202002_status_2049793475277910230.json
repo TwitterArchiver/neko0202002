@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2049793470882254848"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2049770217748971558",
+    "created_at": "2026-04-30T10:10:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T11:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049793475277910230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974865605204586498",
+          "start": 0,
+          "username": "Krktmk_8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kmmj2wbkXS",
+          "end": 75,
+          "expanded_url": "https://x.com/neko0202002/status/2049793475277910230/photo/1",
+          "media_key": "16_2049793470882254848",
+          "start": 52,
+          "url": "https://t.co/Kmmj2wbkXS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049793475277910230",
+    "in_reply_to_user_id": "1974865605204586498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049793114072862944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Krktmk_8964 赞同，原料的话，说不定还有微量毒素，并且晶的风险也很大，严打期间安全点比较好 https://t.co/Kmmj2wbkXS"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2049793114072862944].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2049793114072862944",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2049793114072862944"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 280,
+        "media_key": "16_2049793470882254848",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HHJUTS7aEAAkFk5.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HHJUTS7aEAAkFk5.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2049793470882254848"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2049770217748971558",
+        "created_at": "2026-04-30T10:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T11:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049793475277910230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "Krktmk_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kmmj2wbkXS",
+              "end": 75,
+              "expanded_url": "https://x.com/neko0202002/status/2049793475277910230/photo/1",
+              "media_key": "16_2049793470882254848",
+              "start": 52,
+              "url": "https://t.co/Kmmj2wbkXS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049793475277910230",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049793114072862944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Krktmk_8964 赞同，原料的话，说不定还有微量毒素，并且晶的风险也很大，严打期间安全点比较好 https://t.co/Kmmj2wbkXS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 930,
+          "like_count": 1451,
+          "listed_count": 2,
+          "media_count": 1246,
+          "tweet_count": 3566
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "我是天照大神⛩\n\n我炸了请关注@Misaki_Mei520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 15,
+                "username": "Misaki_Mei520"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aaa.0d000721",
+                "end": 23,
+                "expanded_url": "http://ngl.link/aaa.0d000721",
+                "start": 0,
+                "url": "https://t.co/roYMrmtUyR"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2046450161724067994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1355,
+          "following_count": 2410,
+          "like_count": 39417,
+          "listed_count": 3,
+          "media_count": 328,
+          "tweet_count": 3945
+        },
+        "url": "https://t.co/roYMrmtUyR",
+        "username": "Krktmk_8964",
+        "verified": false
+      }
+    ]
+  }
+}

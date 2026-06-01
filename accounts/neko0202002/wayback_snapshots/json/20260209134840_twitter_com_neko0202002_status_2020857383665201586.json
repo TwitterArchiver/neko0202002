@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2020857383665201586",
+    "created_at": "2026-02-09T13:48:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T14:48:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020857383665201586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1980941101763842049",
+          "start": 3,
+          "username": "needygirl_anime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020857383665201586",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 308
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020814949686088186",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @needygirl_anime: ✦・┈┈┈┈┈┈┈┈┈┈・✦\n\n   𝑁𝐸𝐸𝐷𝑌 𝐺𝐼𝑅𝐿 𝑂𝑉𝐸𝑅𝐷𝑂𝑆𝐸\n　　     ショートアニメ\n     🎀 DATEN ROUTE 🎀\n\n✦・┈┈┈┈┈┈┈┈┈┈・✦\n\n⏰1 more day\n\n𝟐𝟎𝟐𝟔.𝟎𝟐.𝟏𝟎 𝐭𝐮…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 59993,
+        "height": 270,
+        "media_key": "13_2016813653723660288",
+        "preview_image_url": "https://pbs.twimg.com/media/G_07kGnbUAUg4U8.jpg",
+        "public_metrics": {
+          "view_count": 12847
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016813653723660288/vid/avc1/480x270/nAM7CVRXwlH8wk_E.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016813653723660288/vid/avc1/640x360/q1H7y7Ync2R9XpDK.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016813653723660288/vid/avc1/1280x720/msUdHj9lqsd9hEVf.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2016813653723660288/pl/Seik4l9UQqPnEe1y.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2020857383665201586",
+        "created_at": "2026-02-09T13:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T14:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020857383665201586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1980941101763842049",
+              "start": 3,
+              "username": "needygirl_anime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020857383665201586",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 308
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020814949686088186",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @needygirl_anime: ✦・┈┈┈┈┈┈┈┈┈┈・✦\n\n   𝑁𝐸𝐸𝐷𝑌 𝐺𝐼𝑅𝐿 𝑂𝑉𝐸𝑅𝐷𝑂𝑆𝐸\n　　     ショートアニメ\n     🎀 DATEN ROUTE 🎀\n\n✦・┈┈┈┈┈┈┈┈┈┈・✦\n\n⏰1 more day\n\n𝟐𝟎𝟐𝟔.𝟎𝟐.𝟏𝟎 𝐭𝐮…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016813653723660288"
+          ]
+        },
+        "author_id": "1980941101763842049",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2020814949686088186",
+        "created_at": "2026-02-09T11:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T12:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020814949686088186"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 149,
+              "start": 144,
+              "tag": "ニディガ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n5HY3cFa5I",
+              "end": 173,
+              "expanded_url": "https://x.com/needygirl_anime/status/2020814949686088186/video/1",
+              "media_key": "13_2016813653723660288",
+              "start": 150,
+              "url": "https://t.co/n5HY3cFa5I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020814949686088186",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 170,
+          "impression_count": 40019,
+          "like_count": 1869,
+          "quote_count": 18,
+          "reply_count": 3,
+          "retweet_count": 308
+        },
+        "reply_settings": "everyone",
+        "text": "✦・┈┈┈┈┈┈┈┈┈┈・✦\n\n   𝑁𝐸𝐸𝐷𝑌 𝐺𝐼𝑅𝐿 𝑂𝑉𝐸𝑅𝐷𝑂𝑆𝐸\n　　     ショートアニメ\n     🎀 DATEN ROUTE 🎀\n\n✦・┈┈┈┈┈┈┈┈┈┈・✦\n\n⏰1 more day\n\n𝟐𝟎𝟐𝟔.𝟎𝟐.𝟏𝟎 𝐭𝐮𝐞 𝟏𝟖:𝟎𝟎\n𝐍𝐞𝐰 𝐢𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧✨\n\n#ニディガ https://t.co/n5HY3cFa5I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "os.remove ( '' characters / Itami. chr '' )\n\n啧，删不掉… … …有人在看吗？啊！我是Monika,你好，又见面了",
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "たかしま　いちこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020556596078882816/biv5D8wv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 302,
+          "like_count": 63,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 321
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-22T10:17:13.000Z",
+        "description": "『NEEDY GIRL OVERDOSE』アニメ公式アカウント｜劇場先行版『NEEDY GIRL OVERDOSE -OVERTURE-』2026年3月6日（金）公開｜TVアニメ2026年4月放送開始｜アニメーション制作：Yostar Pictures｜【推奨タグ】#ニディガ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 138,
+                "start": 133,
+                "tag": "ニディガ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "needygirl-anime.com",
+                "end": 23,
+                "expanded_url": "https://needygirl-anime.com/",
+                "start": 0,
+                "url": "https://t.co/6rMK2MRAWW"
+              }
+            ]
+          }
+        },
+        "id": "1980941101763842049",
+        "name": "アニメ『NEEDY GIRL OVERDOSE』公式",
+        "pinned_tweet_id": "2015036910625071502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009913374612795392/GyxBVqdp_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16058,
+          "following_count": 15,
+          "like_count": 3,
+          "listed_count": 32,
+          "media_count": 85,
+          "tweet_count": 121
+        },
+        "url": "https://t.co/6rMK2MRAWW",
+        "username": "needygirl_anime",
+        "verified": false
+      }
+    ]
+  }
+}

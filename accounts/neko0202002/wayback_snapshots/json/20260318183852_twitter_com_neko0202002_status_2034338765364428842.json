@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2034318045980790784"
+      ],
+      "media_source_tweet_id": [
+        "2034318213077684311"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2034338765364428842",
+    "created_at": "2026-03-18T18:38:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T19:38:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034338765364428842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "793325876947542016",
+          "start": 3,
+          "username": "khyleri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zfXNf0QBMj",
+          "end": 36,
+          "expanded_url": "https://x.com/khyleri/status/2034318213077684311/video/1",
+          "media_key": "13_2034318045980790784",
+          "start": 13,
+          "url": "https://t.co/zfXNf0QBMj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034338765364428842",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1302
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034318213077684311",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @khyleri: https://t.co/zfXNf0QBMj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9333,
+        "height": 1600,
+        "media_key": "13_2034318045980790784",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2034318045980790784/img/CAFoXJkpF8jY7n_O.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034318045980790784/vid/avc1/1080x1080/NDj4m4zkrNoCBv-3.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034318045980790784/vid/avc1/720x720/hLS52Oceh8LhizVW.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034318045980790784/vid/avc1/320x320/i7IFTdLatqcypJfZ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034318045980790784/vid/avc1/540x540/NtsGMOcIWTksUU2D.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2034318045980790784/pl/_chgVViDwiclRt_V.m3u8"
+          }
+        ],
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2034318045980790784"
+          ],
+          "media_source_tweet_id": [
+            "2034318213077684311"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2034338765364428842",
+        "created_at": "2026-03-18T18:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T19:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034338765364428842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "793325876947542016",
+              "start": 3,
+              "username": "khyleri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zfXNf0QBMj",
+              "end": 36,
+              "expanded_url": "https://x.com/khyleri/status/2034318213077684311/video/1",
+              "media_key": "13_2034318045980790784",
+              "start": 13,
+              "url": "https://t.co/zfXNf0QBMj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034338765364428842",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1302
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034318213077684311",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @khyleri: https://t.co/zfXNf0QBMj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2034318045980790784"
+          ]
+        },
+        "author_id": "793325876947542016",
+        "conversation_id": "2034318213077684311",
+        "created_at": "2026-03-18T17:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T18:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034318213077684311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zfXNf0QBMj",
+              "end": 23,
+              "expanded_url": "https://x.com/khyleri/status/2034318213077684311/video/1",
+              "media_key": "13_2034318045980790784",
+              "start": 0,
+              "url": "https://t.co/zfXNf0QBMj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034318213077684311",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1727,
+          "impression_count": 102072,
+          "like_count": 18043,
+          "quote_count": 13,
+          "reply_count": 165,
+          "retweet_count": 1302
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zfXNf0QBMj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/同类查成分互fo/请和我做朋友/ᗜ𖥦ᗜ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032192447573577728/C9yS_hXm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 616,
+          "like_count": 785,
+          "listed_count": 1,
+          "media_count": 525,
+          "tweet_count": 1688
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-01T05:36:43.000Z",
+        "description": "be cute and multiply",
+        "id": "793325876947542016",
+        "name": "Khyle.",
+        "pinned_tweet_id": "1940083994168893687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741861405836660736/5LApnIYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2111182,
+          "following_count": 463,
+          "like_count": 64039,
+          "listed_count": 4616,
+          "media_count": 1150,
+          "tweet_count": 3385
+        },
+        "username": "khyleri",
+        "verified": true
+      }
+    ]
+  }
+}

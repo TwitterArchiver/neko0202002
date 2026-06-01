@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1996190965963632640"
+      ],
+      "media_source_tweet_id": [
+        "1996190995244089597"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1997229652629454931",
+    "created_at": "2025-12-06T09:00:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T10:00:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997229652629454931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1507123057130835968",
+          "start": 3,
+          "username": "CAT02A"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ooocl8bvie",
+          "end": 58,
+          "expanded_url": "https://x.com/CAT02A/status/1996190995244089597/video/1",
+          "media_key": "7_1996190965963632640",
+          "start": 35,
+          "url": "https://t.co/Ooocl8bvie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997229652629454931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996190995244089597",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CAT02A: 试着完成了奔跑功能的初期效果，超高速贝斯娜！ https://t.co/Ooocl8bvie"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1997229652629454931].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1997229652629454931",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1997229652629454931"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16633,
+        "height": 674,
+        "media_key": "7_1996190965963632640",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1996190965963632640/pu/img/GpeqRtL5NT3vx5up.jpg",
+        "public_metrics": {
+          "view_count": 7167
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996190965963632640/pu/vid/avc1/512x270/ky_tmYj7R2g7kevB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996190965963632640/pu/vid/avc1/682x360/TevKaGG2vHkdXqoZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996190965963632640/pu/vid/avc1/1280x674/2vkiOfS0R89kKYUz.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1996190965963632640/pu/pl/V_E27Bet5a-S4aqT.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 16633,
+        "height": 674,
+        "media_key": "7_1996190965963632640",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1996190965963632640/pu/img/GpeqRtL5NT3vx5up.jpg",
+        "public_metrics": {
+          "view_count": 7177
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996190965963632640/pu/vid/avc1/512x270/ky_tmYj7R2g7kevB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996190965963632640/pu/vid/avc1/682x360/TevKaGG2vHkdXqoZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1996190965963632640/pu/vid/avc1/1280x674/2vkiOfS0R89kKYUz.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1996190965963632640/pu/pl/V_E27Bet5a-S4aqT.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1996190965963632640"
+          ]
+        },
+        "author_id": "1507123057130835968",
+        "conversation_id": "1996190995244089597",
+        "created_at": "2025-12-03T12:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T13:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996190995244089597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ooocl8bvie",
+              "end": 46,
+              "expanded_url": "https://x.com/CAT02A/status/1996190995244089597/video/1",
+              "media_key": "7_1996190965963632640",
+              "start": 23,
+              "url": "https://t.co/Ooocl8bvie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996190995244089597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 16008,
+          "like_count": 780,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "试着完成了奔跑功能的初期效果，超高速贝斯娜！ https://t.co/Ooocl8bvie"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "Caramel Box",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "八重",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994271217029926913/pXdsBYN8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 252,
+          "like_count": 68,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 264
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-24T22:32:02.000Z",
+        "description": "正在尝试制作酷炫的r18＋横版动作游戏！\n发布一些日常绘画和开发进度。\n未开放任何形式的赞助渠道)",
+        "id": "1507123057130835968",
+        "name": "全知全能の威廉斯毕加索·黑猫🔞",
+        "pinned_tweet_id": "1559616536154935296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743758200472825856/Yz4AgKGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116165,
+          "following_count": 1852,
+          "like_count": 13918,
+          "listed_count": 550,
+          "media_count": 115,
+          "tweet_count": 1277
+        },
+        "username": "CAT02A",
+        "verified": false
+      }
+    ]
+  }
+}

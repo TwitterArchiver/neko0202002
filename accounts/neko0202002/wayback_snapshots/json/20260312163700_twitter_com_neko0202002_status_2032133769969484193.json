@@ -1,0 +1,533 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2032133769969484193",
+    "created_at": "2026-03-12T16:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T17:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032133769969484193"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 127,
+          "normalized_text": "Artista de ilustración",
+          "probability": 0.7296,
+          "start": 106,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 16,
+          "tag": "魔法少女にあこがれて"
+        },
+        {
+          "end": 33,
+          "start": 28,
+          "tag": "まほあこ"
+        },
+        {
+          "end": 41,
+          "start": 34,
+          "tag": "まどかマギカ"
+        },
+        {
+          "end": 53,
+          "start": 42,
+          "tag": "魔法少女まどかマギカ"
+        },
+        {
+          "end": 62,
+          "start": 54,
+          "tag": "MahoAko"
+        },
+        {
+          "end": 76,
+          "start": 63,
+          "tag": "MadokaMagica"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1988556417335521280",
+          "start": 3,
+          "username": "skyy459897"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032133769969484193",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032060579771478190",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @skyy459897: #魔法少女にあこがれて #まほあこ #まどかマギカ #魔法少女まどかマギカ #MahoAko #MadokaMagica\nイラストレーター、Illustration Artist、Artista de ilustración：中二栗子態 \n転載許…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2032060435932024832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDNUMz3akAAcieM.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2032133769969484193",
+        "created_at": "2026-03-12T16:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T17:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032133769969484193"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 127,
+              "normalized_text": "Artista de ilustración",
+              "probability": 0.7296,
+              "start": 106,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 16,
+              "tag": "魔法少女にあこがれて"
+            },
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "まほあこ"
+            },
+            {
+              "end": 41,
+              "start": 34,
+              "tag": "まどかマギカ"
+            },
+            {
+              "end": 53,
+              "start": 42,
+              "tag": "魔法少女まどかマギカ"
+            },
+            {
+              "end": 62,
+              "start": 54,
+              "tag": "MahoAko"
+            },
+            {
+              "end": 76,
+              "start": 63,
+              "tag": "MadokaMagica"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1988556417335521280",
+              "start": 3,
+              "username": "skyy459897"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032133769969484193",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032060579771478190",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @skyy459897: #魔法少女にあこがれて #まほあこ #まどかマギカ #魔法少女まどかマギカ #MahoAko #MadokaMagica\nイラストレーター、Illustration Artist、Artista de ilustración：中二栗子態 \n転載許…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032060435932024832"
+          ]
+        },
+        "author_id": "1988556417335521280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2032060579771478190",
+        "created_at": "2026-03-12T11:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T12:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032060579771478190"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 88,
+              "normalized_text": "Illustration Artist",
+              "probability": 0.3767,
+              "start": 70,
+              "type": "Person"
+            },
+            {
+              "end": 111,
+              "normalized_text": "Artista de ilustración",
+              "probability": 0.8002,
+              "start": 90,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "魔法少女にあこがれて"
+            },
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "まほあこ"
+            },
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "まどかマギカ"
+            },
+            {
+              "end": 37,
+              "start": 26,
+              "tag": "魔法少女まどかマギカ"
+            },
+            {
+              "end": 46,
+              "start": 38,
+              "tag": "MahoAko"
+            },
+            {
+              "end": 60,
+              "start": 47,
+              "tag": "MadokaMagica"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ipl7Lwr3hr",
+              "end": 198,
+              "expanded_url": "https://x.com/skyy459897/status/2032060579771478190/photo/1",
+              "media_key": "3_2032060435932024832",
+              "start": 175,
+              "url": "https://t.co/Ipl7Lwr3hr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032060579771478190",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 5802,
+          "like_count": 629,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "#魔法少女にあこがれて #まほあこ #まどかマギカ #魔法少女まどかマギカ #MahoAko #MadokaMagica\nイラストレーター、Illustration Artist、Artista de ilustración：中二栗子態 \n転載許可済み、Reproduction authorized、Reproducción autorizada https://t.co/Ipl7Lwr3hr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/玛利亚什么的在上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031827855542534147/IPSe8w_P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 547,
+          "like_count": 649,
+          "listed_count": 1,
+          "media_count": 418,
+          "tweet_count": 1367
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-12T10:36:28.000Z",
+        "description": "2つ目に作成したアカウントは倉庫用アカウントで、主に同人商品の販売に使用していました。\nThe second account I created was just a backup account, mainly used for selling doujin (fan-made) products.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkgoods.com/skyy459897",
+                "end": 23,
+                "expanded_url": "https://linkgoods.com/skyy459897",
+                "start": 0,
+                "url": "https://t.co/v9sGVHQ3Kg"
+              }
+            ]
+          }
+        },
+        "id": "1988556417335521280",
+        "name": "神楽 澄月",
+        "pinned_tweet_id": "2031653085777666439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015257864718503936/YGR9bymb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2397,
+          "following_count": 8,
+          "like_count": 21,
+          "listed_count": 6,
+          "media_count": 375,
+          "tweet_count": 405
+        },
+        "url": "https://t.co/v9sGVHQ3Kg",
+        "username": "skyy459897",
+        "verified": true
+      }
+    ]
+  }
+}

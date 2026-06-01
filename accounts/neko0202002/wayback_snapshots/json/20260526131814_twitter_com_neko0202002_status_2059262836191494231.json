@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2059262824602574848"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2059216719026282663",
+    "created_at": "2026-05-26T13:18:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T14:18:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059262836191494231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1243590342911410176",
+          "start": 0,
+          "username": "bing2000100830"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vw2S5b53tm",
+          "end": 39,
+          "expanded_url": "https://x.com/neko0202002/status/2059262836191494231/photo/1",
+          "media_key": "16_2059262824602574848",
+          "start": 16,
+          "url": "https://t.co/Vw2S5b53tm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059262836191494231",
+    "in_reply_to_user_id": "1243590342911410176",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059260480586449111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bing2000100830 https://t.co/Vw2S5b53tm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 350,
+        "media_key": "16_2059262824602574848",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HJP4oOeaoAAZjfU.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HJP4oOeaoAAZjfU.mp4"
+          }
+        ],
+        "width": 268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2059262824602574848"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2059216719026282663",
+        "created_at": "2026-05-26T13:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059262836191494231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vw2S5b53tm",
+              "end": 39,
+              "expanded_url": "https://x.com/neko0202002/status/2059262836191494231/photo/1",
+              "media_key": "16_2059262824602574848",
+              "start": 16,
+              "url": "https://t.co/Vw2S5b53tm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059262836191494231",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059260480586449111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 https://t.co/Vw2S5b53tm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2059216719026282663",
+        "created_at": "2026-05-26T13:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T14:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059260480586449111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059260480586449111",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059216719026282663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 好看喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 1005,
+          "like_count": 1632,
+          "listed_count": 2,
+          "media_count": 1483,
+          "tweet_count": 4125
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "北极",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 1189,
+          "like_count": 41531,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 2528
+        },
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

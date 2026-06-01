@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2037257529538043904"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2037241531246272983",
+    "created_at": "2026-03-26T19:57:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T20:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037257539252085011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032033299980566528",
+          "start": 0,
+          "username": "rinii165892"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mZOPesvTnO",
+          "end": 42,
+          "expanded_url": "https://x.com/neko0202002/status/2037257539252085011/photo/1",
+          "media_key": "16_2037257529538043904",
+          "start": 19,
+          "url": "https://t.co/mZOPesvTnO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037257539252085011",
+    "in_reply_to_user_id": "2032033299980566528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037257395282600431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rinii165892 摸摸，在呢 https://t.co/mZOPesvTnO"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2037257395282600431].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2037257395282600431",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2037257395282600431"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2037257529538043904",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HEXK7eQa4AAomBr.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HEXK7eQa4AAomBr.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2037257529538043904"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2037241531246272983",
+        "created_at": "2026-03-26T19:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T20:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037257539252085011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032033299980566528",
+              "start": 0,
+              "username": "rinii165892"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mZOPesvTnO",
+              "end": 42,
+              "expanded_url": "https://x.com/neko0202002/status/2037257539252085011/photo/1",
+              "media_key": "16_2037257529538043904",
+              "start": 19,
+              "url": "https://t.co/mZOPesvTnO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037257539252085011",
+        "in_reply_to_user_id": "2032033299980566528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037257395282600431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinii165892 摸摸，在呢 https://t.co/mZOPesvTnO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/同类查成分互fo/请和我做朋友/ᗜ𖥦ᗜ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037065551403786240/r6CPsSyA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 680,
+          "like_count": 879,
+          "listed_count": 2,
+          "media_count": 637,
+          "tweet_count": 1968
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T09:58:00.000Z",
+        "description": "iirin的第二黑化人格/少关心我\n举报我司马/会慢慢会fo/大号正常期间锁推/第二账号发言与大号无关，请区分\n✟❀@wu_si787878❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "wu_si787878"
+              }
+            ]
+          }
+        },
+        "id": "2032033299980566528",
+        "location": "msk坟头",
+        "name": "3.rin（已黑化）",
+        "pinned_tweet_id": "2037038843824922810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032130669959397377/7kOyBARR_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 204,
+          "like_count": 1041,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 684
+        },
+        "username": "rinii165892",
+        "verified": false
+      }
+    ]
+  }
+}

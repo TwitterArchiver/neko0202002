@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044734334557618176"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2044422759435194445",
+    "created_at": "2026-04-16T11:07:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T12:07:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044734346507218967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1668257047647776770",
+          "start": 0,
+          "username": "nekoTiao0w0"
+        },
+        {
+          "end": 28,
+          "id": "1243590342911410176",
+          "start": 13,
+          "username": "bing2000100830"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/irSutTlLfa",
+          "end": 54,
+          "expanded_url": "https://x.com/neko0202002/status/2044734346507218967/photo/1",
+          "media_key": "3_2044734334557618176",
+          "start": 31,
+          "url": "https://t.co/irSutTlLfa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044734346507218967",
+    "in_reply_to_user_id": "1668257047647776770",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044422759435194445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nekoTiao0w0 @bing2000100830 ？ https://t.co/irSutTlLfa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044734334557618176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGBbCzdaAAAcDHV.jpg",
+        "width": 916
+      },
+      {
+        "duration_ms": 7125,
+        "height": 1280,
+        "media_key": "13_2044422707643858944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044422707643858944/img/HihCIx8OcpOSw3or.jpg",
+        "public_metrics": {
+          "view_count": 501
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044422707643858944/vid/avc1/320x568/NlZo5-939rT7FJj3.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044422707643858944/vid/avc1/480x852/K8kByQvvru3aI2xp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044422707643858944/vid/avc1/720x1280/rVrwmhPYlfhVvdHI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044422707643858944/pl/VT7VmUU9kbrst5Dv.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044734334557618176"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2044422759435194445",
+        "created_at": "2026-04-16T11:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T12:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044734346507218967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1668257047647776770",
+              "start": 0,
+              "username": "nekoTiao0w0"
+            },
+            {
+              "end": 28,
+              "id": "1243590342911410176",
+              "start": 13,
+              "username": "bing2000100830"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/irSutTlLfa",
+              "end": 54,
+              "expanded_url": "https://x.com/neko0202002/status/2044734346507218967/photo/1",
+              "media_key": "3_2044734334557618176",
+              "start": 31,
+              "url": "https://t.co/irSutTlLfa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044734346507218967",
+        "in_reply_to_user_id": "1668257047647776770",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044422759435194445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekoTiao0w0 @bing2000100830 ？ https://t.co/irSutTlLfa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044422707643858944"
+          ]
+        },
+        "author_id": "1668257047647776770",
+        "conversation_id": "2044422759435194445",
+        "created_at": "2026-04-15T14:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T15:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044422759435194445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cYnKnRG56h",
+              "end": 25,
+              "expanded_url": "https://x.com/nekoTiao0w0/status/2044422759435194445/video/1",
+              "media_key": "13_2044422707643858944",
+              "start": 2,
+              "url": "https://t.co/cYnKnRG56h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044422759435194445",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1367,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "。 https://t.co/cYnKnRG56h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 847,
+          "like_count": 1216,
+          "listed_count": 2,
+          "media_count": 1054,
+          "tweet_count": 3026
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-12T14:01:46.000Z",
+        "description": "低能量低自尊低素质低道德痛苦女孩 看你们也没多喜欢我 关注我干嘛？里账号@kklqaq只通过互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 36,
+                "username": "kklqaq"
+              }
+            ]
+          }
+        },
+        "id": "1668257047647776770",
+        "location": "🚪188已从良不线下",
+        "name": "丰川祥子爱分尸",
+        "pinned_tweet_id": "2024841962806010115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954570231411863552/kdFzZzC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1864,
+          "following_count": 219,
+          "like_count": 7509,
+          "listed_count": 3,
+          "media_count": 266,
+          "tweet_count": 3516
+        },
+        "username": "nekoTiao0w0",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "。",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 891,
+          "like_count": 30925,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1779
+        },
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

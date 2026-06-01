@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048176953182785536"
+      ],
+      "media_source_tweet_id": [
+        "2048176960199606393"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2048487121712017509",
+    "created_at": "2026-04-26T19:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T20:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048487121712017509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1296071159797161984",
+          "start": 3,
+          "username": "unxxi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rkfwUKv3zl",
+          "end": 34,
+          "expanded_url": "https://x.com/unxxi/status/2048176960199606393/photo/1",
+          "media_key": "3_2048176953182785536",
+          "start": 11,
+          "url": "https://t.co/rkfwUKv3zl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048487121712017509",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1872
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048176960199606393",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @unxxi: https://t.co/rkfwUKv3zl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2048176953182785536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGyWFlOaEAANc-j.jpg",
+        "width": 1089
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048176953182785536"
+          ],
+          "media_source_tweet_id": [
+            "2048176960199606393"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2048487121712017509",
+        "created_at": "2026-04-26T19:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T20:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048487121712017509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1296071159797161984",
+              "start": 3,
+              "username": "unxxi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rkfwUKv3zl",
+              "end": 34,
+              "expanded_url": "https://x.com/unxxi/status/2048176960199606393/photo/1",
+              "media_key": "3_2048176953182785536",
+              "start": 11,
+              "url": "https://t.co/rkfwUKv3zl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048487121712017509",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1872
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048176960199606393",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @unxxi: https://t.co/rkfwUKv3zl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048176953182785536"
+          ]
+        },
+        "author_id": "1296071159797161984",
+        "conversation_id": "2048176960199606393",
+        "created_at": "2026-04-25T23:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T00:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048176960199606393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rkfwUKv3zl",
+              "end": 23,
+              "expanded_url": "https://x.com/unxxi/status/2048176960199606393/photo/1",
+              "media_key": "3_2048176953182785536",
+              "start": 0,
+              "url": "https://t.co/rkfwUKv3zl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048176960199606393",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1591,
+          "impression_count": 101442,
+          "like_count": 14284,
+          "quote_count": 21,
+          "reply_count": 1,
+          "retweet_count": 1872
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/rkfwUKv3zl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 892,
+          "like_count": 1375,
+          "listed_count": 2,
+          "media_count": 1163,
+          "tweet_count": 3386
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-19T13:07:13.000Z",
+        "description": "https://t.co/3noHn7dKwu • https://t.co/U6a9ZkAir8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/unxi",
+                "end": 23,
+                "expanded_url": "http://patreon.com/unxi",
+                "start": 0,
+                "url": "https://t.co/3noHn7dKwu"
+              },
+              {
+                "display_url": "unxi.fanbox.cc",
+                "end": 49,
+                "expanded_url": "http://unxi.fanbox.cc",
+                "start": 26,
+                "url": "https://t.co/U6a9ZkAir8"
+              }
+            ]
+          }
+        },
+        "id": "1296071159797161984",
+        "name": "🍧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1398179700263079938/cwDymvRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148672,
+          "following_count": 301,
+          "like_count": 1383,
+          "listed_count": 1406,
+          "media_count": 76,
+          "tweet_count": 682
+        },
+        "username": "unxxi",
+        "verified": false
+      }
+    ]
+  }
+}

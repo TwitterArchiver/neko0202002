@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2037834422339457165",
+    "created_at": "2026-03-28T13:26:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T14:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037883957723963482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1297323279095435264",
+          "start": 0,
+          "username": "fudujiya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037883957723963482",
+    "in_reply_to_user_id": "1297323279095435264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037834422339457165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fudujiya 不可能的宝宝，只有晶叫你过去发点才会检查pr右美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037834414202494976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfXmlGbIAAKG5Y.jpg",
+        "width": 936
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2037834422339457165",
+        "created_at": "2026-03-28T13:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T14:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037883957723963482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1297323279095435264",
+              "start": 0,
+              "username": "fudujiya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037883957723963482",
+        "in_reply_to_user_id": "1297323279095435264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037834422339457165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fudujiya 不可能的宝宝，只有晶叫你过去发点才会检查pr右美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037834414202494976"
+          ]
+        },
+        "author_id": "1297323279095435264",
+        "conversation_id": "2037834422339457165",
+        "created_at": "2026-03-28T10:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T11:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037834422339457165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nyyzZ9UJ0h",
+              "end": 40,
+              "expanded_url": "https://x.com/fudujiya/status/2037834422339457165/photo/1",
+              "media_key": "3_2037834414202494976",
+              "start": 17,
+              "url": "https://t.co/nyyzZ9UJ0h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037834422339457165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1262,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吓我一跳，我还以为会查pr和右美 https://t.co/nyyzZ9UJ0h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/同类查成分互fo/请和我做朋友/ᗜ𖥦ᗜ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037065551403786240/r6CPsSyA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 685,
+          "like_count": 895,
+          "listed_count": 2,
+          "media_count": 653,
+          "tweet_count": 2011
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-23T00:02:37.000Z",
+        "description": "06/od/同类看到会互fo/🚪88私信口令红包",
+        "id": "1297323279095435264",
+        "location": "不会痛苦的地方……",
+        "name": "尼亚_naY",
+        "pinned_tweet_id": "2034651413494784282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986377875415834628/XQRbpLb__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 334,
+          "like_count": 405,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 409
+        },
+        "username": "fudujiya",
+        "verified": false
+      }
+    ]
+  }
+}

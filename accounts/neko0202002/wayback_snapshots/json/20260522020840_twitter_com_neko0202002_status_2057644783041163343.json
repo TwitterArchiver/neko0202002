@@ -1,0 +1,437 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057459119762948097"
+      ],
+      "media_source_tweet_id": [
+        "2057476507874865592"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2057644783041163343",
+    "created_at": "2026-05-22T02:08:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T03:08:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057644783041163343"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 101,
+          "start": 90,
+          "tag": "飛鳥湊生誕祭2026"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1547246063815643136",
+          "start": 3,
+          "username": "konemimi_art"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RZT65vX1bB",
+          "end": 125,
+          "expanded_url": "https://x.com/konemimi_art/status/2057476507874865592/photo/1",
+          "media_key": "3_2057459119762948097",
+          "start": 102,
+          "url": "https://t.co/RZT65vX1bB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057644783041163343",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 241
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057476507874865592",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @konemimi_art: 5月22日　\n今日は飛鳥湊くんの誕生日🎂\nオトメ＊ドメイン10周年の記念の年\nでもあるのでお祝いを含めたイラストを描きました！！\nおめでとう〜\n#飛鳥湊生誕祭2026 https://t.co/RZT65vX1bB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2057459119762948097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2QKyVbwAEu0RU.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057459119762948097"
+          ],
+          "media_source_tweet_id": [
+            "2057476507874865592"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2057644783041163343",
+        "created_at": "2026-05-22T02:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T03:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057644783041163343"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 101,
+              "start": 90,
+              "tag": "飛鳥湊生誕祭2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1547246063815643136",
+              "start": 3,
+              "username": "konemimi_art"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RZT65vX1bB",
+              "end": 125,
+              "expanded_url": "https://x.com/konemimi_art/status/2057476507874865592/photo/1",
+              "media_key": "3_2057459119762948097",
+              "start": 102,
+              "url": "https://t.co/RZT65vX1bB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057644783041163343",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 241
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057476507874865592",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @konemimi_art: 5月22日　\n今日は飛鳥湊くんの誕生日🎂\nオトメ＊ドメイン10周年の記念の年\nでもあるのでお祝いを含めたイラストを描きました！！\nおめでとう〜\n#飛鳥湊生誕祭2026 https://t.co/RZT65vX1bB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057459119762948097"
+          ]
+        },
+        "author_id": "1547246063815643136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2057476507874865592",
+        "created_at": "2026-05-21T15:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057476507874865592"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 72,
+              "tag": "飛鳥湊生誕祭2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RZT65vX1bB",
+              "end": 107,
+              "expanded_url": "https://x.com/konemimi_art/status/2057476507874865592/photo/1",
+              "media_key": "3_2057459119762948097",
+              "start": 84,
+              "url": "https://t.co/RZT65vX1bB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057476507874865592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 15446,
+          "like_count": 834,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 241
+        },
+        "reply_settings": "everyone",
+        "text": "5月22日　\n今日は飛鳥湊くんの誕生日🎂\nオトメ＊ドメイン10周年の記念の年\nでもあるのでお祝いを含めたイラストを描きました！！\nおめでとう〜\n#飛鳥湊生誕祭2026 https://t.co/RZT65vX1bB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "乐园",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 957,
+          "like_count": 1574,
+          "listed_count": 2,
+          "media_count": 1413,
+          "tweet_count": 3973
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T15:46:58.000Z",
+        "description": "プレイしたゲームのキャラを描きたい…\nやってるというステータスがカッコいい\nskeb ：https://t.co/7XoiD6A3Yv\nお題箱：https://t.co/E88lShf3Xn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@konemimi_art",
+                "end": 67,
+                "expanded_url": "https://skeb.jp/@konemimi_art",
+                "start": 44,
+                "url": "https://t.co/7XoiD6A3Yv"
+              },
+              {
+                "display_url": "odaibako.net/u/eki260ri7b60…",
+                "end": 95,
+                "expanded_url": "https://odaibako.net/u/eki260ri7b60ej1e",
+                "start": 72,
+                "url": "https://t.co/E88lShf3Xn"
+              }
+            ]
+          }
+        },
+        "id": "1547246063815643136",
+        "name": "こねみみ🎨",
+        "pinned_tweet_id": "2055599522567561646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008743419603222528/fZ8IaFeN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 51,
+          "like_count": 562,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 77
+        },
+        "username": "konemimi_art",
+        "verified": false
+      }
+    ]
+  }
+}

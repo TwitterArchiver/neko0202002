@@ -1,0 +1,452 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2014607768523833666",
+    "created_at": "2026-01-23T07:54:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T08:54:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014607768523833666"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 41,
+          "normalized_text": "乙女はお姉さまに恋してる",
+          "probability": 0.648,
+          "start": 30,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 134,
+          "start": 129,
+          "tag": "おとボク"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2350930328",
+          "start": 3,
+          "username": "caramelbox_pub"
+        }
+      ],
+      "urls": [
+        {
+          "description": "2022年4月28日発売映像ブランド「KINEMATICS(キネマティクス)」のから、PCゲームで人気を博した「乙女はお姉さまに恋してる」のTVアニメがBlu-ray BOXにて発売決定！ハイテンションな「学園女装ラブコメディ」を是非「Blu-ray」でご堪能ください。KINEMATICS公式HPhttps://...",
+          "display_url": "youtu.be/h58euXf3W_s",
+          "end": 127,
+          "expanded_url": "https://youtu.be/h58euXf3W_s",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/1952827179693424640/ZmC78NrQ?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1952827179693424640/ZmC78NrQ?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 104,
+          "status": 200,
+          "title": "TVアニメ「乙女はお姉さまに恋してる」Blu-rayBOX 2022年4月28日発売、告知プロモーション映像 別Ver",
+          "unwound_url": "https://www.youtube.com/watch?v=h58euXf3W_s&feature=youtu.be",
+          "url": "https://t.co/c8tm688wcG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014607768523833666",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1476134648899985411",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @caramelbox_pub: TVアニメシリーズ『乙女はお姉さまに恋してる』ブルーレイBOXが発売決定！\n初回限定生産、描き下ろし保存版BOXに32Pのブックレット付き。\n絶賛ご予約受付中です。\n\nhttps://t.co/c8tm688wcG\n\n#おとボク #Aic…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2014607768523833666",
+        "created_at": "2026-01-23T07:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T08:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014607768523833666"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "乙女はお姉さまに恋してる",
+              "probability": 0.648,
+              "start": 30,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 134,
+              "start": 129,
+              "tag": "おとボク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2350930328",
+              "start": 3,
+              "username": "caramelbox_pub"
+            }
+          ],
+          "urls": [
+            {
+              "description": "2022年4月28日発売映像ブランド「KINEMATICS(キネマティクス)」のから、PCゲームで人気を博した「乙女はお姉さまに恋してる」のTVアニメがBlu-ray BOXにて発売決定！ハイテンションな「学園女装ラブコメディ」を是非「Blu-ray」でご堪能ください。KINEMATICS公式HPhttps://...",
+              "display_url": "youtu.be/h58euXf3W_s",
+              "end": 127,
+              "expanded_url": "https://youtu.be/h58euXf3W_s",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1952827179693424640/ZmC78NrQ?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1952827179693424640/ZmC78NrQ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 104,
+              "status": 200,
+              "title": "TVアニメ「乙女はお姉さまに恋してる」Blu-rayBOX 2022年4月28日発売、告知プロモーション映像 別Ver",
+              "unwound_url": "https://www.youtube.com/watch?v=h58euXf3W_s&feature=youtu.be",
+              "url": "https://t.co/c8tm688wcG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014607768523833666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1476134648899985411",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @caramelbox_pub: TVアニメシリーズ『乙女はお姉さまに恋してる』ブルーレイBOXが発売決定！\n初回限定生産、描き下ろし保存版BOXに32Pのブックレット付き。\n絶賛ご予約受付中です。\n\nhttps://t.co/c8tm688wcG\n\n#おとボク #Aic…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2350930328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1476134648899985411",
+        "created_at": "2021-12-29T10:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2021-12-29T10:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1476134648899985411"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "乙女はお姉さまに恋してる",
+              "probability": 0.7468,
+              "start": 10,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 114,
+              "start": 109,
+              "tag": "おとボク"
+            },
+            {
+              "end": 121,
+              "start": 115,
+              "tag": "Aice5"
+            },
+            {
+              "end": 133,
+              "start": 122,
+              "tag": "KINEMATICS"
+            }
+          ],
+          "urls": [
+            {
+              "description": "2022年4月28日発売映像ブランド「KINEMATICS(キネマティクス)」のから、PCゲームで人気を博した「乙女はお姉さまに恋してる」のTVアニメがBlu-ray BOXにて発売決定！ハイテンションな「学園女装ラブコメディ」を是非「Blu-ray」でご堪能ください。KINEMATICS公式HPhttps://...",
+              "display_url": "youtu.be/h58euXf3W_s",
+              "end": 107,
+              "expanded_url": "https://youtu.be/h58euXf3W_s",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1952827179693424640/ZmC78NrQ?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1952827179693424640/ZmC78NrQ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 84,
+              "status": 200,
+              "title": "TVアニメ「乙女はお姉さまに恋してる」Blu-rayBOX 2022年4月28日発売、告知プロモーション映像 別Ver",
+              "unwound_url": "https://www.youtube.com/watch?v=h58euXf3W_s&feature=youtu.be",
+              "url": "https://t.co/c8tm688wcG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1476134648899985411",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 0,
+          "like_count": 21,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "TVアニメシリーズ『乙女はお姉さまに恋してる』ブルーレイBOXが発売決定！\n初回限定生産、描き下ろし保存版BOXに32Pのブックレット付き。\n絶賛ご予約受付中です。\n\nhttps://t.co/c8tm688wcG\n\n#おとボク #Aice5 #KINEMATICS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "Caramel Box",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "高岛一子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012123038175961088/5OBrCKEg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 266,
+          "like_count": 45,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 270
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-19T01:29:46.000Z",
+        "description": "そろそろ本気を出す準備は大丈夫か？マス、、、おっと、来客か？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "caramel-box.com",
+                "end": 23,
+                "expanded_url": "http://www.caramel-box.com/",
+                "start": 0,
+                "url": "https://t.co/aOuPvFNjs1"
+              }
+            ]
+          }
+        },
+        "id": "2350930328",
+        "name": "キャラメルBOX公式",
+        "pinned_tweet_id": "1451487343299334145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/907812116870062081/4mwYVVRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1915,
+          "following_count": 4,
+          "like_count": 265,
+          "listed_count": 60,
+          "media_count": 6,
+          "tweet_count": 563
+        },
+        "url": "https://t.co/aOuPvFNjs1",
+        "username": "caramelbox_pub",
+        "verified": false
+      }
+    ]
+  }
+}

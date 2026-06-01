@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1907014356128382976"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "1906764361143824632",
+    "created_at": "2025-04-01T10:17:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T11:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907014366995624113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841801152381558784",
+          "start": 0,
+          "username": "Amemiya_Hasumi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jsIBdW3B8C",
+          "end": 48,
+          "expanded_url": "https://x.com/neko0202002/status/1907014366995624113/photo/1",
+          "media_key": "16_1907014356128382976",
+          "start": 25,
+          "url": "https://t.co/jsIBdW3B8C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907014366995624113",
+    "in_reply_to_user_id": "1841801152381558784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906764361143824632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amemiya_Hasumi 打开推就看见太刀 https://t.co/jsIBdW3B8C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 280,
+        "media_key": "16_1907014356128382976",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GncTc_6aQAAsu_w.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GncTc_6aQAAsu_w.mp4"
+          }
+        ],
+        "width": 500
+      },
+      {
+        "height": 2667,
+        "media_key": "3_1906764352788852736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnYwE45bcAABgCc.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1907014356128382976"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "1906764361143824632",
+        "created_at": "2025-04-01T10:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T11:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907014366995624113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841801152381558784",
+              "start": 0,
+              "username": "Amemiya_Hasumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jsIBdW3B8C",
+              "end": 48,
+              "expanded_url": "https://x.com/neko0202002/status/1907014366995624113/photo/1",
+              "media_key": "16_1907014356128382976",
+              "start": 25,
+              "url": "https://t.co/jsIBdW3B8C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907014366995624113",
+        "in_reply_to_user_id": "1841801152381558784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906764361143824632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amemiya_Hasumi 打开推就看见太刀 https://t.co/jsIBdW3B8C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906764352788852736"
+          ]
+        },
+        "author_id": "1841801152381558784",
+        "conversation_id": "1906764361143824632",
+        "created_at": "2025-03-31T17:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T18:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906764361143824632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gvcULJsG7u",
+              "end": 102,
+              "expanded_url": "https://x.com/Amemiya_Hasumi/status/1906764361143824632/photo/1",
+              "media_key": "3_1906764352788852736",
+              "start": 79,
+              "url": "https://t.co/gvcULJsG7u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906764361143824632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 276,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次大居成功都带给我一种成功人士的爽感\n但是大居有输入延迟，回世界开了两把太刀，大居成功率远高于荒野\n不知道崛起怎么样，但是据说崛起的太刀主打居合，手感最佳 https://t.co/gvcULJsG7u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "是我先……明明是我先的！喜欢也好，玩弄也好，还是给他穿上女装也好。——大藏里想奈",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "优子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906556600367882240/pQEzLAAJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 99,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 42
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T11:23:15.000Z",
+        "description": "「Et in Arcadia Ego./我曾在阿卡迪亚。」\n偶尔是男娘。\n往期照片请见亮点，禁敏感政治。\n团长：@Liberte_RA /老金：@KiminTW_Offical\nNGL：https://t.co/kxkm3rX4fc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 56,
+                "username": "Liberte_RA"
+              },
+              {
+                "end": 88,
+                "start": 72,
+                "username": "KiminTW_Offical"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hasumi66262",
+                "end": 116,
+                "expanded_url": "https://ngl.link/hasumi66262",
+                "start": 93,
+                "url": "https://t.co/kxkm3rX4fc"
+              }
+            ]
+          }
+        },
+        "id": "1841801152381558784",
+        "location": "永恆之地 翁法羅斯",
+        "name": "雨宮 蓮見",
+        "pinned_tweet_id": "1902737260031938745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904846909669597184/PncfVaH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3532,
+          "following_count": 1853,
+          "like_count": 29509,
+          "listed_count": 7,
+          "media_count": 935,
+          "tweet_count": 6521
+        },
+        "username": "Amemiya_Hasumi",
+        "verified": true
+      }
+    ]
+  }
+}

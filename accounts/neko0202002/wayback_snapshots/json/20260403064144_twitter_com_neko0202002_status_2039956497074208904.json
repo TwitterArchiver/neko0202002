@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039622530911404032"
+      ],
+      "media_source_tweet_id": [
+        "2039622535353106526"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2039956497074208904",
+    "created_at": "2026-04-03T06:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T07:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039956497074208904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1478739541821431809",
+          "start": 3,
+          "username": "kiriharaaki1019"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cBtXIDTIvV",
+          "end": 60,
+          "expanded_url": "https://x.com/kiriharaaki1019/status/2039622535353106526/photo/1",
+          "media_key": "3_2039622530911404032",
+          "start": 37,
+          "url": "https://t.co/cBtXIDTIvV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039956497074208904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039622535353106526",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kiriharaaki1019: 在画稿和画作品集之间选择画饺子 https://t.co/cBtXIDTIvV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1431,
+        "media_key": "3_2039622530911404032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE4x4q7bgAATUQH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039622530911404032"
+          ],
+          "media_source_tweet_id": [
+            "2039622535353106526"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039956497074208904",
+        "created_at": "2026-04-03T06:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T07:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039956497074208904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1478739541821431809",
+              "start": 3,
+              "username": "kiriharaaki1019"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cBtXIDTIvV",
+              "end": 60,
+              "expanded_url": "https://x.com/kiriharaaki1019/status/2039622535353106526/photo/1",
+              "media_key": "3_2039622530911404032",
+              "start": 37,
+              "url": "https://t.co/cBtXIDTIvV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039956497074208904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039622535353106526",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kiriharaaki1019: 在画稿和画作品集之间选择画饺子 https://t.co/cBtXIDTIvV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039622530911404032"
+          ]
+        },
+        "author_id": "1478739541821431809",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039622535353106526",
+        "created_at": "2026-04-02T08:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T09:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039622535353106526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cBtXIDTIvV",
+              "end": 39,
+              "expanded_url": "https://x.com/kiriharaaki1019/status/2039622535353106526/photo/1",
+              "media_key": "3_2039622530911404032",
+              "start": 16,
+              "url": "https://t.co/cBtXIDTIvV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039622535353106526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 10148,
+          "like_count": 496,
+          "quote_count": 4,
+          "reply_count": 22,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "在画稿和画作品集之间选择画饺子 https://t.co/cBtXIDTIvV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/同类查成分互fo/请和我做朋友/ᗜ𖥦ᗜ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037978639053299712/JtGdeDp-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 732,
+          "like_count": 949,
+          "listed_count": 2,
+          "media_count": 763,
+          "tweet_count": 2210
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-05T14:46:06.000Z",
+        "description": "这里是aki。Pixiv/https://t.co/n9U8aVxabt 無断転載禁止。中文/日本語/English。AI🚫。bilibili 霧原aki",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/76895157",
+                "end": 36,
+                "expanded_url": "https://www.pixiv.net/users/76895157",
+                "start": 13,
+                "url": "https://t.co/n9U8aVxabt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/76895157",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/76895157",
+                "start": 0,
+                "url": "https://t.co/n9U8aVxabt"
+              }
+            ]
+          }
+        },
+        "id": "1478739541821431809",
+        "location": "Kyoto-fu, Japan",
+        "name": "霧原アキ",
+        "pinned_tweet_id": "1997128969158906222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978778178241064960/6qK482bn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28590,
+          "following_count": 2089,
+          "like_count": 6172,
+          "listed_count": 148,
+          "media_count": 227,
+          "tweet_count": 702
+        },
+        "url": "https://t.co/n9U8aVxabt",
+        "username": "kiriharaaki1019",
+        "verified": false
+      }
+    ]
+  }
+}

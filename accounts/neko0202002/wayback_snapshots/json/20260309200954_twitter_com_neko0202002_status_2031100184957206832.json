@@ -1,0 +1,449 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031045420923973632"
+      ],
+      "media_source_tweet_id": [
+        "2031045427848695909"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596157251584",
+          "name": "Grocery/Convenience - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "LAWSON (ローソン)",
+          "id": "1035550790197231616",
+          "name": "LAWSON (ローソン)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "LAWSON (ローソン)",
+          "id": "1035550790197231616",
+          "name": "LAWSON (ローソン)"
+        }
+      }
+    ],
+    "conversation_id": "2031100184957206832",
+    "created_at": "2026-03-09T20:09:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T21:09:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031100184957206832"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "ローソンまどか",
+          "probability": 0.378,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1347203243227578369",
+          "start": 3,
+          "username": "Koharool619"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6qUkwoYxdE",
+          "end": 49,
+          "expanded_url": "https://x.com/Koharool619/status/2031045427848695909/photo/1",
+          "media_key": "3_2031045420923973632",
+          "start": 26,
+          "url": "https://t.co/6qUkwoYxdE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031100184957206832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031045427848695909",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Koharool619: ローソンまどか🎀 https://t.co/6qUkwoYxdE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031045420923973632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC-5DKTbcAAFA7I.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031045420923973632"
+          ],
+          "media_source_tweet_id": [
+            "2031045427848695909"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596157251584",
+              "name": "Grocery/Convenience - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "LAWSON (ローソン)",
+              "id": "1035550790197231616",
+              "name": "LAWSON (ローソン)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "LAWSON (ローソン)",
+              "id": "1035550790197231616",
+              "name": "LAWSON (ローソン)"
+            }
+          }
+        ],
+        "conversation_id": "2031100184957206832",
+        "created_at": "2026-03-09T20:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T21:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031100184957206832"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "ローソンまどか",
+              "probability": 0.378,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1347203243227578369",
+              "start": 3,
+              "username": "Koharool619"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6qUkwoYxdE",
+              "end": 49,
+              "expanded_url": "https://x.com/Koharool619/status/2031045427848695909/photo/1",
+              "media_key": "3_2031045420923973632",
+              "start": 26,
+              "url": "https://t.co/6qUkwoYxdE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031100184957206832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031045427848695909",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Koharool619: ローソンまどか🎀 https://t.co/6qUkwoYxdE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031045420923973632"
+          ]
+        },
+        "author_id": "1347203243227578369",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596157251584",
+              "name": "Grocery/Convenience - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "LAWSON (ローソン)",
+              "id": "1035550790197231616",
+              "name": "LAWSON (ローソン)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "LAWSON (ローソン)",
+              "id": "1035550790197231616",
+              "name": "LAWSON (ローソン)"
+            }
+          }
+        ],
+        "conversation_id": "2031045427848695909",
+        "created_at": "2026-03-09T16:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T17:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031045427848695909"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "ローソンまどか",
+              "probability": 0.2857,
+              "start": 0,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6qUkwoYxdE",
+              "end": 32,
+              "expanded_url": "https://x.com/Koharool619/status/2031045427848695909/photo/1",
+              "media_key": "3_2031045420923973632",
+              "start": 9,
+              "url": "https://t.co/6qUkwoYxdE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031045427848695909",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1457,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "ローソンまどか🎀 https://t.co/6qUkwoYxdE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/玛利亚什么的在上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "周防院奏",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028525324649328640/d35polxT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 538,
+          "like_count": 600,
+          "listed_count": 1,
+          "media_count": 371,
+          "tweet_count": 1253
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-07T15:27:53.000Z",
+        "description": "LJK(成人済)🎀 推し活(お取引募集も含む)垢です❣️鹿目まどかと和泉十七夜をメインに推してます⸜❤︎⸝‍ 繋がり目的の方は固ツイのリトリン必読🎀男性との新規お繋がり控えてます💦ごめんなさい🙏 (女の子は大歓迎です🎶)雑多垢🎀▶︎@TokoyamiLove🗝サブ垢▶︎@Sabrool619",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 116,
+                "username": "TokoyamiLove"
+              },
+              {
+                "end": 146,
+                "start": 135,
+                "username": "Sabrool619"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/koharool619",
+                "end": 23,
+                "expanded_url": "http://lit.link/koharool619",
+                "start": 0,
+                "url": "https://t.co/zi8mFGGsS8"
+              }
+            ]
+          }
+        },
+        "id": "1347203243227578369",
+        "location": "隅っこ",
+        "name": "こはろーる🎀リトリン必読",
+        "pinned_tweet_id": "1989314222983876941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026249936153796608/lUVqYBIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1590,
+          "following_count": 1594,
+          "like_count": 116136,
+          "listed_count": 9,
+          "media_count": 4536,
+          "tweet_count": 30877
+        },
+        "url": "https://t.co/zi8mFGGsS8",
+        "username": "Koharool619",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2051663323725246921",
+    "created_at": "2026-05-05T19:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T20:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051749824740073595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1365444576530563080",
+          "start": 0,
+          "username": "retro_anime"
+        },
+        {
+          "end": 22,
+          "id": "2043529949735505920",
+          "start": 13,
+          "username": "Qwervlqc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051749824740073595",
+    "in_reply_to_user_id": "1365444576530563080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051663323725246921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@retro_anime @Qwervlqc 你头像"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1147,
+        "media_key": "3_2051663319346429959",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHj46zRXwAcTMLj.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1147,
+        "media_key": "3_2051663320864706566",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHj4647W0AY62eu.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2051663323725246921",
+        "created_at": "2026-05-05T19:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T20:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051749824740073595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1365444576530563080",
+              "start": 0,
+              "username": "retro_anime"
+            },
+            {
+              "end": 22,
+              "id": "2043529949735505920",
+              "start": 13,
+              "username": "Qwervlqc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051749824740073595",
+        "in_reply_to_user_id": "1365444576530563080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051663323725246921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@retro_anime @Qwervlqc 你头像"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051663319346429959",
+            "3_2051663320864706566"
+          ]
+        },
+        "author_id": "1365444576530563080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Neon Genesis Evangelion (新世紀エヴァンゲリオン)",
+              "id": "1010244637770985472",
+              "name": "Neon Genesis Evangelion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2051663323725246921",
+        "created_at": "2026-05-05T14:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051663323725246921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vRYLtshdy4",
+              "end": 54,
+              "expanded_url": "https://x.com/retro_anime/status/2051663323725246921/photo/1",
+              "media_key": "3_2051663319346429959",
+              "start": 31,
+              "url": "https://t.co/vRYLtshdy4"
+            },
+            {
+              "display_url": "pic.x.com/vRYLtshdy4",
+              "end": 54,
+              "expanded_url": "https://x.com/retro_anime/status/2051663323725246921/photo/1",
+              "media_key": "3_2051663320864706566",
+              "start": 31,
+              "url": "https://t.co/vRYLtshdy4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051663323725246921",
+        "lang": "cy",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 130,
+          "impression_count": 30483,
+          "like_count": 1720,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 166
+        },
+        "reply_settings": "everyone",
+        "text": "Neon Genesis Evangelion (1995) https://t.co/vRYLtshdy4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 952,
+          "like_count": 1527,
+          "listed_count": 2,
+          "media_count": 1348,
+          "tweet_count": 3774
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-26T23:32:26.000Z",
+        "description": "the golden age of anime",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/retro_animes",
+                "end": 23,
+                "expanded_url": "https://instagram.com/retro_animes",
+                "start": 0,
+                "url": "https://t.co/DNy3LE4aHJ"
+              }
+            ]
+          }
+        },
+        "id": "1365444576530563080",
+        "name": "Retro Anime",
+        "pinned_tweet_id": "2051059266736230901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657231216142331905/wKeESPsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1747210,
+          "following_count": 280,
+          "like_count": 9088,
+          "listed_count": 3133,
+          "media_count": 16192,
+          "tweet_count": 17051
+        },
+        "url": "https://t.co/DNy3LE4aHJ",
+        "username": "retro_anime",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-13T03:22:57.000Z",
+        "description": "垃圾桶",
+        "id": "2043529949735505920",
+        "name": "Fislonely 2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047620041496301568/CYwEwIBU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 58,
+          "like_count": 405,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 46
+        },
+        "username": "Qwervlqc",
+        "verified": false
+      }
+    ]
+  }
+}

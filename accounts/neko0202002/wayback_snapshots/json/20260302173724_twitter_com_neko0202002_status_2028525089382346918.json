@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2028523619790549432",
+    "created_at": "2026-03-02T17:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T18:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028525089382346918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1668257047647776770",
+          "start": 0,
+          "username": "strip0w076377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028525089382346918",
+    "in_reply_to_user_id": "1668257047647776770",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028523619790549432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@strip0w076377 中"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1861,
+        "media_key": "3_2028523609682214912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCbDebWaAAAH3kU.jpg",
+        "width": 1049
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2028523619790549432",
+        "created_at": "2026-03-02T17:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T18:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028525089382346918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1668257047647776770",
+              "start": 0,
+              "username": "strip0w076377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028525089382346918",
+        "in_reply_to_user_id": "1668257047647776770",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028523619790549432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@strip0w076377 中"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028523609682214912"
+          ]
+        },
+        "author_id": "1668257047647776770",
+        "conversation_id": "2028523619790549432",
+        "created_at": "2026-03-02T17:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T18:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028523619790549432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Zq5fZQugO",
+              "end": 35,
+              "expanded_url": "https://x.com/strip0w076377/status/2028523619790549432/photo/1",
+              "media_key": "3_2028523609682214912",
+              "start": 12,
+              "url": "https://t.co/7Zq5fZQugO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028523619790549432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "语言系统被小初初感染了 https://t.co/7Zq5fZQugO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/('ᗜ')",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "宫小路优",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028186857318805504/vZvVaK_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 428,
+          "like_count": 261,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 679
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-12T14:01:46.000Z",
+        "description": "低能量低自尊低素质低道德痛苦女孩里垢",
+        "id": "1668257047647776770",
+        "location": "🚪188  ",
+        "name": "丰川祥子爱分尸",
+        "pinned_tweet_id": "2024841962806010115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954570231411863552/kdFzZzC9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 207,
+          "like_count": 6695,
+          "listed_count": 1,
+          "media_count": 240,
+          "tweet_count": 3158
+        },
+        "username": "strip0w076377",
+        "verified": false
+      }
+    ]
+  }
+}

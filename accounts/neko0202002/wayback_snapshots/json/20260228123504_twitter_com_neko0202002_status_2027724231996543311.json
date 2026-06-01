@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2027723692495741274",
+    "created_at": "2026-02-28T12:35:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T13:35:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027724231996543311"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027724231996543311",
+    "in_reply_to_user_id": "1820207828931424256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027723692495741274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "算了，墙内宣传死妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2027723692495741274",
+        "created_at": "2026-02-28T12:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T13:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027724231996543311"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027724231996543311",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027723692495741274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "算了，墙内宣传死妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2027723692495741274",
+        "created_at": "2026-02-28T12:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T13:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027723692495741274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DQadopt/status…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/DQadopt/status/2027684149746929857",
+              "start": 65,
+              "url": "https://t.co/nnYVybq475"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027723692495741274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027684149746929857",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这算不算变相的宣传反od，暴露在大众视野下，早晚各种药都要列管，一边宣传od,一边在墙内热度越来越大,买药只会越来越难呃啊啊啊啊 https://t.co/nnYVybq475"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "宫小路优",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027720039554813953/8Y7qFh4u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 406,
+          "like_count": 209,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 576
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}

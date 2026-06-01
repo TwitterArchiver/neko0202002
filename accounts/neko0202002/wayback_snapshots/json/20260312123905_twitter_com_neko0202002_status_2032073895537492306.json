@@ -1,0 +1,531 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031382571033178112"
+      ],
+      "media_source_tweet_id": [
+        "2031382577949602277"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596157251584",
+          "name": "Grocery/Convenience - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "LAWSON (ローソン)",
+          "id": "1035550790197231616",
+          "name": "LAWSON (ローソン)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "LAWSON (ローソン)",
+          "id": "1035550790197231616",
+          "name": "LAWSON (ローソン)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1402739868820590593",
+          "name": "Convenience stores"
+        }
+      }
+    ],
+    "conversation_id": "2032073895537492306",
+    "created_at": "2026-03-12T12:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T13:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032073895537492306"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "ローソン",
+          "probability": 0.4097,
+          "start": 31,
+          "type": "Organization"
+        },
+        {
+          "end": 47,
+          "normalized_text": "マミさん",
+          "probability": 0.8485,
+          "start": 44,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1151864487957286912",
+          "start": 3,
+          "username": "keioosyumiaka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4Kt2obke1P",
+          "end": 88,
+          "expanded_url": "https://x.com/keioosyumiaka/status/2031382577949602277/photo/1",
+          "media_key": "3_2031382571033178112",
+          "start": 65,
+          "url": "https://t.co/4Kt2obke1P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032073895537492306",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 225
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031382577949602277",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @keioosyumiaka: ちょっと待ってww\n今日ローソンで買ったアクスタ、マミさんだけなんか違うんだけどwwwww https://t.co/4Kt2obke1P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031382571033178112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDDrr4VaMAAVtEa.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031382571033178112"
+          ],
+          "media_source_tweet_id": [
+            "2031382577949602277"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596157251584",
+              "name": "Grocery/Convenience - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "LAWSON (ローソン)",
+              "id": "1035550790197231616",
+              "name": "LAWSON (ローソン)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "LAWSON (ローソン)",
+              "id": "1035550790197231616",
+              "name": "LAWSON (ローソン)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1402739868820590593",
+              "name": "Convenience stores"
+            }
+          }
+        ],
+        "conversation_id": "2032073895537492306",
+        "created_at": "2026-03-12T12:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T13:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032073895537492306"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "ローソン",
+              "probability": 0.4097,
+              "start": 31,
+              "type": "Organization"
+            },
+            {
+              "end": 47,
+              "normalized_text": "マミさん",
+              "probability": 0.8485,
+              "start": 44,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1151864487957286912",
+              "start": 3,
+              "username": "keioosyumiaka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Kt2obke1P",
+              "end": 88,
+              "expanded_url": "https://x.com/keioosyumiaka/status/2031382577949602277/photo/1",
+              "media_key": "3_2031382571033178112",
+              "start": 65,
+              "url": "https://t.co/4Kt2obke1P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032073895537492306",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 225
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031382577949602277",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @keioosyumiaka: ちょっと待ってww\n今日ローソンで買ったアクスタ、マミさんだけなんか違うんだけどwwwww https://t.co/4Kt2obke1P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031382571033178112"
+          ]
+        },
+        "author_id": "1151864487957286912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596157251584",
+              "name": "Grocery/Convenience - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "LAWSON (ローソン)",
+              "id": "1035550790197231616",
+              "name": "LAWSON (ローソン)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "LAWSON (ローソン)",
+              "id": "1035550790197231616",
+              "name": "LAWSON (ローソン)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1402739868820590593",
+              "name": "Convenience stores"
+            }
+          }
+        ],
+        "conversation_id": "2031382577949602277",
+        "created_at": "2026-03-10T14:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T15:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031382577949602277"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "ローソン",
+              "probability": 0.3946,
+              "start": 12,
+              "type": "Organization"
+            },
+            {
+              "end": 28,
+              "normalized_text": "マミさん",
+              "probability": 0.8447,
+              "start": 25,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Kt2obke1P",
+              "end": 69,
+              "expanded_url": "https://x.com/keioosyumiaka/status/2031382577949602277/photo/1",
+              "media_key": "3_2031382571033178112",
+              "start": 46,
+              "url": "https://t.co/4Kt2obke1P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031382577949602277",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 284,
+          "impression_count": 628982,
+          "like_count": 5877,
+          "quote_count": 9,
+          "reply_count": 18,
+          "retweet_count": 225
+        },
+        "reply_settings": "everyone",
+        "text": "ちょっと待ってww\n今日ローソンで買ったアクスタ、マミさんだけなんか違うんだけどwwwww https://t.co/4Kt2obke1P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "心理/同类互fo/请和我交友/玛利亚什么的在上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031827855542534147/IPSe8w_P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 548,
+          "like_count": 650,
+          "listed_count": 1,
+          "media_count": 417,
+          "tweet_count": 1363
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-18T14:41:09.000Z",
+        "description": "美樹さやかちゃん激推し💙まどか叛逆、美樹さやかしか勝たん💙🌕スロ実機所持してます(叛逆・まど2・前後編・フォルテ・グランベルム)。アイコンはノビたんさんから頂きました💙(無断転載禁止)。25,4,22 マギレコで一撃万枚達成。決め技は飯ティロ・フィナーレ🍜#ありがとう叛逆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 136,
+                "start": 128,
+                "tag": "ありがとう叛逆"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/keioopachisuro",
+                "end": 23,
+                "expanded_url": "http://instagram.com/keioopachisuro",
+                "start": 0,
+                "url": "https://t.co/HB9TJ4JB2F"
+              }
+            ]
+          }
+        },
+        "id": "1151864487957286912",
+        "location": "魔女の結界",
+        "name": "けいおー🌟💧🎻⚔️♬🤕💙ff美樹さやか最推しの叛逆のまどカス",
+        "pinned_tweet_id": "1921707828198453537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952390406374903808/OQ8SYYhJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4561,
+          "following_count": 2159,
+          "like_count": 146219,
+          "listed_count": 21,
+          "media_count": 19476,
+          "tweet_count": 74156
+        },
+        "url": "https://t.co/HB9TJ4JB2F",
+        "username": "keioosyumiaka",
+        "verified": false
+      }
+    ]
+  }
+}

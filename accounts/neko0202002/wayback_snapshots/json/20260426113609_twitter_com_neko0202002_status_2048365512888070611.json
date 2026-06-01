@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2048365497516003328"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2048337033953984520",
+    "created_at": "2026-04-26T11:36:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T12:36:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048365512888070611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1261560609214087168",
+          "start": 0,
+          "username": "Cathy_eko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wbc6FZvUaN",
+          "end": 37,
+          "expanded_url": "https://x.com/neko0202002/status/2048365512888070611/photo/1",
+          "media_key": "16_2048365497516003328",
+          "start": 14,
+          "url": "https://t.co/wbc6FZvUaN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048365512888070611",
+    "in_reply_to_user_id": "1261560609214087168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048354553402421679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cathy_eko 好欸 https://t.co/wbc6FZvUaN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 280,
+        "media_key": "16_2048365497516003328",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HG1BkTmbkAAWahk.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HG1BkTmbkAAWahk.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2048365497516003328"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2048337033953984520",
+        "created_at": "2026-04-26T11:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T12:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048365512888070611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1261560609214087168",
+              "start": 0,
+              "username": "Cathy_eko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wbc6FZvUaN",
+              "end": 37,
+              "expanded_url": "https://x.com/neko0202002/status/2048365512888070611/photo/1",
+              "media_key": "16_2048365497516003328",
+              "start": 14,
+              "url": "https://t.co/wbc6FZvUaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048365512888070611",
+        "in_reply_to_user_id": "1261560609214087168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048354553402421679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cathy_eko 好欸 https://t.co/wbc6FZvUaN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1261560609214087168",
+        "conversation_id": "2048337033953984520",
+        "created_at": "2026-04-26T10:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048354553402421679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048354553402421679",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048353284491256112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 真奈美和爱实啦（是阿良河kiwi耶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 890,
+          "like_count": 1373,
+          "listed_count": 2,
+          "media_count": 1159,
+          "tweet_count": 3381
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-16T07:34:41.000Z",
+        "description": "7-20-1999",
+        "id": "1261560609214087168",
+        "location": "奇美拉咖啡馆",
+        "name": "小学茜",
+        "pinned_tweet_id": "1597412027227836416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995015582014738436/pqwajC9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4850,
+          "following_count": 1398,
+          "like_count": 157344,
+          "listed_count": 59,
+          "media_count": 6075,
+          "tweet_count": 63694
+        },
+        "username": "Cathy_eko",
+        "verified": false
+      }
+    ]
+  }
+}

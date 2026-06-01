@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042316818761633793"
+      ],
+      "media_source_tweet_id": [
+        "2042316828773421301"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2042519503981207620",
+    "created_at": "2026-04-10T08:26:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T09:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042519503981207620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2009886415673536512",
+          "start": 3,
+          "username": "parfaedream"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4nxhL1n8EN",
+          "end": 85,
+          "expanded_url": "https://x.com/parfaedream/status/2042316828773421301/photo/1",
+          "media_key": "3_2042316818761633793",
+          "start": 62,
+          "url": "https://t.co/4nxhL1n8EN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042519503981207620",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042316828773421301",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @parfaedream: Madoka cuz I only cosplay sweet angels (lie) https://t.co/4nxhL1n8EN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2042316818761633793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFfEU3UX0AENchn.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042316818761633793"
+          ],
+          "media_source_tweet_id": [
+            "2042316828773421301"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2042519503981207620",
+        "created_at": "2026-04-10T08:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T09:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042519503981207620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2009886415673536512",
+              "start": 3,
+              "username": "parfaedream"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4nxhL1n8EN",
+              "end": 85,
+              "expanded_url": "https://x.com/parfaedream/status/2042316828773421301/photo/1",
+              "media_key": "3_2042316818761633793",
+              "start": 62,
+              "url": "https://t.co/4nxhL1n8EN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042519503981207620",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042316828773421301",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @parfaedream: Madoka cuz I only cosplay sweet angels (lie) https://t.co/4nxhL1n8EN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042316818761633793"
+          ]
+        },
+        "author_id": "2009886415673536512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2042316828773421301",
+        "created_at": "2026-04-09T19:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T20:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042316828773421301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4nxhL1n8EN",
+              "end": 68,
+              "expanded_url": "https://x.com/parfaedream/status/2042316828773421301/photo/1",
+              "media_key": "3_2042316818761633793",
+              "start": 45,
+              "url": "https://t.co/4nxhL1n8EN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042316828773421301",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 136,
+          "impression_count": 9172,
+          "like_count": 1282,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "Madoka cuz I only cosplay sweet angels (lie) https://t.co/4nxhL1n8EN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/同类查成分互fo/可以称为千早/心理学重度依赖/学习学习学习/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案/可以点下方链接发提问喔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 805,
+          "like_count": 1078,
+          "listed_count": 2,
+          "media_count": 928,
+          "tweet_count": 2633
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T07:14:22.000Z",
+        "description": "european cosplayer trying to do the cute thing\n\nSFW only\nno dms\n\nsupport me ? :D\nhttps://t.co/JLdML6N1Rj\nhttps://t.co/1EW0Qv6uWO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "throne.com/parfaedream",
+                "end": 104,
+                "expanded_url": "https://throne.com/parfaedream",
+                "start": 81,
+                "url": "https://t.co/JLdML6N1Rj"
+              },
+              {
+                "display_url": "ko-fi.com/parfaedream",
+                "end": 128,
+                "expanded_url": "https://ko-fi.com/parfaedream",
+                "start": 105,
+                "url": "https://t.co/1EW0Qv6uWO"
+              }
+            ]
+          }
+        },
+        "id": "2009886415673536512",
+        "location": "Switzerland",
+        "name": "Parfae",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009887848099352576/mvcGbUKK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1564,
+          "following_count": 97,
+          "like_count": 361,
+          "listed_count": 4,
+          "media_count": 46,
+          "tweet_count": 632
+        },
+        "username": "parfaedream",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "1927636019345813619",
+    "created_at": "2025-05-29T18:02:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T19:02:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928150034354208829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1911628907842818049",
+          "start": 0,
+          "username": "codyhunk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928150034354208829",
+    "in_reply_to_user_id": "1911628907842818049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927636019345813619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@codyhunk 所以呢 你工资业绩有我高吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_1927635921127845888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsBWqD8bsAAtFkK.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "1927636019345813619",
+        "created_at": "2025-05-29T18:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T19:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928150034354208829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1911628907842818049",
+              "start": 0,
+              "username": "codyhunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928150034354208829",
+        "in_reply_to_user_id": "1911628907842818049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927636019345813619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@codyhunk 所以呢 你工资业绩有我高吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927635921127845888"
+          ]
+        },
+        "author_id": "1911628907842818049",
+        "conversation_id": "1927636019345813619",
+        "created_at": "2025-05-28T08:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T09:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927636019345813619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tYNRU2zGdm",
+              "end": 27,
+              "expanded_url": "https://x.com/codyhunk/status/1927636019345813619/photo/1",
+              "media_key": "3_1927635921127845888",
+              "start": 4,
+              "url": "https://t.co/tYNRU2zGdm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927636019345813619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 85591,
+          "like_count": 621,
+          "quote_count": 12,
+          "reply_count": 191,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "怎么回 https://t.co/tYNRU2zGdm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "千早！！！",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "凯伊莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922919174591971328/2WZ4op6P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 145,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 160
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "大家好叫我半藏就好，喜欢和大家交朋友，平时分享沙雕图。爱打游戏不红温，私信互fo",
+        "id": "1911628907842818049",
+        "location": "距你0.2km",
+        "name": "岛田半藏（互fo私",
+        "pinned_tweet_id": "1921977429712650415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912733546407686145/-TA4wnE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 330,
+          "like_count": 572,
+          "listed_count": 4,
+          "media_count": 913,
+          "tweet_count": 1028
+        },
+        "username": "codyhunk",
+        "verified": false
+      }
+    ]
+  }
+}

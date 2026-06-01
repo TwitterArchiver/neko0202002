@@ -1,0 +1,550 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1205248311805931520",
+          "name": "Cardcaptor Sakura"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1205248311805931520",
+          "name": "Cardcaptor Sakura"
+        }
+      }
+    ],
+    "conversation_id": "2041424010941186230",
+    "created_at": "2026-04-07T07:53:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T08:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041424010941186230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1490276654367019016",
+          "start": 3,
+          "username": "yukie_cosplay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/21awcq",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/21awcq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041424010941186230",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8872
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041092733889397208",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yukie_cosplay: cosplay \nCCさくら🌸木之本桜\n\n『なんとかなるよ、\n                絶対だいじょうぶだよ』\n\nphoto / てぉさん\nspecial thanks / kurage*ちゃん https://t.co/21awcq…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041092728654819328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFNrBcUacAAHdfb.jpg",
+        "width": 1364
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1205248311805931520",
+              "name": "Cardcaptor Sakura"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1205248311805931520",
+              "name": "Cardcaptor Sakura"
+            }
+          }
+        ],
+        "conversation_id": "2041424010941186230",
+        "created_at": "2026-04-07T07:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041424010941186230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1490276654367019016",
+              "start": 3,
+              "username": "yukie_cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/21awcq",
+              "end": 139,
+              "start": 120,
+              "url": "https://t.co/21awcq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041424010941186230",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8872
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041092733889397208",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yukie_cosplay: cosplay \nCCさくら🌸木之本桜\n\n『なんとかなるよ、\n                絶対だいじょうぶだよ』\n\nphoto / てぉさん\nspecial thanks / kurage*ちゃん https://t.co/21awcq…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041092728654819328"
+          ]
+        },
+        "author_id": "1490276654367019016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1205248311805931520",
+              "name": "Cardcaptor Sakura"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1205248311805931520",
+              "name": "Cardcaptor Sakura"
+            }
+          }
+        ],
+        "conversation_id": "2041092733889397208",
+        "created_at": "2026-04-06T09:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T10:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041092733889397208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/21awcq3IIA",
+              "end": 124,
+              "expanded_url": "https://x.com/yukie_cosplay/status/2041092733889397208/photo/1",
+              "media_key": "3_2041092728654819328",
+              "start": 101,
+              "url": "https://t.co/21awcq3IIA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041092733889397208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4008,
+          "impression_count": 1084830,
+          "like_count": 70743,
+          "quote_count": 265,
+          "reply_count": 150,
+          "retweet_count": 8872
+        },
+        "reply_settings": "everyone",
+        "text": "cosplay \nCCさくら🌸木之本桜\n\n『なんとかなるよ、\n                絶対だいじょうぶだよ』\n\nphoto / てぉさん\nspecial thanks / kurage*ちゃん https://t.co/21awcq3IIA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/同类查成分互fo/可以称为千早/心理学重度依赖/学习学习学习/请和我做朋友ᗜ𖥦ᗜ✝︎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041043664290639872/MsU7KOlV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 777,
+          "like_count": 1037,
+          "listed_count": 2,
+          "media_count": 868,
+          "tweet_count": 2485
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-06T10:50:26.000Z",
+        "description": "ゆきえと申します/関西/成人済レイヤー/好きなキャラのコスプレをゆるく真面目に楽しんでます/ロリィタ垢→@yukie_lolita",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "yukie_lolita"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/yukie.cosplay",
+                "end": 23,
+                "expanded_url": "https://Instagram.com/yukie.cosplay",
+                "start": 0,
+                "url": "https://t.co/yzrD0bLCwl"
+              }
+            ]
+          }
+        },
+        "id": "1490276654367019016",
+        "location": "未定",
+        "name": "yukie🩵",
+        "pinned_tweet_id": "1857436902942814601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720582736447258624/LaAP31A4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4102,
+          "following_count": 305,
+          "like_count": 9959,
+          "listed_count": 42,
+          "media_count": 963,
+          "tweet_count": 8677
+        },
+        "url": "https://t.co/yzrD0bLCwl",
+        "username": "yukie_cosplay",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-06T10:50:26.000Z",
+        "description": "ゆきえと申します/関西/成人済レイヤー/好きなキャラのコスプレをゆるく真面目に楽しんでます/ロリィタ垢→@yukie_lolita",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "yukie_lolita"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/yukie.cosplay",
+                "end": 23,
+                "expanded_url": "https://Instagram.com/yukie.cosplay",
+                "start": 0,
+                "url": "https://t.co/yzrD0bLCwl"
+              }
+            ]
+          }
+        },
+        "id": "1490276654367019016",
+        "location": "未定",
+        "name": "yukie🩵",
+        "pinned_tweet_id": "1857436902942814601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720582736447258624/LaAP31A4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4102,
+          "following_count": 305,
+          "like_count": 9959,
+          "listed_count": 42,
+          "media_count": 963,
+          "tweet_count": 8677
+        },
+        "url": "https://t.co/yzrD0bLCwl",
+        "username": "yukie_cosplay",
+        "verified": false
+      }
+    ]
+  }
+}

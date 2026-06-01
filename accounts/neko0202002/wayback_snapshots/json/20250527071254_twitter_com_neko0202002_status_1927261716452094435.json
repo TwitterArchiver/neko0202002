@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925536727709716480"
+      ],
+      "media_source_tweet_id": [
+        "1925537005016162461"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "1927261716452094435",
+    "created_at": "2025-05-27T07:12:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T08:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927261716452094435"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 65,
+          "normalized_text": "オトメ世界の歩き方",
+          "probability": 0.7124,
+          "start": 57,
+          "type": "Other"
+        },
+        {
+          "end": 73,
+          "normalized_text": "オルトロス",
+          "probability": 0.4913,
+          "start": 69,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 89,
+          "start": 75,
+          "tag": "moe_award2024"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2678528862",
+          "start": 3,
+          "username": "moeaward"
+        }
+      ],
+      "urls": [
+        {
+          "description": "萌えゲーアワード オフィシャルサイト",
+          "display_url": "moe-gameaward.com/prize/2024/",
+          "end": 113,
+          "expanded_url": "https://moe-gameaward.com/prize/2024/",
+          "start": 90,
+          "status": 200,
+          "title": "萌えゲーアワード 2024年度 受賞タイトル発表",
+          "unwound_url": "https://moe-gameaward.com/prize/2024/",
+          "url": "https://t.co/MeX6sYMPQr"
+        },
+        {
+          "display_url": "pic.x.com/ylG6eLn5iA",
+          "end": 137,
+          "expanded_url": "https://x.com/moeaward/status/1925537005016162461/photo/1",
+          "media_key": "3_1925536727709716480",
+          "start": 114,
+          "url": "https://t.co/ylG6eLn5iA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927261716452094435",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925537005016162461",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moeaward: 【萌えゲーアワード2024発表】\n\n🏆 ユーザー支持賞 / グラフィック賞 🏆\n『オトメ世界の歩き方』\n（オルトロス）\n\n#moe_award2024\nhttps://t.co/MeX6sYMPQr https://t.co/ylG6eLn5iA"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1927261716452094435].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1927261716452094435",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1927261716452094435"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 847,
+        "media_key": "3_1925536727709716480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grjhc7EbEAAjgYm.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925536727709716480"
+          ]
+        },
+        "author_id": "2678528862",
+        "conversation_id": "1925537005016162461",
+        "created_at": "2025-05-22T12:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T13:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925537005016162461"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 51,
+              "normalized_text": "オトメ世界の歩き方",
+              "probability": 0.7336,
+              "start": 43,
+              "type": "Other"
+            },
+            {
+              "end": 59,
+              "normalized_text": "オルトロス",
+              "probability": 0.4783,
+              "start": 55,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 61,
+              "tag": "moe_award2024"
+            }
+          ],
+          "urls": [
+            {
+              "description": "萌えゲーアワード オフィシャルサイト",
+              "display_url": "moe-gameaward.com/prize/2024/",
+              "end": 99,
+              "expanded_url": "https://moe-gameaward.com/prize/2024/",
+              "start": 76,
+              "status": 200,
+              "title": "萌えゲーアワード 2024年度 受賞タイトル発表",
+              "unwound_url": "https://moe-gameaward.com/prize/2024/",
+              "url": "https://t.co/MeX6sYMPQr"
+            },
+            {
+              "display_url": "pic.x.com/ylG6eLn5iA",
+              "end": 123,
+              "expanded_url": "https://x.com/moeaward/status/1925537005016162461/photo/1",
+              "media_key": "3_1925536727709716480",
+              "start": 100,
+              "url": "https://t.co/ylG6eLn5iA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925537005016162461",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5006,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "【萌えゲーアワード2024発表】\n\n🏆 ユーザー支持賞 / グラフィック賞 🏆\n『オトメ世界の歩き方』\n（オルトロス）\n\n#moe_award2024\nhttps://t.co/MeX6sYMPQr https://t.co/ylG6eLn5iA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "千早！！！",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "凯伊莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922919174591971328/2WZ4op6P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 141,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 159
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-25T03:19:39.000Z",
+        "description": "萌えゲーアワードは毎月発売される美少女ゲームからユーザー投票による月間賞や年間各賞を選出し、業界の発展と活性化を図る活動をしています。 #moe_award 萌えゲー.net（ https://t.co/1Fhag78QZ1 ）は、美少女ゲーム最新情報をお届けしています。 #moe_net",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 68,
+                "tag": "moe_award"
+              },
+              {
+                "end": 145,
+                "start": 137,
+                "tag": "moe_net"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "moe-gameaward.com/media/",
+                "end": 112,
+                "expanded_url": "http://moe-gameaward.com/media/",
+                "start": 89,
+                "url": "https://t.co/1Fhag78QZ1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "moe-gameaward.com",
+                "end": 23,
+                "expanded_url": "http://moe-gameaward.com/",
+                "start": 0,
+                "url": "https://t.co/tDNEcgn3I2"
+              }
+            ]
+          }
+        },
+        "id": "2678528862",
+        "name": "萌えゲーアワード／萌えゲー.net",
+        "pinned_tweet_id": "1925522398427873336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1380818042641285120/C0RD6mN__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10408,
+          "following_count": 370,
+          "like_count": 22,
+          "listed_count": 111,
+          "media_count": 1826,
+          "tweet_count": 3951
+        },
+        "url": "https://t.co/tDNEcgn3I2",
+        "username": "moeaward",
+        "verified": true
+      }
+    ]
+  }
+}

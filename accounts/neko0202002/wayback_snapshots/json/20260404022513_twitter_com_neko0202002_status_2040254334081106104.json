@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2039914834519863296"
+      ],
+      "media_source_tweet_id": [
+        "2039914856686735848"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2040254334081106104",
+    "created_at": "2026-04-04T02:25:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T03:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040254334081106104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2035568555727663104",
+          "start": 3,
+          "username": "eereirkive"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/41p8inTEvb",
+          "end": 39,
+          "expanded_url": "https://x.com/eereirkive/status/2039914856686735848/video/1",
+          "media_key": "13_2039914834519863296",
+          "start": 16,
+          "url": "https://t.co/41p8inTEvb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040254334081106104",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 531
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039914856686735848",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eereirkive: https://t.co/41p8inTEvb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15210,
+        "height": 720,
+        "media_key": "13_2039914834519863296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2039914834519863296/img/xQf-8ItBoGBlbOfQ.jpg",
+        "public_metrics": {
+          "view_count": 18795
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039914834519863296/vid/avc1/320x320/1-vbxdT2XJ9WVPNj.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039914834519863296/vid/avc1/540x540/VDoSX7aDQxao8nCp.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039914834519863296/vid/avc1/720x720/m-TWFdg-lhFZO0OY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2039914834519863296/pl/YO0Fqr5F9yIEe1Ef.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039914834519863296"
+          ],
+          "media_source_tweet_id": [
+            "2039914856686735848"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2040254334081106104",
+        "created_at": "2026-04-04T02:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T03:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040254334081106104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2035568555727663104",
+              "start": 3,
+              "username": "eereirkive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/41p8inTEvb",
+              "end": 39,
+              "expanded_url": "https://x.com/eereirkive/status/2039914856686735848/video/1",
+              "media_key": "13_2039914834519863296",
+              "start": 16,
+              "url": "https://t.co/41p8inTEvb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040254334081106104",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 531
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039914856686735848",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eereirkive: https://t.co/41p8inTEvb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039914834519863296"
+          ]
+        },
+        "author_id": "2035568555727663104",
+        "conversation_id": "2039914856686735848",
+        "created_at": "2026-04-03T03:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T04:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039914856686735848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/41p8inTEvb",
+              "end": 23,
+              "expanded_url": "https://x.com/eereirkive/status/2039914856686735848/video/1",
+              "media_key": "13_2039914834519863296",
+              "start": 0,
+              "url": "https://t.co/41p8inTEvb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039914856686735848",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 823,
+          "impression_count": 52783,
+          "like_count": 3386,
+          "quote_count": 30,
+          "reply_count": 13,
+          "retweet_count": 531
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/41p8inTEvb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/同类查成分互fo/请和我做朋友/ᗜ𖥦ᗜ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037978639053299712/JtGdeDp-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 743,
+          "like_count": 960,
+          "listed_count": 2,
+          "media_count": 791,
+          "tweet_count": 2282
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-22T04:05:49.000Z",
+        "description": "20, she. | mute #tsukireiya #reiyahibi for spoilers!",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 16,
+                "tag": "tsukireiya"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "tag": "reiyahibi"
+              }
+            ]
+          }
+        },
+        "id": "2035568555727663104",
+        "location": "kuonji estate",
+        "name": "reiya | rate limited ..",
+        "pinned_tweet_id": "2036951879700406545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036945320027054080/tvZNTZTN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 113,
+          "like_count": 3268,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 793
+        },
+        "username": "eereirkive",
+        "verified": false
+      }
+    ]
+  }
+}

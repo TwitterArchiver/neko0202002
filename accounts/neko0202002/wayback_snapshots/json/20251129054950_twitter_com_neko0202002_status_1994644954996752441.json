@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "1994644954996752441",
+    "created_at": "2025-11-29T05:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T06:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994644954996752441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1205346929799921665",
+          "start": 3,
+          "username": "AAAsuka789"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994644954996752441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993488815261175904",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AAAsuka789: 我操，我不懂，到底是什么社会，美少女也会性压抑得天天想死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "1994644954996752441",
+        "created_at": "2025-11-29T05:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T06:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994644954996752441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1205346929799921665",
+              "start": 3,
+              "username": "AAAsuka789"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994644954996752441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993488815261175904",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AAAsuka789: 我操，我不懂，到底是什么社会，美少女也会性压抑得天天想死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1205346929799921665",
+        "conversation_id": "1993488815261175904",
+        "created_at": "2025-11-26T01:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T02:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993488815261175904"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993488815261175904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 23699,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操，我不懂，到底是什么社会，美少女也会性压抑得天天想死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "Caramel Box",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "八重",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994271217029926913/pXdsBYN8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 295,
+          "like_count": 68,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 257
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-13T04:41:22.000Z",
+        "description": "有🚪看置顶｜废话号@Haibara0274，备用号@AAAsuka520，别的号都是骗子盗图不得好死，不玩任何内网｜2025为爱全球飞版最新人设💕：原教旨文学少女在🇨🇳985做题家在🇯🇵帕帕活OwO在🇩🇪开eva！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "Haibara0274"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "AAAsuka520"
+              }
+            ]
+          }
+        },
+        "id": "1205346929799921665",
+        "name": "Asuka（好好学习版）",
+        "pinned_tweet_id": "1974079647857230096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1432676839793717250/x3a_jQzI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234556,
+          "following_count": 581,
+          "like_count": 14984,
+          "listed_count": 646,
+          "media_count": 211,
+          "tweet_count": 3739
+        },
+        "username": "AAAsuka789",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,510 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Arashi (嵐)",
+          "id": "1022861941851582465",
+          "name": "Arashi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Arashi (嵐)",
+          "id": "1022861941851582465",
+          "name": "Arashi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Arashi (嵐)",
+          "id": "1022861941851582465",
+          "name": "Arashi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297717277677166593",
+          "name": "Karaoke"
+        }
+      }
+    ],
+    "conversation_id": "1920131360389521547",
+    "created_at": "2025-05-07T14:59:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T15:59:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920131360389521547"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "華嵐",
+          "probability": 0.6439,
+          "start": 27,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1602652803130097664",
+          "start": 3,
+          "username": "kokon_amane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920131360389521547",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917567556300464388",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kokon_amane: えーーーー！！！\n『華嵐』がカラオケでっ！？！？\n歌いてぇ〜〜〜！！！カラオケ行きてぇ〜〜〜〜ですわ！！！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Arashi (嵐)",
+              "id": "1022861941851582465",
+              "name": "Arashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Arashi (嵐)",
+              "id": "1022861941851582465",
+              "name": "Arashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Arashi (嵐)",
+              "id": "1022861941851582465",
+              "name": "Arashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "1920131360389521547",
+        "created_at": "2025-05-07T14:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T15:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920131360389521547"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "華嵐",
+              "probability": 0.6439,
+              "start": 27,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1602652803130097664",
+              "start": 3,
+              "username": "kokon_amane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920131360389521547",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917567556300464388",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kokon_amane: えーーーー！！！\n『華嵐』がカラオケでっ！？！？\n歌いてぇ〜〜〜！！！カラオケ行きてぇ〜〜〜〜ですわ！！！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1602652803130097664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Arashi (嵐)",
+              "id": "1022861941851582465",
+              "name": "Arashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Arashi (嵐)",
+              "id": "1022861941851582465",
+              "name": "Arashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Arashi (嵐)",
+              "id": "1022861941851582465",
+              "name": "Arashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "1917567556300464388",
+        "created_at": "2025-04-30T13:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T14:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917567556300464388"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "華嵐",
+              "probability": 0.675,
+              "start": 10,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/orthrossoft/st…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/orthrossoft/status/1917527470930289149",
+              "start": 57,
+              "url": "https://t.co/qQMIitl81G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917567556300464388",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7652,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917527470930289149",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "えーーーー！！！\n『華嵐』がカラオケでっ！？！？\n歌いてぇ〜〜〜！！！カラオケ行きてぇ〜〜〜〜ですわ！！！！！！ https://t.co/qQMIitl81G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "是我先……明明是我先的！喜欢也好，玩弄也好，还是给他穿上女装也好。——大藏里想奈",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "优子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909135311457976320/_gd-CZyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 125,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 87
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-13T13:13:10.000Z",
+        "description": "フリーで声のお仕事をしています🎙️ 音声サークルささやきネシオロジ ( @sasaneshi ) 讃岐弁甘やかし担当🍬 ASMR,歌と黒柴が大好き❤️ 個人音声サークル→（@ama_iroka) ご依頼はこちらから📩https://t.co/JPLPTx3pM4📩お願いいたします🦊🍬",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "sasaneshi"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "ama_iroka"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "forms.gle/iJbRxx8uuZpSMj…",
+                "end": 131,
+                "expanded_url": "https://forms.gle/iJbRxx8uuZpSMjs78",
+                "start": 108,
+                "url": "https://t.co/JPLPTx3pM4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/amanekokon",
+                "end": 23,
+                "expanded_url": "https://potofu.me/amanekokon",
+                "start": 0,
+                "url": "https://t.co/WS1WcNjOKj"
+              }
+            ]
+          }
+        },
+        "id": "1602652803130097664",
+        "name": "狐今あまね🦊🍬",
+        "pinned_tweet_id": "1898649840487379241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906935949881479168/-Dvoi-c7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12739,
+          "following_count": 200,
+          "like_count": 4522,
+          "listed_count": 144,
+          "media_count": 495,
+          "tweet_count": 5354
+        },
+        "url": "https://t.co/WS1WcNjOKj",
+        "username": "kokon_amane",
+        "verified": false
+      }
+    ]
+  }
+}

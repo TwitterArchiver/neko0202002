@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2026249715357274296",
+    "created_at": "2026-02-24T10:55:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T11:55:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026249715357274296"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shangbuliaowan…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/shangbuliaowang/status/2025754410182139999",
+          "start": 16,
+          "url": "https://t.co/g14RFyYGQI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026249715357274296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025754410182139999",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "夏天要到了，快点掉秤，快点掉秤 https://t.co/g14RFyYGQI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2026249715357274296",
+        "created_at": "2026-02-24T10:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T11:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026249715357274296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shangbuliaowan…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/shangbuliaowang/status/2025754410182139999",
+              "start": 16,
+              "url": "https://t.co/g14RFyYGQI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026249715357274296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025754410182139999",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "夏天要到了，快点掉秤，快点掉秤 https://t.co/g14RFyYGQI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812543033419993088",
+        "conversation_id": "2025754410182139999",
+        "created_at": "2026-02-23T02:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T03:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025754410182139999"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025754410182139999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 71809,
+          "like_count": 858,
+          "quote_count": 19,
+          "reply_count": 29,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "我现在自律完全就是为了裸的时候能好看。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "os.remove ( '' characters / Itami. chr '' )\n\n啧，删不掉… … …有人在看吗？啊！我是Monika,我们又见面了/同类互fo",
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "宫小路优",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023488620305547264/eHtrA7bd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 377,
+          "like_count": 155,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 479
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T17:42:16.000Z",
+        "description": "jo神伟大",
+        "id": "1812543033419993088",
+        "location": "烂醉如泥",
+        "name": "上网2.0",
+        "pinned_tweet_id": "1813499188140736686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996060848633077760/pUt0_LAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192,
+          "following_count": 141,
+          "like_count": 2321,
+          "listed_count": 4,
+          "media_count": 334,
+          "tweet_count": 908
+        },
+        "username": "shangbuliaowang",
+        "verified": false
+      }
+    ]
+  }
+}

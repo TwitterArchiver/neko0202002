@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052386944576102400"
+      ],
+      "media_source_tweet_id": [
+        "2052386951802810421"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2052432843104719090",
+    "created_at": "2026-05-07T16:58:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T17:58:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052432843104719090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1715730752690868224",
+          "start": 3,
+          "username": "inS2ri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kjB0RtT6j3",
+          "end": 42,
+          "expanded_url": "https://x.com/inS2ri/status/2052386951802810421/photo/1",
+          "media_key": "3_2052386944576102400",
+          "start": 19,
+          "url": "https://t.co/kjB0RtT6j3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052432843104719090",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052386951802810421",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @inS2ri: ⓒ 뜨또 님 https://t.co/kjB0RtT6j3"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2052432843104719090].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2052432843104719090",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2052432843104719090"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2052386944576102400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuLDVUboAAJLGm.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052386944576102400"
+          ]
+        },
+        "author_id": "1715730752690868224",
+        "conversation_id": "2052386951802810421",
+        "created_at": "2026-05-07T13:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052386951802810421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kjB0RtT6j3",
+              "end": 30,
+              "expanded_url": "https://x.com/inS2ri/status/2052386951802810421/photo/1",
+              "media_key": "3_2052386944576102400",
+              "start": 7,
+              "url": "https://t.co/kjB0RtT6j3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052386951802810421",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 1396,
+          "like_count": 157,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "reply_settings": "following",
+        "text": "ⓒ 뜨또 님 https://t.co/kjB0RtT6j3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 955,
+          "like_count": 1558,
+          "listed_count": 2,
+          "media_count": 1374,
+          "tweet_count": 3839
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-21T14:04:29.000Z",
+        "description": "Vidi angelum somnis! @AsumuInori",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "AsumuInori"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "inS2ri.carrd.co",
+                "end": 23,
+                "expanded_url": "http://inS2ri.carrd.co",
+                "start": 0,
+                "url": "https://t.co/AZwLkS3b1Z"
+              }
+            ]
+          }
+        },
+        "id": "1715730752690868224",
+        "location": "i 은사 님 •  Do not save & repost",
+        "name": "祈り",
+        "pinned_tweet_id": "2051068124284494099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029228210748329985/ZpPJoJH-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 11,
+          "like_count": 3034,
+          "listed_count": 6,
+          "media_count": 11,
+          "tweet_count": 20
+        },
+        "url": "https://t.co/AZwLkS3b1Z",
+        "username": "inS2ri",
+        "verified": false
+      }
+    ]
+  }
+}

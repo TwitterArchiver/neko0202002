@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "1962734257014526262",
+    "created_at": "2025-09-02T15:06:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T16:06:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962894912439095419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3244048580",
+          "start": 0,
+          "username": "y2kstarrychan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962894912439095419",
+    "in_reply_to_user_id": "3244048580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962734257014526262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y2kstarrychan 漫画什么名字"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3050,
+        "media_key": "3_1962734253600325632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz0IZ5ZWwAAz-zR.jpg",
+        "width": 1904
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1962734257014526262",
+        "created_at": "2025-09-02T15:06:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T16:06:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962894912439095419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3244048580",
+              "start": 0,
+              "username": "y2kstarrychan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962894912439095419",
+        "in_reply_to_user_id": "3244048580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962734257014526262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y2kstarrychan 漫画什么名字"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962734253600325632"
+          ]
+        },
+        "author_id": "3244048580",
+        "conversation_id": "1962734257014526262",
+        "created_at": "2025-09-02T04:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T05:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962734257014526262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9aQRol0oU7",
+              "end": 34,
+              "expanded_url": "https://x.com/y2kstarrychan/status/1962734257014526262/photo/1",
+              "media_key": "3_1962734253600325632",
+              "start": 11,
+              "url": "https://t.co/9aQRol0oU7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962734257014526262",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1444,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "记住，你们才是挑战者 https://t.co/9aQRol0oU7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "千早！！！！",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "千早！！！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951284390094577664/Qy4Zs8HR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 176,
+          "like_count": 39,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 218
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-13T08:52:27.000Z",
+        "description": "“这世上的道路有许多条, 而每个人都有属于自己的那条” Carpe diem. 奴属于神樂坂家族, 會長 @L98808Lju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 53,
+                "username": "L98808Lju"
+              }
+            ]
+          }
+        },
+        "id": "3244048580",
+        "location": "互聯網",
+        "name": "神樂板🌸星璃醬",
+        "pinned_tweet_id": "1944633677478277495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942944113759780864/arXYKJy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2405,
+          "following_count": 414,
+          "like_count": 31383,
+          "listed_count": 4,
+          "media_count": 125,
+          "tweet_count": 3981
+        },
+        "username": "y2kstarrychan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "description": "読売巨人軍 (Yomiuri Giants)",
+          "id": "836464357919748098",
+          "name": "読売巨人軍 (Yomiuri Giants)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "769193663230468096",
+          "name": "Baseball"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "読売巨人軍 (Yomiuri Giants)",
+          "id": "836464357919748098",
+          "name": "読売巨人軍 (Yomiuri Giants)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "NPB",
+          "id": "839757898951487488",
+          "name": "NPB"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1235637307048210433",
+          "name": "Central League"
+        }
+      }
+    ],
+    "conversation_id": "1922221002462781833",
+    "created_at": "2025-05-15T07:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T08:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922922954804879562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1490543758160527361",
+          "start": 0,
+          "username": "Qiu1647"
+        },
+        {
+          "end": 16,
+          "id": "1507396901594820608",
+          "start": 9,
+          "username": "hgds01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922922954804879562",
+    "in_reply_to_user_id": "1490543758160527361",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922253872409592228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiu1647 @hgds01 去打巨人吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "description": "読売巨人軍 (Yomiuri Giants)",
+              "id": "836464357919748098",
+              "name": "読売巨人軍 (Yomiuri Giants)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "769193663230468096",
+              "name": "Baseball"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "読売巨人軍 (Yomiuri Giants)",
+              "id": "836464357919748098",
+              "name": "読売巨人軍 (Yomiuri Giants)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NPB",
+              "id": "839757898951487488",
+              "name": "NPB"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1235637307048210433",
+              "name": "Central League"
+            }
+          }
+        ],
+        "conversation_id": "1922221002462781833",
+        "created_at": "2025-05-15T07:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T08:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922922954804879562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1490543758160527361",
+              "start": 0,
+              "username": "Qiu1647"
+            },
+            {
+              "end": 16,
+              "id": "1507396901594820608",
+              "start": 9,
+              "username": "hgds01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922922954804879562",
+        "in_reply_to_user_id": "1490543758160527361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922253872409592228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiu1647 @hgds01 去打巨人吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490543758160527361",
+        "conversation_id": "1922221002462781833",
+        "created_at": "2025-05-13T11:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T12:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922253872409592228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1507396901594820608",
+              "start": 0,
+              "username": "hgds01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922253872409592228",
+        "in_reply_to_user_id": "1507396901594820608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 81649,
+          "like_count": 582,
+          "quote_count": 1,
+          "reply_count": 48,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922221002462781833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgds01 喜欢她的心脏怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "是我先……明明是我先的！喜欢也好，玩弄也好，还是给他穿上女装也好。——大藏里想奈",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "凯伊莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922919174591971328/2WZ4op6P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 136,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 113
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T04:32:15.000Z",
+        "description": "我发誓，不再让任何人的目光锁住我\n(男的。谢谢你的喜欢，请互关们私信我加v🌹。友gay/les，不喜欢trans",
+        "id": "1490543758160527361",
+        "location": "超维视界",
+        "name": "META(旧:離人心上秋",
+        "pinned_tweet_id": "1921582726840291513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920332290346848256/YODBZi_P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 927,
+          "like_count": 24464,
+          "listed_count": 4,
+          "media_count": 297,
+          "tweet_count": 7683
+        },
+        "username": "Qiu1647",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "‼️广告自辩‼️/感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "location": "广告自辩",
+        "name": "恋",
+        "pinned_tweet_id": "1922599992910368980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75954,
+          "following_count": 2926,
+          "like_count": 43271,
+          "listed_count": 97,
+          "media_count": 2182,
+          "tweet_count": 6465
+        },
+        "username": "hgds01",
+        "verified": true
+      }
+    ]
+  }
+}

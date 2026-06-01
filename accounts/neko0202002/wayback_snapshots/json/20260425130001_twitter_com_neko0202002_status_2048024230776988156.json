@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047845301604810752"
+      ],
+      "media_source_tweet_id": [
+        "2047845401676615930"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2048024230776988156",
+    "created_at": "2026-04-25T13:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T14:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048024230776988156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1979108124985561088",
+          "start": 3,
+          "username": "yumenoWchan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a3VHxGx0xo",
+          "end": 40,
+          "expanded_url": "https://x.com/yumenoWchan/status/2047845401676615930/photo/1",
+          "media_key": "3_2047845301604810752",
+          "start": 17,
+          "url": "https://t.co/a3VHxGx0xo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048024230776988156",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047845401676615930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yumenoWchan: https://t.co/a3VHxGx0xo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047845301604810752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGtoc60bgAA_qaG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047845301604810752"
+          ],
+          "media_source_tweet_id": [
+            "2047845401676615930"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2048024230776988156",
+        "created_at": "2026-04-25T13:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048024230776988156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1979108124985561088",
+              "start": 3,
+              "username": "yumenoWchan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a3VHxGx0xo",
+              "end": 40,
+              "expanded_url": "https://x.com/yumenoWchan/status/2047845401676615930/photo/1",
+              "media_key": "3_2047845301604810752",
+              "start": 17,
+              "url": "https://t.co/a3VHxGx0xo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048024230776988156",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047845401676615930",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yumenoWchan: https://t.co/a3VHxGx0xo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047845301604810752"
+          ]
+        },
+        "author_id": "1979108124985561088",
+        "conversation_id": "2047845401676615930",
+        "created_at": "2026-04-25T01:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T02:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047845401676615930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a3VHxGx0xo",
+              "end": 23,
+              "expanded_url": "https://x.com/yumenoWchan/status/2047845401676615930/photo/1",
+              "media_key": "3_2047845301604810752",
+              "start": 0,
+              "url": "https://t.co/a3VHxGx0xo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047845401676615930",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1096,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/a3VHxGx0xo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 885,
+          "like_count": 1360,
+          "listed_count": 2,
+          "media_count": 1150,
+          "tweet_count": 3359
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T08:52:09.000Z",
+        "description": "=呕呕/阿欠｜🇨🇳🇭🇰｜割裸o",
+        "id": "1979108124985561088",
+        "name": "えぐち",
+        "pinned_tweet_id": "2046593454990619043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047250628687355904/LIuDBNUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 428,
+          "like_count": 2317,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 358
+        },
+        "username": "yumenoWchan",
+        "verified": false
+      }
+    ]
+  }
+}

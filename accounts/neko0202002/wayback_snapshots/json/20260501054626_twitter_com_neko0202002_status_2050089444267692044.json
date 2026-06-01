@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2050089432150355968"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2049989121855426954",
+    "created_at": "2026-05-01T05:46:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T06:46:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050089444267692044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1691273370858401792",
+          "start": 0,
+          "username": "ge_qiang1582"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hGSC2Z7Jxb",
+          "end": 37,
+          "expanded_url": "https://x.com/neko0202002/status/2050089444267692044/photo/1",
+          "media_key": "16_2050089432150355968",
+          "start": 14,
+          "url": "https://t.co/hGSC2Z7Jxb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050089444267692044",
+    "in_reply_to_user_id": "1691273370858401792",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050013309370527757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ge_qiang1582 https://t.co/hGSC2Z7Jxb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "16_2050089432150355968",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HHNhegkasAAsObb.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HHNhegkasAAsObb.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2050089432150355968"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2049989121855426954",
+        "created_at": "2026-05-01T05:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T06:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050089444267692044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1691273370858401792",
+              "start": 0,
+              "username": "ge_qiang1582"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hGSC2Z7Jxb",
+              "end": 37,
+              "expanded_url": "https://x.com/neko0202002/status/2050089444267692044/photo/1",
+              "media_key": "16_2050089432150355968",
+              "start": 14,
+              "url": "https://t.co/hGSC2Z7Jxb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050089444267692044",
+        "in_reply_to_user_id": "1691273370858401792",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050013309370527757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ge_qiang1582 https://t.co/hGSC2Z7Jxb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691273370858401792",
+        "conversation_id": "2049989121855426954",
+        "created_at": "2026-05-01T00:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T01:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050013309370527757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050013309370527757",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049989121855426954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 很善良的人呐 ๑⃙⃘´༥`๑⃙⃘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/可以称为千早/心理学重度依赖/魔法少女千早/LGBT全友好/请和我做朋友ᗜ𖥦ᗜ✝︎/可提供心理问题咨询思路解决方案",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 939,
+          "like_count": 1458,
+          "listed_count": 2,
+          "media_count": 1261,
+          "tweet_count": 3596
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T02:19:40.000Z",
+        "description": "我猜有个小可爱正在看鸽鸽的简介♡=•ㅅ＜=)欢迎光临鸽鸽的日记（其实还是更喜欢你们叫我小强），私信找我互fo喵，爱你们～❤️ 美好人格@gg45174157",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 67,
+                "username": "gg45174157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pigeon44697",
+                "end": 23,
+                "expanded_url": "http://ngl.link/pigeon44697",
+                "start": 0,
+                "url": "https://t.co/BTRO9KOYFi"
+              }
+            ]
+          }
+        },
+        "id": "1691273370858401792",
+        "location": "啊",
+        "name": "鸽鸽（小强邪恶版）",
+        "pinned_tweet_id": "2028130382369976413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028379780253646848/YFtLQRiW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 227,
+          "like_count": 482,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 523
+        },
+        "url": "https://t.co/BTRO9KOYFi",
+        "username": "ge_qiang1582",
+        "verified": false
+      }
+    ]
+  }
+}

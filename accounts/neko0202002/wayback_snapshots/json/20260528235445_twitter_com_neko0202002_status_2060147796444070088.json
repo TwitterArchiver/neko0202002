@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2060088722796761285",
+    "created_at": "2026-05-28T23:54:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T00:54:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060147796444070088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1412533718250622977",
+          "start": 0,
+          "username": "JR5_Crypto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060147796444070088",
+    "in_reply_to_user_id": "1412533718250622977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060088722796761285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JR5_Crypto 给自己买药吃，离不开药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2060088722796761285",
+        "created_at": "2026-05-28T23:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T00:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060147796444070088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1412533718250622977",
+              "start": 0,
+              "username": "JR5_Crypto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060147796444070088",
+        "in_reply_to_user_id": "1412533718250622977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060088722796761285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JR5_Crypto 给自己买药吃，离不开药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1412533718250622977",
+        "conversation_id": "2060088722796761285",
+        "created_at": "2026-05-28T20:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T21:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060088722796761285"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060088722796761285",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4939,
+          "like_count": 57,
+          "quote_count": 1,
+          "reply_count": 102,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "Tell me in one word why you need $150 right now"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 961,
+          "like_count": 1660,
+          "listed_count": 2,
+          "media_count": 1511,
+          "tweet_count": 4204
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-06T22:19:49.000Z",
+        "description": "Ex support at Rollbit, Ex CS trader, Memecoin degen, Crypto and F1 enjoyer\n\nInquiries via TG @JR5_eth \n\nFree Telegram below! ⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 93,
+                "username": "JR5_eth"
+              }
+            ]
+          }
+        },
+        "id": "1412533718250622977",
+        "location": "Trenches",
+        "name": "JR5",
+        "pinned_tweet_id": "2057136680239308846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652716662171353088/O6jtZkPY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77421,
+          "following_count": 9015,
+          "like_count": 108299,
+          "listed_count": 322,
+          "media_count": 1189,
+          "tweet_count": 43857
+        },
+        "username": "JR5_Crypto",
+        "verified": true
+      }
+    ]
+  }
+}

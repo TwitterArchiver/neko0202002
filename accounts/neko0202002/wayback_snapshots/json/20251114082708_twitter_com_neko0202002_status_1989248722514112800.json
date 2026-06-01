@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Hospitality",
+          "id": "864938653063159808",
+          "name": "Hospitality"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Hotel/Motel",
+          "id": "864939492947275776",
+          "name": "Hotel/Motel"
+        }
+      }
+    ],
+    "conversation_id": "1989248722514112800",
+    "created_at": "2025-11-14T08:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T09:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989248722514112800"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 108,
+          "start": 102,
+          "tag": "トー横界隈"
+        },
+        {
+          "end": 117,
+          "start": 109,
+          "tag": "でんぐりがえし"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "976050905664516096",
+          "start": 3,
+          "username": "yorudeki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/cwFVrbT",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/cwFVrbT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989248722514112800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 189
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981745024720404887",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yorudeki: 【衝撃】パキったトー横女子、道路ででんぐり返りを試みた結果体を痛める\n\n「イッタ！全身骨折。」という女性に「じゃ、がんばってー」とエールを送る男性。\n\nまーたやってんのかい。\n#トー横界隈 #でんぐりがえし \nhttps://t.co/cwFVrbT…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12533,
+        "height": 1280,
+        "media_key": "13_1977763581912576000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1977763581912576000/img/4XyteK_AISJ9d_xN.jpg",
+        "public_metrics": {
+          "view_count": 2897553
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1977763581912576000/vid/avc1/320x568/SdgIS7PO-PibJ5Zf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1977763581912576000/vid/avc1/480x852/qTC8BENeXELUJJ2h.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1977763581912576000/vid/avc1/720x1280/ruLgt9q4_8Is1qlo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1977763581912576000/pl/JbM1_7WCA6YyuGEa.m3u8?v=753"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Hospitality",
+              "id": "864938653063159808",
+              "name": "Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Hotel/Motel",
+              "id": "864939492947275776",
+              "name": "Hotel/Motel"
+            }
+          }
+        ],
+        "conversation_id": "1989248722514112800",
+        "created_at": "2025-11-14T08:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T09:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989248722514112800"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 108,
+              "start": 102,
+              "tag": "トー横界隈"
+            },
+            {
+              "end": 117,
+              "start": 109,
+              "tag": "でんぐりがえし"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "976050905664516096",
+              "start": 3,
+              "username": "yorudeki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/cwFVrbT",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/cwFVrbT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989248722514112800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 189
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981745024720404887",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yorudeki: 【衝撃】パキったトー横女子、道路ででんぐり返りを試みた結果体を痛める\n\n「イッタ！全身骨折。」という女性に「じゃ、がんばってー」とエールを送る男性。\n\nまーたやってんのかい。\n#トー横界隈 #でんぐりがえし \nhttps://t.co/cwFVrbT…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1977763581912576000"
+          ],
+          "media_source_tweet_id": [
+            "1977763648517951586"
+          ]
+        },
+        "author_id": "976050905664516096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Hospitality",
+              "id": "864938653063159808",
+              "name": "Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Hotel/Motel",
+              "id": "864939492947275776",
+              "name": "Hotel/Motel"
+            }
+          }
+        ],
+        "conversation_id": "1981745024720404887",
+        "created_at": "2025-10-24T15:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T16:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981745024720404887"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 94,
+              "start": 88,
+              "tag": "トー横界隈"
+            },
+            {
+              "end": 103,
+              "start": 95,
+              "tag": "でんぐりがえし"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cwFVrbT3no",
+              "end": 128,
+              "expanded_url": "https://x.com/i/status/1977763648517951586/video/1",
+              "media_key": "13_1977763581912576000",
+              "start": 105,
+              "url": "https://t.co/cwFVrbT3no"
+            },
+            {
+              "display_url": "x.com/yorudeki/statu…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/yorudeki/status/1973334673846939956",
+              "start": 129,
+              "url": "https://t.co/DrZbWh8zHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981745024720404887",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1703,
+          "impression_count": 26768237,
+          "like_count": 4149,
+          "quote_count": 93,
+          "reply_count": 57,
+          "retweet_count": 189
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973334673846939956",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【衝撃】パキったトー横女子、道路ででんぐり返りを試みた結果体を痛める\n\n「イッタ！全身骨折。」という女性に「じゃ、がんばってー」とエールを送る男性。\n\nまーたやってんのかい。\n#トー横界隈 #でんぐりがえし \nhttps://t.co/cwFVrbT3no https://t.co/DrZbWh8zHG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "千早！！！！",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "千早！！！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969638863611314177/gBJCYfnM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 251,
+          "like_count": 66,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 241
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-20T11:00:44.000Z",
+        "description": "総合アダルトコミュニケーションサイト「ナンネット」から、\n夜の街で起こった話題やニュースを暗闇から真実を照らすエッジの効いた内容でお届け！\nキャバクラ、スナック、メンエス、コンカフェ、ホストなどあなたの心をくすぐります。\n📢 タレコミ・告発・仕事依頼は✉DMしてね",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nan-net.com",
+                "end": 23,
+                "expanded_url": "https://nan-net.com/",
+                "start": 0,
+                "url": "https://t.co/pi1uN0oWqF"
+              }
+            ]
+          }
+        },
+        "id": "976050905664516096",
+        "location": "日本最大のアダルトコミュニケーションサイト",
+        "name": "夜の出来事～妖しいニュース～",
+        "pinned_tweet_id": "1988917341279916488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963093828019355649/FcaUvbtD_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56968,
+          "following_count": 668,
+          "like_count": 1738,
+          "listed_count": 143,
+          "media_count": 2647,
+          "tweet_count": 3307
+        },
+        "url": "https://t.co/pi1uN0oWqF",
+        "username": "yorudeki",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1966811832628506626"
+      ],
+      "media_source_tweet_id": [
+        "1966811864366551448"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "2035096508421611991",
+    "created_at": "2026-03-20T20:49:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T21:49:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035096508421611991"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 69,
+          "start": 64,
+          "tag": "曉山瑞希"
+        },
+        {
+          "end": 75,
+          "start": 70,
+          "tag": "東雲絵名"
+        },
+        {
+          "end": 81,
+          "start": 76,
+          "tag": "プロセカ"
+        },
+        {
+          "end": 86,
+          "start": 83,
+          "tag": "男娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1714571705694420992",
+          "start": 3,
+          "username": "Ayuki_Believe"
+        },
+        {
+          "end": 62,
+          "id": "1535800718258745344",
+          "start": 46,
+          "username": "Takitsuki_Shoko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PIOtyy8NHY",
+          "end": 110,
+          "expanded_url": "https://x.com/Ayuki_Believe/status/1966811864366551448/video/1",
+          "media_key": "7_1966811832628506626",
+          "start": 87,
+          "url": "https://t.co/PIOtyy8NHY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035096508421611991",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966811864366551448",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ayuki_Believe: 晓山瑞希被东云绘名公主抱\n但是我185男朋友是mzk @Takitsuki_Shoko \n#曉山瑞希 #東雲絵名 #プロセカ \n#男娘 https://t.co/PIOtyy8NHY"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2035096508421611991].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2035096508421611991",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2035096508421611991"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9920,
+        "height": 720,
+        "media_key": "7_1966811832628506626",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1966811832628506626/pu/img/dSeoNfBM_x8xqd8Z.jpg",
+        "public_metrics": {
+          "view_count": 938
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1966811832628506626/pu/vid/avc1/480x270/Gq3E4l4iOaUEkKNC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1966811832628506626/pu/vid/avc1/640x360/3DzEEWBrWADQ-z0M.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1966811832628506626/pu/vid/avc1/1280x720/7GE6sMXC_Ub1qL1B.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1966811832628506626/pu/pl/gSuJeAtnWBxnEemr.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1966811832628506626"
+          ]
+        },
+        "author_id": "1714571705694420992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "1966811864366551448",
+        "created_at": "2025-09-13T10:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T11:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966811864366551448"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 45,
+              "tag": "曉山瑞希"
+            },
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "東雲絵名"
+            },
+            {
+              "end": 62,
+              "start": 57,
+              "tag": "プロセカ"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "男娘"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 43,
+              "id": "1535800718258745344",
+              "start": 27,
+              "username": "Takitsuki_Shoko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PIOtyy8NHY",
+              "end": 91,
+              "expanded_url": "https://x.com/Ayuki_Believe/status/1966811864366551448/video/1",
+              "media_key": "7_1966811832628506626",
+              "start": 68,
+              "url": "https://t.co/PIOtyy8NHY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966811864366551448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1976,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "晓山瑞希被东云绘名公主抱\n但是我185男朋友是mzk @Takitsuki_Shoko \n#曉山瑞希 #東雲絵名 #プロセカ \n#男娘 https://t.co/PIOtyy8NHY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "药理学习中/同类查成分互fo/请和我做朋友/ᗜ𖥦ᗜ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032192447573577728/C9yS_hXm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 637,
+          "like_count": 814,
+          "listed_count": 1,
+          "media_count": 561,
+          "tweet_count": 1779
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T09:19:08.000Z",
+        "description": "一个抽象可爱碎碎念高强度冲浪小女孩 喜欢分享自己的一切 （中文繁體English ok） 🫶爱人：@Takitsuki_Shoko| 🥰好妹妹： @Kisen0v0| 碎碎念小号 @Ayuki_Rotsuki 欢迎扩列",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "Takitsuki_Shoko"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "Kisen0v0"
+              },
+              {
+                "end": 104,
+                "start": 90,
+                "username": "Ayuki_Rotsuki"
+              }
+            ]
+          }
+        },
+        "id": "1714571705694420992",
+        "location": "美乐蒂家",
+        "name": "TekeliLi_iLilekeT",
+        "pinned_tweet_id": "2023370212536668504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022602123947741184/iEGRxH1p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3549,
+          "following_count": 452,
+          "like_count": 8424,
+          "listed_count": 8,
+          "media_count": 1204,
+          "tweet_count": 3472
+        },
+        "username": "Ayuki_Believe",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-12T01:46:51.000Z",
+        "description": "日本語/英語　妻@Ayuki_Rotsuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "Ayuki_Rotsuki"
+              }
+            ]
+          }
+        },
+        "id": "1535800718258745344",
+        "name": "朧月祥子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856751536732606466/mIH-qMSY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 100,
+          "like_count": 308,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 68
+        },
+        "username": "Takitsuki_Shoko",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990666707703377921"
+      ],
+      "media_source_tweet_id": [
+        "1990666713957085596"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "1990709331160150200",
+    "created_at": "2025-11-18T09:11:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T10:11:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990709331160150200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "Cldeop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SMiK3Vtkzi",
+          "end": 43,
+          "expanded_url": "https://x.com/Cldeop/status/1990666713957085596/photo/1",
+          "media_key": "3_1990666707703377921",
+          "start": 20,
+          "url": "https://t.co/SMiK3Vtkzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990709331160150200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990666713957085596",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cldeop: R18手办预警 https://t.co/SMiK3Vtkzi"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1990709331160150200].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1990709331160150200",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1990709331160150200"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_1990666707703377921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6BE0trbMAExMdK.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990666707703377921"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "1990666713957085596",
+        "created_at": "2025-11-18T06:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T07:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990666713957085596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SMiK3Vtkzi",
+              "end": 31,
+              "expanded_url": "https://x.com/Cldeop/status/1990666713957085596/photo/1",
+              "media_key": "3_1990666707703377921",
+              "start": 8,
+              "url": "https://t.co/SMiK3Vtkzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990666713957085596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 5806,
+          "like_count": 151,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "R18手办预警 https://t.co/SMiK3Vtkzi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "千早！！！！",
+        "id": "1820207828931424256",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "千早！！！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989253109630341120/CJB1bPoj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 264,
+          "like_count": 66,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 244
+        },
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976306297789370368/tQr5aNJl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90342,
+          "following_count": 660,
+          "like_count": 31980,
+          "listed_count": 264,
+          "media_count": 13473,
+          "tweet_count": 19350
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

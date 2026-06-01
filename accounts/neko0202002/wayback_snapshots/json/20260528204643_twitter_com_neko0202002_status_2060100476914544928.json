@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060100469503221760"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2059954287397224922",
+    "created_at": "2026-05-28T20:46:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T21:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060100476914544928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1730951860834713600",
+          "start": 0,
+          "username": "casein5744"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r0IcgbLjJa",
+          "end": 47,
+          "expanded_url": "https://x.com/neko0202002/status/2060100476914544928/photo/1",
+          "media_key": "3_2060100469503221760",
+          "start": 24,
+          "url": "https://t.co/r0IcgbLjJa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060100476914544928",
+    "in_reply_to_user_id": "1730951860834713600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059954287397224922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@casein5744 这是某种神秘的妙妙工具 https://t.co/r0IcgbLjJa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 605,
+        "media_key": "3_2060100469503221760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbydk5a4AAojsU.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060100469503221760"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2059954287397224922",
+        "created_at": "2026-05-28T20:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T21:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060100476914544928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730951860834713600",
+              "start": 0,
+              "username": "casein5744"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r0IcgbLjJa",
+              "end": 47,
+              "expanded_url": "https://x.com/neko0202002/status/2060100476914544928/photo/1",
+              "media_key": "3_2060100469503221760",
+              "start": 24,
+              "url": "https://t.co/r0IcgbLjJa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060100476914544928",
+        "in_reply_to_user_id": "1730951860834713600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059954287397224922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@casein5744 这是某种神秘的妙妙工具 https://t.co/r0IcgbLjJa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730951860834713600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2059954287397224922",
+        "created_at": "2026-05-28T11:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059954287397224922"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059954287397224922",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 142218,
+          "like_count": 289,
+          "quote_count": 5,
+          "reply_count": 296,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "중국에서 X(트위터) 막혀있지 않나??\n\n내가 본건 뭐지"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 956,
+          "like_count": 1652,
+          "listed_count": 2,
+          "media_count": 1498,
+          "tweet_count": 4168
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-02T14:08:09.000Z",
+        "description": "리듬좋아하는 이상한놈 /선팔 ok/\n리듬누렁이 디코써버 운영중 가입 문의는 DM/풀네임으로 부르거나 카제라고 불러주세요..",
+        "id": "1730951860834713600",
+        "name": "카제인",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936391503485550592/POSzFjI5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 622,
+          "like_count": 25767,
+          "listed_count": 9,
+          "media_count": 2615,
+          "tweet_count": 10207
+        },
+        "username": "casein5744",
+        "verified": false
+      }
+    ]
+  }
+}
