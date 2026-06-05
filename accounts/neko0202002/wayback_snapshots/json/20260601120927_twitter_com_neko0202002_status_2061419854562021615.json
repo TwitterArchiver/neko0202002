@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061419851646976000"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2061419854562021615",
+    "created_at": "2026-06-01T12:09:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T13:09:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061419854562021615"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EZYLwEuabT",
+          "end": 23,
+          "expanded_url": "https://x.com/neko0202002/status/2061419854562021615/photo/1",
+          "media_key": "3_2061419851646976000",
+          "start": 0,
+          "url": "https://t.co/EZYLwEuabT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061419854562021615",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/EZYLwEuabT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2061419851646976000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJuibuZbQAAYm99.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061419851646976000"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2061419854562021615",
+        "created_at": "2026-06-01T12:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T13:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061419854562021615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EZYLwEuabT",
+              "end": 23,
+              "expanded_url": "https://x.com/neko0202002/status/2061419854562021615/photo/1",
+              "media_key": "3_2061419851646976000",
+              "start": 0,
+              "url": "https://t.co/EZYLwEuabT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061419854562021615",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EZYLwEuabT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 928,
+          "like_count": 1695,
+          "listed_count": 2,
+          "media_count": 1549,
+          "tweet_count": 4297
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      }
+    ]
+  }
+}

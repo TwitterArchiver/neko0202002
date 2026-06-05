@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974822124960526338"
+      ],
+      "media_source_tweet_id": [
+        "1974825200987603384"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2062398338985873529",
+    "created_at": "2026-06-04T04:57:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T05:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062398338985873529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1773743715359834113",
+          "start": 3,
+          "username": "kurokam00megane"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oEHJqdnGio",
+          "end": 124,
+          "expanded_url": "https://x.com/kurokam00megane/status/1974825200987603384/photo/1",
+          "media_key": "3_1974822124960526338",
+          "start": 101,
+          "url": "https://t.co/oEHJqdnGio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062398338985873529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974825200987603384",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kurokam00megane: プリヤって結構コラボシナジーありそうかと思ったけど、まどドラはあんまりコラボとかせずにまどマギ世界内で完結しそうな予感\nマギレコならまだワンチャンあったかなー https://t.co/oEHJqdnGio"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2062398338985873529].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2062398338985873529",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2062398338985873529"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_1974822124960526338",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2f6QnTasAIVPuU.jpg",
+        "width": 1792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974822124960526338"
+          ]
+        },
+        "author_id": "1773743715359834113",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "1974825200987603384",
+        "created_at": "2025-10-05T13:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T14:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974825200987603384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oEHJqdnGio",
+              "end": 103,
+              "expanded_url": "https://x.com/kurokam00megane/status/1974825200987603384/photo/1",
+              "media_key": "3_1974822124960526338",
+              "start": 80,
+              "url": "https://t.co/oEHJqdnGio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974825200987603384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 37172,
+          "like_count": 548,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "プリヤって結構コラボシナジーありそうかと思ったけど、まどドラはあんまりコラボとかせずにまどマギ世界内で完結しそうな予感\nマギレコならまだワンチャンあったかなー https://t.co/oEHJqdnGio"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 752,
+          "like_count": 1731,
+          "listed_count": 2,
+          "media_count": 1603,
+          "tweet_count": 4422
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-29T16:07:31.000Z",
+        "description": "pixivに投稿している画像の差分とかが偶に上がります\n好き・趣味・性癖語りたい！\n\nリンクまとめ：https://t.co/J3Aw4sgOfz\npixiv：https://t.co/ACE7LzvnZA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "profu.link/u/kurokami00me…",
+                "end": 73,
+                "expanded_url": "https://profu.link/u/kurokami00megane",
+                "start": 50,
+                "url": "https://t.co/J3Aw4sgOfz"
+              },
+              {
+                "display_url": "pixiv.net/users/105885084",
+                "end": 103,
+                "expanded_url": "https://www.pixiv.net/users/105885084",
+                "start": 80,
+                "url": "https://t.co/ACE7LzvnZA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCRH5F…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCRH5Fy06PyjTjSnDFc2WyD",
+                "start": 0,
+                "url": "https://t.co/QeYYEg56sL"
+              }
+            ]
+          }
+        },
+        "id": "1773743715359834113",
+        "name": "黒神十六子",
+        "pinned_tweet_id": "2055671841445011797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970507030264999936/25qYpKbW_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13334,
+          "following_count": 370,
+          "like_count": 1265,
+          "listed_count": 62,
+          "media_count": 359,
+          "tweet_count": 706
+        },
+        "url": "https://t.co/QeYYEg56sL",
+        "username": "kurokam00megane",
+        "verified": false
+      }
+    ]
+  }
+}

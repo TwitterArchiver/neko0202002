@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2061774256992931840"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2061663774034243727",
+    "created_at": "2026-06-02T11:37:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T12:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061774262164488540"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2042276998668525573",
+          "start": 0,
+          "username": "SakurabaAya514"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jLpChUEQLy",
+          "end": 42,
+          "expanded_url": "https://x.com/neko0202002/status/2061774262164488540/photo/1",
+          "media_key": "16_2061774256992931840",
+          "start": 19,
+          "url": "https://t.co/jLpChUEQLy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061774262164488540",
+    "in_reply_to_user_id": "2042276998668525573",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061746972596576658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakurabaAya514 好喵 https://t.co/jLpChUEQLy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_2061774256992931840",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HJzkw1Mb0AAlwpg.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HJzkw1Mb0AAlwpg.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2061774256992931840"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2061663774034243727",
+        "created_at": "2026-06-02T11:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061774262164488540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "SakurabaAya514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jLpChUEQLy",
+              "end": 42,
+              "expanded_url": "https://x.com/neko0202002/status/2061774262164488540/photo/1",
+              "media_key": "16_2061774256992931840",
+              "start": 19,
+              "url": "https://t.co/jLpChUEQLy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061774262164488540",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061746972596576658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakurabaAya514 好喵 https://t.co/jLpChUEQLy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2061663774034243727",
+        "created_at": "2026-06-02T09:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T10:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061746972596576658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061746972596576658",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061663774034243727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 可以带一双凉袖套"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 932,
+          "like_count": 1702,
+          "listed_count": 2,
+          "media_count": 1560,
+          "tweet_count": 4325
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "来自中国大陆/东方project/魔裁/Arcaea/键政⚠️/双向情感障碍⚠️/欢迎互fo/LGBTQ+🏳️‍🌈友好\n主要在X上网冲浪评论搞抽象为主，发帖主要是日常生活和碎碎念，以及负面推文⚠️",
+        "id": "2042276998668525573",
+        "name": "赤月 サクラ",
+        "pinned_tweet_id": "2061543598244679764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061538359978373120/bewxtVD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 277,
+          "like_count": 4019,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1270
+        },
+        "username": "SakurabaAya514",
+        "verified": false
+      }
+    ]
+  }
+}

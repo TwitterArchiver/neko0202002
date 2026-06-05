@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2061791820766650368"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2061776521900310646",
+    "created_at": "2026-06-02T12:47:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T13:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061791827423121732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1067724520444710914",
+          "start": 0,
+          "username": "_Natsubi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D1lnK3MXpu",
+          "end": 44,
+          "expanded_url": "https://x.com/neko0202002/status/2061791827423121732/photo/1",
+          "media_key": "16_2061791820766650368",
+          "start": 21,
+          "url": "https://t.co/D1lnK3MXpu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061791827423121732",
+    "in_reply_to_user_id": "1067724520444710914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061776521900310646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Natsubi 昨天刚复活的明明…… https://t.co/D1lnK3MXpu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_2061791820766650368",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HJz0vLWaIAAKanE.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HJz0vLWaIAAKanE.mp4"
+          }
+        ],
+        "width": 500
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2061776512031072256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzm0F3bIAAkj9s.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2061791820766650368"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2061776521900310646",
+        "created_at": "2026-06-02T12:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061791827423121732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1067724520444710914",
+              "start": 0,
+              "username": "_Natsubi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D1lnK3MXpu",
+              "end": 44,
+              "expanded_url": "https://x.com/neko0202002/status/2061791827423121732/photo/1",
+              "media_key": "16_2061791820766650368",
+              "start": 21,
+              "url": "https://t.co/D1lnK3MXpu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061791827423121732",
+        "in_reply_to_user_id": "1067724520444710914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061776521900310646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Natsubi 昨天刚复活的明明…… https://t.co/D1lnK3MXpu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061776512031072256"
+          ]
+        },
+        "author_id": "1067724520444710914",
+        "conversation_id": "2061776521900310646",
+        "created_at": "2026-06-02T11:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061776521900310646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tNBEH1BQB5",
+              "end": 51,
+              "expanded_url": "https://x.com/_Natsubi/status/2061776521900310646/photo/1",
+              "media_key": "3_2061776512031072256",
+              "start": 28,
+              "url": "https://t.co/tNBEH1BQB5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061776521900310646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 996,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "讣告\n此号主因使用劣质跳蛋而爆炸身亡\n请大家降半屏默哀 https://t.co/tNBEH1BQB5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 934,
+          "like_count": 1703,
+          "listed_count": 2,
+          "media_count": 1561,
+          "tweet_count": 4335
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-28T10:18:57.000Z",
+        "description": "黄金的魔女与美索不达米亚的女神的幻想剧",
+        "id": "1067724520444710914",
+        "location": "六轩岛",
+        "name": "人类夏",
+        "pinned_tweet_id": "1987646604673995078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1067726177505165312/QCDwmoup_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 61,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 580
+        },
+        "username": "_Natsubi",
+        "verified": false
+      }
+    ]
+  }
+}

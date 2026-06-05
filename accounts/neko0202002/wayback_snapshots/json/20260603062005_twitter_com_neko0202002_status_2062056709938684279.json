@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062056707904385024"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2061929215759700092",
+    "created_at": "2026-06-03T06:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T07:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062056709938684279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1838527847570509826",
+          "start": 0,
+          "username": "CLK5601"
+        },
+        {
+          "end": 25,
+          "id": "1889861257",
+          "start": 9,
+          "username": "__summer__sea__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GhDm6mIlkO",
+          "end": 49,
+          "expanded_url": "https://x.com/neko0202002/status/2062056709938684279/photo/1",
+          "media_key": "3_2062056707904385024",
+          "start": 26,
+          "url": "https://t.co/GhDm6mIlkO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062056709938684279",
+    "in_reply_to_user_id": "1838527847570509826",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061937706532524168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CLK5601 @__summer__sea__ https://t.co/GhDm6mIlkO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 373,
+        "media_key": "3_2062056707904385024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3lpo1aMAARx93.jpg",
+        "width": 373
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062056707904385024"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2061929215759700092",
+        "created_at": "2026-06-03T06:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062056709938684279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1838527847570509826",
+              "start": 0,
+              "username": "CLK5601"
+            },
+            {
+              "end": 25,
+              "id": "1889861257",
+              "start": 9,
+              "username": "__summer__sea__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GhDm6mIlkO",
+              "end": 49,
+              "expanded_url": "https://x.com/neko0202002/status/2062056709938684279/photo/1",
+              "media_key": "3_2062056707904385024",
+              "start": 26,
+              "url": "https://t.co/GhDm6mIlkO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062056709938684279",
+        "in_reply_to_user_id": "1838527847570509826",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061937706532524168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CLK5601 @__summer__sea__ https://t.co/GhDm6mIlkO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838527847570509826",
+        "conversation_id": "2061929215759700092",
+        "created_at": "2026-06-02T22:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T23:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061937706532524168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1889861257",
+              "start": 0,
+              "username": "__summer__sea__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061937706532524168",
+        "in_reply_to_user_id": "1889861257",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061929215759700092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__summer__sea__ 是雪吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 750,
+          "like_count": 1720,
+          "listed_count": 2,
+          "media_count": 1585,
+          "tweet_count": 4391
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T10:36:21.000Z",
+        "description": "歪比巴卜/不定时emo/神秘友跨人/懒王/hrt2025.9.14",
+        "id": "1838527847570509826",
+        "location": "地球",
+        "name": "闭梦网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847667087604666371/UNkMApoH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 1177,
+          "like_count": 1358,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 110
+        },
+        "username": "CLK5601",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-21T11:07:58.000Z",
+        "description": "神户盐｜16岁｜护理专业｜已扭转一年半｜家长不管党｜Q:3755457720｜对象:@sklmm_｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 42,
+                "username": "sklmm_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 23,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 0,
+                "url": "https://t.co/1e7qTaQHLq"
+              }
+            ]
+          }
+        },
+        "id": "1889861257",
+        "name": "盐🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061179467889074177/WoZoQ9BB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 785,
+          "like_count": 8822,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 2729
+        },
+        "url": "https://t.co/1e7qTaQHLq",
+        "username": "__summer__sea__",
+        "verified": false
+      }
+    ]
+  }
+}

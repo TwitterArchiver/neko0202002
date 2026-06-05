@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2061842526198493555",
+    "created_at": "2026-06-03T06:03:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T07:03:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062052630428536908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1709928872920469504",
+          "start": 0,
+          "username": "mahoshojopikapi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062052630428536908",
+    "in_reply_to_user_id": "1709928872920469504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061842526198493555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mahoshojopikapi 假 都是依托"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2061842526198493555",
+        "created_at": "2026-06-03T06:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062052630428536908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1709928872920469504",
+              "start": 0,
+              "username": "mahoshojopikapi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062052630428536908",
+        "in_reply_to_user_id": "1709928872920469504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061842526198493555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mahoshojopikapi 假 都是依托"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1709928872920469504",
+        "conversation_id": "2061842526198493555",
+        "created_at": "2026-06-02T16:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061842526198493555"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061842526198493555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3165,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ym煙蛋到底真的假的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 750,
+          "like_count": 1720,
+          "listed_count": 2,
+          "media_count": 1581,
+          "tweet_count": 4386
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-05T13:49:57.000Z",
+        "description": "@yuejian76078401 依存症",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "yuejian76078401"
+              }
+            ]
+          }
+        },
+        "id": "1709928872920469504",
+        "location": "天國",
+        "name": "✞︎ 魔法少女淺淺 ✞︎",
+        "pinned_tweet_id": "2003959488685264896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048532024999419904/rsVHsKtA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 287,
+          "like_count": 2532,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1768
+        },
+        "username": "mahoshojopikapi",
+        "verified": false
+      }
+    ]
+  }
+}

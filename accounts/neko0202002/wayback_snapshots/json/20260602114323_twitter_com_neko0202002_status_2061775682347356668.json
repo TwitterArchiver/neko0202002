@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2061729761450488114",
+    "created_at": "2026-06-02T11:43:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T12:43:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061775682347356668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "738040274673229824",
+          "start": 0,
+          "username": "tanatana5252"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061775682347356668",
+    "in_reply_to_user_id": "738040274673229824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061729761450488114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tanatana5252 右边第1条"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 774,
+        "media_key": "3_2061729757906317312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJy8SpLbsAAmtyZ.jpg",
+        "width": 1282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2061729761450488114",
+        "created_at": "2026-06-02T11:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061775682347356668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "738040274673229824",
+              "start": 0,
+              "username": "tanatana5252"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061775682347356668",
+        "in_reply_to_user_id": "738040274673229824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061729761450488114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tanatana5252 右边第1条"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061729757906317312"
+          ]
+        },
+        "author_id": "738040274673229824",
+        "conversation_id": "2061729761450488114",
+        "created_at": "2026-06-02T08:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T09:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061729761450488114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yYw5IXd5yn",
+              "end": 38,
+              "expanded_url": "https://x.com/tanatana5252/status/2061729761450488114/photo/1",
+              "media_key": "3_2061729757906317312",
+              "start": 15,
+              "url": "https://t.co/yYw5IXd5yn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061729761450488114",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 486,
+          "impression_count": 405742,
+          "like_count": 1428,
+          "quote_count": 209,
+          "reply_count": 164,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "どのスカートの丈が一番好き？ https://t.co/yYw5IXd5yn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 932,
+          "like_count": 1702,
+          "listed_count": 2,
+          "media_count": 1560,
+          "tweet_count": 4331
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-01T16:11:28.000Z",
+        "description": "話題のツイートを載せています。PR案件はDM下さい",
+        "id": "738040274673229824",
+        "location": "PR案件はDMまで",
+        "name": "忘れられない動画",
+        "pinned_tweet_id": "2039007554911748365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018548687094632448/MgWvr9ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534168,
+          "following_count": 1799,
+          "like_count": 28857,
+          "listed_count": 840,
+          "media_count": 5957,
+          "tweet_count": 38238
+        },
+        "username": "tanatana5252",
+        "verified": true
+      }
+    ]
+  }
+}

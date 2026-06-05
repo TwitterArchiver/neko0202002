@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2061399298953060353"
+      ],
+      "media_source_tweet_id": [
+        "2061399375113277853"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2061891785337819308",
+    "created_at": "2026-06-02T19:24:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T20:24:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061891785337819308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1842222138994085888",
+          "start": 3,
+          "username": "Nefertitibarni2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9b6F2dBoqy",
+          "end": 61,
+          "expanded_url": "https://x.com/Nefertitibarni2/status/2061399375113277853/video/1",
+          "media_key": "7_2061399298953060353",
+          "start": 38,
+          "url": "https://t.co/9b6F2dBoqy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061891785337819308",
+    "lang": "et",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1117
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061399375113277853",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nefertitibarni2: Oioioioioioi 😂😂😂 https://t.co/9b6F2dBoqy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 132585,
+        "height": 1024,
+        "media_key": "7_2061399298953060353",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2061399298953060353/pu/img/24a_vgaTyLY1YInI.jpg",
+        "public_metrics": {
+          "view_count": 1322637
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2061399298953060353/pu/vid/avc1/320x568/hLJIaxHslEUDRmK4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2061399298953060353/pu/vid/avc1/480x852/9Jq9C2bXty3vPRTF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2061399298953060353/pu/vid/avc1/576x1024/zvwS8u6uTfcAY0oe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2061399298953060353/pu/pl/hLH4sQpXxyvP0tzK.m3u8?v=7e6"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2061399298953060353"
+          ],
+          "media_source_tweet_id": [
+            "2061399375113277853"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061891785337819308",
+        "created_at": "2026-06-02T19:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T20:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061891785337819308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1842222138994085888",
+              "start": 3,
+              "username": "Nefertitibarni2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9b6F2dBoqy",
+              "end": 61,
+              "expanded_url": "https://x.com/Nefertitibarni2/status/2061399375113277853/video/1",
+              "media_key": "7_2061399298953060353",
+              "start": 38,
+              "url": "https://t.co/9b6F2dBoqy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061891785337819308",
+        "lang": "et",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1117
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061399375113277853",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nefertitibarni2: Oioioioioioi 😂😂😂 https://t.co/9b6F2dBoqy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2061399298953060353"
+          ]
+        },
+        "author_id": "1842222138994085888",
+        "conversation_id": "2061399375113277853",
+        "created_at": "2026-06-01T10:48:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T11:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061399375113277853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9b6F2dBoqy",
+              "end": 40,
+              "expanded_url": "https://x.com/Nefertitibarni2/status/2061399375113277853/video/1",
+              "media_key": "7_2061399298953060353",
+              "start": 17,
+              "url": "https://t.co/9b6F2dBoqy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061399375113277853",
+        "lang": "et",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2881,
+          "impression_count": 988880,
+          "like_count": 19963,
+          "quote_count": 13,
+          "reply_count": 36,
+          "retweet_count": 1117
+        },
+        "reply_settings": "everyone",
+        "text": "Oioioioioioi 😂😂😂 https://t.co/9b6F2dBoqy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 933,
+          "like_count": 1710,
+          "listed_count": 2,
+          "media_count": 1570,
+          "tweet_count": 4353
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T15:16:27.000Z",
+        "description": "Sevilla es como soñar con el cielo.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagam.com/nefertitibarni",
+                "end": 23,
+                "expanded_url": "http://instagam.com/nefertitibarni",
+                "start": 0,
+                "url": "https://t.co/S1EIDd7OYK"
+              }
+            ]
+          }
+        },
+        "id": "1842222138994085888",
+        "location": "Barcelona,Sevilla ",
+        "name": "De Sevilla al cielo.....",
+        "pinned_tweet_id": "2036066827751588158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024542414526935040/e7gCALAe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10913,
+          "following_count": 8184,
+          "like_count": 22519,
+          "listed_count": 9,
+          "media_count": 5081,
+          "tweet_count": 10838
+        },
+        "url": "https://t.co/S1EIDd7OYK",
+        "username": "Nefertitibarni2",
+        "verified": true
+      }
+    ]
+  }
+}

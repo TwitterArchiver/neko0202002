@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2062025721447686144"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2061991214547927451",
+    "created_at": "2026-06-03T04:17:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T05:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062025734303224261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1596794857179459584",
+          "start": 0,
+          "username": "1227uwu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A1okYm1ZAR",
+          "end": 37,
+          "expanded_url": "https://x.com/neko0202002/status/2062025734303224261/photo/1",
+          "media_key": "16_2062025721447686144",
+          "start": 14,
+          "url": "https://t.co/A1okYm1ZAR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062025734303224261",
+    "in_reply_to_user_id": "1596794857179459584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061991214547927451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1227uwu 蹲蹲宝宝 https://t.co/A1okYm1ZAR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_2062025721447686144",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HJ3Jd_SboAAxOIi.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HJ3Jd_SboAAxOIi.mp4"
+          }
+        ],
+        "width": 220
+      },
+      {
+        "height": 1141,
+        "media_key": "3_2061991196147535872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ2qEWhbUAAop5A.jpg",
+        "width": 862
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2062025721447686144"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2061991214547927451",
+        "created_at": "2026-06-03T04:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062025734303224261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1596794857179459584",
+              "start": 0,
+              "username": "1227uwu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A1okYm1ZAR",
+              "end": 37,
+              "expanded_url": "https://x.com/neko0202002/status/2062025734303224261/photo/1",
+              "media_key": "16_2062025721447686144",
+              "start": 14,
+              "url": "https://t.co/A1okYm1ZAR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062025734303224261",
+        "in_reply_to_user_id": "1596794857179459584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061991214547927451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1227uwu 蹲蹲宝宝 https://t.co/A1okYm1ZAR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061991196147535872"
+          ]
+        },
+        "author_id": "1596794857179459584",
+        "conversation_id": "2061991214547927451",
+        "created_at": "2026-06-03T01:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T02:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061991214547927451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eQThg25MJf",
+              "end": 134,
+              "expanded_url": "https://x.com/1227uwu/status/2061991214547927451/photo/1",
+              "media_key": "3_2061991196147535872",
+              "start": 111,
+              "url": "https://t.co/eQThg25MJf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061991214547927451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 300,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "100fo了。！\n虽然完全是因为那个帖子才到的……但是抽个奖吧꜀(˘꒳˘ ꜀)\n一等奖：普瑞巴林2板 or 52CNY*1\n二等奖：20CNY*2\n三等奖：10CNY*3\n参与条件：点赞 转帖 关注 评论\n6.20开奖～ https://t.co/eQThg25MJf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 886,
+          "like_count": 1716,
+          "listed_count": 2,
+          "media_count": 1576,
+          "tweet_count": 4372
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T09:15:49.000Z",
+        "description": "bpd｜asd｜泛性恋｜友跨｜自残🈶 | 精神状态不是很良好｜可以私信互fo但是我会查成分选择性回｜仅记录生活｜有需要可以陪你聊天不用钱",
+        "id": "1596794857179459584",
+        "name": "今天过得还好吗",
+        "pinned_tweet_id": "2060295656242299093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597873722852970498/Zq1iYwd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 68,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 136
+        },
+        "username": "1227uwu",
+        "verified": false
+      }
+    ]
+  }
+}

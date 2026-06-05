@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2061768208286388401",
+    "created_at": "2026-06-02T18:39:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T19:39:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061880520230019304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1937765015341420544",
+          "start": 0,
+          "username": "satellite_333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061880520230019304",
+    "in_reply_to_user_id": "1937765015341420544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061768208286388401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@satellite_333 叛逆里面的脸好圆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2061768199017021440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzfQNebQAAJsxC.jpg",
+        "width": 724
+      },
+      {
+        "height": 1132,
+        "media_key": "3_2061768198907891712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzfQNEaEAAGFzb.jpg",
+        "width": 800
+      },
+      {
+        "height": 698,
+        "media_key": "3_2061768198924775424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzfQNIbsAAWiLR.jpg",
+        "width": 589
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2061768208286388401",
+        "created_at": "2026-06-02T18:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T19:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061880520230019304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1937765015341420544",
+              "start": 0,
+              "username": "satellite_333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061880520230019304",
+        "in_reply_to_user_id": "1937765015341420544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061768208286388401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@satellite_333 叛逆里面的脸好圆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061768199017021440",
+            "3_2061768198907891712",
+            "3_2061768198924775424"
+          ]
+        },
+        "author_id": "1937765015341420544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2061768208286388401",
+        "created_at": "2026-06-02T11:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061768208286388401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g1ObW4wFDg",
+              "end": 55,
+              "expanded_url": "https://x.com/satellite_333/status/2061768208286388401/photo/1",
+              "media_key": "3_2061768199017021440",
+              "start": 32,
+              "url": "https://t.co/g1ObW4wFDg"
+            },
+            {
+              "display_url": "pic.x.com/g1ObW4wFDg",
+              "end": 55,
+              "expanded_url": "https://x.com/satellite_333/status/2061768208286388401/photo/1",
+              "media_key": "3_2061768198907891712",
+              "start": 32,
+              "url": "https://t.co/g1ObW4wFDg"
+            },
+            {
+              "display_url": "pic.x.com/g1ObW4wFDg",
+              "end": 55,
+              "expanded_url": "https://x.com/satellite_333/status/2061768208286388401/photo/1",
+              "media_key": "3_2061768198924775424",
+              "start": 32,
+              "url": "https://t.co/g1ObW4wFDg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061768208286388401",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 12902,
+          "like_count": 344,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "ほむ愛からまどマギ入ったから細かい部分は未だによくわかってない https://t.co/g1ObW4wFDg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 933,
+          "like_count": 1708,
+          "listed_count": 2,
+          "media_count": 1568,
+          "tweet_count": 4349
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-25T06:49:33.000Z",
+        "description": "",
+        "id": "1937765015341420544",
+        "location": "東京 渋谷区",
+        "name": "ふりかけ株式会社",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033858999360339968/_G_Clamc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2222,
+          "following_count": 3017,
+          "like_count": 13101,
+          "listed_count": 5,
+          "media_count": 1062,
+          "tweet_count": 7838
+        },
+        "username": "satellite_333",
+        "verified": true
+      }
+    ]
+  }
+}

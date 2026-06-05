@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2061659998338556389",
+    "created_at": "2026-06-02T19:55:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T20:55:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061899432942260281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1734188803747962880",
+          "start": 0,
+          "username": "GeBiubiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061899432942260281",
+    "in_reply_to_user_id": "1734188803747962880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061659998338556389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GeBiubiu 江西鸡饭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061659986040958976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJx81YubsAA6y6-.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2061659998338556389",
+        "created_at": "2026-06-02T19:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T20:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061899432942260281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1734188803747962880",
+              "start": 0,
+              "username": "GeBiubiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061899432942260281",
+        "in_reply_to_user_id": "1734188803747962880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061659998338556389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GeBiubiu 江西鸡饭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061659986040958976"
+          ]
+        },
+        "author_id": "1734188803747962880",
+        "conversation_id": "2061659998338556389",
+        "created_at": "2026-06-02T04:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061659998338556389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DYurAPqw3D",
+              "end": 29,
+              "expanded_url": "https://x.com/GeBiubiu/status/2061659998338556389/photo/1",
+              "media_key": "3_2061659986040958976",
+              "start": 6,
+              "url": "https://t.co/DYurAPqw3D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061659998338556389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 64318,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 131,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看图猜成语 https://t.co/DYurAPqw3D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 886,
+          "like_count": 1712,
+          "listed_count": 2,
+          "media_count": 1574,
+          "tweet_count": 4364
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-11T12:30:30.000Z",
+        "description": "🇨🇳 钢筋直男 分享 美好\n      \n（视频图片源自网络 如有侵权请联系删除～）",
+        "id": "1734188803747962880",
+        "location": "Jiangxi China",
+        "name": "是Biubiu_Ge",
+        "pinned_tweet_id": "2028390436583485865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011019340095897601/M3EAib_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11868,
+          "following_count": 6072,
+          "like_count": 409574,
+          "listed_count": 37,
+          "media_count": 1216,
+          "tweet_count": 19698
+        },
+        "username": "GeBiubiu",
+        "verified": false
+      }
+    ]
+  }
+}
