@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2063866600227528704"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2063834835391750542",
+    "created_at": "2026-06-08T06:11:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T07:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063866611103371644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1732763258325762048",
+          "start": 0,
+          "username": "laigendianziyan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/09z6YNR4eh",
+          "end": 69,
+          "expanded_url": "https://x.com/neko0202002/status/2063866611103371644/photo/1",
+          "media_key": "16_2063866600227528704",
+          "start": 46,
+          "url": "https://t.co/09z6YNR4eh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063866611103371644",
+    "in_reply_to_user_id": "1732763258325762048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063834835391750542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@laigendianziyan 还下架了特别多的歌，只要哪首歌火起来了，就只能会员才能听 https://t.co/09z6YNR4eh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_2063866600227528704",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKRTvPJa4AAuyxZ.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKRTvPJa4AAuyxZ.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2063866600227528704"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2063834835391750542",
+        "created_at": "2026-06-08T06:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063866611103371644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1732763258325762048",
+              "start": 0,
+              "username": "laigendianziyan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/09z6YNR4eh",
+              "end": 69,
+              "expanded_url": "https://x.com/neko0202002/status/2063866611103371644/photo/1",
+              "media_key": "16_2063866600227528704",
+              "start": 46,
+              "url": "https://t.co/09z6YNR4eh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063866611103371644",
+        "in_reply_to_user_id": "1732763258325762048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063834835391750542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laigendianziyan 还下架了特别多的歌，只要哪首歌火起来了，就只能会员才能听 https://t.co/09z6YNR4eh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "conversation_id": "2063834835391750542",
+        "created_at": "2026-06-08T04:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063834835391750542"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063834835391750542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "事实上虽然我从初中就开始用网易云，但是我依然觉得网易云是傻逼，莫名其妙给很多歌加个VIP又把UI改的很傻逼。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 761,
+          "like_count": 1771,
+          "listed_count": 2,
+          "media_count": 1648,
+          "tweet_count": 4523
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "description": "恋人@marisa114514191 \n应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "marisa114514191"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitR0OB"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "raincandy_U",
+        "pinned_tweet_id": "2061022848504991748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053853903444381696/z7Kqgead_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 282,
+          "like_count": 18121,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1237
+        },
+        "url": "https://t.co/tFlSitR0OB",
+        "username": "laigendianziyan",
+        "verified": false
+      }
+    ]
+  }
+}

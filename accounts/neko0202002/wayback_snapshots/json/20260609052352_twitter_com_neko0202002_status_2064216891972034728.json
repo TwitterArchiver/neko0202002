@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2063977761723822272",
+    "created_at": "2026-06-09T05:23:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T06:23:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064216891972034728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2041850477298450432",
+          "start": 0,
+          "username": "tangnian73454"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064216891972034728",
+    "in_reply_to_user_id": "2041850477298450432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063985460247150863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangnian73454 抱抱喵^^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2063977761723822272",
+        "created_at": "2026-06-09T05:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064216891972034728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2041850477298450432",
+              "start": 0,
+              "username": "tangnian73454"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064216891972034728",
+        "in_reply_to_user_id": "2041850477298450432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063985460247150863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangnian73454 抱抱喵^^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041850477298450432",
+        "conversation_id": "2063977761723822272",
+        "created_at": "2026-06-08T14:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063985460247150863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063985460247150863",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063977761723822272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 抱抱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 762,
+          "like_count": 1800,
+          "listed_count": 2,
+          "media_count": 1689,
+          "tweet_count": 4589
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T12:07:55.000Z",
+        "description": "",
+        "id": "2041850477298450432",
+        "name": "仁術",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062206692516069376/AS-D_KUu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 358,
+          "like_count": 3484,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 36
+        },
+        "username": "tangnian73454",
+        "verified": false
+      }
+    ]
+  }
+}

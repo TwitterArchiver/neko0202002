@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2063204282946723846",
+    "created_at": "2026-06-06T12:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T13:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063241428520878580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1067724520444710914",
+          "start": 0,
+          "username": "_Natsubi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063241428520878580",
+    "in_reply_to_user_id": "1067724520444710914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063204282946723846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Natsubi 早喔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2063204282946723846",
+        "created_at": "2026-06-06T12:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063241428520878580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1067724520444710914",
+              "start": 0,
+              "username": "_Natsubi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063241428520878580",
+        "in_reply_to_user_id": "1067724520444710914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063204282946723846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Natsubi 早喔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1067724520444710914",
+        "conversation_id": "2063204282946723846",
+        "created_at": "2026-06-06T10:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063204282946723846"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063204282946723846",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "早安喵～～♪( ´▽｀)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 752,
+          "like_count": 1747,
+          "listed_count": 2,
+          "media_count": 1615,
+          "tweet_count": 4449
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-28T10:18:57.000Z",
+        "description": "口令投喂小咪掉落聊天分享🐾～\n猫罐罐解锁互关咪🐾～",
+        "id": "1067724520444710914",
+        "location": "猫条供应中",
+        "name": "人类夏",
+        "pinned_tweet_id": "2062146021376045203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1067726177505165312/QCDwmoup_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1583,
+          "following_count": 97,
+          "like_count": 50,
+          "listed_count": 3,
+          "media_count": 19,
+          "tweet_count": 636
+        },
+        "username": "_Natsubi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2064319325159510017"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2061811426763923793",
+    "created_at": "2026-06-09T12:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T13:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064319335972372972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047631836864483328",
+          "start": 0,
+          "username": "TuT_1Apple"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G7JW7h7IAY",
+          "end": 42,
+          "expanded_url": "https://x.com/neko0202002/status/2064319335972372972/photo/1",
+          "media_key": "16_2064319325159510017",
+          "start": 19,
+          "url": "https://t.co/G7JW7h7IAY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064319335972372972",
+    "in_reply_to_user_id": "2047631836864483328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061811426763923793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TuT_1Apple msk你又来 https://t.co/G7JW7h7IAY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_2064319325159510017",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKXvfS8bUAEiQmj.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKXvfS8bUAEiQmj.mp4"
+          }
+        ],
+        "width": 500
+      },
+      {
+        "height": 1167,
+        "media_key": "3_2061811418538860544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0Gj6vaYAATkIm.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2064319325159510017"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2061811426763923793",
+        "created_at": "2026-06-09T12:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064319335972372972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047631836864483328",
+              "start": 0,
+              "username": "TuT_1Apple"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G7JW7h7IAY",
+              "end": 42,
+              "expanded_url": "https://x.com/neko0202002/status/2064319335972372972/photo/1",
+              "media_key": "16_2064319325159510017",
+              "start": 19,
+              "url": "https://t.co/G7JW7h7IAY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064319335972372972",
+        "in_reply_to_user_id": "2047631836864483328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061811426763923793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TuT_1Apple msk你又来 https://t.co/G7JW7h7IAY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061811418538860544"
+          ]
+        },
+        "author_id": "2047631836864483328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061811426763923793",
+        "created_at": "2026-06-02T14:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061811426763923793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8X10uLss6U",
+              "end": 37,
+              "expanded_url": "https://x.com/TuT_1Apple/status/2061811426763923793/photo/1",
+              "media_key": "3_2061811418538860544",
+              "start": 14,
+              "url": "https://t.co/8X10uLss6U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061811426763923793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4035,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我想哭。大号炸了互关回家… https://t.co/8X10uLss6U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 763,
+          "like_count": 1806,
+          "listed_count": 2,
+          "media_count": 1705,
+          "tweet_count": 4618
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T11:01:56.000Z",
+        "description": "le｜双相重焦OD\n防炸/雪兔：@QwQ_1Apple",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "QwQ_1Apple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1apple1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1apple1",
+                "start": 0,
+                "url": "https://t.co/qYZZSVklsj"
+              }
+            ]
+          }
+        },
+        "id": "2047631836864483328",
+        "location": "我的心为恐惧和欲望而跳动",
+        "name": "薄荷紙2.0",
+        "pinned_tweet_id": "2061811426763923793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047632187692879872/kfTCIWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 19,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 181
+        },
+        "url": "https://t.co/qYZZSVklsj",
+        "username": "TuT_1Apple",
+        "verified": false
+      }
+    ]
+  }
+}

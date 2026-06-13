@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2062856745131917607",
+    "created_at": "2026-06-05T11:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T12:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062856745131917607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "795199441770872833",
+          "start": 3,
+          "username": "mvrtinza"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062856745131917607",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 383
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062514580048302586",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mvrtinza: twitter está dividido en dos grupos, los que se están cachondos todo el día y los que se quieren morir"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2062856745131917607",
+        "created_at": "2026-06-05T11:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062856745131917607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "795199441770872833",
+              "start": 3,
+              "username": "mvrtinza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062856745131917607",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 383
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062514580048302586",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mvrtinza: twitter está dividido en dos grupos, los que se están cachondos todo el día y los que se quieren morir"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "795199441770872833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2062514580048302586",
+        "created_at": "2026-06-04T12:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062514580048302586"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062514580048302586",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 36898,
+          "like_count": 2184,
+          "quote_count": 94,
+          "reply_count": 55,
+          "retweet_count": 383
+        },
+        "reply_settings": "everyone",
+        "text": "twitter está dividido en dos grupos, los que se están cachondos todo el día y los que se quieren morir"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 750,
+          "like_count": 1738,
+          "listed_count": 2,
+          "media_count": 1613,
+          "tweet_count": 4439
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-06T09:41:35.000Z",
+        "description": "for honor",
+        "id": "795199441770872833",
+        "name": "🏴‍☠️",
+        "pinned_tweet_id": "2040510341143019737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954542908742197249/4eLYYuOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 240,
+          "like_count": 1296,
+          "listed_count": 1,
+          "media_count": 8485,
+          "tweet_count": 43875
+        },
+        "username": "mvrtinza",
+        "verified": false
+      }
+    ]
+  }
+}
