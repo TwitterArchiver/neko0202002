@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2067519858955403527",
+    "created_at": "2026-06-18T08:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T09:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067519858955403527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1507939258606428167",
+          "start": 3,
+          "username": "dazaimiyano"
+        },
+        {
+          "end": 32,
+          "id": "1615158827376349185",
+          "start": 17,
+          "username": "MinMin89485072"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067519858955403527",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067434895304163640",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dazaimiyano: @MinMin89485072 かわいそうに、ワンコになんの罪がある？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2067519858955403527",
+        "created_at": "2026-06-18T08:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067519858955403527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1507939258606428167",
+              "start": 3,
+              "username": "dazaimiyano"
+            },
+            {
+              "end": 32,
+              "id": "1615158827376349185",
+              "start": 17,
+              "username": "MinMin89485072"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067519858955403527",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067434895304163640",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dazaimiyano: @MinMin89485072 かわいそうに、ワンコになんの罪がある？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507939258606428167",
+        "conversation_id": "2067266204054815227",
+        "created_at": "2026-06-18T02:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T03:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067434895304163640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1615158827376349185",
+              "start": 0,
+              "username": "MinMin89485072"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067434895304163640",
+        "in_reply_to_user_id": "1615158827376349185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3392,
+          "like_count": 149,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067266204054815227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinMin89485072 かわいそうに、ワンコになんの罪がある？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 631,
+          "like_count": 1939,
+          "listed_count": 2,
+          "media_count": 1893,
+          "tweet_count": 5004
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-27T04:35:49.000Z",
+        "description": "れいわ、共産党、社民党、旧民主党、公明党などが大嫌いなネトウヨです。",
+        "id": "1507939258606428167",
+        "name": "鑑寿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1737425291684044800/mTYUQ1e-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 790,
+          "like_count": 24040,
+          "listed_count": 4,
+          "media_count": 101,
+          "tweet_count": 30021
+        },
+        "url": "",
+        "username": "dazaimiyano",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-17T01:28:17.000Z",
+        "description": "捍卫自由，享受自由",
+        "id": "1615158827376349185",
+        "location": "California, USA",
+        "name": "郑敏",
+        "pinned_tweet_id": "1752151508920197394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739811064005730304/_BfTzvUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15279,
+          "following_count": 884,
+          "like_count": 1066,
+          "listed_count": 74,
+          "media_count": 1278,
+          "tweet_count": 3056
+        },
+        "url": "",
+        "username": "MinMin89485072",
+        "verified": true
+      }
+    ]
+  }
+}

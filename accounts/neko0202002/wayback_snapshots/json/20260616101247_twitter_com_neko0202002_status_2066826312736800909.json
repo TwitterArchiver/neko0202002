@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2066826312736800909",
+    "created_at": "2026-06-16T10:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T11:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066826312736800909"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/misumikaede3/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/misumikaede3/status/2066818030643154968",
+          "start": 6,
+          "url": "https://t.co/ZZe6xtYdi5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066826312736800909",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066818030643154968",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "神医啊😭🙌 https://t.co/ZZe6xtYdi5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2066826312736800909",
+        "created_at": "2026-06-16T10:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066826312736800909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/misumikaede3/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/misumikaede3/status/2066818030643154968",
+              "start": 6,
+              "url": "https://t.co/ZZe6xtYdi5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066826312736800909",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066818030643154968",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神医啊😭🙌 https://t.co/ZZe6xtYdi5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802704441961017344",
+        "conversation_id": "2066788879303393719",
+        "created_at": "2026-06-16T09:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066818030643154968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "215939847",
+              "start": 0,
+              "username": "bboczeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066818030643154968",
+        "in_reply_to_user_id": "215939847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066788879303393719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bboczeng 你去药房买点右美沙芬吃个十几二十粒的或者去医院装疼痛开点曲马多羟考酮吃个四五粒的就知道人继续活下去为了什么了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 658,
+          "like_count": 1924,
+          "listed_count": 2,
+          "media_count": 1875,
+          "tweet_count": 4964
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "（百八十無常、冰川枫）20+ AuDHD🌪️ enby 🍥 2025.11.14 oder💊｜不论虚无与现实，且行，且行，行动以得知，得知而正行｜精神状态奇异 政治倾向奇特 想成为不走极端的人 喜欢我的请来和我交朋友 如果我发疯非常抱歉 小号的我：你猜",
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "三角枫🏳️‍⚧️#锦绣三",
+        "pinned_tweet_id": "2033998879956619524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062045921832300544/FeFvueDz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 1233,
+          "like_count": 36404,
+          "listed_count": 5,
+          "media_count": 368,
+          "tweet_count": 11557
+        },
+        "username": "misumikaede3",
+        "verified": false
+      }
+    ]
+  }
+}

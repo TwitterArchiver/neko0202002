@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2066861465815179264"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2066825512723603754",
+    "created_at": "2026-06-16T12:32:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T13:32:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066861475772465244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1733157188057853952",
+          "start": 0,
+          "username": "nigich436594"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BzpaEgC8rV",
+          "end": 40,
+          "expanded_url": "https://x.com/neko0202002/status/2066861475772465244/photo/1",
+          "media_key": "16_2066861465815179264",
+          "start": 17,
+          "url": "https://t.co/BzpaEgC8rV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066861475772465244",
+    "in_reply_to_user_id": "1733157188057853952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066859680148992090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nigich436594 好喵 https://t.co/BzpaEgC8rV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 200,
+        "media_key": "16_2066861465815179264",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HK73jW3bYAAnp-i.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HK73jW3bYAAnp-i.mp4"
+          }
+        ],
+        "width": 164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2066861465815179264"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2066825512723603754",
+        "created_at": "2026-06-16T12:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066861475772465244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1733157188057853952",
+              "start": 0,
+              "username": "nigich436594"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BzpaEgC8rV",
+              "end": 40,
+              "expanded_url": "https://x.com/neko0202002/status/2066861475772465244/photo/1",
+              "media_key": "16_2066861465815179264",
+              "start": 17,
+              "url": "https://t.co/BzpaEgC8rV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066861475772465244",
+        "in_reply_to_user_id": "1733157188057853952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066859680148992090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nigich436594 好喵 https://t.co/BzpaEgC8rV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733157188057853952",
+        "conversation_id": "2066825512723603754",
+        "created_at": "2026-06-16T12:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066859680148992090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066859680148992090",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066825512723603754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 13812！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 658,
+          "like_count": 1931,
+          "listed_count": 2,
+          "media_count": 1885,
+          "tweet_count": 4981
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T16:10:56.000Z",
+        "description": "💕OD｜餐卷妹｜可以找我聊天很爱说话🐱一枚｜直fo就是喜欢你吖",
+        "id": "1733157188057853952",
+        "location": "ᵟຶᴖ ᵟຶ",
+        "name": "想当幸福小猫",
+        "pinned_tweet_id": "2066840989449490833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066231620416471041/lX-zAlgu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 162,
+          "like_count": 2313,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 549
+        },
+        "username": "nigich436594",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,531 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2068200209100992512"
+      ],
+      "media_source_tweet_id": [
+        "2068200268756562357"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10043651948",
+          "name": "Re:ゼロから始める異世界体験"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1229696070654889984",
+          "name": "Re:ゼロから始める異世界生活"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1296957403020189698",
+          "name": "Re:Zero − Starting Life in Another World"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296957403020189698",
+          "name": "Re:Zero − Starting Life in Another World"
+        }
+      }
+    ],
+    "conversation_id": "2068242787586470327",
+    "created_at": "2026-06-20T08:01:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T09:01:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068242787586470327"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 25,
+          "tag": "リゼロ"
+        },
+        {
+          "end": 38,
+          "start": 31,
+          "tag": "rezero"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1797841849752903680",
+          "start": 3,
+          "username": "helpmememe_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lwffzWtEqZ",
+          "end": 62,
+          "expanded_url": "https://x.com/helpmememe_/status/2068200268756562357/video/1",
+          "media_key": "13_2068200209100992512",
+          "start": 39,
+          "url": "https://t.co/lwffzWtEqZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068242787586470327",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1122
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068200268756562357",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @helpmememe_: 交通安全の加護 #リゼロ  #rezero https://t.co/lwffzWtEqZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18100,
+        "height": 896,
+        "media_key": "13_2068200209100992512",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068200209100992512/img/vGJaR0ef8O6oVBMJ.jpg",
+        "public_metrics": {
+          "view_count": 110259
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068200209100992512/vid/avc1/320x398/xJYkc3tMgoQMLJm_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068200209100992512/vid/avc1/480x596/CPRP_QZIokoKjZfo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068200209100992512/vid/avc1/720x896/Cn3Hd0Vc97_mJq5x.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068200209100992512/pl/dBOXYQR_UQAueOwj.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068200209100992512"
+          ],
+          "media_source_tweet_id": [
+            "2068200268756562357"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10043651948",
+              "name": "Re:ゼロから始める異世界体験"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1229696070654889984",
+              "name": "Re:ゼロから始める異世界生活"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1296957403020189698",
+              "name": "Re:Zero − Starting Life in Another World"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296957403020189698",
+              "name": "Re:Zero − Starting Life in Another World"
+            }
+          }
+        ],
+        "conversation_id": "2068242787586470327",
+        "created_at": "2026-06-20T08:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T09:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068242787586470327"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "リゼロ"
+            },
+            {
+              "end": 38,
+              "start": 31,
+              "tag": "rezero"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1797841849752903680",
+              "start": 3,
+              "username": "helpmememe_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lwffzWtEqZ",
+              "end": 62,
+              "expanded_url": "https://x.com/helpmememe_/status/2068200268756562357/video/1",
+              "media_key": "13_2068200209100992512",
+              "start": 39,
+              "url": "https://t.co/lwffzWtEqZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068242787586470327",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1122
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068200268756562357",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @helpmememe_: 交通安全の加護 #リゼロ  #rezero https://t.co/lwffzWtEqZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068200209100992512"
+          ]
+        },
+        "author_id": "1797841849752903680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10043651948",
+              "name": "Re:ゼロから始める異世界体験"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1229696070654889984",
+              "name": "Re:ゼロから始める異世界生活"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1296957403020189698",
+              "name": "Re:Zero − Starting Life in Another World"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296957403020189698",
+              "name": "Re:Zero − Starting Life in Another World"
+            }
+          }
+        ],
+        "conversation_id": "2068200268756562357",
+        "created_at": "2026-06-20T05:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068200268756562357"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "リゼロ"
+            },
+            {
+              "end": 21,
+              "start": 14,
+              "tag": "rezero"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lwffzWtEqZ",
+              "end": 45,
+              "expanded_url": "https://x.com/helpmememe_/status/2068200268756562357/video/1",
+              "media_key": "13_2068200209100992512",
+              "start": 22,
+              "url": "https://t.co/lwffzWtEqZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068200268756562357",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1493,
+          "impression_count": 239291,
+          "like_count": 9631,
+          "quote_count": 34,
+          "reply_count": 17,
+          "retweet_count": 1122
+        },
+        "reply_settings": "everyone",
+        "text": "交通安全の加護 #リゼロ  #rezero https://t.co/lwffzWtEqZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 644,
+          "like_count": 1977,
+          "listed_count": 2,
+          "media_count": 1920,
+          "tweet_count": 5089
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T04:04:54.000Z",
+        "description": "へるぷみーといいます｜20⤴︎腐｜ﾘｾﾞﾛ垢｜地雷なし",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/c7lox2kz6…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/c7lox2kz65gfnizs/",
+                "start": 0,
+                "url": "https://t.co/oct6DfEvBK"
+              }
+            ]
+          }
+        },
+        "id": "1797841849752903680",
+        "location": "リクエストなど ⇢",
+        "name": "ʜᴇʟᴘ ᴍᴇ",
+        "pinned_tweet_id": "2068003354459124096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066938194726465536/b0NlcQ5q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 15,
+          "like_count": 145,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 98
+        },
+        "url": "https://t.co/oct6DfEvBK",
+        "username": "helpmememe_",
+        "verified": false
+      }
+    ]
+  }
+}

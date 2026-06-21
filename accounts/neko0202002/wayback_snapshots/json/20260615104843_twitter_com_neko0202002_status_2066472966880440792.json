@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2066192124329295873"
+      ],
+      "media_source_tweet_id": [
+        "2066192186455298095"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2066472966880440792",
+    "created_at": "2026-06-15T10:48:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T11:48:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066472966880440792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2045414736985243648",
+          "start": 3,
+          "username": "suda_kanade2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vTwDC8vBJY",
+          "end": 50,
+          "expanded_url": "https://x.com/suda_kanade2/status/2066192186455298095/video/1",
+          "media_key": "13_2066192124329295873",
+          "start": 27,
+          "url": "https://t.co/vTwDC8vBJY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066472966880440792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066192186455298095",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suda_kanade2: 光より影が良い。 https://t.co/vTwDC8vBJY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10625,
+        "height": 1280,
+        "media_key": "13_2066192124329295873",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2066192124329295873/img/LjuiKsEjBHDuVSY1.jpg",
+        "public_metrics": {
+          "view_count": 1040
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066192124329295873/vid/avc1/320x568/F1IgwTbuTB-ONDoO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066192124329295873/vid/avc1/480x852/XBzolLNrzqT428XS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2066192124329295873/vid/avc1/720x1280/2F1PC2TKVRDI_kQi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2066192124329295873/pl/f4iFZza8hN0aeHD_.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066192124329295873"
+          ],
+          "media_source_tweet_id": [
+            "2066192186455298095"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2066472966880440792",
+        "created_at": "2026-06-15T10:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066472966880440792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2045414736985243648",
+              "start": 3,
+              "username": "suda_kanade2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vTwDC8vBJY",
+              "end": 50,
+              "expanded_url": "https://x.com/suda_kanade2/status/2066192186455298095/video/1",
+              "media_key": "13_2066192124329295873",
+              "start": 27,
+              "url": "https://t.co/vTwDC8vBJY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066472966880440792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066192186455298095",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suda_kanade2: 光より影が良い。 https://t.co/vTwDC8vBJY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2066192124329295873"
+          ]
+        },
+        "author_id": "2045414736985243648",
+        "conversation_id": "2066192186455298095",
+        "created_at": "2026-06-14T16:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066192186455298095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vTwDC8vBJY",
+              "end": 32,
+              "expanded_url": "https://x.com/suda_kanade2/status/2066192186455298095/video/1",
+              "media_key": "13_2066192124329295873",
+              "start": 9,
+              "url": "https://t.co/vTwDC8vBJY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066192186455298095",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 3566,
+          "like_count": 308,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "光より影が良い。 https://t.co/vTwDC8vBJY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 674,
+          "like_count": 1888,
+          "listed_count": 2,
+          "media_count": 1847,
+          "tweet_count": 4894
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-18T08:12:21.000Z",
+        "description": "佐倉杏子ちゃん専用アカウント🍎\nコスプレは綺麗に写ったものだけ投稿してます。\n時々関係ないことも呟く。",
+        "id": "2045414736985243648",
+        "name": "すだ奏 プリレコ17参加🍎",
+        "pinned_tweet_id": "2051971968560435383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046876360782823424/-Zb-KvSu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 77,
+          "like_count": 1487,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 623
+        },
+        "username": "suda_kanade2",
+        "verified": false
+      }
+    ]
+  }
+}

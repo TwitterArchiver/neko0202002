@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2065417790765535232"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2065396171011764465",
+    "created_at": "2026-06-12T12:55:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T13:55:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065417801490477244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1949348575378644992",
+          "start": 0,
+          "username": "Ace_Purin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WrMaL97UPx",
+          "end": 39,
+          "expanded_url": "https://x.com/neko0202002/status/2065417801490477244/photo/1",
+          "media_key": "16_2065417790765535232",
+          "start": 16,
+          "url": "https://t.co/WrMaL97UPx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065417801490477244",
+    "in_reply_to_user_id": "1949348575378644992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065409823374790949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ace_Purin 乖宝乖宝 https://t.co/WrMaL97UPx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 280,
+        "media_key": "16_2065417790765535232",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKnWiaNaEAAq09y.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKnWiaNaEAAq09y.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2065417790765535232"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2065396171011764465",
+        "created_at": "2026-06-12T12:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065417801490477244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1949348575378644992",
+              "start": 0,
+              "username": "Ace_Purin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WrMaL97UPx",
+              "end": 39,
+              "expanded_url": "https://x.com/neko0202002/status/2065417801490477244/photo/1",
+              "media_key": "16_2065417790765535232",
+              "start": 16,
+              "url": "https://t.co/WrMaL97UPx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065417801490477244",
+        "in_reply_to_user_id": "1949348575378644992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065409823374790949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ace_Purin 乖宝乖宝 https://t.co/WrMaL97UPx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2065396171011764465",
+        "created_at": "2026-06-12T12:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065409823374790949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065409823374790949",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065396171011764465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 姐姐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 772,
+          "like_count": 1841,
+          "listed_count": 2,
+          "media_count": 1774,
+          "tweet_count": 4756
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 275,
+          "like_count": 3210,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 2210
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      }
+    ]
+  }
+}

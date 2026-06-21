@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067580644276977664"
+      ],
+      "media_source_tweet_id": [
+        "2067580650782351852"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2067842734136991907",
+    "created_at": "2026-06-19T05:31:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T06:31:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067842734136991907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1950813430115684352",
+          "start": 3,
+          "username": "imaginaryoil100"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s9GHGcQroM",
+          "end": 50,
+          "expanded_url": "https://x.com/imaginaryoil100/status/2067580650782351852/photo/1",
+          "media_key": "3_2067580644276977664",
+          "start": 27,
+          "url": "https://t.co/s9GHGcQroM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067842734136991907",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067580650782351852",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @imaginaryoil100: きてみた♡ https://t.co/s9GHGcQroM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1477,
+        "media_key": "3_2067580644276977664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGFpDaaQAAqamp.jpg",
+        "width": 1108
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067580644276977664"
+          ],
+          "media_source_tweet_id": [
+            "2067580650782351852"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2067842734136991907",
+        "created_at": "2026-06-19T05:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067842734136991907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1950813430115684352",
+              "start": 3,
+              "username": "imaginaryoil100"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s9GHGcQroM",
+              "end": 50,
+              "expanded_url": "https://x.com/imaginaryoil100/status/2067580650782351852/photo/1",
+              "media_key": "3_2067580644276977664",
+              "start": 27,
+              "url": "https://t.co/s9GHGcQroM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067842734136991907",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067580650782351852",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @imaginaryoil100: きてみた♡ https://t.co/s9GHGcQroM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067580644276977664"
+          ]
+        },
+        "author_id": "1950813430115684352",
+        "conversation_id": "2067580650782351852",
+        "created_at": "2026-06-18T12:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067580650782351852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s9GHGcQroM",
+              "end": 29,
+              "expanded_url": "https://x.com/imaginaryoil100/status/2067580650782351852/photo/1",
+              "media_key": "3_2067580644276977664",
+              "start": 6,
+              "url": "https://t.co/s9GHGcQroM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067580650782351852",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 3381,
+          "like_count": 142,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "きてみた♡ https://t.co/s9GHGcQroM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 638,
+          "like_count": 1968,
+          "listed_count": 2,
+          "media_count": 1914,
+          "tweet_count": 5070
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-31T06:59:11.000Z",
+        "description": "すげえ落書き\nskeb: https://t.co/K3o2xobn7K",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@imaginaryoil1…",
+                "end": 36,
+                "expanded_url": "https://skeb.jp/@imaginaryoil100",
+                "start": 13,
+                "url": "https://t.co/K3o2xobn7K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/grmvnpfp1j2by6…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/grmvnpfp1j2by6a?t=R7EI8A&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/3fmI4kL5D8"
+              }
+            ]
+          }
+        },
+        "id": "1950813430115684352",
+        "name": "イマジナリー背脂",
+        "pinned_tweet_id": "2020326799914475620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052529012220858368/jGtVc_et_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 125,
+          "like_count": 6317,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1179
+        },
+        "url": "https://t.co/3fmI4kL5D8",
+        "username": "imaginaryoil100",
+        "verified": false
+      }
+    ]
+  }
+}

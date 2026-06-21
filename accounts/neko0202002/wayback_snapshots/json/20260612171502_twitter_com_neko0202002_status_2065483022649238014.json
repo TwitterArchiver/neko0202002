@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2065439056247640179",
+    "created_at": "2026-06-12T17:15:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T18:15:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065483022649238014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1555002354209996800",
+          "start": 0,
+          "username": "flpqnws"
+        },
+        {
+          "end": 20,
+          "id": "1962425480612851712",
+          "start": 9,
+          "username": "yaowubaike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065483022649238014",
+    "in_reply_to_user_id": "1555002354209996800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065458033753547113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@flpqnws @yaowubaike 大胶囊小药片，一个一个真像样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2065439056247640179",
+        "created_at": "2026-06-12T17:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065483022649238014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1555002354209996800",
+              "start": 0,
+              "username": "flpqnws"
+            },
+            {
+              "end": 20,
+              "id": "1962425480612851712",
+              "start": 9,
+              "username": "yaowubaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065483022649238014",
+        "in_reply_to_user_id": "1555002354209996800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065458033753547113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@flpqnws @yaowubaike 大胶囊小药片，一个一个真像样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1555002354209996800",
+        "conversation_id": "2065439056247640179",
+        "created_at": "2026-06-12T15:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065458033753547113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1962425480612851712",
+              "start": 0,
+              "username": "yaowubaike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065458033753547113",
+        "in_reply_to_user_id": "1962425480612851712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065439056247640179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaowubaike 这是一个最好的时代，也是一个最坏的时代（x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 774,
+          "like_count": 1844,
+          "listed_count": 2,
+          "media_count": 1779,
+          "tweet_count": 4769
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-04T01:27:16.000Z",
+        "description": "不仅是咸鱼一只而且还是一棵蒟蒻喵\n哪天再也不上线了也不奇怪\n\n🍥 | HRT中 | 软体不稳定 | ❌鉴证禁止 | ODer",
+        "id": "1555002354209996800",
+        "name": "蒟蒻闲鱼喵🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034976803094503427/rYq1AMCf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 232,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 295
+        },
+        "username": "flpqnws",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-01T08:02:36.000Z",
+        "description": "药物百科官方账号 有报告欢迎私信投稿 | 原wiki主沐雨（已去世）@drug_artist2 | 原wiki主:凌雪（已去世）@yng014522566684|wiki主玄鸮:@Manglesuki｜提供免费药物咨询｜提问箱：https://t.co/INTOuR03h5 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "drug_artist2"
+              },
+              {
+                "end": 80,
+                "start": 64,
+                "username": "yng014522566684"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "Manglesuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/drug_artist2",
+                "end": 137,
+                "expanded_url": "https://ngl.link/drug_artist2",
+                "start": 114,
+                "url": "https://t.co/INTOuR03h5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/05EG4Mk4hl"
+              }
+            ]
+          }
+        },
+        "id": "1962425480612851712",
+        "location": "Xanax天国2mg市",
+        "name": "药物百科Mediwiki",
+        "pinned_tweet_id": "2060450500500435039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962426785532170240/hz3rO6fL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4715,
+          "following_count": 49,
+          "like_count": 665,
+          "listed_count": 6,
+          "media_count": 81,
+          "tweet_count": 485
+        },
+        "url": "https://t.co/05EG4Mk4hl",
+        "username": "yaowubaike",
+        "verified": false
+      }
+    ]
+  }
+}

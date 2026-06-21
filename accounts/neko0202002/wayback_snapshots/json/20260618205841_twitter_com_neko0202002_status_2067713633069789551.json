@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067540458335764480"
+      ],
+      "media_source_tweet_id": [
+        "2067540460470726851"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2067713633069789551",
+    "created_at": "2026-06-18T20:58:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T21:58:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067713633069789551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1546431985086009344",
+          "start": 3,
+          "username": "NL8526"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XnjJnkvYHD",
+          "end": 41,
+          "expanded_url": "https://x.com/NL8526/status/2067540460470726851/photo/1",
+          "media_key": "3_2067540458335764480",
+          "start": 18,
+          "url": "https://t.co/XnjJnkvYHD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067713633069789551",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067540460470726851",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NL8526: 急出什么？ https://t.co/XnjJnkvYHD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2067540458335764480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFhF7HaAAAR56M.jpg",
+        "width": 872
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067540458335764480"
+          ],
+          "media_source_tweet_id": [
+            "2067540460470726851"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2067713633069789551",
+        "created_at": "2026-06-18T20:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T21:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067713633069789551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1546431985086009344",
+              "start": 3,
+              "username": "NL8526"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XnjJnkvYHD",
+              "end": 41,
+              "expanded_url": "https://x.com/NL8526/status/2067540460470726851/photo/1",
+              "media_key": "3_2067540458335764480",
+              "start": 18,
+              "url": "https://t.co/XnjJnkvYHD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067713633069789551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067540460470726851",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NL8526: 急出什么？ https://t.co/XnjJnkvYHD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067540458335764480"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "conversation_id": "2067540460470726851",
+        "created_at": "2026-06-18T09:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067540460470726851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XnjJnkvYHD",
+              "end": 29,
+              "expanded_url": "https://x.com/NL8526/status/2067540460470726851/photo/1",
+              "media_key": "3_2067540458335764480",
+              "start": 6,
+              "url": "https://t.co/XnjJnkvYHD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067540460470726851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3839,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "急出什么？ https://t.co/XnjJnkvYHD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 636,
+          "like_count": 1943,
+          "listed_count": 2,
+          "media_count": 1897,
+          "tweet_count": 5028
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo私! 🙏包含梗图 抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2918,
+          "following_count": 817,
+          "like_count": 17403,
+          "listed_count": 5,
+          "media_count": 179,
+          "tweet_count": 765
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      }
+    ]
+  }
+}

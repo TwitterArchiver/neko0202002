@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2064663814008958977"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2064371674401919422",
+    "created_at": "2026-06-10T10:59:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T11:59:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064663823504797865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1974865605204586498",
+          "start": 0,
+          "username": "kuroki___tomoko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ikl0V4xnlf",
+          "end": 40,
+          "expanded_url": "https://x.com/neko0202002/status/2064663823504797865/photo/1",
+          "media_key": "16_2064663814008958977",
+          "start": 17,
+          "url": "https://t.co/ikl0V4xnlf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064663823504797865",
+    "in_reply_to_user_id": "1974865605204586498",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064648779698155566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuroki___tomoko https://t.co/ikl0V4xnlf"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2064648779698155566].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2064648779698155566",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2064648779698155566"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "16_2064663814008958977",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKcozL6bcAE20kL.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKcozL6bcAE20kL.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2064663814008958977"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2064371674401919422",
+        "created_at": "2026-06-10T10:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064663823504797865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "kuroki___tomoko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ikl0V4xnlf",
+              "end": 40,
+              "expanded_url": "https://x.com/neko0202002/status/2064663823504797865/photo/1",
+              "media_key": "16_2064663814008958977",
+              "start": 17,
+              "url": "https://t.co/ikl0V4xnlf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064663823504797865",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064648779698155566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuroki___tomoko https://t.co/ikl0V4xnlf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 766,
+          "like_count": 1817,
+          "listed_count": 2,
+          "media_count": 1734,
+          "tweet_count": 4665
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2063430718391513502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1444,
+          "following_count": 2709,
+          "like_count": 48590,
+          "listed_count": 2,
+          "media_count": 353,
+          "tweet_count": 4443
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false
+      }
+    ]
+  }
+}

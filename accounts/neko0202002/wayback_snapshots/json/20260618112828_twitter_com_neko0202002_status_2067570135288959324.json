@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2067177292816883712"
+      ],
+      "media_source_tweet_id": [
+        "2067177302270824942"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "2067570135288959324",
+    "created_at": "2026-06-18T11:28:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T12:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067570135288959324"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 24,
+          "tag": "prsk_FA"
+        },
+        {
+          "end": 40,
+          "start": 33,
+          "tag": "朝比奈まふゆ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1657323532123258882",
+          "start": 3,
+          "username": "ib_arf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0Nvvf2K9ny",
+          "end": 64,
+          "expanded_url": "https://x.com/ib_arf/status/2067177302270824942/video/1",
+          "media_key": "13_2067177292816883712",
+          "start": 41,
+          "url": "https://t.co/0Nvvf2K9ny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067570135288959324",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 828
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067177302270824942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ib_arf: ワルリンまふゆさん❄︎　#prsk_FA #朝比奈まふゆ https://t.co/0Nvvf2K9ny"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6375,
+        "height": 1006,
+        "media_key": "13_2067177292816883712",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067177292816883712/img/47blnueF_cB3y8oG.jpg",
+        "public_metrics": {
+          "view_count": 20809
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067177292816883712/vid/avc1/320x446/IboZWoG35eAyfpNT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067177292816883712/vid/avc1/480x670/4KARM7scoiB03EJL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067177292816883712/vid/avc1/720x1006/7tL_HD2E5jAMvhw5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067177292816883712/pl/pdZMRmdoCzmOk_1y.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067177292816883712"
+          ],
+          "media_source_tweet_id": [
+            "2067177302270824942"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2067570135288959324",
+        "created_at": "2026-06-18T11:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067570135288959324"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 24,
+              "tag": "prsk_FA"
+            },
+            {
+              "end": 40,
+              "start": 33,
+              "tag": "朝比奈まふゆ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1657323532123258882",
+              "start": 3,
+              "username": "ib_arf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Nvvf2K9ny",
+              "end": 64,
+              "expanded_url": "https://x.com/ib_arf/status/2067177302270824942/video/1",
+              "media_key": "13_2067177292816883712",
+              "start": 41,
+              "url": "https://t.co/0Nvvf2K9ny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067570135288959324",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 828
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067177302270824942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ib_arf: ワルリンまふゆさん❄︎　#prsk_FA #朝比奈まふゆ https://t.co/0Nvvf2K9ny"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067177292816883712"
+          ]
+        },
+        "author_id": "1657323532123258882",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2067177302270824942",
+        "created_at": "2026-06-17T09:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067177302270824942"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 12,
+              "tag": "prsk_FA"
+            },
+            {
+              "end": 28,
+              "start": 21,
+              "tag": "朝比奈まふゆ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Nvvf2K9ny",
+              "end": 52,
+              "expanded_url": "https://x.com/ib_arf/status/2067177302270824942/video/1",
+              "media_key": "13_2067177292816883712",
+              "start": 29,
+              "url": "https://t.co/0Nvvf2K9ny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067177302270824942",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 701,
+          "impression_count": 58263,
+          "like_count": 6085,
+          "quote_count": 9,
+          "reply_count": 3,
+          "retweet_count": 828
+        },
+        "reply_settings": "everyone",
+        "text": "ワルリンまふゆさん❄︎　#prsk_FA #朝比奈まふゆ https://t.co/0Nvvf2K9ny"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 632,
+          "like_count": 1939,
+          "listed_count": 2,
+          "media_count": 1893,
+          "tweet_count": 5009
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-13T10:01:57.000Z",
+        "description": "いぬをこよなく愛する絵描き🫧ご依頼はリットリンクまたは固定からご確認ください🫧 リクエストやご質問など↪︎https://t.co/qzwYLQvKab",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/sAj9w",
+                "end": 76,
+                "expanded_url": "https://x.gd/sAj9w",
+                "start": 53,
+                "url": "https://t.co/qzwYLQvKab"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ib_arf",
+                "end": 23,
+                "expanded_url": "https://lit.link/ib_arf",
+                "start": 0,
+                "url": "https://t.co/bzT8q5dmDG"
+              }
+            ]
+          }
+        },
+        "id": "1657323532123258882",
+        "location": " 無断転載、トレス、AI学習、画像編集、禁止",
+        "name": "赤毛の犬",
+        "pinned_tweet_id": "2026991501394485725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989644692720685058/Goxh1zPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 97,
+          "like_count": 24465,
+          "listed_count": 6,
+          "media_count": 208,
+          "tweet_count": 344
+        },
+        "url": "https://t.co/bzT8q5dmDG",
+        "username": "ib_arf",
+        "verified": false
+      }
+    ]
+  }
+}

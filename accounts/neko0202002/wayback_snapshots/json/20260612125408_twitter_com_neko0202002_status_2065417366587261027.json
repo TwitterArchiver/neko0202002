@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2065417356017557504"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2065396171011764465",
+    "created_at": "2026-06-12T12:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T13:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065417366587261027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1520285442737770496",
+          "start": 0,
+          "username": "Magpieneko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9hubtpTrg5",
+          "end": 38,
+          "expanded_url": "https://x.com/neko0202002/status/2065417366587261027/photo/1",
+          "media_key": "16_2065417356017557504",
+          "start": 15,
+          "url": "https://t.co/9hubtpTrg5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065417366587261027",
+    "in_reply_to_user_id": "1520285442737770496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065397400177643895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Magpieneko 乖喵 https://t.co/9hubtpTrg5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 424,
+        "media_key": "16_2065417356017557504",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKnWJGpaYAAPVrq.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKnWJGpaYAAPVrq.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2065417356017557504"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2065396171011764465",
+        "created_at": "2026-06-12T12:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065417366587261027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1520285442737770496",
+              "start": 0,
+              "username": "Magpieneko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9hubtpTrg5",
+              "end": 38,
+              "expanded_url": "https://x.com/neko0202002/status/2065417366587261027/photo/1",
+              "media_key": "16_2065417356017557504",
+              "start": 15,
+              "url": "https://t.co/9hubtpTrg5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065417366587261027",
+        "in_reply_to_user_id": "1520285442737770496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065397400177643895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Magpieneko 乖喵 https://t.co/9hubtpTrg5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520285442737770496",
+        "conversation_id": "2065396171011764465",
+        "created_at": "2026-06-12T11:34:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065397400177643895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065397400177643895",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065396171011764465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 姐姐🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 772,
+          "like_count": 1841,
+          "listed_count": 2,
+          "media_count": 1771,
+          "tweet_count": 4753
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-30T06:14:47.000Z",
+        "description": "INFP4w5｜Cptsd｜是个不可爱的孩子｜学着成为人类｜社恐｜总是很困｜自杀惯犯｜一切都会好起来的……吧\nWhat do u want to be when u grow up?\nKind.",
+        "id": "1520285442737770496",
+        "location": "距你2.1KM",
+        "name": "惊鹊",
+        "pinned_tweet_id": "2056572888778727508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000047111682097152/toPEt8jA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 50,
+          "like_count": 1143,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 953
+        },
+        "username": "Magpieneko",
+        "verified": true
+      }
+    ]
+  }
+}

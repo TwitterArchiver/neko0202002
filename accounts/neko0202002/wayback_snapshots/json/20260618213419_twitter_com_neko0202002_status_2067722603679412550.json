@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2067722603679412550",
+    "created_at": "2026-06-18T21:34:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T22:34:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067722603679412550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1594984148044636160",
+          "start": 3,
+          "username": "Antichenk8964"
+        },
+        {
+          "end": 32,
+          "id": "1351772369568768001",
+          "start": 19,
+          "username": "shoujokaisen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067722603679412550",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067526336600760763",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Antichenk8964: @shoujokaisen 秦昭襄王这招太狠了😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2067722603679412550",
+        "created_at": "2026-06-18T21:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T22:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067722603679412550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1594984148044636160",
+              "start": 3,
+              "username": "Antichenk8964"
+            },
+            {
+              "end": 32,
+              "id": "1351772369568768001",
+              "start": 19,
+              "username": "shoujokaisen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067722603679412550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067526336600760763",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Antichenk8964: @shoujokaisen 秦昭襄王这招太狠了😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594984148044636160",
+        "conversation_id": "2067172431782170744",
+        "created_at": "2026-06-18T08:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067526336600760763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1351772369568768001",
+              "start": 0,
+              "username": "shoujokaisen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067526336600760763",
+        "in_reply_to_user_id": "1351772369568768001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2894,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067172431782170744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shoujokaisen 秦昭襄王这招太狠了😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 636,
+          "like_count": 1948,
+          "listed_count": 2,
+          "media_count": 1901,
+          "tweet_count": 5043
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T09:20:35.000Z",
+        "description": "I am a Catholic✝ sinner, but I will fight for the innocent.",
+        "id": "1594984148044636160",
+        "location": "Freistaat Bayern",
+        "name": "Der Einzige Kommandant",
+        "pinned_tweet_id": "1978169122341998992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935234397793595392/_31jLql__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097,
+          "following_count": 1920,
+          "like_count": 868,
+          "listed_count": 1,
+          "media_count": 4040,
+          "tweet_count": 40289
+        },
+        "url": "",
+        "username": "Antichenk8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-20T06:03:49.000Z",
+        "description": "放置RPGスマホゲーム「少女廻戦」の公式アカウントです。\n時空を超え、新世界を救うため、美少女たちを連れて、果てのない未来へ冒険に行きましょう！\n問い合わせ先：\nDiscord：https://t.co/NsB0PY72Qi\n公式サイト:https://t.co/mlqL1e2SMA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/9cW4hQKuHN",
+                "end": 112,
+                "expanded_url": "http://discord.gg/9cW4hQKuHN",
+                "start": 89,
+                "url": "https://t.co/NsB0PY72Qi"
+              },
+              {
+                "display_url": "kog.onemt.com",
+                "end": 142,
+                "expanded_url": "http://kog.onemt.com",
+                "start": 119,
+                "url": "https://t.co/mlqL1e2SMA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kog.onemt.com",
+                "end": 23,
+                "expanded_url": "https://kog.onemt.com/",
+                "start": 0,
+                "url": "https://t.co/HGpjW3QtZC"
+              }
+            ]
+          }
+        },
+        "id": "1351772369568768001",
+        "location": "桃源郷",
+        "name": "【公式】少女廻戦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048691844738146304/szd4Aj0Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35834,
+          "following_count": 3,
+          "like_count": 34,
+          "listed_count": 134,
+          "media_count": 1160,
+          "tweet_count": 1551
+        },
+        "url": "https://t.co/HGpjW3QtZC",
+        "username": "shoujokaisen",
+        "verified": false
+      }
+    ]
+  }
+}

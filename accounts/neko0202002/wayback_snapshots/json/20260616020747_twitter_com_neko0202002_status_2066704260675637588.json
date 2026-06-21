@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2066704251175518208"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2066452654138470741",
+    "created_at": "2026-06-16T02:07:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T03:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066704260675637588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "758296624875446272",
+          "start": 0,
+          "username": "_ropu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fevm1qNz1t",
+          "end": 50,
+          "expanded_url": "https://x.com/neko0202002/status/2066704260675637588/photo/1",
+          "media_key": "16_2066704251175518208",
+          "start": 27,
+          "url": "https://t.co/fevm1qNz1t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066704260675637588",
+    "in_reply_to_user_id": "758296624875446272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066452654138470741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ropu 我喜欢更长一点的，碰到贱人可以甩她脸上 https://t.co/fevm1qNz1t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 124,
+        "media_key": "16_2066704251175518208",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HK5okQsbQAATJjH.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HK5okQsbQAATJjH.mp4"
+          }
+        ],
+        "width": 220
+      },
+      {
+        "height": 1418,
+        "media_key": "3_2066402096023576576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK1VwhCboAA_XKF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2066704251175518208"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2066452654138470741",
+        "created_at": "2026-06-16T02:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T03:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066704260675637588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "758296624875446272",
+              "start": 0,
+              "username": "_ropu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fevm1qNz1t",
+              "end": 50,
+              "expanded_url": "https://x.com/neko0202002/status/2066704260675637588/photo/1",
+              "media_key": "16_2066704251175518208",
+              "start": 27,
+              "url": "https://t.co/fevm1qNz1t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066704260675637588",
+        "in_reply_to_user_id": "758296624875446272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066452654138470741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ropu 我喜欢更长一点的，碰到贱人可以甩她脸上 https://t.co/fevm1qNz1t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066402096023576576"
+          ]
+        },
+        "author_id": "758296624875446272",
+        "conversation_id": "2066452654138470741",
+        "created_at": "2026-06-15T09:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066452654138470741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/66Bjf5OBoQ",
+              "end": 34,
+              "expanded_url": "https://x.com/_ropu/status/2066452654138470741/photo/1",
+              "media_key": "3_2066402096023576576",
+              "start": 11,
+              "url": "https://t.co/66Bjf5OBoQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066452654138470741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 2565,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我，为什么喜欢萌袖： https://t.co/66Bjf5OBoQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 658,
+          "like_count": 1906,
+          "listed_count": 2,
+          "media_count": 1866,
+          "tweet_count": 4945
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| ロプ＝Rophlis || 病んでれ || きゅうけつ || お姉さん @Cchang3243 || CN/JP/EN ○ || 变得可爱是第一要义 || 另一个账号 @_roopuu || 是吗 Bot ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "Cchang3243"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "_roopuu"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "ロプ,,ᗜ - ᗜ,,",
+        "pinned_tweet_id": "2065825622069477682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052386249051422721/32J8Hjfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31247,
+          "following_count": 4397,
+          "like_count": 16134,
+          "listed_count": 32,
+          "media_count": 4786,
+          "tweet_count": 35222
+        },
+        "username": "_ropu",
+        "verified": true
+      }
+    ]
+  }
+}

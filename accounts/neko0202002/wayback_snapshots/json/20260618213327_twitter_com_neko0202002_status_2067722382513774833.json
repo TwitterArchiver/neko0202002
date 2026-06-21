@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1334114759952584705",
+          "name": "Quiz games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1282742272291794944",
+          "name": "Pub games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1334114759952584705",
+          "name": "Quiz games"
+        }
+      }
+    ],
+    "conversation_id": "2067722382513774833",
+    "created_at": "2026-06-18T21:33:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T22:33:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067722382513774833"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shoujokaisen/s…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/shoujokaisen/status/2067172431782170744",
+          "start": 30,
+          "url": "https://t.co/09so7XqeDa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067722382513774833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067172431782170744",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当你觉得别人家游戏运营缺德的时候看一下这个，端午节上架屈原 https://t.co/09so7XqeDa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2067171928453021696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAR6qUaAAAbLWc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1334114759952584705",
+              "name": "Quiz games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1282742272291794944",
+              "name": "Pub games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334114759952584705",
+              "name": "Quiz games"
+            }
+          }
+        ],
+        "conversation_id": "2067722382513774833",
+        "created_at": "2026-06-18T21:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T22:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067722382513774833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shoujokaisen/s…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/shoujokaisen/status/2067172431782170744",
+              "start": 30,
+              "url": "https://t.co/09so7XqeDa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067722382513774833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067172431782170744",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当你觉得别人家游戏运营缺德的时候看一下这个，端午节上架屈原 https://t.co/09so7XqeDa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067171928453021696"
+          ]
+        },
+        "author_id": "1351772369568768001",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1334114759952584705",
+              "name": "Quiz games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1282742272291794944",
+              "name": "Pub games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334114759952584705",
+              "name": "Quiz games"
+            }
+          }
+        ],
+        "conversation_id": "2067172431782170744",
+        "created_at": "2026-06-17T09:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067172431782170744"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 93,
+              "start": 88,
+              "tag": "少女廻戦"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "屈原"
+            },
+            {
+              "end": 104,
+              "start": 98,
+              "tag": "折原くるみ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TD3vGgnSvG",
+              "end": 128,
+              "expanded_url": "https://x.com/shoujokaisen/status/2067172431782170744/photo/1",
+              "media_key": "3_2067171928453021696",
+              "start": 105,
+              "url": "https://t.co/TD3vGgnSvG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067172431782170744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 159961,
+          "like_count": 219,
+          "quote_count": 43,
+          "reply_count": 49,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "少女廻戦に屈原が登場！中国最初の詩人と言える人物だ。詩人武将は少女廻戦の世界に多くいるので、ぜひ全員を集めてみよう！\n\nまた懐かしのクイズイベントも開催するので参加しよう！\n\n#少女廻戦 #屈原　#折原くるみ https://t.co/TD3vGgnSvG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 636,
+          "like_count": 1948,
+          "listed_count": 2,
+          "media_count": 1901,
+          "tweet_count": 5042
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-20T06:03:49.000Z",
+        "description": "放置RPGスマホゲーム「少女廻戦」の公式アカウントです。\n時空を超え、新世界を救うため、美少女たちを連れて、果てのない未来へ冒険に行きましょう！\n問い合わせ先：\nDiscord：https://t.co/NsB0PY72Qi\n公式サイト:https://t.co/mlqL1e2SMA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/9cW4hQKuHN",
+                "end": 112,
+                "expanded_url": "http://discord.gg/9cW4hQKuHN",
+                "start": 89,
+                "url": "https://t.co/NsB0PY72Qi"
+              },
+              {
+                "display_url": "kog.onemt.com",
+                "end": 142,
+                "expanded_url": "http://kog.onemt.com",
+                "start": 119,
+                "url": "https://t.co/mlqL1e2SMA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kog.onemt.com",
+                "end": 23,
+                "expanded_url": "https://kog.onemt.com/",
+                "start": 0,
+                "url": "https://t.co/HGpjW3QtZC"
+              }
+            ]
+          }
+        },
+        "id": "1351772369568768001",
+        "location": "桃源郷",
+        "name": "【公式】少女廻戦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048691844738146304/szd4Aj0Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35834,
+          "following_count": 3,
+          "like_count": 34,
+          "listed_count": 134,
+          "media_count": 1160,
+          "tweet_count": 1551
+        },
+        "url": "https://t.co/HGpjW3QtZC",
+        "username": "shoujokaisen",
+        "verified": false
+      }
+    ]
+  }
+}

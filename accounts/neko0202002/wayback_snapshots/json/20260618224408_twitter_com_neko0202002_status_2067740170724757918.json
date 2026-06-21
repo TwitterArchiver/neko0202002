@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2067554265527427072"
+      ],
+      "media_source_tweet_id": [
+        "2067554644801495171"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2067740170724757918",
+    "created_at": "2026-06-18T22:44:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T23:44:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067740170724757918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1304318883579396096",
+          "start": 3,
+          "username": "n4bya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P8Ok68iwiQ",
+          "end": 47,
+          "expanded_url": "https://x.com/n4bya/status/2067554644801495171/photo/1",
+          "media_key": "16_2067554265527427072",
+          "start": 24,
+          "url": "https://t.co/P8Ok68iwiQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067740170724757918",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 240
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067554644801495171",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @n4bya: 『ナツキ・スバル参上！』 https://t.co/P8Ok68iwiQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "16_2067554265527427072",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HLFtpm6bIAA5OLT.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HLFtpm6bIAA5OLT.mp4"
+          }
+        ],
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2067554265527427072"
+          ],
+          "media_source_tweet_id": [
+            "2067554644801495171"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2067740170724757918",
+        "created_at": "2026-06-18T22:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T23:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067740170724757918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1304318883579396096",
+              "start": 3,
+              "username": "n4bya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P8Ok68iwiQ",
+              "end": 47,
+              "expanded_url": "https://x.com/n4bya/status/2067554644801495171/photo/1",
+              "media_key": "16_2067554265527427072",
+              "start": 24,
+              "url": "https://t.co/P8Ok68iwiQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067740170724757918",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 240
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067554644801495171",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @n4bya: 『ナツキ・スバル参上！』 https://t.co/P8Ok68iwiQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2067554265527427072"
+          ]
+        },
+        "author_id": "1304318883579396096",
+        "conversation_id": "2067554644801495171",
+        "created_at": "2026-06-18T10:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067554644801495171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P8Ok68iwiQ",
+              "end": 36,
+              "expanded_url": "https://x.com/n4bya/status/2067554644801495171/photo/1",
+              "media_key": "16_2067554265527427072",
+              "start": 13,
+              "url": "https://t.co/P8Ok68iwiQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067554644801495171",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 27349,
+          "like_count": 2676,
+          "quote_count": 6,
+          "reply_count": 3,
+          "retweet_count": 240
+        },
+        "reply_settings": "everyone",
+        "text": "『ナツキ・スバル参上！』 https://t.co/P8Ok68iwiQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 636,
+          "like_count": 1949,
+          "listed_count": 2,
+          "media_count": 1907,
+          "tweet_count": 5054
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-11T07:20:43.000Z",
+        "description": "ハマっているものを描きます / ▼お題 https://t.co/WEka0f9532",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/n4bya",
+                "end": 43,
+                "expanded_url": "https://odaibako.net/u/n4bya",
+                "start": 20,
+                "url": "https://t.co/WEka0f9532"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/pcaku9es5tq664…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/pcaku9es5tq6646?t=Ztd79w&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/LGRl4O5Peb"
+              }
+            ]
+          }
+        },
+        "id": "1304318883579396096",
+        "location": "無断転載・AI学習×",
+        "name": "なびゃたに",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1441382088251363331/ojsSfKd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 69,
+          "like_count": 10970,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 452
+        },
+        "url": "https://t.co/LGRl4O5Peb",
+        "username": "n4bya",
+        "verified": false
+      }
+    ]
+  }
+}

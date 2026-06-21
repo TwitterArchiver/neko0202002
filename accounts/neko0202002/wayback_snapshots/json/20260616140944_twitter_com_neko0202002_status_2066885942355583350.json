@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2066885942355583350",
+    "created_at": "2026-06-16T14:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T15:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066885942355583350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2032152441685491714",
+          "start": 3,
+          "username": "Sqdqge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066885942355583350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066161760554680569",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sqdqge: 看到的你们都帮我转转好吗🥺谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2066885942355583350",
+        "created_at": "2026-06-16T14:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T15:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066885942355583350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2032152441685491714",
+              "start": 3,
+              "username": "Sqdqge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066885942355583350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066161760554680569",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sqdqge: 看到的你们都帮我转转好吗🥺谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032152441685491714",
+        "conversation_id": "2066161760554680569",
+        "created_at": "2026-06-14T14:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066161760554680569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sqdqge/status/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/sqdqge/status/2066069621489500512",
+              "start": 16,
+              "url": "https://t.co/NP9AXCwCI3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066161760554680569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066069621489500512",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看到的你们都帮我转转好吗🥺谢谢 https://t.co/NP9AXCwCI3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 657,
+          "like_count": 1935,
+          "listed_count": 2,
+          "media_count": 1889,
+          "tweet_count": 4989
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T17:53:30.000Z",
+        "description": "",
+        "id": "2032152441685491714",
+        "location": "🚪52/288/520/上不封顶（不退门",
+        "name": "。",
+        "pinned_tweet_id": "2066219137161220178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050135299729317888/LNiIvhY__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 136,
+          "like_count": 621,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 451
+        },
+        "username": "Sqdqge",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2064712067458953468",
+    "created_at": "2026-06-11T04:22:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T05:22:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064926230131232994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1900427702760595460",
+          "start": 0,
+          "username": "gum07231141126"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064926230131232994",
+    "in_reply_to_user_id": "1900427702760595460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064892141046997229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gum07231141126 是心理医生^^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2064712067458953468",
+        "created_at": "2026-06-11T04:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064926230131232994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1900427702760595460",
+              "start": 0,
+              "username": "gum07231141126"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064926230131232994",
+        "in_reply_to_user_id": "1900427702760595460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064892141046997229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gum07231141126 是心理医生^^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900427702760595460",
+        "conversation_id": "2064712067458953468",
+        "created_at": "2026-06-11T02:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T03:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064892141046997229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064892141046997229",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064712067458953468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 53"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 766,
+          "like_count": 1823,
+          "listed_count": 2,
+          "media_count": 1742,
+          "tweet_count": 4693
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T06:04:15.000Z",
+        "description": "打mai的，玩源的，臭打烤的",
+        "id": "1900427702760595460",
+        "name": "gum07231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906092213383397376/mFAjSZO4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 114,
+          "like_count": 438,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 114
+        },
+        "username": "gum07231141126",
+        "verified": false
+      }
+    ]
+  }
+}

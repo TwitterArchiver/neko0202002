@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2066572604245455276",
+    "created_at": "2026-06-16T07:30:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T08:30:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066785432046846400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1901982380614991877",
+          "start": 0,
+          "username": "shawn_xu81807"
+        },
+        {
+          "end": 27,
+          "id": "1554869813448945665",
+          "start": 15,
+          "username": "LuoTomorrow"
+        },
+        {
+          "end": 41,
+          "id": "2015087781744443393",
+          "start": 28,
+          "username": "31666888love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066785432046846400",
+    "in_reply_to_user_id": "1901982380614991877",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066772198929641909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shawn_xu81807 @LuoTomorrow @31666888love ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2066572604245455276",
+        "created_at": "2026-06-16T07:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066785432046846400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1901982380614991877",
+              "start": 0,
+              "username": "shawn_xu81807"
+            },
+            {
+              "end": 27,
+              "id": "1554869813448945665",
+              "start": 15,
+              "username": "LuoTomorrow"
+            },
+            {
+              "end": 41,
+              "id": "2015087781744443393",
+              "start": 28,
+              "username": "31666888love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066785432046846400",
+        "in_reply_to_user_id": "1901982380614991877",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066772198929641909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shawn_xu81807 @LuoTomorrow @31666888love ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901982380614991877",
+        "conversation_id": "2066572604245455276",
+        "created_at": "2026-06-16T06:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066772198929641909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1554869813448945665",
+              "start": 0,
+              "username": "LuoTomorrow"
+            },
+            {
+              "end": 26,
+              "id": "2015087781744443393",
+              "start": 13,
+              "username": "31666888love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066772198929641909",
+        "in_reply_to_user_id": "1554869813448945665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066752910114148779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuoTomorrow @31666888love 装逼啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 658,
+          "like_count": 1921,
+          "listed_count": 2,
+          "media_count": 1872,
+          "tweet_count": 4956
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-18T13:02:06.000Z",
+        "description": "",
+        "id": "1901982380614991877",
+        "name": " ࡇ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901987381483655168/V2U6P5jn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 25,
+          "like_count": 1341,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 6979
+        },
+        "username": "shawn_xu81807",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T16:40:49.000Z",
+        "description": "",
+        "id": "1554869813448945665",
+        "name": "Lucas Luo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978749841712001025/t10d63MK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 581,
+          "like_count": 2421,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 104
+        },
+        "username": "LuoTomorrow",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T15:42:35.000Z",
+        "description": "推止于推 | 纯分享 发想发的 | 私信请礼貌 欢迎和我聊天 不聊骚 | 谢谢你的关注",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/3131407",
+                "end": 23,
+                "expanded_url": "https://ngl.link/3131407",
+                "start": 0,
+                "url": "https://t.co/3EL9T1gUYu"
+              }
+            ]
+          }
+        },
+        "id": "2015087781744443393",
+        "location": "床上",
+        "name": "𝗦𝟭𝗲𝗲𝗲𝗲𝗲𝗽𝘆",
+        "pinned_tweet_id": "2065317256784191678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030658391824379904/rrronifC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 160,
+          "like_count": 2457,
+          "listed_count": 4,
+          "media_count": 57,
+          "tweet_count": 542
+        },
+        "url": "https://t.co/3EL9T1gUYu",
+        "username": "31666888love",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067436696493580288"
+      ],
+      "media_source_tweet_id": [
+        "2067485459379298631"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067729853592592700",
+    "created_at": "2026-06-18T22:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T23:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067729853592592700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "758296624875446272",
+          "start": 3,
+          "username": "_ropu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9lt9xQkOaW",
+          "end": 41,
+          "expanded_url": "https://x.com/_ropu/status/2067485459379298631/photo/1",
+          "media_key": "3_2067436696493580288",
+          "start": 18,
+          "url": "https://t.co/9lt9xQkOaW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067729853592592700",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067485459379298631",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_ropu: 本人永久心情 https://t.co/9lt9xQkOaW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 211,
+        "media_key": "3_2067436696493580288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLECuMIbYAAaTRm.jpg",
+        "width": 514
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067436696493580288"
+          ],
+          "media_source_tweet_id": [
+            "2067485459379298631"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067729853592592700",
+        "created_at": "2026-06-18T22:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T23:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067729853592592700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "758296624875446272",
+              "start": 3,
+              "username": "_ropu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9lt9xQkOaW",
+              "end": 41,
+              "expanded_url": "https://x.com/_ropu/status/2067485459379298631/photo/1",
+              "media_key": "3_2067436696493580288",
+              "start": 18,
+              "url": "https://t.co/9lt9xQkOaW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067729853592592700",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067485459379298631",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_ropu: 本人永久心情 https://t.co/9lt9xQkOaW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067436696493580288"
+          ]
+        },
+        "author_id": "758296624875446272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067485459379298631",
+        "created_at": "2026-06-18T05:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067485459379298631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9lt9xQkOaW",
+              "end": 30,
+              "expanded_url": "https://x.com/_ropu/status/2067485459379298631/photo/1",
+              "media_key": "3_2067436696493580288",
+              "start": 7,
+              "url": "https://t.co/9lt9xQkOaW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067485459379298631",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4374,
+          "like_count": 222,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "本人永久心情 https://t.co/9lt9xQkOaW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 636,
+          "like_count": 1949,
+          "listed_count": 2,
+          "media_count": 1905,
+          "tweet_count": 5049
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| ロプ＝Rophlis || 病んでれ || きゅうけつ || お姉さん @Cchang3243 || CN/JP/EN ○ || 变得可爱是第一要义 || 另一个账号 @_roopuu ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "Cchang3243"
+              },
+              {
+                "end": 95,
+                "start": 87,
+                "username": "_roopuu"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "ロプ,,ᗜ - ᗜ,,",
+        "pinned_tweet_id": "2065825622069477682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052386249051422721/32J8Hjfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31658,
+          "following_count": 4571,
+          "like_count": 16456,
+          "listed_count": 35,
+          "media_count": 4872,
+          "tweet_count": 35798
+        },
+        "url": "",
+        "username": "_ropu",
+        "verified": true
+      }
+    ]
+  }
+}

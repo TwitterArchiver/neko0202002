@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054406781259145216"
+      ],
+      "media_source_tweet_id": [
+        "2054406824317894986"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2066886515498852419",
+    "created_at": "2026-06-16T14:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T15:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066886515498852419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1668257047647776770",
+          "start": 3,
+          "username": "nekoTiao0w0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bo47xvHPqB",
+          "end": 42,
+          "expanded_url": "https://x.com/nekoTiao0w0/status/2054406824317894986/photo/1",
+          "media_key": "3_2054406781259145216",
+          "start": 19,
+          "url": "https://t.co/Bo47xvHPqB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066886515498852419",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054406824317894986",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nekoTiao0w0: 接 https://t.co/Bo47xvHPqB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 864,
+        "media_key": "3_2054406781259145216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIK4FTUa4AAFM5A.jpg",
+        "width": 543
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054406781259145216"
+          ],
+          "media_source_tweet_id": [
+            "2054406824317894986"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2066886515498852419",
+        "created_at": "2026-06-16T14:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T15:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066886515498852419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1668257047647776770",
+              "start": 3,
+              "username": "nekoTiao0w0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bo47xvHPqB",
+              "end": 42,
+              "expanded_url": "https://x.com/nekoTiao0w0/status/2054406824317894986/photo/1",
+              "media_key": "3_2054406781259145216",
+              "start": 19,
+              "url": "https://t.co/Bo47xvHPqB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066886515498852419",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054406824317894986",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nekoTiao0w0: 接 https://t.co/Bo47xvHPqB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054406781259145216"
+          ]
+        },
+        "author_id": "1668257047647776770",
+        "conversation_id": "2054406824317894986",
+        "created_at": "2026-05-13T03:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054406824317894986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bo47xvHPqB",
+              "end": 25,
+              "expanded_url": "https://x.com/nekoTiao0w0/status/2054406824317894986/photo/1",
+              "media_key": "3_2054406781259145216",
+              "start": 2,
+              "url": "https://t.co/Bo47xvHPqB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054406824317894986",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1683,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "接 https://t.co/Bo47xvHPqB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 657,
+          "like_count": 1935,
+          "listed_count": 2,
+          "media_count": 1889,
+          "tweet_count": 4990
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-12T14:01:46.000Z",
+        "description": "低能量低自尊低素质低道德痛苦女孩 看你们也没多喜欢我 关注我干嘛？",
+        "id": "1668257047647776770",
+        "location": "🚪188",
+        "name": "丰川祥子爱分尸",
+        "pinned_tweet_id": "2055241681591783928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059143750694350848/9P2mQIqu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2173,
+          "following_count": 245,
+          "like_count": 8822,
+          "listed_count": 2,
+          "media_count": 322,
+          "tweet_count": 3999
+        },
+        "username": "nekoTiao0w0",
+        "verified": false
+      }
+    ]
+  }
+}
