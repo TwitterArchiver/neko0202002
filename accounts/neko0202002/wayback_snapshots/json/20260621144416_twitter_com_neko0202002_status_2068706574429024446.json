@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2066100592431489268",
+    "created_at": "2026-06-21T14:44:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T15:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068706574429024446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "885739568120471553",
+          "start": 0,
+          "username": "MESUDANSHI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068706574429024446",
+    "in_reply_to_user_id": "885739568120471553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066100592431489268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MESUDANSHI 好可爱的姐姐🥺🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2066100587725488128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxDibGagAANunz.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2066100592431489268",
+        "created_at": "2026-06-21T14:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068706574429024446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "885739568120471553",
+              "start": 0,
+              "username": "MESUDANSHI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068706574429024446",
+        "in_reply_to_user_id": "885739568120471553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066100592431489268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MESUDANSHI 好可爱的姐姐🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066100587725488128"
+          ]
+        },
+        "author_id": "885739568120471553",
+        "conversation_id": "2066100592431489268",
+        "created_at": "2026-06-14T10:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066100592431489268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lIzi2vze5P",
+              "end": 28,
+              "expanded_url": "https://x.com/MESUDANSHI/status/2066100592431489268/photo/1",
+              "media_key": "3_2066100587725488128",
+              "start": 5,
+              "url": "https://t.co/lIzi2vze5P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066100592431489268",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "髪切った https://t.co/lIzi2vze5P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 630,
+          "like_count": 2021,
+          "listed_count": 2,
+          "media_count": 1972,
+          "tweet_count": 5201
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-14T05:55:44.000Z",
+        "description": "Simple X👇\nhttps://t.co/JZDAOWPv7x\nお問い合わせメール📧info@support.pemoline.io",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "smp10.simplex.im/a#ZeDf98RLCOyU…",
+                "end": 33,
+                "expanded_url": "https://smp10.simplex.im/a#ZeDf98RLCOyUmI_T0msXUYS1wke44_5HFxrNsGHuXdU",
+                "start": 10,
+                "url": "https://t.co/JZDAOWPv7x"
+              }
+            ]
+          }
+        },
+        "id": "885739568120471553",
+        "location": "Delaware, USA",
+        "name": "ぺもりんか🏳️‍⚧️",
+        "pinned_tweet_id": "2059982802574283032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048140115399397376/YxnLQd_c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1472,
+          "following_count": 1381,
+          "like_count": 21828,
+          "listed_count": 29,
+          "media_count": 2194,
+          "tweet_count": 20155
+        },
+        "url": "",
+        "username": "MESUDANSHI",
+        "verified": true
+      }
+    ]
+  }
+}

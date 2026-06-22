@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068552508683976704"
+      ],
+      "media_source_tweet_id": [
+        "2068552522797879486"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2068629420844392920",
+    "created_at": "2026-06-21T09:37:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T10:37:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068629420844392920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "162974851",
+          "start": 3,
+          "username": "Paramjitt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nk29UYz9rW",
+          "end": 41,
+          "expanded_url": "https://x.com/Paramjitt/status/2068552522797879486/photo/1",
+          "media_key": "3_2068552508683976704",
+          "start": 18,
+          "url": "https://t.co/nk29UYz9rW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068629420844392920",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068552522797879486",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Paramjitt: ++ https://t.co/nk29UYz9rW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2068552508683976704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLT5jAdaAAAK7eZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068552508683976704"
+          ],
+          "media_source_tweet_id": [
+            "2068552522797879486"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2068629420844392920",
+        "created_at": "2026-06-21T09:37:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068629420844392920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "162974851",
+              "start": 3,
+              "username": "Paramjitt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nk29UYz9rW",
+              "end": 41,
+              "expanded_url": "https://x.com/Paramjitt/status/2068552522797879486/photo/1",
+              "media_key": "3_2068552508683976704",
+              "start": 18,
+              "url": "https://t.co/nk29UYz9rW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068629420844392920",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068552522797879486",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Paramjitt: ++ https://t.co/nk29UYz9rW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068552508683976704"
+          ]
+        },
+        "author_id": "162974851",
+        "conversation_id": "2068552522797879486",
+        "created_at": "2026-06-21T04:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T05:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068552522797879486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nk29UYz9rW",
+              "end": 26,
+              "expanded_url": "https://x.com/Paramjitt/status/2068552522797879486/photo/1",
+              "media_key": "3_2068552508683976704",
+              "start": 3,
+              "url": "https://t.co/nk29UYz9rW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068552522797879486",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "++ https://t.co/nk29UYz9rW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 628,
+          "like_count": 2011,
+          "listed_count": 2,
+          "media_count": 1960,
+          "tweet_count": 5169
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-05T06:05:17.000Z",
+        "description": "互关寻回\n木木雨（那个不可提及的数字00000）\n版本号：路易十六\n末影人\n12×09×17\n大号@Shivam3228\n💊@idris21000",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 49,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "idris21000"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/l2gjMdmFaC"
+              }
+            ]
+          }
+        },
+        "id": "162974851",
+        "location": "你身后",
+        "name": "霖林木木（寻回。）",
+        "pinned_tweet_id": "2068570468312039765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067871130413940736/TzAPFnG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 107,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 85
+        },
+        "url": "https://t.co/l2gjMdmFaC",
+        "username": "Paramjitt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2068518081216098304"
+      ],
+      "media_source_tweet_id": [
+        "2068518214582288518"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2068546993757233280",
+    "created_at": "2026-06-21T04:10:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T05:10:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068546993757233280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4923455838",
+          "start": 3,
+          "username": "Misterillust"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xcPXNu7uT9",
+          "end": 52,
+          "expanded_url": "https://x.com/Misterillust/status/2068518214582288518/video/1",
+          "media_key": "13_2068518081216098304",
+          "start": 29,
+          "url": "https://t.co/xcPXNu7uT9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068546993757233280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 99
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068518214582288518",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Misterillust: なんとサプライズまで https://t.co/xcPXNu7uT9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 305678,
+        "height": 720,
+        "media_key": "13_2068518081216098304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068518081216098304/img/aYuUwF2VFabHaVRV.jpg",
+        "public_metrics": {
+          "view_count": 2595
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068518081216098304/vid/avc1/480x270/bdf5eAzqAnOoXpBj.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068518081216098304/vid/avc1/640x360/FsDcZkTiXCeT0_rx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068518081216098304/vid/avc1/1280x720/RY6OTAxuWTQJSwRj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068518081216098304/pl/xExyzVdsRb6tcVvM.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068518081216098304"
+          ],
+          "media_source_tweet_id": [
+            "2068518214582288518"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068546993757233280",
+        "created_at": "2026-06-21T04:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T05:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068546993757233280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4923455838",
+              "start": 3,
+              "username": "Misterillust"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xcPXNu7uT9",
+              "end": 52,
+              "expanded_url": "https://x.com/Misterillust/status/2068518214582288518/video/1",
+              "media_key": "13_2068518081216098304",
+              "start": 29,
+              "url": "https://t.co/xcPXNu7uT9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068546993757233280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 99
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068518214582288518",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Misterillust: なんとサプライズまで https://t.co/xcPXNu7uT9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068518081216098304"
+          ]
+        },
+        "author_id": "4923455838",
+        "conversation_id": "2068518214582288518",
+        "created_at": "2026-06-21T02:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T03:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068518214582288518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xcPXNu7uT9",
+              "end": 34,
+              "expanded_url": "https://x.com/Misterillust/status/2068518214582288518/video/1",
+              "media_key": "13_2068518081216098304",
+              "start": 11,
+              "url": "https://t.co/xcPXNu7uT9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068518214582288518",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 6287,
+          "like_count": 307,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 99
+        },
+        "reply_settings": "everyone",
+        "text": "なんとサプライズまで https://t.co/xcPXNu7uT9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 625,
+          "like_count": 1999,
+          "listed_count": 2,
+          "media_count": 1941,
+          "tweet_count": 5134
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-18T02:41:11.000Z",
+        "description": "JP/ENG サークル：flatwhite. まどかちゃんが最初で最後の、最愛の推し。まどマギが多いですが、他ジャンルを描くこともあります！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "misterillust.booth.pm",
+                "end": 23,
+                "expanded_url": "https://misterillust.booth.pm",
+                "start": 0,
+                "url": "https://t.co/O3BkyhllbJ"
+              }
+            ]
+          }
+        },
+        "id": "4923455838",
+        "location": "日本",
+        "name": "ミスタァ@プリレコ16C-24配置",
+        "pinned_tweet_id": "2002663024466047080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1446870303439659010/VjGJxbSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 967,
+          "like_count": 90087,
+          "listed_count": 9,
+          "media_count": 5144,
+          "tweet_count": 50932
+        },
+        "url": "https://t.co/O3BkyhllbJ",
+        "username": "Misterillust",
+        "verified": false
+      }
+    ]
+  }
+}

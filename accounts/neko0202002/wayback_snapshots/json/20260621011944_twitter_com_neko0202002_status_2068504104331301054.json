@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068332180468817920"
+      ],
+      "media_source_tweet_id": [
+        "2068332183664968005"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2068504104331301054",
+    "created_at": "2026-06-21T01:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T02:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068504104331301054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2033160782687731712",
+          "start": 3,
+          "username": "Shioochic_Xyn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KF6mGSbWRe",
+          "end": 52,
+          "expanded_url": "https://x.com/Shioochic_Xyn/status/2068332183664968005/photo/1",
+          "media_key": "3_2068332180468817920",
+          "start": 29,
+          "url": "https://t.co/KF6mGSbWRe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068504104331301054",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068332183664968005",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shioochic_Xyn: 这下真得看看这集了 https://t.co/KF6mGSbWRe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 536,
+        "media_key": "3_2068332180468817920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQxKN5aYAAVV8q.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068332180468817920"
+          ],
+          "media_source_tweet_id": [
+            "2068332183664968005"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2068504104331301054",
+        "created_at": "2026-06-21T01:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T02:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068504104331301054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2033160782687731712",
+              "start": 3,
+              "username": "Shioochic_Xyn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KF6mGSbWRe",
+              "end": 52,
+              "expanded_url": "https://x.com/Shioochic_Xyn/status/2068332183664968005/photo/1",
+              "media_key": "3_2068332180468817920",
+              "start": 29,
+              "url": "https://t.co/KF6mGSbWRe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068504104331301054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068332183664968005",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shioochic_Xyn: 这下真得看看这集了 https://t.co/KF6mGSbWRe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068332180468817920"
+          ]
+        },
+        "author_id": "2033160782687731712",
+        "conversation_id": "2068332183664968005",
+        "created_at": "2026-06-20T13:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068332183664968005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KF6mGSbWRe",
+              "end": 33,
+              "expanded_url": "https://x.com/Shioochic_Xyn/status/2068332183664968005/photo/1",
+              "media_key": "3_2068332180468817920",
+              "start": 10,
+              "url": "https://t.co/KF6mGSbWRe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068332183664968005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 572,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这下真得看看这集了 https://t.co/KF6mGSbWRe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 645,
+          "like_count": 1997,
+          "listed_count": 2,
+          "media_count": 1937,
+          "tweet_count": 5126
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期 09 04 08｜hrt 25 07 20🍥｜小证 26 01 17｜ADHD｜choose life ?!｜抢🐔姐@hiotemaron41774｜友跨顺男@Whatasiger｜友男跨顺@WhitesugarC｜友情链接:https://t.co/iIABjp0PAw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "hiotemaron41774"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "Whatasiger"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "WhitesugarC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 150,
+                "expanded_url": "https://whatasiger.xyz",
+                "start": 127,
+                "url": "https://t.co/iIABjp0PAw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落 shio",
+        "pinned_tweet_id": "2061461592559239417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3536,
+          "following_count": 1906,
+          "like_count": 6876,
+          "listed_count": 6,
+          "media_count": 766,
+          "tweet_count": 5244
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochic_Xyn",
+        "verified": true
+      }
+    ]
+  }
+}

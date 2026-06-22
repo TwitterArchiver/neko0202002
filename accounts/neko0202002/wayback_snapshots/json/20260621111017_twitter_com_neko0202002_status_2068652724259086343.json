@@ -1,0 +1,451 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068538644416372736"
+      ],
+      "media_source_tweet_id": [
+        "2068539450813280282"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2068652724259086343",
+    "created_at": "2026-06-21T11:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T12:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068652724259086343"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 21,
+          "tag": "まどかマギカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1243167130889093121",
+          "start": 3,
+          "username": "shiyan_ying"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qo2IeTdcVk",
+          "end": 52,
+          "expanded_url": "https://x.com/shiyan_ying/status/2068539450813280282/photo/1",
+          "media_key": "3_2068538644416372736",
+          "start": 29,
+          "url": "https://t.co/qo2IeTdcVk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068652724259086343",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 180
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068539450813280282",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiyan_ying: 💜💜💜\n#まどかマギカ https://t.co/qo2IeTdcVk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1250,
+        "media_key": "3_2068538644416372736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLTs8ACbIAALE8C.jpg",
+        "width": 1925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068538644416372736"
+          ],
+          "media_source_tweet_id": [
+            "2068539450813280282"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2068652724259086343",
+        "created_at": "2026-06-21T11:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068652724259086343"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 21,
+              "tag": "まどかマギカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243167130889093121",
+              "start": 3,
+              "username": "shiyan_ying"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qo2IeTdcVk",
+              "end": 52,
+              "expanded_url": "https://x.com/shiyan_ying/status/2068539450813280282/photo/1",
+              "media_key": "3_2068538644416372736",
+              "start": 29,
+              "url": "https://t.co/qo2IeTdcVk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068652724259086343",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 180
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068539450813280282",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shiyan_ying: 💜💜💜\n#まどかマギカ https://t.co/qo2IeTdcVk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068538644416372736"
+          ]
+        },
+        "author_id": "1243167130889093121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2068539450813280282",
+        "created_at": "2026-06-21T03:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T04:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068539450813280282"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 4,
+              "tag": "まどかマギカ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qo2IeTdcVk",
+              "end": 35,
+              "expanded_url": "https://x.com/shiyan_ying/status/2068539450813280282/photo/1",
+              "media_key": "3_2068538644416372736",
+              "start": 12,
+              "url": "https://t.co/qo2IeTdcVk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068539450813280282",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 8647,
+          "like_count": 1047,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 180
+        },
+        "reply_settings": "everyone",
+        "text": "💜💜💜\n#まどかマギカ https://t.co/qo2IeTdcVk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 629,
+          "like_count": 2014,
+          "listed_count": 2,
+          "media_count": 1965,
+          "tweet_count": 5186
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-26T13:25:27.000Z",
+        "description": "在世界中心呼唤爱的野兽。\n绘画/百合 转载时请@我“世炎嘤/shiyan_ying”\n百日绘需要B站点赞😭\nB站ID：世炎嘤\n😇😇😇😇😇😇😇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/shiyan…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/shiyanying.bsky.social",
+                "start": 0,
+                "url": "https://t.co/kh9mZxIEqc"
+              }
+            ]
+          }
+        },
+        "id": "1243167130889093121",
+        "location": "何时结束……",
+        "name": "shiyan_ying @百日絵描き中💙~",
+        "pinned_tweet_id": "2064478448282919356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053211592117125120/ZcvpT9W1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5306,
+          "following_count": 56,
+          "like_count": 2612,
+          "listed_count": 18,
+          "media_count": 597,
+          "tweet_count": 2336
+        },
+        "url": "https://t.co/kh9mZxIEqc",
+        "username": "shiyan_ying",
+        "verified": false
+      }
+    ]
+  }
+}

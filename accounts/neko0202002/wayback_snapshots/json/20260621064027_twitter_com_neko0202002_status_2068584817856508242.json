@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2068584807534305281"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2068410057876963499",
+    "created_at": "2026-06-21T06:40:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T07:40:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068584817856508242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057729979677548544",
+          "start": 0,
+          "username": "Numiouoo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0DrDoDPjLm",
+          "end": 37,
+          "expanded_url": "https://x.com/neko0202002/status/2068584817856508242/photo/1",
+          "media_key": "16_2068584807534305281",
+          "start": 14,
+          "url": "https://t.co/0DrDoDPjLm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068584817856508242",
+    "in_reply_to_user_id": "2057729979677548544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068581604591862144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouoo 咬喵！ https://t.co/0DrDoDPjLm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 256,
+        "media_key": "16_2068584807534305281",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HLUW7DDaIAEn4Ph.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HLUW7DDaIAEn4Ph.mp4"
+          }
+        ],
+        "width": 274
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2068584807534305281"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2068410057876963499",
+        "created_at": "2026-06-21T06:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068584817856508242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0DrDoDPjLm",
+              "end": 37,
+              "expanded_url": "https://x.com/neko0202002/status/2068584817856508242/photo/1",
+              "media_key": "16_2068584807534305281",
+              "start": 14,
+              "url": "https://t.co/0DrDoDPjLm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068584817856508242",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068581604591862144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo 咬喵！ https://t.co/0DrDoDPjLm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057729979677548544",
+        "conversation_id": "2068410057876963499",
+        "created_at": "2026-06-21T06:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068581604591862144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068581604591862144",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068554458183901337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 睡太香了没舍得咬！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 624,
+          "like_count": 2008,
+          "listed_count": 2,
+          "media_count": 1958,
+          "tweet_count": 5163
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵评论互动查成分回fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1418,
+          "following_count": 915,
+          "like_count": 2557,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 2038
+        },
+        "url": "",
+        "username": "Numiouoo",
+        "verified": false
+      }
+    ]
+  }
+}

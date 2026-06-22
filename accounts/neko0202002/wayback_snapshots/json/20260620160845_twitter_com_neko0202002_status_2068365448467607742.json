@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cheese",
+          "id": "825063068027621376",
+          "name": "Cheese"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Cheese",
+          "id": "825063068027621376",
+          "name": "Cheese"
+        }
+      }
+    ],
+    "conversation_id": "2068365448467607742",
+    "created_at": "2026-06-20T16:08:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T17:08:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068365448467607742"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BarDePueblo1/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/BarDePueblo1/status/2068014245984322020",
+          "start": 3,
+          "url": "https://t.co/BtBjqMvjPZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068365448467607742",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068014245984322020",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？？ https://t.co/BtBjqMvjPZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15232,
+        "height": 1280,
+        "media_key": "13_2028124990319517696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2028124990319517696/img/kelnBICcxj_bZx39.jpg",
+        "public_metrics": {
+          "view_count": 2826944
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028124990319517696/vid/avc1/320x580/IQQ1cN7o6EPRBOcX.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028124990319517696/vid/avc1/480x872/qc3wSIsGag6qSq0Q.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2028124990319517696/vid/avc1/704x1280/dcev192ifsaAxtFH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2028124990319517696/pl/UbrRUPcdlNaOe_Gn.m3u8?v=cfc"
+          }
+        ],
+        "width": 704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cheese",
+              "id": "825063068027621376",
+              "name": "Cheese"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Cheese",
+              "id": "825063068027621376",
+              "name": "Cheese"
+            }
+          }
+        ],
+        "conversation_id": "2068365448467607742",
+        "created_at": "2026-06-20T16:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068365448467607742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BarDePueblo1/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/BarDePueblo1/status/2068014245984322020",
+              "start": 3,
+              "url": "https://t.co/BtBjqMvjPZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068365448467607742",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068014245984322020",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？？ https://t.co/BtBjqMvjPZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2028124990319517696"
+          ],
+          "media_source_tweet_id": [
+            "2028213695298286063"
+          ]
+        },
+        "author_id": "1242078417585082372",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cheese",
+              "id": "825063068027621376",
+              "name": "Cheese"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Cheese",
+              "id": "825063068027621376",
+              "name": "Cheese"
+            }
+          }
+        ],
+        "conversation_id": "2068014245984322020",
+        "created_at": "2026-06-19T16:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068014245984322020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xpaivepro5",
+              "end": 74,
+              "expanded_url": "https://x.com/qqrmeme/status/2028213695298286063/video/1",
+              "media_key": "13_2028124990319517696",
+              "start": 51,
+              "url": "https://t.co/xpaivepro5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068014245984322020",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2001,
+          "impression_count": 2208254,
+          "like_count": 4245,
+          "quote_count": 382,
+          "reply_count": 992,
+          "retweet_count": 888
+        },
+        "reply_settings": "everyone",
+        "text": "Cuando me piden la hamburguesa con extra de queso.\nhttps://t.co/xpaivepro5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 646,
+          "like_count": 1982,
+          "listed_count": 2,
+          "media_count": 1924,
+          "tweet_count": 5102
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-23T13:19:16.000Z",
+        "description": "Solo humor.El Bar de Twitter.Negacionista de la leche templada.Aquí el camarero siempre tiene la razón.\nMe condenaron por un descafeinado que no lo era.",
+        "id": "1242078417585082372",
+        "location": "Detrás de la barra",
+        "name": "𝐁𝐚𝐫 𝐃𝐞 𝐏𝐮𝐞𝐛𝐥𝐨",
+        "pinned_tweet_id": "1534060181230870532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743966857139208192/RNhDgkGr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84002,
+          "following_count": 567,
+          "like_count": 624735,
+          "listed_count": 293,
+          "media_count": 19947,
+          "tweet_count": 166958
+        },
+        "url": "",
+        "username": "BarDePueblo1",
+        "verified": false
+      }
+    ]
+  }
+}

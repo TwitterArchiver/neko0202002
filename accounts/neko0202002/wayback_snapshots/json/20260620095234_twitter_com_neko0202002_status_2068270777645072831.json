@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2068260205557870601",
+    "created_at": "2026-06-20T09:52:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T10:52:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068270777645072831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1937073350750466048",
+          "start": 0,
+          "username": "karo269640607"
+        },
+        {
+          "end": 31,
+          "id": "1992506703678705664",
+          "start": 15,
+          "username": "jingqngyng64121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068270777645072831",
+    "in_reply_to_user_id": "1937073350750466048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068263844393484420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karo269640607 @jingqngyng64121 已经没救了^ ^"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2068263844393484420].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2068263844393484420",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2068263844393484420"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2068260205557870601",
+        "created_at": "2026-06-20T09:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T10:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068270777645072831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1937073350750466048",
+              "start": 0,
+              "username": "karo269640607"
+            },
+            {
+              "end": 31,
+              "id": "1992506703678705664",
+              "start": 15,
+              "username": "jingqngyng64121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068270777645072831",
+        "in_reply_to_user_id": "1937073350750466048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068263844393484420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karo269640607 @jingqngyng64121 已经没救了^ ^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 644,
+          "like_count": 1981,
+          "listed_count": 2,
+          "media_count": 1923,
+          "tweet_count": 5096
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T09:01:20.000Z",
+        "description": "o割餐券  I  ADHD、重焦中抑 |  虚无主义 | 顺女女同 | 生物化学药理板绘❤️ | 同类互fo | 混乱邪恶同人女 | 讨厌宗教 |恐游像素RPG爱好者|任何物种或性取向欢迎 | 化学极乐 | 基佬孝女言切 衛拓拒拆逆、生化里昂右向全肯定| 骂我的全家替我挡灾",
+        "id": "1937073350750466048",
+        "name": "请代我看看这个世界",
+        "pinned_tweet_id": "2039982674664960247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 683,
+          "like_count": 32716,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 6590
+        },
+        "url": "",
+        "username": "karo269640607",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T08:13:29.000Z",
+        "description": "08｜老公们跟我互fo｜爱评论爱点赞｜我o｜全包容｜bi｜清水推｜生活推｜精神病｜可以叫我阳｜✝️昇天✝️｜凉席猫爪别骂我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "od-wiki.com",
+                "end": 23,
+                "expanded_url": "http://od-wiki.com",
+                "start": 0,
+                "url": "https://t.co/hCLjxkWbQx"
+              }
+            ]
+          }
+        },
+        "id": "1992506703678705664",
+        "location": "距离你0.01km",
+        "name": "kawaii✝️",
+        "pinned_tweet_id": "2043155460476559769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041124868553609216/vxjMMYj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 409,
+          "like_count": 7772,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1611
+        },
+        "url": "https://t.co/hCLjxkWbQx",
+        "username": "jingqngyng64121",
+        "verified": false
+      }
+    ]
+  }
+}

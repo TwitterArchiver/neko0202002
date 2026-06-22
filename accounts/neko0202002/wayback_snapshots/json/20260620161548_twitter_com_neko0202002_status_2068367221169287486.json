@@ -1,0 +1,507 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068303196712529920"
+      ],
+      "media_source_tweet_id": [
+        "2068307001650852018"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10043651948",
+          "name": "Re:ゼロから始める異世界体験"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1229696070654889984",
+          "name": "Re:ゼロから始める異世界生活"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1296957403020189698",
+          "name": "Re:Zero − Starting Life in Another World"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296957403020189698",
+          "name": "Re:Zero − Starting Life in Another World"
+        }
+      }
+    ],
+    "conversation_id": "2068367221169287486",
+    "created_at": "2026-06-20T16:15:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T17:15:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068367221169287486"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 63,
+          "start": 59,
+          "tag": "リゼロ"
+        },
+        {
+          "end": 71,
+          "start": 64,
+          "tag": "rezero"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1233636724372209669",
+          "start": 3,
+          "username": "TH_WhiteSpace"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3yVAfYkyHz",
+          "end": 95,
+          "expanded_url": "https://x.com/TH_WhiteSpace/status/2068307001650852018/photo/1",
+          "media_key": "3_2068303196712529920",
+          "start": 72,
+          "url": "https://t.co/3yVAfYkyHz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068367221169287486",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 684
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068307001650852018",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TH_WhiteSpace: 『賢者』フリューゲル（イメージ）\n『嫉妬の魔女』サテラ\n『強欲の魔女』エキドナ\n#リゼロ #rezero https://t.co/3yVAfYkyHz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3874,
+        "media_key": "3_2068303196712529920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQWzI_a8AAE5gz.jpg",
+        "width": 2906
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068303196712529920"
+          ],
+          "media_source_tweet_id": [
+            "2068307001650852018"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10043651948",
+              "name": "Re:ゼロから始める異世界体験"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1229696070654889984",
+              "name": "Re:ゼロから始める異世界生活"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1296957403020189698",
+              "name": "Re:Zero − Starting Life in Another World"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296957403020189698",
+              "name": "Re:Zero − Starting Life in Another World"
+            }
+          }
+        ],
+        "conversation_id": "2068367221169287486",
+        "created_at": "2026-06-20T16:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068367221169287486"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 59,
+              "tag": "リゼロ"
+            },
+            {
+              "end": 71,
+              "start": 64,
+              "tag": "rezero"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1233636724372209669",
+              "start": 3,
+              "username": "TH_WhiteSpace"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3yVAfYkyHz",
+              "end": 95,
+              "expanded_url": "https://x.com/TH_WhiteSpace/status/2068307001650852018/photo/1",
+              "media_key": "3_2068303196712529920",
+              "start": 72,
+              "url": "https://t.co/3yVAfYkyHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068367221169287486",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 684
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068307001650852018",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TH_WhiteSpace: 『賢者』フリューゲル（イメージ）\n『嫉妬の魔女』サテラ\n『強欲の魔女』エキドナ\n#リゼロ #rezero https://t.co/3yVAfYkyHz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068303196712529920"
+          ]
+        },
+        "author_id": "1233636724372209669",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10043651948",
+              "name": "Re:ゼロから始める異世界体験"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1229696070654889984",
+              "name": "Re:ゼロから始める異世界生活"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1296957403020189698",
+              "name": "Re:Zero − Starting Life in Another World"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296957403020189698",
+              "name": "Re:Zero − Starting Life in Another World"
+            }
+          }
+        ],
+        "conversation_id": "2068307001650852018",
+        "created_at": "2026-06-20T12:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068307001650852018"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 40,
+              "tag": "リゼロ"
+            },
+            {
+              "end": 52,
+              "start": 45,
+              "tag": "rezero"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3yVAfYkyHz",
+              "end": 76,
+              "expanded_url": "https://x.com/TH_WhiteSpace/status/2068307001650852018/photo/1",
+              "media_key": "3_2068303196712529920",
+              "start": 53,
+              "url": "https://t.co/3yVAfYkyHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068307001650852018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1147,
+          "impression_count": 125143,
+          "like_count": 8345,
+          "quote_count": 26,
+          "reply_count": 6,
+          "retweet_count": 684
+        },
+        "reply_settings": "everyone",
+        "text": "『賢者』フリューゲル（イメージ）\n『嫉妬の魔女』サテラ\n『強欲の魔女』エキドナ\n#リゼロ #rezero https://t.co/3yVAfYkyHz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 646,
+          "like_count": 1983,
+          "listed_count": 2,
+          "media_count": 1924,
+          "tweet_count": 5105
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-29T06:15:03.000Z",
+        "description": "好きなものを描く。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/35868393",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/35868393",
+                "start": 0,
+                "url": "https://t.co/HtIEyjdOId"
+              }
+            ]
+          }
+        },
+        "id": "1233636724372209669",
+        "location": "Earth",
+        "name": "TH白",
+        "pinned_tweet_id": "2049127794391880082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924685958907338752/G3lK3GoW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1396,
+          "following_count": 115,
+          "like_count": 2792,
+          "listed_count": 7,
+          "media_count": 232,
+          "tweet_count": 597
+        },
+        "url": "https://t.co/HtIEyjdOId",
+        "username": "TH_WhiteSpace",
+        "verified": false
+      }
+    ]
+  }
+}

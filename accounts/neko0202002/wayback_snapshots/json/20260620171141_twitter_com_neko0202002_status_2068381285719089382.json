@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2068381272624484352"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2068365422819528774",
+    "created_at": "2026-06-20T17:11:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T18:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068381285719089382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1804875241367433216",
+          "start": 0,
+          "username": "aberyoheiskm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CdUE3lNNYM",
+          "end": 42,
+          "expanded_url": "https://x.com/neko0202002/status/2068381285719089382/photo/1",
+          "media_key": "16_2068381272624484352",
+          "start": 19,
+          "url": "https://t.co/CdUE3lNNYM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068381285719089382",
+    "in_reply_to_user_id": "1804875241367433216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068377871513686165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aberyoheiskm 字母蟑螂 https://t.co/CdUE3lNNYM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 280,
+        "media_key": "16_2068381272624484352",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HLRdzwbaUAAT7Q6.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HLRdzwbaUAAT7Q6.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2068381272624484352"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2068365422819528774",
+        "created_at": "2026-06-20T17:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068381285719089382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1804875241367433216",
+              "start": 0,
+              "username": "aberyoheiskm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CdUE3lNNYM",
+              "end": 42,
+              "expanded_url": "https://x.com/neko0202002/status/2068381285719089382/photo/1",
+              "media_key": "16_2068381272624484352",
+              "start": 19,
+              "url": "https://t.co/CdUE3lNNYM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068381285719089382",
+        "in_reply_to_user_id": "1804875241367433216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068377871513686165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiskm 字母蟑螂 https://t.co/CdUE3lNNYM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804875241367433216",
+        "conversation_id": "2068365422819528774",
+        "created_at": "2026-06-20T16:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068377871513686165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068377871513686165",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068365422819528774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 怎么还有艾斯爱慕😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 646,
+          "like_count": 1983,
+          "listed_count": 2,
+          "media_count": 1925,
+          "tweet_count": 5106
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 311,
+          "like_count": 3137,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 1988
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      }
+    ]
+  }
+}
