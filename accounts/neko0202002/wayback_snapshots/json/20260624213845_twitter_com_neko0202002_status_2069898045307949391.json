@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2069898034977308673"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2063574011272212721",
+    "created_at": "2026-06-24T21:38:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T22:38:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069898045307949391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2063564638328147968",
+          "start": 0,
+          "username": "frontier_tut"
+        },
+        {
+          "end": 28,
+          "id": "2011375652579262464",
+          "start": 14,
+          "username": "Kagamine_8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sxOh2Cxo9A",
+          "end": 57,
+          "expanded_url": "https://x.com/neko0202002/status/2069898045307949391/photo/1",
+          "media_key": "16_2069898034977308673",
+          "start": 34,
+          "url": "https://t.co/sxOh2Cxo9A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069898045307949391",
+    "in_reply_to_user_id": "2063564638328147968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063574011272212721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@frontier_tut @Kagamine_8964 来了来了 https://t.co/sxOh2Cxo9A"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Kagamine_8964].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Kagamine_8964",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Kagamine_8964"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 316,
+        "media_key": "16_2069898034977308673",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HLnBS8gaAAEhycV.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HLnBS8gaAAEhycV.mp4"
+          }
+        ],
+        "width": 480
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2063574008264904704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNJoJJb0AAlbZN.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2069898034977308673"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2063574011272212721",
+        "created_at": "2026-06-24T21:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T22:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069898045307949391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063564638328147968",
+              "start": 0,
+              "username": "frontier_tut"
+            },
+            {
+              "end": 28,
+              "id": "2011375652579262464",
+              "start": 14,
+              "username": "Kagamine_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sxOh2Cxo9A",
+              "end": 57,
+              "expanded_url": "https://x.com/neko0202002/status/2069898045307949391/photo/1",
+              "media_key": "16_2069898034977308673",
+              "start": 34,
+              "url": "https://t.co/sxOh2Cxo9A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069898045307949391",
+        "in_reply_to_user_id": "2063564638328147968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063574011272212721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frontier_tut @Kagamine_8964 来了来了 https://t.co/sxOh2Cxo9A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063574008264904704"
+          ]
+        },
+        "author_id": "2063564638328147968",
+        "conversation_id": "2063574011272212721",
+        "created_at": "2026-06-07T10:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063574011272212721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "2011375652579262464",
+              "start": 14,
+              "username": "Kagamine_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sN3AeamBqG",
+              "end": 59,
+              "expanded_url": "https://x.com/frontier_tut/status/2063574011272212721/photo/1",
+              "media_key": "3_2063574008264904704",
+              "start": 36,
+              "url": "https://t.co/sN3AeamBqG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063574011272212721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2497,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我是镜音 第十世转生\n旧名义@Kagamine_8964\n互fo巡回🥹 https://t.co/sN3AeamBqG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 628,
+          "like_count": 2051,
+          "listed_count": 2,
+          "media_count": 2037,
+          "tweet_count": 5314
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-07T10:17:33.000Z",
+        "description": "我看著眼前幸福的日子被我親手摧毀後開心地閉上了眼\n|十代目账号\n|姐姐大人 @Tsukiyasakura",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "Tsukiyasakura"
+              }
+            ]
+          }
+        },
+        "id": "2063564638328147968",
+        "location": "௵宇宙௵",
+        "name": "鏡鏡金竟音",
+        "pinned_tweet_id": "2063574011272212721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064032867697696768/7zjdu4Tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 114,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 87
+        },
+        "url": "",
+        "username": "frontier_tut",
+        "verified": false
+      }
+    ]
+  }
+}

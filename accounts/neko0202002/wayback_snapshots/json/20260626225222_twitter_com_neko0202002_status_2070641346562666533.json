@@ -1,0 +1,448 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070441621498564608",
+        "3_2070441621494394880"
+      ],
+      "media_source_tweet_id": [
+        "2070441630159802873",
+        "2070441630159802873"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2070641346562666533",
+    "created_at": "2026-06-26T22:52:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T23:52:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070641346562666533"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 17,
+          "tag": "コスプレ"
+        },
+        {
+          "end": 32,
+          "start": 23,
+          "tag": "prsk_cos"
+        },
+        {
+          "end": 41,
+          "start": 34,
+          "tag": "朝比奈まふゆ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1287553171787640833",
+          "start": 3,
+          "username": "hnmrszksuki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sKECJncnKP",
+          "end": 98,
+          "expanded_url": "https://x.com/hnmrszksuki/status/2070441630159802873/photo/1",
+          "media_key": "3_2070441621498564608",
+          "start": 75,
+          "url": "https://t.co/sKECJncnKP"
+        },
+        {
+          "display_url": "pic.x.com/sKECJncnKP",
+          "end": 98,
+          "expanded_url": "https://x.com/hnmrszksuki/status/2070441630159802873/photo/1",
+          "media_key": "3_2070441621494394880",
+          "start": 75,
+          "url": "https://t.co/sKECJncnKP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070641346562666533",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070441630159802873",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hnmrszksuki: #コスプレ #prsk_cos  #朝比奈まふゆ\nmfy cosplay⚠️ 👩🏻‍🎓 中国語注意⚠️\nooc致歉 https://t.co/sKECJncnKP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070441621498564608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLuvr2GbEAAa2Uj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070441621494394880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLuvr2FbcAADtEt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070441621498564608",
+            "3_2070441621494394880"
+          ],
+          "media_source_tweet_id": [
+            "2070441630159802873",
+            "2070441630159802873"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2070641346562666533",
+        "created_at": "2026-06-26T22:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T23:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070641346562666533"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "コスプレ"
+            },
+            {
+              "end": 32,
+              "start": 23,
+              "tag": "prsk_cos"
+            },
+            {
+              "end": 41,
+              "start": 34,
+              "tag": "朝比奈まふゆ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1287553171787640833",
+              "start": 3,
+              "username": "hnmrszksuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sKECJncnKP",
+              "end": 98,
+              "expanded_url": "https://x.com/hnmrszksuki/status/2070441630159802873/photo/1",
+              "media_key": "3_2070441621498564608",
+              "start": 75,
+              "url": "https://t.co/sKECJncnKP"
+            },
+            {
+              "display_url": "pic.x.com/sKECJncnKP",
+              "end": 98,
+              "expanded_url": "https://x.com/hnmrszksuki/status/2070441630159802873/photo/1",
+              "media_key": "3_2070441621494394880",
+              "start": 75,
+              "url": "https://t.co/sKECJncnKP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070641346562666533",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070441630159802873",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hnmrszksuki: #コスプレ #prsk_cos  #朝比奈まふゆ\nmfy cosplay⚠️ 👩🏻‍🎓 中国語注意⚠️\nooc致歉 https://t.co/sKECJncnKP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070441621498564608",
+            "3_2070441621494394880"
+          ]
+        },
+        "author_id": "1287553171787640833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2070441630159802873",
+        "created_at": "2026-06-26T09:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T10:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070441630159802873"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "コスプレ"
+            },
+            {
+              "end": 15,
+              "start": 6,
+              "tag": "prsk_cos"
+            },
+            {
+              "end": 24,
+              "start": 17,
+              "tag": "朝比奈まふゆ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sKECJncnKP",
+              "end": 81,
+              "expanded_url": "https://x.com/hnmrszksuki/status/2070441630159802873/photo/1",
+              "media_key": "3_2070441621498564608",
+              "start": 58,
+              "url": "https://t.co/sKECJncnKP"
+            },
+            {
+              "display_url": "pic.x.com/sKECJncnKP",
+              "end": 81,
+              "expanded_url": "https://x.com/hnmrszksuki/status/2070441630159802873/photo/1",
+              "media_key": "3_2070441621494394880",
+              "start": 58,
+              "url": "https://t.co/sKECJncnKP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070441630159802873",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 16066,
+          "like_count": 1028,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "#コスプレ #prsk_cos  #朝比奈まふゆ\nmfy cosplay⚠️ 👩🏻‍🎓 中国語注意⚠️\nooc致歉 https://t.co/sKECJncnKP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 629,
+          "like_count": 2060,
+          "listed_count": 2,
+          "media_count": 2045,
+          "tweet_count": 5360
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-27T00:59:49.000Z",
+        "description": "🌈🕒 🥂✨/🎲/20+ prsk💧\n中文 Eng 日本語は苦手🙇🏻‍♀️🙇🏻‍♀️",
+        "id": "1287553171787640833",
+        "name": "えむ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026659920377237504/H_5g65zi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 367,
+          "like_count": 1100,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 786
+        },
+        "url": "",
+        "username": "hnmrszksuki",
+        "verified": false
+      }
+    ]
+  }
+}

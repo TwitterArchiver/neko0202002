@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2068806755912683520"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2068651445424103620",
+    "created_at": "2026-06-21T21:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T22:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068806761948278802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1802704441961017344",
+          "start": 0,
+          "username": "misumikaede3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pUGNF9g2oh",
+          "end": 56,
+          "expanded_url": "https://x.com/neko0202002/status/2068806761948278802/photo/1",
+          "media_key": "16_2068806755912683520",
+          "start": 33,
+          "url": "https://t.co/pUGNF9g2oh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068806761948278802",
+    "in_reply_to_user_id": "1802704441961017344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068806597967839623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misumikaede3 我挺推荐的,比我刻意抑制食欲靠谱多了 https://t.co/pUGNF9g2oh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 282,
+        "media_key": "16_2068806755912683520",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HLXgyJMakAAznIX.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HLXgyJMakAAznIX.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2068806755912683520"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2068651445424103620",
+        "created_at": "2026-06-21T21:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T22:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068806761948278802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1802704441961017344",
+              "start": 0,
+              "username": "misumikaede3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pUGNF9g2oh",
+              "end": 56,
+              "expanded_url": "https://x.com/neko0202002/status/2068806761948278802/photo/1",
+              "media_key": "16_2068806755912683520",
+              "start": 33,
+              "url": "https://t.co/pUGNF9g2oh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068806761948278802",
+        "in_reply_to_user_id": "1802704441961017344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068806597967839623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misumikaede3 我挺推荐的,比我刻意抑制食欲靠谱多了 https://t.co/pUGNF9g2oh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802704441961017344",
+        "conversation_id": "2068651445424103620",
+        "created_at": "2026-06-21T21:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T22:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068806597967839623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068806597967839623",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068804824871915953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 真的有效（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 631,
+          "like_count": 2027,
+          "listed_count": 2,
+          "media_count": 1981,
+          "tweet_count": 5220
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "（百八十無常、冰川枫）20+ AuDHD🌪️ enby 🍥 2025.11.14 oder💊｜不论虚无与现实，且行，且行，行动以得知，得知而正行｜精神状态奇异 政治倾向奇特 想成为不走极端的人 喜欢我的请来和我交朋友 如果我发疯非常抱歉 小号的我：你猜",
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "三角枫🏳️‍⚧️#锦绣三",
+        "pinned_tweet_id": "2033998879956619524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062045921832300544/FeFvueDz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205,
+          "following_count": 1269,
+          "like_count": 37712,
+          "listed_count": 4,
+          "media_count": 386,
+          "tweet_count": 12062
+        },
+        "url": "",
+        "username": "misumikaede3",
+        "verified": false
+      }
+    ]
+  }
+}

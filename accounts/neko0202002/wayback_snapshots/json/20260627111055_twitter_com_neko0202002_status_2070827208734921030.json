@@ -1,0 +1,534 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2070423059195121664"
+      ],
+      "media_source_tweet_id": [
+        "2070423549312172488"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2070827208734921030",
+    "created_at": "2026-06-27T11:10:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T12:10:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070827208734921030"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 35,
+          "tag": "初音未来"
+        },
+        {
+          "end": 46,
+          "start": 41,
+          "tag": "miku"
+        },
+        {
+          "end": 52,
+          "start": 47,
+          "tag": "初音ミク"
+        },
+        {
+          "end": 59,
+          "start": 53,
+          "tag": "初音ミクオ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2000538660681510912",
+          "start": 3,
+          "username": "Heisen676291"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GAwtZ7yO2F",
+          "end": 83,
+          "expanded_url": "https://x.com/Heisen676291/status/2070423549312172488/video/1",
+          "media_key": "7_2070423059195121664",
+          "start": 60,
+          "url": "https://t.co/GAwtZ7yO2F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070827208734921030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070423549312172488",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Heisen676291: 什么QQ弹弹我们最爱？~初音未来！#初音未来 #miku #初音ミク #初音ミクオ https://t.co/GAwtZ7yO2F"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 54195,
+        "height": 1280,
+        "media_key": "7_2070423059195121664",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2070423059195121664/pu/img/vegqYFyaBdAT1jeZ.jpg",
+        "public_metrics": {
+          "view_count": 4231
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070423059195121664/pu/vid/avc1/320x568/RTLeCo6h1G-oQSNJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070423059195121664/pu/vid/avc1/480x852/xRKiG5f8D-wC_7j0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070423059195121664/pu/vid/avc1/720x1280/KRm6FH9WMR94kJoC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2070423059195121664/pu/pl/BJKPB0NJnS81DWVX.m3u8?v=55e"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 54195,
+        "height": 1280,
+        "media_key": "7_2070423059195121664",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2070423059195121664/pu/img/vegqYFyaBdAT1jeZ.jpg",
+        "public_metrics": {
+          "view_count": 4344
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070423059195121664/pu/vid/avc1/320x568/RTLeCo6h1G-oQSNJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070423059195121664/pu/vid/avc1/480x852/xRKiG5f8D-wC_7j0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2070423059195121664/pu/vid/avc1/720x1280/KRm6FH9WMR94kJoC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2070423059195121664/pu/pl/BJKPB0NJnS81DWVX.m3u8?v=55e"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2070423059195121664"
+          ],
+          "media_source_tweet_id": [
+            "2070423549312172488"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2070827208734921030",
+        "created_at": "2026-06-27T11:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070827208734921030"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "初音未来"
+            },
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "miku"
+            },
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 59,
+              "start": 53,
+              "tag": "初音ミクオ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2000538660681510912",
+              "start": 3,
+              "username": "Heisen676291"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GAwtZ7yO2F",
+              "end": 83,
+              "expanded_url": "https://x.com/Heisen676291/status/2070423549312172488/video/1",
+              "media_key": "7_2070423059195121664",
+              "start": 60,
+              "url": "https://t.co/GAwtZ7yO2F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070827208734921030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070423549312172488",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Heisen676291: 什么QQ弹弹我们最爱？~初音未来！#初音未来 #miku #初音ミク #初音ミクオ https://t.co/GAwtZ7yO2F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2070423059195121664"
+          ]
+        },
+        "author_id": "2000538660681510912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2070423549312172488",
+        "created_at": "2026-06-26T08:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T09:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070423549312172488"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "初音未来"
+            },
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "miku"
+            },
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 41,
+              "start": 35,
+              "tag": "初音ミクオ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GAwtZ7yO2F",
+              "end": 65,
+              "expanded_url": "https://x.com/Heisen676291/status/2070423549312172488/video/1",
+              "media_key": "7_2070423059195121664",
+              "start": 42,
+              "url": "https://t.co/GAwtZ7yO2F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070423549312172488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 13403,
+          "like_count": 349,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 7
+        },
+        "reply_settings": "following",
+        "text": "什么QQ弹弹我们最爱？~初音未来！#初音未来 #miku #初音ミク #初音ミクオ https://t.co/GAwtZ7yO2F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 626,
+          "like_count": 2060,
+          "listed_count": 2,
+          "media_count": 2049,
+          "tweet_count": 5368
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T12:09:36.000Z",
+        "description": "大家好，这里是千叶芊!qianyeqianOvO2因不明原因\n于2025.12.7被封禁，粉丝可关注此号 千叶芊，女，\n178/52。喜欢猫，手工品，萌物。爱吃美食，重度懒癌，严重拖延症，体弱多病。谢谢在人群中遇见千叶芊，感谢关注~₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "2000538660681510912",
+        "name": "千叶芊",
+        "pinned_tweet_id": "2048721023202455863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000552331985952769/Byo9lArl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71430,
+          "following_count": 117,
+          "like_count": 1474,
+          "listed_count": 139,
+          "media_count": 179,
+          "tweet_count": 819
+        },
+        "url": "",
+        "username": "Heisen676291",
+        "verified": true
+      }
+    ]
+  }
+}

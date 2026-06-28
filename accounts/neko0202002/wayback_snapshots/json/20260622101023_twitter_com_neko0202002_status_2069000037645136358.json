@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2069000037645136358",
+    "created_at": "2026-06-22T10:10:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T11:10:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069000037645136358"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NrsimhaScratch…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/NrsimhaScratch/status/2068663229631631814",
+          "start": 4,
+          "url": "https://t.co/lHznRl0zDg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069000037645136358",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068663229631631814",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你咋了 https://t.co/lHznRl0zDg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2069000037645136358",
+        "created_at": "2026-06-22T10:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069000037645136358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NrsimhaScratch…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/NrsimhaScratch/status/2068663229631631814",
+              "start": 4,
+              "url": "https://t.co/lHznRl0zDg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069000037645136358",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068663229631631814",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你咋了 https://t.co/lHznRl0zDg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793305845444612096",
+        "conversation_id": "2068570111292965301",
+        "created_at": "2026-06-21T11:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068663229631631814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1669543422586421248",
+              "start": 0,
+              "username": "Letana358121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068663229631631814",
+        "in_reply_to_user_id": "1669543422586421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3158,
+          "like_count": 0,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068570111292965301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Letana358121 性别是脉轮的事，男魂的人能量中心在海底轮，女魂的人能量中心在心轮，所以只有真正的男人能从海底轮升起昆达利尼，脑回路的差异也源自这里。男的以证明自己不是性无能来自信，女的以证明自己有魅力来自信。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 632,
+          "like_count": 2037,
+          "listed_count": 2,
+          "media_count": 1992,
+          "tweet_count": 5238
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-22T15:40:32.000Z",
+        "description": "Anything that hinders the progress of times is Adharm. Adharm will be crushed by Sudarśana cakra.",
+        "id": "1793305845444612096",
+        "name": "नैवेद्यः",
+        "pinned_tweet_id": "2012550384372621679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022691133969829892/FHNGoNhE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 206,
+          "like_count": 2188,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 2237
+        },
+        "url": "",
+        "username": "NrsimhaScratch",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070336664938143745"
+      ],
+      "media_source_tweet_id": [
+        "2070336671321821406"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2070414161218326679",
+    "created_at": "2026-06-26T07:49:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T08:49:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070414161218326679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1283818798177370113",
+          "start": 3,
+          "username": "GuangXi06"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XRlWksHyyA",
+          "end": 42,
+          "expanded_url": "https://x.com/GuangXi06/status/2070336671321821406/photo/1",
+          "media_key": "3_2070336664938143745",
+          "start": 19,
+          "url": "https://t.co/XRlWksHyyA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070414161218326679",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070336671321821406",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GuangXi06: 望周知 https://t.co/XRlWksHyyA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 474,
+        "media_key": "3_2070336664938143745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtQOkca4AEKIzl.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070336664938143745"
+          ],
+          "media_source_tweet_id": [
+            "2070336671321821406"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2070414161218326679",
+        "created_at": "2026-06-26T07:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T08:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070414161218326679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1283818798177370113",
+              "start": 3,
+              "username": "GuangXi06"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XRlWksHyyA",
+              "end": 42,
+              "expanded_url": "https://x.com/GuangXi06/status/2070336671321821406/photo/1",
+              "media_key": "3_2070336664938143745",
+              "start": 19,
+              "url": "https://t.co/XRlWksHyyA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070414161218326679",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070336671321821406",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GuangXi06: 望周知 https://t.co/XRlWksHyyA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070336664938143745"
+          ]
+        },
+        "author_id": "1283818798177370113",
+        "conversation_id": "2070336671321821406",
+        "created_at": "2026-06-26T02:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070336671321821406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XRlWksHyyA",
+              "end": 27,
+              "expanded_url": "https://x.com/GuangXi06/status/2070336671321821406/photo/1",
+              "media_key": "3_2070336664938143745",
+              "start": 4,
+              "url": "https://t.co/XRlWksHyyA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070336671321821406",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "望周知 https://t.co/XRlWksHyyA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 628,
+          "like_count": 2054,
+          "listed_count": 2,
+          "media_count": 2040,
+          "tweet_count": 5339
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-16T17:40:39.000Z",
+        "description": "19 | he/him｜ 负能量 | 想交朋友｜OD💊｜穿孔｜互fo｜不键政｜不卖东西｜大家快来找这个清平聊天呀｜",
+        "id": "1283818798177370113",
+        "location": "第四高原",
+        "name": "痛苦心事难言",
+        "pinned_tweet_id": "2056042624641798443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056582911160352768/GW69TNAp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 252,
+          "like_count": 2438,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 407
+        },
+        "url": "",
+        "username": "GuangXi06",
+        "verified": false
+      }
+    ]
+  }
+}

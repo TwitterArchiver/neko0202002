@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2068797122191966208"
+      ],
+      "media_source_tweet_id": [
+        "2068797190999560433"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2069112155987902679",
+    "created_at": "2026-06-22T17:35:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T18:35:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069112155987902679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "909898061672964097",
+          "start": 3,
+          "username": "stajp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ShDCPcC0V3",
+          "end": 34,
+          "expanded_url": "https://x.com/stajp/status/2068797190999560433/video/1",
+          "media_key": "13_2068797122191966208",
+          "start": 11,
+          "url": "https://t.co/ShDCPcC0V3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069112155987902679",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1549
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068797190999560433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stajp: https://t.co/ShDCPcC0V3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13046,
+        "height": 720,
+        "media_key": "13_2068797122191966208",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068797122191966208/img/ifJD0d4j8dMpKvNG.jpg",
+        "public_metrics": {
+          "view_count": 198549
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068797122191966208/vid/avc1/320x320/QDK1lWO-pylDN3YX.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068797122191966208/vid/avc1/540x540/kEiUYfiioWKvQtHp.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068797122191966208/vid/avc1/720x720/q_QNV0AQSSKVXiDj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068797122191966208/pl/vXE4GeWI4rTFSl2P.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068797122191966208"
+          ],
+          "media_source_tweet_id": [
+            "2068797190999560433"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2069112155987902679",
+        "created_at": "2026-06-22T17:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T18:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069112155987902679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "909898061672964097",
+              "start": 3,
+              "username": "stajp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ShDCPcC0V3",
+              "end": 34,
+              "expanded_url": "https://x.com/stajp/status/2068797190999560433/video/1",
+              "media_key": "13_2068797122191966208",
+              "start": 11,
+              "url": "https://t.co/ShDCPcC0V3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069112155987902679",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1549
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068797190999560433",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stajp: https://t.co/ShDCPcC0V3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068797122191966208"
+          ]
+        },
+        "author_id": "909898061672964097",
+        "conversation_id": "2068797190999560433",
+        "created_at": "2026-06-21T20:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T21:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068797190999560433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ShDCPcC0V3",
+              "end": 23,
+              "expanded_url": "https://x.com/stajp/status/2068797190999560433/video/1",
+              "media_key": "13_2068797122191966208",
+              "start": 0,
+              "url": "https://t.co/ShDCPcC0V3"
+            },
+            {
+              "display_url": "x.com/do9_do9/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/do9_do9/status/2068718758852690096",
+              "start": 24,
+              "url": "https://t.co/7cj4ts9Fx4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068797190999560433",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2496,
+          "impression_count": 959641,
+          "like_count": 10462,
+          "quote_count": 159,
+          "reply_count": 12,
+          "retweet_count": 1549
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068718758852690096",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/ShDCPcC0V3 https://t.co/7cj4ts9Fx4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 632,
+          "like_count": 2041,
+          "listed_count": 2,
+          "media_count": 2001,
+          "tweet_count": 5253
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-18T21:52:57.000Z",
+        "description": "",
+        "id": "909898061672964097",
+        "location": "☩",
+        "name": "ْ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040934208248651777/kDiYtYVm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 61,
+          "like_count": 79741,
+          "listed_count": 8,
+          "media_count": 165,
+          "tweet_count": 19578
+        },
+        "url": "",
+        "username": "stajp",
+        "verified": false
+      }
+    ]
+  }
+}

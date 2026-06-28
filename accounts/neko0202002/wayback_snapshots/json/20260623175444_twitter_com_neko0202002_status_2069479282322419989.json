@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069479276316078080"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2069041583438299368",
+    "created_at": "2026-06-23T17:54:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T18:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069479282322419989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1691799201230065665",
+          "start": 0,
+          "username": "xiaojuh28027018"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sFi6CescdZ",
+          "end": 40,
+          "expanded_url": "https://x.com/neko0202002/status/2069479282322419989/photo/1",
+          "media_key": "3_2069479276316078080",
+          "start": 17,
+          "url": "https://t.co/sFi6CescdZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069479282322419989",
+    "in_reply_to_user_id": "1691799201230065665",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069474817447973311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaojuh28027018 https://t.co/sFi6CescdZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069479276316078080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLhEb-7aMAAQ66F.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069479276316078080"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069041583438299368",
+        "created_at": "2026-06-23T17:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T18:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069479282322419989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1691799201230065665",
+              "start": 0,
+              "username": "xiaojuh28027018"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sFi6CescdZ",
+              "end": 40,
+              "expanded_url": "https://x.com/neko0202002/status/2069479282322419989/photo/1",
+              "media_key": "3_2069479276316078080",
+              "start": 17,
+              "url": "https://t.co/sFi6CescdZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069479282322419989",
+        "in_reply_to_user_id": "1691799201230065665",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069474817447973311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaojuh28027018 https://t.co/sFi6CescdZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691799201230065665",
+        "conversation_id": "2069041583438299368",
+        "created_at": "2026-06-23T17:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T18:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069474817447973311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069474817447973311",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069041583438299368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 终于知道花木兰为什么没被认出来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 629,
+          "like_count": 2046,
+          "listed_count": 2,
+          "media_count": 2011,
+          "tweet_count": 5275
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-16T13:09:07.000Z",
+        "description": "不谈论政治（特殊情况以外绝对不会键政）",
+        "id": "1691799201230065665",
+        "name": "ZEL_a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718514403899809792/S4x8-Dlk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 176,
+          "like_count": 3273,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 937
+        },
+        "url": "",
+        "username": "xiaojuh28027018",
+        "verified": false
+      }
+    ]
+  }
+}
