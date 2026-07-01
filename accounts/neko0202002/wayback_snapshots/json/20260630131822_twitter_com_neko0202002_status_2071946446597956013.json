@@ -1,0 +1,525 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071530177902116865"
+      ],
+      "media_source_tweet_id": [
+        "2071530183098814668"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2071946446597956013",
+    "created_at": "2026-06-30T13:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T14:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071946446597956013"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 88,
+          "start": 83,
+          "tag": "まどマギ"
+        },
+        {
+          "end": 99,
+          "start": 89,
+          "tag": "ワルプルギスの廻天"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2042951324820766720",
+          "start": 3,
+          "username": "display148"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i8EJx1kvIE",
+          "end": 123,
+          "expanded_url": "https://x.com/display148/status/2071530183098814668/photo/1",
+          "media_key": "3_2071530177902116865",
+          "start": 100,
+          "url": "https://t.co/i8EJx1kvIE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071946446597956013",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071530183098814668",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @display148: みんな「謎の魔法少女」はほむらとマミの融合体なんじゃないかと言ってるけど、それだと髪色に説明がつかないんだよね\n間違ってたら消します\n#まどマギ\n#ワルプルギスの廻天 https://t.co/i8EJx1kvIE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071530177902116865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-NuKtbgAE28De.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071530177902116865"
+          ],
+          "media_source_tweet_id": [
+            "2071530183098814668"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2071946446597956013",
+        "created_at": "2026-06-30T13:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071946446597956013"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 88,
+              "start": 83,
+              "tag": "まどマギ"
+            },
+            {
+              "end": 99,
+              "start": 89,
+              "tag": "ワルプルギスの廻天"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2042951324820766720",
+              "start": 3,
+              "username": "display148"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i8EJx1kvIE",
+              "end": 123,
+              "expanded_url": "https://x.com/display148/status/2071530183098814668/photo/1",
+              "media_key": "3_2071530177902116865",
+              "start": 100,
+              "url": "https://t.co/i8EJx1kvIE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071946446597956013",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071530183098814668",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @display148: みんな「謎の魔法少女」はほむらとマミの融合体なんじゃないかと言ってるけど、それだと髪色に説明がつかないんだよね\n間違ってたら消します\n#まどマギ\n#ワルプルギスの廻天 https://t.co/i8EJx1kvIE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071530177902116865"
+          ]
+        },
+        "author_id": "2042951324820766720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2071530183098814668",
+        "created_at": "2026-06-29T09:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T10:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071530183098814668"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 67,
+              "tag": "まどマギ"
+            },
+            {
+              "end": 83,
+              "start": 73,
+              "tag": "ワルプルギスの廻天"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i8EJx1kvIE",
+              "end": 107,
+              "expanded_url": "https://x.com/display148/status/2071530183098814668/photo/1",
+              "media_key": "3_2071530177902116865",
+              "start": 84,
+              "url": "https://t.co/i8EJx1kvIE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071530183098814668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 631,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "みんな「謎の魔法少女」はほむらとマミの融合体なんじゃないかと言ってるけど、それだと髪色に説明がつかないんだよね\n間違ってたら消します\n#まどマギ\n#ワルプルギスの廻天 https://t.co/i8EJx1kvIE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 634,
+          "like_count": 2078,
+          "listed_count": 2,
+          "media_count": 2092,
+          "tweet_count": 5466
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-11T13:05:19.000Z",
+        "description": "",
+        "id": "2042951324820766720",
+        "name": "display",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042953875406360576/NQ2LkEnF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 17,
+          "like_count": 618,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "display148",
+        "verified": false
+      }
+    ]
+  }
+}

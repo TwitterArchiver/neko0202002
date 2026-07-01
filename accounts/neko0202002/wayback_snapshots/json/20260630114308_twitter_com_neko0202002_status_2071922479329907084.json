@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2071752583044374737",
+    "created_at": "2026-06-30T11:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T12:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071922479329907084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1939242814547914752",
+          "start": 0,
+          "username": "Shenxiao123971"
+        },
+        {
+          "end": 27,
+          "id": "1107028439058374656",
+          "start": 16,
+          "username": "YongshengM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071922479329907084",
+    "in_reply_to_user_id": "1939242814547914752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071788618281345349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shenxiao123971 @YongshengM 中国烟和外国烟区别很大吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2071752583044374737",
+        "created_at": "2026-06-30T11:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071922479329907084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1939242814547914752",
+              "start": 0,
+              "username": "Shenxiao123971"
+            },
+            {
+              "end": 27,
+              "id": "1107028439058374656",
+              "start": 16,
+              "username": "YongshengM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071922479329907084",
+        "in_reply_to_user_id": "1939242814547914752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071788618281345349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shenxiao123971 @YongshengM 中国烟和外国烟区别很大吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939242814547914752",
+        "conversation_id": "2071752583044374737",
+        "created_at": "2026-06-30T02:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T03:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071788618281345349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1107028439058374656",
+              "start": 0,
+              "username": "YongshengM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071788618281345349",
+        "in_reply_to_user_id": "1107028439058374656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 36217,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071754167522406547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongshengM 中国烟是烤烟，在国际上还是很受欢迎的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 633,
+          "like_count": 2078,
+          "listed_count": 2,
+          "media_count": 2088,
+          "tweet_count": 5457
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T08:42:06.000Z",
+        "description": "我是Shenxiao本xiao",
+        "id": "1939242814547914752",
+        "name": "shenxiao",
+        "pinned_tweet_id": "2036086738314305732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963951814086475776/QZLXH7xF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41586,
+          "following_count": 5388,
+          "like_count": 140604,
+          "listed_count": 131,
+          "media_count": 46,
+          "tweet_count": 1072
+        },
+        "url": "",
+        "username": "Shenxiao123971",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-16T21:18:42.000Z",
+        "description": "用历史与诗词， 理解当下的人性与情绪。 History & poetry as a lens to understand people and emotions today.",
+        "id": "1107028439058374656",
+        "name": "A&Mark | 马斯克没有斯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032373045252517888/_qAEiMg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1471,
+          "following_count": 1412,
+          "like_count": 18780,
+          "listed_count": 1,
+          "media_count": 379,
+          "tweet_count": 2575
+        },
+        "url": "",
+        "username": "YongshengM",
+        "verified": true
+      }
+    ]
+  }
+}

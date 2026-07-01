@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071892829677162496"
+      ],
+      "media_source_tweet_id": [
+        "2071892958274568493"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2071926572349796432",
+    "created_at": "2026-06-30T11:59:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T12:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071926572349796432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1466558223922700294",
+          "start": 3,
+          "username": "BestinDogs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jq0fLf3y7g",
+          "end": 85,
+          "expanded_url": "https://x.com/BestinDogs/status/2071892958274568493/photo/1",
+          "media_key": "3_2071892829677162496",
+          "start": 62,
+          "url": "https://t.co/Jq0fLf3y7g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071926572349796432",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071892958274568493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BestinDogs: I'm old i know, but u can send me some wishes https://t.co/Jq0fLf3y7g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 666,
+        "media_key": "3_2071892829677162496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDXjR2WEAANGfM.png",
+        "width": 661
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071892829677162496"
+          ],
+          "media_source_tweet_id": [
+            "2071892958274568493"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2071926572349796432",
+        "created_at": "2026-06-30T11:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071926572349796432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1466558223922700294",
+              "start": 3,
+              "username": "BestinDogs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jq0fLf3y7g",
+              "end": 85,
+              "expanded_url": "https://x.com/BestinDogs/status/2071892958274568493/photo/1",
+              "media_key": "3_2071892829677162496",
+              "start": 62,
+              "url": "https://t.co/Jq0fLf3y7g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071926572349796432",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071892958274568493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BestinDogs: I'm old i know, but u can send me some wishes https://t.co/Jq0fLf3y7g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071892829677162496"
+          ]
+        },
+        "author_id": "1466558223922700294",
+        "conversation_id": "2071892958274568493",
+        "created_at": "2026-06-30T09:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071892958274568493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jq0fLf3y7g",
+              "end": 69,
+              "expanded_url": "https://x.com/BestinDogs/status/2071892958274568493/photo/1",
+              "media_key": "3_2071892829677162496",
+              "start": 46,
+              "url": "https://t.co/Jq0fLf3y7g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071892958274568493",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1618,
+          "like_count": 241,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "I'm old i know, but u can send me some wishes https://t.co/Jq0fLf3y7g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 633,
+          "like_count": 2078,
+          "listed_count": 2,
+          "media_count": 2091,
+          "tweet_count": 5464
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-03T00:02:51.000Z",
+        "description": "Dogs are just a part of our life. But for them, we are their whole life. 🐶❤️",
+        "id": "1466558223922700294",
+        "location": "USA",
+        "name": "Best in Dogs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1614687520293363717/dJGP1RS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93407,
+          "following_count": 242,
+          "like_count": 10894,
+          "listed_count": 104,
+          "media_count": 6439,
+          "tweet_count": 6538
+        },
+        "url": "",
+        "username": "BestinDogs",
+        "verified": true
+      }
+    ]
+  }
+}
