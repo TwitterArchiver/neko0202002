@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2072622840361505185",
+    "created_at": "2026-07-02T17:43:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T18:43:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072738051600810232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1969343564695158786",
+          "start": 0,
+          "username": "lennon_joh14132"
+        },
+        {
+          "end": 29,
+          "id": "2028814965965312001",
+          "start": 17,
+          "username": "Miiharukawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072738051600810232",
+    "in_reply_to_user_id": "1969343564695158786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072674694541754825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lennon_joh14132 @Miiharukawa 丑女人家看啥啊……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2072622840361505185",
+        "created_at": "2026-07-02T17:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T18:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072738051600810232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1969343564695158786",
+              "start": 0,
+              "username": "lennon_joh14132"
+            },
+            {
+              "end": 29,
+              "id": "2028814965965312001",
+              "start": 17,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072738051600810232",
+        "in_reply_to_user_id": "1969343564695158786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072674694541754825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lennon_joh14132 @Miiharukawa 丑女人家看啥啊……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969343564695158786",
+        "conversation_id": "2072622840361505185",
+        "created_at": "2026-07-02T13:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072674694541754825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072674694541754825",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 576,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072622840361505185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 说真的各种作品丑男很多，丑女真的没几个，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 642,
+          "like_count": 2093,
+          "listed_count": 2,
+          "media_count": 2113,
+          "tweet_count": 5518
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-20T10:11:15.000Z",
+        "description": "梦想是全国流浪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lennon_joh",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lennon_joh",
+                "start": 0,
+                "url": "https://t.co/MCmCF3Iuvc"
+              }
+            ]
+          }
+        },
+        "id": "1969343564695158786",
+        "location": "1976",
+        "name": "江列侬",
+        "pinned_tweet_id": "1975922301947535862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062638747452399616/2wKZXpQI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 634,
+          "like_count": 9449,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 1250
+        },
+        "url": "https://t.co/MCmCF3Iuvc",
+        "username": "lennon_joh14132",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2088,
+          "following_count": 250,
+          "like_count": 10176,
+          "listed_count": 10,
+          "media_count": 453,
+          "tweet_count": 3841
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

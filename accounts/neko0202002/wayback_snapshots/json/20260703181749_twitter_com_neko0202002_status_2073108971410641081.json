@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2073000030064312666",
+    "created_at": "2026-07-03T18:17:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T19:17:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073108971410641081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "243386940",
+          "start": 0,
+          "username": "AminoXx_killer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073108971410641081",
+    "in_reply_to_user_id": "243386940",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073000030064312666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AminoXx_killer 地雷男msk&lt;(ºOº)&gt;"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073000020471951360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTGiQ-bsAA5Uxr.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2073000030064312666",
+        "created_at": "2026-07-03T18:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T19:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073108971410641081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "243386940",
+              "start": 0,
+              "username": "AminoXx_killer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073108971410641081",
+        "in_reply_to_user_id": "243386940",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073000030064312666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AminoXx_killer 地雷男msk&lt;(ºOº)&gt;"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073000020471951360"
+          ]
+        },
+        "author_id": "243386940",
+        "conversation_id": "2073000030064312666",
+        "created_at": "2026-07-03T11:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073000030064312666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Ges86eSpe",
+              "end": 25,
+              "expanded_url": "https://x.com/AminoXx_killer/status/2073000030064312666/photo/1",
+              "media_key": "3_2073000020471951360",
+              "start": 2,
+              "url": "https://t.co/0Ges86eSpe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073000030064312666",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "。 https://t.co/0Ges86eSpe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 647,
+          "like_count": 2109,
+          "listed_count": 2,
+          "media_count": 2149,
+          "tweet_count": 5609
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2011-01-26T23:01:31.000Z",
+        "description": "雨木木😭\n牛马号💊\n小策划👻\ntg@LIhua1314\n我主人@CherylLuca37991",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "CherylLuca37991"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/NpMKcQmEgI"
+              }
+            ]
+          }
+        },
+        "id": "243386940",
+        "name": "kitty",
+        "pinned_tweet_id": "2071973996569206863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071972902757355520/nGD7ip3H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 33,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 17
+        },
+        "url": "https://t.co/NpMKcQmEgI",
+        "username": "AminoXx_killer",
+        "verified": false
+      }
+    ]
+  }
+}

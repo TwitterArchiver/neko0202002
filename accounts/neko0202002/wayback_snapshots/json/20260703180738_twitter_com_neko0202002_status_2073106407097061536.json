@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2073036774172209330",
+    "created_at": "2026-07-03T18:07:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T19:07:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073106407097061536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1561806114274287616",
+          "start": 0,
+          "username": "crossyangshe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073106407097061536",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073097824955478384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crossyangshe 不要啊&lt;(ºOº)&gt;"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2073036774172209330",
+        "created_at": "2026-07-03T18:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T19:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073106407097061536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1561806114274287616",
+              "start": 0,
+              "username": "crossyangshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073106407097061536",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073097824955478384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crossyangshe 不要啊&lt;(ºOº)&gt;"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561806114274287616",
+        "conversation_id": "2073036774172209330",
+        "created_at": "2026-07-03T17:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T18:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073097824955478384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073097824955478384",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073036774172209330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 再发这种史污染az的眼睛az要找人弄你了😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 646,
+          "like_count": 2106,
+          "listed_count": 2,
+          "media_count": 2149,
+          "tweet_count": 5606
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 289,
+          "like_count": 1350,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 450
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,491 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072779846808383488"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2072779850654564807",
+    "created_at": "2026-07-02T20:30:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T21:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072779850654564807"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/U7QQrpTOar",
+          "end": 23,
+          "expanded_url": "https://x.com/neko0202002/status/2072779850654564807/photo/1",
+          "media_key": "3_2072779846808383488",
+          "start": 0,
+          "url": "https://t.co/U7QQrpTOar"
+        },
+        {
+          "display_url": "x.com/neki25809019/s…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/neki25809019/status/2072605764821385318",
+          "start": 24,
+          "url": "https://t.co/ROP169OmNH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072779850654564807",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072605764821385318",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/U7QQrpTOar https://t.co/ROP169OmNH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2072779846808383488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMP-SeKaMAAqQb2.jpg",
+        "width": 720
+      },
+      {
+        "height": 720,
+        "media_key": "3_2072605758773239808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNf9NsboAABMTn.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1078,
+        "media_key": "3_2072605758785822720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNf9NvboAAwUCc.jpg",
+        "width": 1949
+      },
+      {
+        "height": 675,
+        "media_key": "3_2072605758777327616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNf9NtaAAAd1m0.jpg",
+        "width": 1200
+      },
+      {
+        "height": 323,
+        "media_key": "3_2072605758769053696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNf9NrbwAAlSa2.jpg",
+        "width": 616
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072779846808383488"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2072779850654564807",
+        "created_at": "2026-07-02T20:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T21:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072779850654564807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U7QQrpTOar",
+              "end": 23,
+              "expanded_url": "https://x.com/neko0202002/status/2072779850654564807/photo/1",
+              "media_key": "3_2072779846808383488",
+              "start": 0,
+              "url": "https://t.co/U7QQrpTOar"
+            },
+            {
+              "display_url": "x.com/neki25809019/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/neki25809019/status/2072605764821385318",
+              "start": 24,
+              "url": "https://t.co/ROP169OmNH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072779850654564807",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072605764821385318",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/U7QQrpTOar https://t.co/ROP169OmNH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072605758773239808",
+            "3_2072605758785822720",
+            "3_2072605758777327616",
+            "3_2072605758769053696"
+          ]
+        },
+        "author_id": "1556648359875969024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2072605764821385318",
+        "created_at": "2026-07-02T08:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T09:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072605764821385318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/409nSUmNCS",
+              "end": 34,
+              "expanded_url": "https://x.com/neki25809019/status/2072605764821385318/photo/1",
+              "media_key": "3_2072605758773239808",
+              "start": 11,
+              "url": "https://t.co/409nSUmNCS"
+            },
+            {
+              "display_url": "pic.x.com/409nSUmNCS",
+              "end": 34,
+              "expanded_url": "https://x.com/neki25809019/status/2072605764821385318/photo/1",
+              "media_key": "3_2072605758785822720",
+              "start": 11,
+              "url": "https://t.co/409nSUmNCS"
+            },
+            {
+              "display_url": "pic.x.com/409nSUmNCS",
+              "end": 34,
+              "expanded_url": "https://x.com/neki25809019/status/2072605764821385318/photo/1",
+              "media_key": "3_2072605758777327616",
+              "start": 11,
+              "url": "https://t.co/409nSUmNCS"
+            },
+            {
+              "display_url": "pic.x.com/409nSUmNCS",
+              "end": 34,
+              "expanded_url": "https://x.com/neki25809019/status/2072605764821385318/photo/1",
+              "media_key": "3_2072605758769053696",
+              "start": 11,
+              "url": "https://t.co/409nSUmNCS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072605764821385318",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 65421,
+          "like_count": 1311,
+          "quote_count": 8,
+          "reply_count": 6,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "まどマギ　目力四天王 https://t.co/409nSUmNCS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 643,
+          "like_count": 2096,
+          "listed_count": 2,
+          "media_count": 2118,
+          "tweet_count": 5528
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-08T14:28:18.000Z",
+        "description": "まどマギ好きな高校生です。まどドラ、スマブラ、ポケモンとかやってます！ 絵垢→@neki25252580\n🔑→@neki25802580",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "neki25252580"
+              },
+              {
+                "end": 68,
+                "start": 55,
+                "username": "neki25802580"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UClQMd…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UClQMdUdjzya-jNU_hpk_mqg?si=MVzqjWjq_pt3mmhB",
+                "start": 0,
+                "url": "https://t.co/W0pLv7oILV"
+              }
+            ]
+          }
+        },
+        "id": "1556648359875969024",
+        "name": "ねき",
+        "pinned_tweet_id": "1944695250574000524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037517605339361280/_m-QxfpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 675,
+          "like_count": 13270,
+          "listed_count": 1,
+          "media_count": 307,
+          "tweet_count": 2547
+        },
+        "url": "https://t.co/W0pLv7oILV",
+        "username": "neki25809019",
+        "verified": false
+      }
+    ]
+  }
+}

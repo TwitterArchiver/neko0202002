@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2072652252192596017",
+    "created_at": "2026-07-02T20:27:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T21:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072779156438622649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2066323895972777984",
+          "start": 0,
+          "username": "whyaiu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072779156438622649",
+    "in_reply_to_user_id": "2066323895972777984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072652252192596017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyaiu_ 骂人1v10吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2072652252192596017",
+        "created_at": "2026-07-02T20:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T21:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072779156438622649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2066323895972777984",
+              "start": 0,
+              "username": "whyaiu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072779156438622649",
+        "in_reply_to_user_id": "2066323895972777984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072652252192596017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyaiu_ 骂人1v10吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066323895972777984",
+        "conversation_id": "2072652252192596017",
+        "created_at": "2026-07-02T12:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072652252192596017"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072652252192596017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2340,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "您的社交孤儿正在和十个异性聊天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 643,
+          "like_count": 2096,
+          "listed_count": 2,
+          "media_count": 2117,
+          "tweet_count": 5527
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T00:57:15.000Z",
+        "description": "=威士忌（三代目\n♀/高校生/海外/OD/自傷/病み垢/自発苦手\n無言fo失礼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tenshi00",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tenshi00",
+                "start": 0,
+                "url": "https://t.co/6fJhGi3ZZ3"
+              }
+            ]
+          }
+        },
+        "id": "2066323895972777984",
+        "location": "浅尝辄止 是命运轻轻放过我",
+        "name": "病名は愛だった",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066324785001381888/dV5cly_f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 154,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 190
+        },
+        "url": "https://t.co/6fJhGi3ZZ3",
+        "username": "whyaiu_",
+        "verified": false
+      }
+    ]
+  }
+}

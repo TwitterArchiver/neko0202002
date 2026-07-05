@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072380737056296960"
+      ],
+      "media_source_tweet_id": [
+        "2072380746745139600"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2072548695929966755",
+    "created_at": "2026-07-02T05:11:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T06:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072548695929966755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2072375562291875840",
+          "start": 3,
+          "username": "xccpmc"
+        },
+        {
+          "end": 21,
+          "id": "1844356739539533829",
+          "start": 14,
+          "username": "xccpma"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xoTH4wO16L",
+          "end": 99,
+          "expanded_url": "https://x.com/xccpmc/status/2072380746745139600/photo/1",
+          "media_key": "3_2072380737056296960",
+          "start": 76,
+          "url": "https://t.co/xoTH4wO16L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072548695929966755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072380746745139600",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xccpmc: 原号@xccpma 因药物分享被msk无情封禁，推友找回中\n\n法学在读，无偿提供各种法律和药物咨询，来者不拒哦🥰欢迎互fo交友 https://t.co/xoTH4wO16L"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [xccpma].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "xccpma",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "xccpma"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072380737056296960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMKTTOeaUAAYgpo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072380737056296960"
+          ],
+          "media_source_tweet_id": [
+            "2072380746745139600"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2072548695929966755",
+        "created_at": "2026-07-02T05:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T06:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072548695929966755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2072375562291875840",
+              "start": 3,
+              "username": "xccpmc"
+            },
+            {
+              "end": 21,
+              "id": "1844356739539533829",
+              "start": 14,
+              "username": "xccpma"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xoTH4wO16L",
+              "end": 99,
+              "expanded_url": "https://x.com/xccpmc/status/2072380746745139600/photo/1",
+              "media_key": "3_2072380737056296960",
+              "start": 76,
+              "url": "https://t.co/xoTH4wO16L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072548695929966755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072380746745139600",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xccpmc: 原号@xccpma 因药物分享被msk无情封禁，推友找回中\n\n法学在读，无偿提供各种法律和药物咨询，来者不拒哦🥰欢迎互fo交友 https://t.co/xoTH4wO16L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072380737056296960"
+          ]
+        },
+        "author_id": "2072375562291875840",
+        "conversation_id": "2072380746745139600",
+        "created_at": "2026-07-01T18:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T19:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072380746745139600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1844356739539533829",
+              "start": 2,
+              "username": "xccpma"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xoTH4wO16L",
+              "end": 87,
+              "expanded_url": "https://x.com/xccpmc/status/2072380746745139600/photo/1",
+              "media_key": "3_2072380737056296960",
+              "start": 64,
+              "url": "https://t.co/xoTH4wO16L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072380746745139600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 255,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "原号@xccpma 因药物分享被msk无情封禁，推友找回中\n\n法学在读，无偿提供各种法律和药物咨询，来者不拒哦🥰欢迎互fo交友 https://t.co/xoTH4wO16L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 638,
+          "like_count": 2085,
+          "listed_count": 2,
+          "media_count": 2109,
+          "tweet_count": 5507
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-01T17:45:42.000Z",
+        "description": "不要干这种事情，这都是要应验的（寻回互fo）",
+        "id": "2072375562291875840",
+        "name": "担麦人2.0",
+        "pinned_tweet_id": "2072380746745139600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072376257459957760/Ivizl5sZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 96,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "xccpmc",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072544476418232320",
+        "3_2072544482378252289"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2072544485196919125",
+    "created_at": "2026-07-02T04:54:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T05:54:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072544485196919125"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G9rA9ezNkt",
+          "end": 29,
+          "expanded_url": "https://x.com/neko0202002/status/2072544485196919125/photo/1",
+          "media_key": "3_2072544476418232320",
+          "start": 6,
+          "url": "https://t.co/G9rA9ezNkt"
+        },
+        {
+          "display_url": "pic.x.com/G9rA9ezNkt",
+          "end": 29,
+          "expanded_url": "https://x.com/neko0202002/status/2072544485196919125/photo/1",
+          "media_key": "3_2072544482378252289",
+          "start": 6,
+          "url": "https://t.co/G9rA9ezNkt"
+        },
+        {
+          "display_url": "x.com/aberyoheiskm/s…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/aberyoheiskm/status/2072499313939460180",
+          "start": 30,
+          "url": "https://t.co/RbCt9OXbNU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072544485196919125",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072499313939460180",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唔唔唔唔唔 https://t.co/G9rA9ezNkt https://t.co/RbCt9OXbNU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 790,
+        "media_key": "3_2072544476418232320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMMoOHIbUAAvgfy.jpg",
+        "width": 648
+      },
+      {
+        "height": 790,
+        "media_key": "3_2072544482378252289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMMoOdVaAAEo7mS.jpg",
+        "width": 648
+      },
+      {
+        "height": 790,
+        "media_key": "3_2072499306603651072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HML_I4daoAANaNb.jpg",
+        "width": 648
+      },
+      {
+        "height": 790,
+        "media_key": "3_2072499306888843264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HML_I5haUAA3r0y.jpg",
+        "width": 648
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072544476418232320",
+            "3_2072544482378252289"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2072544485196919125",
+        "created_at": "2026-07-02T04:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T05:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072544485196919125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G9rA9ezNkt",
+              "end": 29,
+              "expanded_url": "https://x.com/neko0202002/status/2072544485196919125/photo/1",
+              "media_key": "3_2072544476418232320",
+              "start": 6,
+              "url": "https://t.co/G9rA9ezNkt"
+            },
+            {
+              "display_url": "pic.x.com/G9rA9ezNkt",
+              "end": 29,
+              "expanded_url": "https://x.com/neko0202002/status/2072544485196919125/photo/1",
+              "media_key": "3_2072544482378252289",
+              "start": 6,
+              "url": "https://t.co/G9rA9ezNkt"
+            },
+            {
+              "display_url": "x.com/aberyoheiskm/s…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/aberyoheiskm/status/2072499313939460180",
+              "start": 30,
+              "url": "https://t.co/RbCt9OXbNU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072544485196919125",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072499313939460180",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唔唔唔唔唔 https://t.co/G9rA9ezNkt https://t.co/RbCt9OXbNU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072499306603651072",
+            "3_2072499306888843264"
+          ]
+        },
+        "author_id": "1804875241367433216",
+        "conversation_id": "2072499313939460180",
+        "created_at": "2026-07-02T01:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T02:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072499313939460180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ncA5WQTEUv",
+              "end": 30,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2072499313939460180/photo/1",
+              "media_key": "3_2072499306603651072",
+              "start": 7,
+              "url": "https://t.co/ncA5WQTEUv"
+            },
+            {
+              "display_url": "pic.x.com/ncA5WQTEUv",
+              "end": 30,
+              "expanded_url": "https://x.com/aberyoheiskm/status/2072499313939460180/photo/1",
+              "media_key": "3_2072499306888843264",
+              "start": 7,
+              "url": "https://t.co/ncA5WQTEUv"
+            },
+            {
+              "display_url": "x.com/orange21969561…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/orange219695619/status/2072421640647127406",
+              "start": 31,
+              "url": "https://t.co/iCR3EukE3Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072499313939460180",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072421640647127406",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《再见宣言》 https://t.co/ncA5WQTEUv https://t.co/iCR3EukE3Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 637,
+          "like_count": 2085,
+          "listed_count": 2,
+          "media_count": 2107,
+          "tweet_count": 5501
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  OD ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 358,
+          "like_count": 4003,
+          "listed_count": 1,
+          "media_count": 264,
+          "tweet_count": 2576
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false
+      }
+    ]
+  }
+}

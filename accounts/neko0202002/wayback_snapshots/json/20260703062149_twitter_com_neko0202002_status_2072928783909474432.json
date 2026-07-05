@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2072728193195520180",
+    "created_at": "2026-07-03T06:21:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T07:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072928783909474432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1754180460769574912",
+          "start": 0,
+          "username": "marcus_0w0"
+        },
+        {
+          "end": 26,
+          "id": "1573704119516176384",
+          "start": 12,
+          "username": "SnozakiSakura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072928783909474432",
+    "in_reply_to_user_id": "1754180460769574912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072846316112364001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@marcus_0w0 @SnozakiSakura 加1，说谎也不打草稿的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2072728193195520180",
+        "created_at": "2026-07-03T06:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T07:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072928783909474432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1754180460769574912",
+              "start": 0,
+              "username": "marcus_0w0"
+            },
+            {
+              "end": 26,
+              "id": "1573704119516176384",
+              "start": 12,
+              "username": "SnozakiSakura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072928783909474432",
+        "in_reply_to_user_id": "1754180460769574912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072846316112364001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@marcus_0w0 @SnozakiSakura 加1，说谎也不打草稿的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754180460769574912",
+        "conversation_id": "2072728193195520180",
+        "created_at": "2026-07-03T00:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T01:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072846316112364001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1573704119516176384",
+              "start": 0,
+              "username": "SnozakiSakura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072846316112364001",
+        "in_reply_to_user_id": "1573704119516176384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1304,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072728193195520180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnozakiSakura 笑死，誰家女兒都要高中了才來生理期的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 645,
+          "like_count": 2095,
+          "listed_count": 2,
+          "media_count": 2130,
+          "tweet_count": 5550
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-04T16:30:06.000Z",
+        "description": "不曝照！\n有事直接私，我懶得一條條翻通知喵",
+        "id": "1754180460769574912",
+        "name": "灰色小蛋糕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060594174379118592/mKNAMsOM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 513,
+          "like_count": 3063,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1207
+        },
+        "url": "",
+        "username": "marcus_0w0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "🌸摆烂博主🍭| 好看的照片都在“亮点”里 | 蓝v互关看到必回",
+        "id": "1573704119516176384",
+        "location": "🚪98 ",
+        "name": "草莓泡芙🍀",
+        "pinned_tweet_id": "2057809006421545370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070709599590920192/O5wJU2Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95154,
+          "following_count": 1364,
+          "like_count": 6121,
+          "listed_count": 207,
+          "media_count": 201,
+          "tweet_count": 2357
+        },
+        "url": "",
+        "username": "SnozakiSakura",
+        "verified": true
+      }
+    ]
+  }
+}

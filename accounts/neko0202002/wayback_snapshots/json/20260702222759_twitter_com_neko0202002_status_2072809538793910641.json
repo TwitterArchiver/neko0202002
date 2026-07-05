@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2072795388051181998",
+    "created_at": "2026-07-02T22:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T23:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072809538793910641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1742117453809725440",
+          "start": 0,
+          "username": "eclia121739922"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072809538793910641",
+    "in_reply_to_user_id": "1742117453809725440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072795388051181998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eclia121739922 晚安：算你没有变成鸡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2072795388051181998",
+        "created_at": "2026-07-02T22:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T23:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072809538793910641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1742117453809725440",
+              "start": 0,
+              "username": "eclia121739922"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072809538793910641",
+        "in_reply_to_user_id": "1742117453809725440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072795388051181998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eclia121739922 晚安：算你没有变成鸡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1742117453809725440",
+        "conversation_id": "2072795388051181998",
+        "created_at": "2026-07-02T21:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T22:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072795388051181998"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072795388051181998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不依赖晚安算长大吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 643,
+          "like_count": 2096,
+          "listed_count": 2,
+          "media_count": 2123,
+          "tweet_count": 5538
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T09:35:55.000Z",
+        "description": "玉玉/精分/08/我是冰西瓜/mtx🍥/伪娘全肯定（x/神圣放逐 黑柿子一生推/随机掉落cos/高p区",
+        "id": "1742117453809725440",
+        "location": "世界渴望之城",
+        "name": "eeeee",
+        "pinned_tweet_id": "1935795793702891698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048731687841067008/0W1jpoWF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 330,
+          "like_count": 2054,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1000
+        },
+        "url": "",
+        "username": "eclia121739922",
+        "verified": false
+      }
+    ]
+  }
+}

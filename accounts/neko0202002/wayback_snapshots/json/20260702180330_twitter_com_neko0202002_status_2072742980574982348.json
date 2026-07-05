@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072618903776436225"
+      ],
+      "media_source_tweet_id": [
+        "2072618911078797512"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2072742980574982348",
+    "created_at": "2026-07-02T18:03:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T19:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072742980574982348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2041095876417122305",
+          "start": 3,
+          "username": "Yihuiam"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/H4P7lnCugh",
+          "end": 39,
+          "expanded_url": "https://x.com/Yihuiam/status/2072618911078797512/photo/1",
+          "media_key": "3_2072618903776436225",
+          "start": 16,
+          "url": "https://t.co/H4P7lnCugh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072742980574982348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072618911078797512",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yihuiam: 来嘛 https://t.co/H4P7lnCugh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1233,
+        "media_key": "3_2072618903776436225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNr6WpaoAEcdaZ.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072618903776436225"
+          ],
+          "media_source_tweet_id": [
+            "2072618911078797512"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2072742980574982348",
+        "created_at": "2026-07-02T18:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T19:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072742980574982348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041095876417122305",
+              "start": 3,
+              "username": "Yihuiam"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H4P7lnCugh",
+              "end": 39,
+              "expanded_url": "https://x.com/Yihuiam/status/2072618911078797512/photo/1",
+              "media_key": "3_2072618903776436225",
+              "start": 16,
+              "url": "https://t.co/H4P7lnCugh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072742980574982348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072618911078797512",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yihuiam: 来嘛 https://t.co/H4P7lnCugh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072618903776436225"
+          ]
+        },
+        "author_id": "2041095876417122305",
+        "conversation_id": "2072618911078797512",
+        "created_at": "2026-07-02T09:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T10:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072618911078797512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H4P7lnCugh",
+              "end": 26,
+              "expanded_url": "https://x.com/Yihuiam/status/2072618911078797512/photo/1",
+              "media_key": "3_2072618903776436225",
+              "start": 3,
+              "url": "https://t.co/H4P7lnCugh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072618911078797512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1522,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "来嘛 https://t.co/H4P7lnCugh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 642,
+          "like_count": 2095,
+          "listed_count": 2,
+          "media_count": 2114,
+          "tweet_count": 5522
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T10:09:51.000Z",
+        "description": "09/泛性恋//LGBTQ+友好/学习药理中🙂酒精依赖/尼古丁依赖/咖啡因依赖\n喜欢致幻剂////音乐\n好闺闺@RottenCrow1\n梨梨@Hendry540558",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "RottenCrow1"
+              },
+              {
+                "end": 83,
+                "start": 70,
+                "username": "Hendry540558"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+aIoNeZz4IZ8wY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+aIoNeZz4IZ8wYmJk",
+                "start": 0,
+                "url": "https://t.co/EFwkXL2szz"
+              }
+            ]
+          }
+        },
+        "id": "2041095876417122305",
+        "name": "yIhu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041096137311182848/ZzV_BQ6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 763,
+          "like_count": 3964,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 266
+        },
+        "url": "https://t.co/EFwkXL2szz",
+        "username": "Yihuiam",
+        "verified": false
+      }
+    ]
+  }
+}

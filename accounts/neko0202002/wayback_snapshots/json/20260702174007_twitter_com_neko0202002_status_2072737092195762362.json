@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2072737092195762362",
+    "created_at": "2026-07-02T17:40:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T18:40:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072737092195762362"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/themaniachan/s…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/themaniachan/status/2072246658247823612",
+          "start": 46,
+          "url": "https://t.co/h3cOjGpIoj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072737092195762362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072246658247823612",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第3种摆烂：想吃就吃，不想吃就不吃，爱咋咋\n第4种自学派：自学心理学药理学到最后陷进去完蛋 https://t.co/h3cOjGpIoj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2072737092195762362",
+        "created_at": "2026-07-02T17:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T18:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072737092195762362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/themaniachan/s…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/themaniachan/status/2072246658247823612",
+              "start": 46,
+              "url": "https://t.co/h3cOjGpIoj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072737092195762362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072246658247823612",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第3种摆烂：想吃就吃，不想吃就不吃，爱咋咋\n第4种自学派：自学心理学药理学到最后陷进去完蛋 https://t.co/h3cOjGpIoj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047687133708599296",
+        "conversation_id": "2072246658247823612",
+        "created_at": "2026-07-01T09:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T10:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072246658247823612"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072246658247823612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4803,
+          "like_count": 137,
+          "quote_count": 9,
+          "reply_count": 9,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "感觉互联网精神疾病患者大致可以分为两派\n1️⃣心理咨询师派：当出现一些新的心理问题的时候会立刻关注到然后和自己的咨询师聊很多，很在意自己的精神状态和外在表现\n2️⃣精神科派：不舒服了就吃药，总之去开各种小药片喂给自己吃就是治病了，严重了就再多吃点，突出一个事已至此还能怎样的态度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 642,
+          "like_count": 2093,
+          "listed_count": 2,
+          "media_count": 2113,
+          "tweet_count": 5517
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-24T14:40:45.000Z",
+        "description": "前世：@mania_chan_（Licentious Chirp）\n👋🏻寻回推友中👋🏻\n语言系统支持/Language/Langue：🇨🇳/🇺🇸/🇫🇷\n叫我狂酱就好！全名是雨宫狂爱🥰\n狂酱是赛博空间的小偶像！\n😣双相/💊/🔪🩸/🚬/🍺\n无性别/无性恋ACE\n有信仰✝️新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "mania_chan_"
+              }
+            ]
+          }
+        },
+        "id": "2047687133708599296",
+        "location": "Nowhere to go",
+        "name": "狂乱鸣唱mania",
+        "pinned_tweet_id": "2065392115056869810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069301635235631104/GmFYBXMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 223,
+          "like_count": 1068,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 908
+        },
+        "url": "",
+        "username": "themaniachan",
+        "verified": false
+      }
+    ]
+  }
+}
