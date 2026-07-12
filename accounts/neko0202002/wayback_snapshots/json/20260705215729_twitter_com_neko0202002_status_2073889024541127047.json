@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073364442298126336"
+      ],
+      "media_source_tweet_id": [
+        "2073364452385382486"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2073889024541127047",
+    "created_at": "2026-07-05T21:57:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T22:57:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073889024541127047"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 17,
+          "tag": "素晴らしき日々"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1819295282166743040",
+          "start": 3,
+          "username": "tan_zun2396"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FrsLqZhwqc",
+          "end": 49,
+          "expanded_url": "https://x.com/tan_zun2396/status/2073364452385382486/photo/1",
+          "media_key": "3_2073364442298126336",
+          "start": 26,
+          "url": "https://t.co/FrsLqZhwqc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073889024541127047",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073364452385382486",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tan_zun2396: #素晴らしき日々 https://t.co/FrsLqZhwqc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2073364442298126336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYR-aEbEAAUJdM.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073364442298126336"
+          ],
+          "media_source_tweet_id": [
+            "2073364452385382486"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2073889024541127047",
+        "created_at": "2026-07-05T21:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T22:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073889024541127047"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 17,
+              "tag": "素晴らしき日々"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1819295282166743040",
+              "start": 3,
+              "username": "tan_zun2396"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FrsLqZhwqc",
+              "end": 49,
+              "expanded_url": "https://x.com/tan_zun2396/status/2073364452385382486/photo/1",
+              "media_key": "3_2073364442298126336",
+              "start": 26,
+              "url": "https://t.co/FrsLqZhwqc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073889024541127047",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073364452385382486",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tan_zun2396: #素晴らしき日々 https://t.co/FrsLqZhwqc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073364442298126336"
+          ]
+        },
+        "author_id": "1819295282166743040",
+        "conversation_id": "2073364452385382486",
+        "created_at": "2026-07-04T11:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073364452385382486"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "素晴らしき日々"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FrsLqZhwqc",
+              "end": 32,
+              "expanded_url": "https://x.com/tan_zun2396/status/2073364452385382486/photo/1",
+              "media_key": "3_2073364442298126336",
+              "start": 9,
+              "url": "https://t.co/FrsLqZhwqc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073364452385382486",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 6372,
+          "like_count": 510,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "#素晴らしき日々 https://t.co/FrsLqZhwqc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/O割餐券/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 631,
+          "like_count": 2163,
+          "listed_count": 2,
+          "media_count": 2210,
+          "tweet_count": 5780
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-02T08:53:04.000Z",
+        "description": "来自抖音的画师gggg. \n来自抖音的画师kui\n来自抖音的画师night9",
+        "id": "1819295282166743040",
+        "name": "gggg.",
+        "pinned_tweet_id": "1945792864665190749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942482253277454336/GCqvPqBn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 153,
+          "like_count": 460,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 133
+        },
+        "url": "",
+        "username": "tan_zun2396",
+        "verified": false
+      }
+    ]
+  }
+}

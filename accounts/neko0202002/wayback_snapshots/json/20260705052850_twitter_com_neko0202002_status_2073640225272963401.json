@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2073573002051207299",
+    "created_at": "2026-07-05T05:28:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T06:28:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073640225272963401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1998568087382274049",
+          "start": 0,
+          "username": "bvdsvge12071"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073640225272963401",
+    "in_reply_to_user_id": "1998568087382274049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073573002051207299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bvdsvge12071 追求知识的人自会折腰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073572983759855616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbPpHjaYAAAxuN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2073573002051207299",
+        "created_at": "2026-07-05T05:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073640225272963401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1998568087382274049",
+              "start": 0,
+              "username": "bvdsvge12071"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073640225272963401",
+        "in_reply_to_user_id": "1998568087382274049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073573002051207299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bvdsvge12071 追求知识的人自会折腰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073572983759855616"
+          ]
+        },
+        "author_id": "1998568087382274049",
+        "conversation_id": "2073573002051207299",
+        "created_at": "2026-07-05T01:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T02:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073573002051207299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jdx89eaXhc",
+              "end": 51,
+              "expanded_url": "https://x.com/bvdsvge12071/status/2073573002051207299/photo/1",
+              "media_key": "3_2073572983759855616",
+              "start": 28,
+              "url": "https://t.co/Jdx89eaXhc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073573002051207299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 433,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么。。。图书馆。。。要。。。建的。。。这么高。。。 https://t.co/Jdx89eaXhc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/O割餐券/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 621,
+          "like_count": 2139,
+          "listed_count": 2,
+          "media_count": 2188,
+          "tweet_count": 5713
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T01:39:28.000Z",
+        "description": "＝阿宁｜05｜宅女｜穿孔｜酗酒｜日番日漫｜焦虑症吃药治疗中｜互fo私信｜喜欢在评论区互动｜很脆弱 请不要辱骂贬低。高浓度上网★私信开放 希望有人理理我",
+        "id": "1998568087382274049",
+        "name": "为何痛苦总是如影随形",
+        "pinned_tweet_id": "2070066468906291339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073222390277128192/Sk7A1njf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 132,
+          "like_count": 17720,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 971
+        },
+        "url": "",
+        "username": "bvdsvge12071",
+        "verified": false
+      }
+    ]
+  }
+}

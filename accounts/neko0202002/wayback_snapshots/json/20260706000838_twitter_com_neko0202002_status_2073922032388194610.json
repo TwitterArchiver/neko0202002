@@ -1,0 +1,535 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073670445321351168",
+        "3_2073670445333950464"
+      ],
+      "media_source_tweet_id": [
+        "2073670451113640441",
+        "2073670451113640441"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10043651948",
+          "name": "Re:ゼロから始める異世界体験"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1229696070654889984",
+          "name": "Re:ゼロから始める異世界生活"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1296957403020189698",
+          "name": "Re:Zero − Starting Life in Another World"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296957403020189698",
+          "name": "Re:Zero − Starting Life in Another World"
+        }
+      }
+    ],
+    "conversation_id": "2073922032388194610",
+    "created_at": "2026-07-06T00:08:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T01:08:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073922032388194610"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 43,
+          "start": 39,
+          "tag": "リゼロ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1002117043645108224",
+          "start": 3,
+          "username": "riyouoshi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HAQ1S4meH3",
+          "end": 67,
+          "expanded_url": "https://x.com/riyouoshi/status/2073670451113640441/photo/1",
+          "media_key": "3_2073670445321351168",
+          "start": 44,
+          "url": "https://t.co/HAQ1S4meH3"
+        },
+        {
+          "display_url": "pic.x.com/HAQ1S4meH3",
+          "end": 67,
+          "expanded_url": "https://x.com/riyouoshi/status/2073670451113640441/photo/1",
+          "media_key": "3_2073670445333950464",
+          "start": 44,
+          "url": "https://t.co/HAQ1S4meH3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073922032388194610",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 139
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073670451113640441",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @riyouoshi: 「ーー私の名前は、エミリア。ただのエミリアよ」\n#リゼロ https://t.co/HAQ1S4meH3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1433,
+        "media_key": "3_2073670445321351168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcoSIKa8AAjWiB.jpg",
+        "width": 1077
+      },
+      {
+        "height": 1433,
+        "media_key": "3_2073670445333950464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcoSINbMAAjHjw.jpg",
+        "width": 1077
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073670445321351168",
+            "3_2073670445333950464"
+          ],
+          "media_source_tweet_id": [
+            "2073670451113640441",
+            "2073670451113640441"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10043651948",
+              "name": "Re:ゼロから始める異世界体験"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1229696070654889984",
+              "name": "Re:ゼロから始める異世界生活"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1296957403020189698",
+              "name": "Re:Zero − Starting Life in Another World"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296957403020189698",
+              "name": "Re:Zero − Starting Life in Another World"
+            }
+          }
+        ],
+        "conversation_id": "2073922032388194610",
+        "created_at": "2026-07-06T00:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T01:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073922032388194610"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "リゼロ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1002117043645108224",
+              "start": 3,
+              "username": "riyouoshi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HAQ1S4meH3",
+              "end": 67,
+              "expanded_url": "https://x.com/riyouoshi/status/2073670451113640441/photo/1",
+              "media_key": "3_2073670445321351168",
+              "start": 44,
+              "url": "https://t.co/HAQ1S4meH3"
+            },
+            {
+              "display_url": "pic.x.com/HAQ1S4meH3",
+              "end": 67,
+              "expanded_url": "https://x.com/riyouoshi/status/2073670451113640441/photo/1",
+              "media_key": "3_2073670445333950464",
+              "start": 44,
+              "url": "https://t.co/HAQ1S4meH3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073922032388194610",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 139
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073670451113640441",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @riyouoshi: 「ーー私の名前は、エミリア。ただのエミリアよ」\n#リゼロ https://t.co/HAQ1S4meH3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073670445321351168",
+            "3_2073670445333950464"
+          ]
+        },
+        "author_id": "1002117043645108224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10043651948",
+              "name": "Re:ゼロから始める異世界体験"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1229696070654889984",
+              "name": "Re:ゼロから始める異世界生活"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1296957403020189698",
+              "name": "Re:Zero − Starting Life in Another World"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296957403020189698",
+              "name": "Re:Zero − Starting Life in Another World"
+            }
+          }
+        ],
+        "conversation_id": "2073670451113640441",
+        "created_at": "2026-07-05T07:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073670451113640441"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "リゼロ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HAQ1S4meH3",
+              "end": 52,
+              "expanded_url": "https://x.com/riyouoshi/status/2073670451113640441/photo/1",
+              "media_key": "3_2073670445321351168",
+              "start": 29,
+              "url": "https://t.co/HAQ1S4meH3"
+            },
+            {
+              "display_url": "pic.x.com/HAQ1S4meH3",
+              "end": 52,
+              "expanded_url": "https://x.com/riyouoshi/status/2073670451113640441/photo/1",
+              "media_key": "3_2073670445333950464",
+              "start": 29,
+              "url": "https://t.co/HAQ1S4meH3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073670451113640441",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 125,
+          "impression_count": 17908,
+          "like_count": 1834,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 139
+        },
+        "reply_settings": "everyone",
+        "text": "「ーー私の名前は、エミリア。ただのエミリアよ」\n#リゼロ https://t.co/HAQ1S4meH3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/O割餐券/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 631,
+          "like_count": 2164,
+          "listed_count": 2,
+          "media_count": 2211,
+          "tweet_count": 5788
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-31T09:18:16.000Z",
+        "description": "skeb(二次創作×)大募集中🍀 雑多垢です 無断転載× AI×skeb: https://t.co/D3XUhwYLjf ココナラ: https://t.co/DIwJMMn02n 年齢20↑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@riyouoshi",
+                "end": 61,
+                "expanded_url": "https://skeb.jp/@riyouoshi",
+                "start": 38,
+                "url": "https://t.co/D3XUhwYLjf"
+              },
+              {
+                "display_url": "coconala.com/services/16103…",
+                "end": 91,
+                "expanded_url": "https://coconala.com/services/1610302",
+                "start": 68,
+                "url": "https://t.co/DIwJMMn02n"
+              }
+            ]
+          }
+        },
+        "id": "1002117043645108224",
+        "name": "ツカ",
+        "pinned_tweet_id": "2037282464784359862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1325780842493349888/dor2laqD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2011,
+          "following_count": 151,
+          "like_count": 2065,
+          "listed_count": 8,
+          "media_count": 824,
+          "tweet_count": 10530
+        },
+        "url": "",
+        "username": "riyouoshi",
+        "verified": false
+      }
+    ]
+  }
+}

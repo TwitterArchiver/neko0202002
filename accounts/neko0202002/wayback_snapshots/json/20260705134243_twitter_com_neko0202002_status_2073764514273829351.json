@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2073764502798254080"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2073762157880336636",
+    "created_at": "2026-07-05T13:42:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T14:42:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073764514273829351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "162974851",
+          "start": 0,
+          "username": "Paramjitt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D8Emu8smU1",
+          "end": 34,
+          "expanded_url": "https://x.com/neko0202002/status/2073764514273829351/photo/1",
+          "media_key": "16_2073764502798254080",
+          "start": 11,
+          "url": "https://t.co/D8Emu8smU1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073764514273829351",
+    "in_reply_to_user_id": "162974851",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073763898768162891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Paramjitt https://t.co/D8Emu8smU1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 316,
+        "media_key": "16_2073764502798254080",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMd90_kawAAoRcD.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMd90_kawAAoRcD.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2073764502798254080"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2073762157880336636",
+        "created_at": "2026-07-05T13:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073764514273829351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "162974851",
+              "start": 0,
+              "username": "Paramjitt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D8Emu8smU1",
+              "end": 34,
+              "expanded_url": "https://x.com/neko0202002/status/2073764514273829351/photo/1",
+              "media_key": "16_2073764502798254080",
+              "start": 11,
+              "url": "https://t.co/D8Emu8smU1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073764514273829351",
+        "in_reply_to_user_id": "162974851",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073763898768162891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Paramjitt https://t.co/D8Emu8smU1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "162974851",
+        "conversation_id": "2073762157880336636",
+        "created_at": "2026-07-05T13:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073763898768162891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073763898768162891",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073763691372413330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/O割餐券/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 621,
+          "like_count": 2157,
+          "listed_count": 2,
+          "media_count": 2203,
+          "tweet_count": 5758
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-05T06:05:17.000Z",
+        "description": "互关寻回\n🚪52（加了啥也没有）\n你推一个月封三个号的人，传奇耐封王\nhttps://t.co/TYxFLX9MRG\n大号@Shivam3228\n牛马💊 @AminoXx_killer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "AminoXx_killer"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 58,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 35,
+                "url": "https://t.co/TYxFLX9MRG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/l2gjMdmFaC"
+              }
+            ]
+          }
+        },
+        "id": "162974851",
+        "location": "你身后",
+        "name": "霖（赞绝病娇中2，16.0寻回爱妻）",
+        "pinned_tweet_id": "2068570468312039765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071548184963506176/HGB67smS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 333,
+          "like_count": 1003,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 642
+        },
+        "url": "https://t.co/l2gjMdmFaC",
+        "username": "Paramjitt",
+        "verified": false
+      }
+    ]
+  }
+}

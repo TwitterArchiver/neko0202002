@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2073732410941005824"
+      ],
+      "media_source_tweet_id": [
+        "2073732445053304881"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2073760776389828670",
+    "created_at": "2026-07-05T13:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T14:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073760776389828670"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 15,
+          "tag": "みずえな"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1964670622912385024",
+          "start": 3,
+          "username": "asdfg_010"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rGxkNfEgS5",
+          "end": 63,
+          "expanded_url": "https://x.com/asdfg_010/status/2073732445053304881/video/1",
+          "media_key": "7_2073732410941005824",
+          "start": 40,
+          "url": "https://t.co/rGxkNfEgS5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073760776389828670",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073732445053304881",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @asdfg_010: #みずえな \nだけど君の不幸を願ったりはしないわ https://t.co/rGxkNfEgS5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13328,
+        "height": 720,
+        "media_key": "7_2073732410941005824",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2073732410941005824/pu/img/6hjRyT4iTArcpFJU.jpg",
+        "public_metrics": {
+          "view_count": 384
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073732410941005824/pu/vid/avc1/360x270/sVMmpJBYglNbVyhY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073732410941005824/pu/vid/avc1/480x360/kIhS57aepBIOP_QV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073732410941005824/pu/vid/avc1/960x720/qSGX42ltHOSraXMj.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2073732410941005824/pu/pl/mm9LrEb6ln4l8rLj.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2073732410941005824"
+          ],
+          "media_source_tweet_id": [
+            "2073732445053304881"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2073760776389828670",
+        "created_at": "2026-07-05T13:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073760776389828670"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "みずえな"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1964670622912385024",
+              "start": 3,
+              "username": "asdfg_010"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rGxkNfEgS5",
+              "end": 63,
+              "expanded_url": "https://x.com/asdfg_010/status/2073732445053304881/video/1",
+              "media_key": "7_2073732410941005824",
+              "start": 40,
+              "url": "https://t.co/rGxkNfEgS5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073760776389828670",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073732445053304881",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @asdfg_010: #みずえな \nだけど君の不幸を願ったりはしないわ https://t.co/rGxkNfEgS5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2073732410941005824"
+          ]
+        },
+        "author_id": "1964670622912385024",
+        "conversation_id": "2073732445053304881",
+        "created_at": "2026-07-05T11:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073732445053304881"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "みずえな"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rGxkNfEgS5",
+              "end": 48,
+              "expanded_url": "https://x.com/asdfg_010/status/2073732445053304881/video/1",
+              "media_key": "7_2073732410941005824",
+              "start": 25,
+              "url": "https://t.co/rGxkNfEgS5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073732445053304881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 1161,
+          "like_count": 131,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "#みずえな \nだけど君の不幸を願ったりはしないわ https://t.co/rGxkNfEgS5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/O割餐券/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 621,
+          "like_count": 2153,
+          "listed_count": 2,
+          "media_count": 2200,
+          "tweet_count": 5752
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-07T12:44:28.000Z",
+        "description": "20⬆️ 장르계X | 커미션 받아요! 릿링크 확인해쥬새용",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ko/sat022",
+                "end": 23,
+                "expanded_url": "https://lit.link/ko/sat022",
+                "start": 0,
+                "url": "https://t.co/jIhy4fUcxm"
+              }
+            ]
+          }
+        },
+        "id": "1964670622912385024",
+        "name": "새턴",
+        "pinned_tweet_id": "2031559382270718280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041497259997900800/TAAu0DYX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 49,
+          "like_count": 341,
+          "listed_count": 1,
+          "media_count": 222,
+          "tweet_count": 1495
+        },
+        "url": "https://t.co/jIhy4fUcxm",
+        "username": "asdfg_010",
+        "verified": false
+      }
+    ]
+  }
+}

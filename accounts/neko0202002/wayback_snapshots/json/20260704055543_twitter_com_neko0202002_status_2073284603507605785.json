@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2073116849789952169",
+    "created_at": "2026-07-04T05:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T06:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073284603507605785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1814688236398166016",
+          "start": 0,
+          "username": "befriendsyep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073284603507605785",
+    "in_reply_to_user_id": "1814688236398166016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073116849789952169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@befriendsyep 别了，我从小被逼着的各种书，现在变成虚无主义傻屌了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2073116849789952169",
+        "created_at": "2026-07-04T05:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073284603507605785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1814688236398166016",
+              "start": 0,
+              "username": "befriendsyep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073284603507605785",
+        "in_reply_to_user_id": "1814688236398166016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073116849789952169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@befriendsyep 别了，我从小被逼着的各种书，现在变成虚无主义傻屌了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814688236398166016",
+        "conversation_id": "2073116849789952169",
+        "created_at": "2026-07-03T18:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T19:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073116849789952169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/befriendsyep/s…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/befriendsyep/status/2072965034712699212",
+              "start": 37,
+              "url": "https://t.co/48m5DmpO6J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073116849789952169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 236,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072965034712699212",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果我有孩子的话，我一定会让他从小就看古希腊哲学，起码能保证他不是个傻逼 https://t.co/48m5DmpO6J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 647,
+          "like_count": 2116,
+          "listed_count": 2,
+          "media_count": 2151,
+          "tweet_count": 5626
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T15:46:15.000Z",
+        "description": "爱你们，有烦恼或问题可以私信和我倾诉，我会帮你们的，找我闲聊也可以哦 ✌︎' ֊'",
+        "id": "1814688236398166016",
+        "location": "伊甸园",
+        "name": "TK",
+        "pinned_tweet_id": "2069745633905549553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063647900262072320/nlC7fHyz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 755,
+          "like_count": 7790,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1923
+        },
+        "url": "",
+        "username": "befriendsyep",
+        "verified": false
+      }
+    ]
+  }
+}

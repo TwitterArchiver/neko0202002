@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2075017850327306654",
+    "created_at": "2026-07-09T00:43:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T01:43:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075017850327306654"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/6De_dian/statu…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/6De_dian/status/2075005947999584614",
+          "start": 11,
+          "url": "https://t.co/jBEqt3b7jC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075017850327306654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075005947999584614",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的钱包被双相毁了。 https://t.co/jBEqt3b7jC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2075017850327306654",
+        "created_at": "2026-07-09T00:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T01:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075017850327306654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/6De_dian/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/6De_dian/status/2075005947999584614",
+              "start": 11,
+              "url": "https://t.co/jBEqt3b7jC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075017850327306654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075005947999584614",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的钱包被双相毁了。 https://t.co/jBEqt3b7jC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057552254463291393",
+        "conversation_id": "2075005947999584614",
+        "created_at": "2026-07-08T23:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T00:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075005947999584614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Usam8964/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Usam8964/status/2074811343702774115",
+              "start": 11,
+              "url": "https://t.co/JCv3IaTVGA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075005947999584614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074811343702774115",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的钱包被双相毁了。 https://t.co/JCv3IaTVGA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/O割餐券/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 904,
+          "following_count": 646,
+          "like_count": 2219,
+          "listed_count": 2,
+          "media_count": 2244,
+          "tweet_count": 5907
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T20:03:58.000Z",
+        "description": "可以叫我6点。\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n我稀饭这个女孩呀。🤤❤@Korewoizontoyo\n｜双相｜ODer｜oc｜同人｜绝望De画手｜负能｜\n纯粹个人号发什么随心情\n查属性回fo回私信\n药理学习中…\n\n可以私信我哦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2057552254463291393",
+        "location": "逝去",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2071211057796776389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071258839513526272/vtOebiN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 387,
+          "like_count": 8733,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 1470
+        },
+        "url": "",
+        "username": "6De_dian",
+        "verified": false
+      }
+    ]
+  }
+}

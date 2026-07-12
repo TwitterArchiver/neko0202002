@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075275221570109440"
+      ],
+      "media_source_tweet_id": [
+        "2075381739912880282"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2075446130222178477",
+    "created_at": "2026-07-10T05:04:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T06:04:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075446130222178477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1918274202580467713",
+          "start": 3,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/orkWBH9ZYx",
+          "end": 58,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2075381739912880282/photo/1",
+          "media_key": "3_2075275221570109440",
+          "start": 35,
+          "url": "https://t.co/orkWBH9ZYx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075446130222178477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075381739912880282",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberKanjousen: 这简直就是環状線的理想型啊😭 https://t.co/orkWBH9ZYx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1782,
+        "media_key": "3_2075275221570109440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMzb0ZjbQAA6FSS.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075275221570109440"
+          ],
+          "media_source_tweet_id": [
+            "2075381739912880282"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2075446130222178477",
+        "created_at": "2026-07-10T05:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T06:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075446130222178477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1918274202580467713",
+              "start": 3,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/orkWBH9ZYx",
+              "end": 58,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2075381739912880282/photo/1",
+              "media_key": "3_2075275221570109440",
+              "start": 35,
+              "url": "https://t.co/orkWBH9ZYx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075446130222178477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075381739912880282",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyberKanjousen: 这简直就是環状線的理想型啊😭 https://t.co/orkWBH9ZYx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075275221570109440"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2075381739912880282",
+        "created_at": "2026-07-10T00:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T01:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075381739912880282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/orkWBH9ZYx",
+              "end": 38,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2075381739912880282/photo/1",
+              "media_key": "3_2075275221570109440",
+              "start": 15,
+              "url": "https://t.co/orkWBH9ZYx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075381739912880282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 17444,
+          "like_count": 400,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "这简直就是環状線的理想型啊😭 https://t.co/orkWBH9ZYx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 647,
+          "like_count": 2247,
+          "listed_count": 2,
+          "media_count": 2256,
+          "tweet_count": 5945
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9462,
+          "following_count": 880,
+          "like_count": 30224,
+          "listed_count": 12,
+          "media_count": 1975,
+          "tweet_count": 10008
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

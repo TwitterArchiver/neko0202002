@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2073899001171329253",
+    "created_at": "2026-07-05T23:17:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T00:17:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073909067802935504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "162974851",
+          "start": 0,
+          "username": "Paramjitt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073909067802935504",
+    "in_reply_to_user_id": "162974851",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073899001171329253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Paramjitt 晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2073899001171329253",
+        "created_at": "2026-07-05T23:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T00:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073909067802935504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "162974851",
+              "start": 0,
+              "username": "Paramjitt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073909067802935504",
+        "in_reply_to_user_id": "162974851",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073899001171329253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Paramjitt 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "162974851",
+        "conversation_id": "2073899001171329253",
+        "created_at": "2026-07-05T22:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T23:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073899001171329253"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073899001171329253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/O割餐券/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 631,
+          "like_count": 2164,
+          "listed_count": 2,
+          "media_count": 2211,
+          "tweet_count": 5785
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-05T06:05:17.000Z",
+        "description": "互关寻回\n🚪52（加了啥也没有）\n你推六个月封11个号的人，传奇耐封王\n自我介绍不多说了，你应该刷到过我\nhttps://t.co/TYxFLX9MRG\n大号@Shivam3228\n牛马💊 @AminoXx_killer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 79,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 110,
+                "start": 95,
+                "username": "AminoXx_killer"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 76,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 53,
+                "url": "https://t.co/TYxFLX9MRG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/l2gjMdmFaC"
+              }
+            ]
+          }
+        },
+        "id": "162974851",
+        "location": "你身后",
+        "name": "霖（赞绝病娇中2，16.0寻回爱妻）",
+        "pinned_tweet_id": "2068570468312039765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071548184963506176/HGB67smS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 354,
+          "like_count": 1152,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 745
+        },
+        "url": "https://t.co/l2gjMdmFaC",
+        "username": "Paramjitt",
+        "verified": false
+      }
+    ]
+  }
+}

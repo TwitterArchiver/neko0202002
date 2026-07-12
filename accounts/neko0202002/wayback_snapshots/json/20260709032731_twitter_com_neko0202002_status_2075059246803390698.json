@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2027899188605030400"
+      ],
+      "media_source_tweet_id": [
+        "2027899846318035162"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2075059246803390698",
+    "created_at": "2026-07-09T03:27:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T04:27:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075059246803390698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1141792320",
+          "start": 3,
+          "username": "SailorMoonSc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/urBQax2XGq",
+          "end": 41,
+          "expanded_url": "https://x.com/SailorMoonSc/status/2027899846318035162/video/1",
+          "media_key": "13_2027899188605030400",
+          "start": 18,
+          "url": "https://t.co/urBQax2XGq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075059246803390698",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1897
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027899846318035162",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SailorMoonSc: https://t.co/urBQax2XGq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 93400,
+        "height": 2160,
+        "media_key": "13_2027899188605030400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027899188605030400/img/Bhz8imLCHlbcyLYd.jpg",
+        "public_metrics": {
+          "view_count": 903354
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027899188605030400/pl/F06NWyq-_aI6-TQi.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027899188605030400/vid/avc1/360x270/kCmnaJrrjQnVkIU4.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027899188605030400/vid/avc1/1440x1080/PqCoJSn9q5wubxfJ.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027899188605030400/vid/avc1/2880x2160/hR-Pr1sna-Znj4Hj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027899188605030400/vid/avc1/960x720/l4XPkCxyOAdTI57j.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027899188605030400/vid/avc1/480x360/AAAmZW571Vc5s7is.mp4"
+          }
+        ],
+        "width": 2880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027899188605030400"
+          ],
+          "media_source_tweet_id": [
+            "2027899846318035162"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075059246803390698",
+        "created_at": "2026-07-09T03:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T04:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075059246803390698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1141792320",
+              "start": 3,
+              "username": "SailorMoonSc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/urBQax2XGq",
+              "end": 41,
+              "expanded_url": "https://x.com/SailorMoonSc/status/2027899846318035162/video/1",
+              "media_key": "13_2027899188605030400",
+              "start": 18,
+              "url": "https://t.co/urBQax2XGq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075059246803390698",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1897
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027899846318035162",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SailorMoonSc: https://t.co/urBQax2XGq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027899188605030400"
+          ]
+        },
+        "author_id": "1141792320",
+        "conversation_id": "2027899846318035162",
+        "created_at": "2026-03-01T00:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T01:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027899846318035162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/urBQax2XGq",
+              "end": 23,
+              "expanded_url": "https://x.com/SailorMoonSc/status/2027899846318035162/video/1",
+              "media_key": "13_2027899188605030400",
+              "start": 0,
+              "url": "https://t.co/urBQax2XGq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027899846318035162",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4615,
+          "impression_count": 1653138,
+          "like_count": 16215,
+          "quote_count": 215,
+          "reply_count": 65,
+          "retweet_count": 1897
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/urBQax2XGq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/O割餐券/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 646,
+          "like_count": 2221,
+          "listed_count": 2,
+          "media_count": 2245,
+          "tweet_count": 5912
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2013-02-02T07:49:53.000Z",
+        "description": "𝙁𝙖𝙣𝙋𝙖𝙜𝙚 | 𝘋𝘢𝘪𝘭𝘺 𝘚𝘢𝘪𝘭𝘰𝘳 𝘔𝘰𝘰𝘯 🌙 🐰  🎀 ✨️",
+        "id": "1141792320",
+        "location": "☾  ☿  ♀  ♂  ♃  ♄  ♅  ♆  ♇",
+        "name": "Sailor Moon",
+        "pinned_tweet_id": "2027899846318035162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041105036630282241/NRxscRzQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30570,
+          "following_count": 2490,
+          "like_count": 1823,
+          "listed_count": 12,
+          "media_count": 3936,
+          "tweet_count": 4831
+        },
+        "url": "",
+        "username": "SailorMoonSc",
+        "verified": true
+      }
+    ]
+  }
+}

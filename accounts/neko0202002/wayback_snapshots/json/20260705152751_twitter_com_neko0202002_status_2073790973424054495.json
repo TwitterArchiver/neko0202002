@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066444891505475584"
+      ],
+      "media_source_tweet_id": [
+        "2066444905564783005"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2073790973424054495",
+    "created_at": "2026-07-05T15:27:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T16:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073790973424054495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1137671960605761537",
+          "start": 3,
+          "username": "_BUCCHOU_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0r081HpuDZ",
+          "end": 45,
+          "expanded_url": "https://x.com/_BUCCHOU_/status/2066444905564783005/photo/1",
+          "media_key": "3_2066444891505475584",
+          "start": 22,
+          "url": "https://t.co/0r081HpuDZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073790973424054495",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066444905564783005",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_BUCCHOU_: 1 more https://t.co/0r081HpuDZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2066444891505475584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK18rioawAA12_8.jpg",
+        "width": 2856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066444891505475584"
+          ],
+          "media_source_tweet_id": [
+            "2066444905564783005"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2073790973424054495",
+        "created_at": "2026-07-05T15:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073790973424054495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1137671960605761537",
+              "start": 3,
+              "username": "_BUCCHOU_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0r081HpuDZ",
+              "end": 45,
+              "expanded_url": "https://x.com/_BUCCHOU_/status/2066444905564783005/photo/1",
+              "media_key": "3_2066444891505475584",
+              "start": 22,
+              "url": "https://t.co/0r081HpuDZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073790973424054495",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066444905564783005",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_BUCCHOU_: 1 more https://t.co/0r081HpuDZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066444891505475584"
+          ]
+        },
+        "author_id": "1137671960605761537",
+        "conversation_id": "2066444905564783005",
+        "created_at": "2026-06-15T08:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T09:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066444905564783005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0r081HpuDZ",
+              "end": 30,
+              "expanded_url": "https://x.com/_BUCCHOU_/status/2066444905564783005/photo/1",
+              "media_key": "3_2066444891505475584",
+              "start": 7,
+              "url": "https://t.co/0r081HpuDZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066444905564783005",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 9549,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "1 more https://t.co/0r081HpuDZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/O割餐券/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 623,
+          "like_count": 2158,
+          "listed_count": 2,
+          "media_count": 2203,
+          "tweet_count": 5760
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-09T10:45:07.000Z",
+        "description": "重庆人 男的 不是糖人 性取向正常\n\n⚠️正常内容+R18内容共存⚠️\n莲之空相关不会有R18版本，因为我爱这个企划\n\n线下看置顶，互转很麻烦我只互关，需要先私聊！！\n\n不卖图不卖视频不收门槛，付费项目只有线下和寄拍，警惕付费陷阱。\nQQ和聊天群参考置顶进入，群比较抽象希望你别介意。\n\n女装只是兴趣 更不更新凭心情",
+        "id": "1137671960605761537",
+        "location": "地球",
+        "name": "迷你小部长",
+        "pinned_tweet_id": "2050921610039931032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063797655998959616/HMQWaJtR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13357,
+          "following_count": 628,
+          "like_count": 3439,
+          "listed_count": 70,
+          "media_count": 347,
+          "tweet_count": 1776
+        },
+        "url": "",
+        "username": "_BUCCHOU_",
+        "verified": false
+      }
+    ]
+  }
+}

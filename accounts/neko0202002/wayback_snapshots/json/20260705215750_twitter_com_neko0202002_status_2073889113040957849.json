@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2073814501099741669",
+    "created_at": "2026-07-05T21:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T22:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073889113040957849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1757603703811371008",
+          "start": 0,
+          "username": "11andpr89648964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073889113040957849",
+    "in_reply_to_user_id": "1757603703811371008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073814501099741669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@11andpr89648964 羡慕娃娃🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9750,
+        "height": 1280,
+        "media_key": "13_2073814428886437888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073814428886437888/img/vMjc6oPb9TMYU1jl.jpg",
+        "public_metrics": {
+          "view_count": 177
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073814428886437888/vid/avc1/320x568/2wf6-4vXk03T4j49.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073814428886437888/vid/avc1/480x852/8RNieO6O9PSCYUIl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073814428886437888/vid/avc1/720x1280/ke0ASgKWA4xXapdE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073814428886437888/pl/YUidpNMuCXH6Z73s.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2073814501099741669",
+        "created_at": "2026-07-05T21:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T22:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073889113040957849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757603703811371008",
+              "start": 0,
+              "username": "11andpr89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073889113040957849",
+        "in_reply_to_user_id": "1757603703811371008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073814501099741669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@11andpr89648964 羡慕娃娃🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073814428886437888"
+          ]
+        },
+        "author_id": "1757603703811371008",
+        "conversation_id": "2073814501099741669",
+        "created_at": "2026-07-05T17:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073814501099741669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dVGz1dYhai",
+              "end": 23,
+              "expanded_url": "https://x.com/11andpr89648964/status/2073814501099741669/video/1",
+              "media_key": "13_2073814428886437888",
+              "start": 0,
+              "url": "https://t.co/dVGz1dYhai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073814501099741669",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 555,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dVGz1dYhai"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/O割餐券/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 631,
+          "like_count": 2163,
+          "listed_count": 2,
+          "media_count": 2210,
+          "tweet_count": 5781
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T03:12:45.000Z",
+        "description": "重度双相情感障碍患者 友跨 顺女 爱我请给我买普瑞巴林… 我爱普瑞 普瑞爱我 最喜欢的动物是小鸡𖤐HAIL SATAN.666𖤐 🚪52",
+        "id": "1757603703811371008",
+        "location": "普瑞药效里",
+        "name": "11",
+        "pinned_tweet_id": "2066273352856306030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043146436347613185/S_9YQ-s3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1500,
+          "following_count": 966,
+          "like_count": 190,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 2040
+        },
+        "url": "",
+        "username": "11andpr89648964",
+        "verified": false
+      }
+    ]
+  }
+}

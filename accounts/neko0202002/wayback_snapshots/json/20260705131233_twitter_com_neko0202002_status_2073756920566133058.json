@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073756911607119872"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2073756920566133058",
+    "created_at": "2026-07-05T13:12:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T14:12:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073756920566133058"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/E0uf8zgWZM",
+          "end": 23,
+          "expanded_url": "https://x.com/neko0202002/status/2073756920566133058/photo/1",
+          "media_key": "3_2073756911607119872",
+          "start": 0,
+          "url": "https://t.co/E0uf8zgWZM"
+        },
+        {
+          "display_url": "x.com/s2ceci/status/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/s2ceci/status/2073199124720083332",
+          "start": 24,
+          "url": "https://t.co/zHBVerR89q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073756920566133058",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073199124720083332",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/E0uf8zgWZM https://t.co/zHBVerR89q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1014,
+        "media_key": "3_2073756911607119872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMd27ILagAAb445.jpg",
+        "width": 822
+      },
+      {
+        "duration_ms": 19992,
+        "height": 576,
+        "media_key": "7_2073199088250560512",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2073199088250560512/pu/img/rWx5x-mYkuV4Sl9y.jpg",
+        "public_metrics": {
+          "view_count": 617781
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073199088250560512/pu/vid/avc1/480x270/nqtkPMPJWfLhpfaR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073199088250560512/pu/vid/avc1/640x360/qLMXWkvOmQZMbzJv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073199088250560512/pu/vid/avc1/1024x576/6l3asIkOUssf2KJE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2073199088250560512/pu/pl/lbrBx1COhra-CZjU.m3u8?tag=12"
+          }
+        ],
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073756911607119872"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2073756920566133058",
+        "created_at": "2026-07-05T13:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073756920566133058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E0uf8zgWZM",
+              "end": 23,
+              "expanded_url": "https://x.com/neko0202002/status/2073756920566133058/photo/1",
+              "media_key": "3_2073756911607119872",
+              "start": 0,
+              "url": "https://t.co/E0uf8zgWZM"
+            },
+            {
+              "display_url": "x.com/s2ceci/status/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/s2ceci/status/2073199124720083332",
+              "start": 24,
+              "url": "https://t.co/zHBVerR89q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073756920566133058",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073199124720083332",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/E0uf8zgWZM https://t.co/zHBVerR89q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2073199088250560512"
+          ]
+        },
+        "author_id": "1858636276636815360",
+        "conversation_id": "2073199124720083332",
+        "created_at": "2026-07-04T00:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T01:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073199124720083332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rjZI7TWqi7",
+              "end": 96,
+              "expanded_url": "https://x.com/s2ceci/status/2073199124720083332/video/1",
+              "media_key": "7_2073199088250560512",
+              "start": 73,
+              "url": "https://t.co/rjZI7TWqi7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073199124720083332",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3773,
+          "impression_count": 1325688,
+          "like_count": 35582,
+          "quote_count": 554,
+          "reply_count": 321,
+          "retweet_count": 1678
+        },
+        "reply_settings": "everyone",
+        "text": "antes de tomar LSD a primeira vez eu pensava q ia tomar e ver algo assim https://t.co/rjZI7TWqi7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/O割餐券/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 621,
+          "like_count": 2151,
+          "listed_count": 2,
+          "media_count": 2195,
+          "tweet_count": 5742
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-18T22:20:05.000Z",
+        "description": "every tongue that rises up against me shall fall!!!!!!!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/s2cecii",
+                "end": 23,
+                "expanded_url": "http://instagram.com/s2cecii",
+                "start": 0,
+                "url": "https://t.co/4wFwAPqelI"
+              }
+            ]
+          }
+        },
+        "id": "1858636276636815360",
+        "location": "natal",
+        "name": "ceci",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072462897964298241/g88AeTm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2290,
+          "following_count": 416,
+          "like_count": 27450,
+          "listed_count": 1,
+          "media_count": 622,
+          "tweet_count": 7792
+        },
+        "url": "https://t.co/4wFwAPqelI",
+        "username": "s2ceci",
+        "verified": false
+      }
+    ]
+  }
+}

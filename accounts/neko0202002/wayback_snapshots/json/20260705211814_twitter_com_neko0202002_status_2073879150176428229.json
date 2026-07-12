@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073325454753484800"
+      ],
+      "media_source_tweet_id": [
+        "2073325459044212830"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      }
+    ],
+    "conversation_id": "2073879150176428229",
+    "created_at": "2026-07-05T21:18:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T22:18:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073879150176428229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2045772284405661696",
+          "start": 3,
+          "username": "0527syuu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uVBSLFKAj2",
+          "end": 54,
+          "expanded_url": "https://x.com/0527syuu/status/2073325459044212830/photo/1",
+          "media_key": "3_2073325454753484800",
+          "start": 31,
+          "url": "https://t.co/uVBSLFKAj2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073879150176428229",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1052
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073325459044212830",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @0527syuu: 声優さんってｽｹﾞｰｰｰ!!!! https://t.co/uVBSLFKAj2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1465,
+        "media_key": "3_2073325454753484800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXuhCJbUAAq2Zd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073325454753484800"
+          ],
+          "media_source_tweet_id": [
+            "2073325459044212830"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "2073879150176428229",
+        "created_at": "2026-07-05T21:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T22:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073879150176428229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2045772284405661696",
+              "start": 3,
+              "username": "0527syuu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uVBSLFKAj2",
+              "end": 54,
+              "expanded_url": "https://x.com/0527syuu/status/2073325459044212830/photo/1",
+              "media_key": "3_2073325454753484800",
+              "start": 31,
+              "url": "https://t.co/uVBSLFKAj2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073879150176428229",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1052
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073325459044212830",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @0527syuu: 声優さんってｽｹﾞｰｰｰ!!!! https://t.co/uVBSLFKAj2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073325454753484800"
+          ]
+        },
+        "author_id": "2045772284405661696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "2073325459044212830",
+        "created_at": "2026-07-04T08:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T09:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073325459044212830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uVBSLFKAj2",
+              "end": 40,
+              "expanded_url": "https://x.com/0527syuu/status/2073325459044212830/photo/1",
+              "media_key": "3_2073325454753484800",
+              "start": 17,
+              "url": "https://t.co/uVBSLFKAj2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073325459044212830",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 550,
+          "impression_count": 170272,
+          "like_count": 15518,
+          "quote_count": 24,
+          "reply_count": 1,
+          "retweet_count": 1052
+        },
+        "reply_settings": "following",
+        "text": "声優さんってｽｹﾞｰｰｰ!!!! https://t.co/uVBSLFKAj2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/O割餐券/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 631,
+          "like_count": 2161,
+          "listed_count": 2,
+          "media_count": 2210,
+          "tweet_count": 5774
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-19T07:52:05.000Z",
+        "description": "見る専。過去絵が殆ど。落書",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/1qdfo174m…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/1qdfo174mk2m5ihp/",
+                "start": 0,
+                "url": "https://t.co/04GOXibPEy"
+              }
+            ]
+          }
+        },
+        "id": "2045772284405661696",
+        "location": "保存使用・無断転載・AI学習✕ ",
+        "name": "柿崎修一",
+        "pinned_tweet_id": "2046246474833621094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046195958699204608/cEOi7SN7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 14,
+          "like_count": 735,
+          "listed_count": 4,
+          "media_count": 59,
+          "tweet_count": 297
+        },
+        "url": "https://t.co/04GOXibPEy",
+        "username": "0527syuu",
+        "verified": false
+      }
+    ]
+  }
+}

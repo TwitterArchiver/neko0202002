@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2074707279170195499",
+    "created_at": "2026-07-08T04:08:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T05:08:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074707279170195499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2914630631",
+          "start": 3,
+          "username": "observainquieto"
+        },
+        {
+          "end": 34,
+          "id": "753424463560052736",
+          "start": 21,
+          "username": "AcervoCharts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074707279170195499",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074621753809121334",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @observainquieto: @AcervoCharts Isso explica o motivo de tanta gente só falar merda com tanta naturalidade"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2074707279170195499",
+        "created_at": "2026-07-08T04:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074707279170195499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2914630631",
+              "start": 3,
+              "username": "observainquieto"
+            },
+            {
+              "end": 34,
+              "id": "753424463560052736",
+              "start": 21,
+              "username": "AcervoCharts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074707279170195499",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074621753809121334",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @observainquieto: @AcervoCharts Isso explica o motivo de tanta gente só falar merda com tanta naturalidade"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2914630631",
+        "conversation_id": "2074619467636629893",
+        "created_at": "2026-07-07T22:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T23:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074621753809121334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "753424463560052736",
+              "start": 0,
+              "username": "AcervoCharts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074621753809121334",
+        "in_reply_to_user_id": "753424463560052736",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 49112,
+          "like_count": 1710,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074619467636629893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcervoCharts Isso explica o motivo de tanta gente só falar merda com tanta naturalidade"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/O割餐券/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 641,
+          "like_count": 2193,
+          "listed_count": 2,
+          "media_count": 2230,
+          "tweet_count": 5866
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-10T23:20:39.000Z",
+        "description": "Curioso sobre quase tudo. Convencido de quase nada. // Curious about almost everything. Convinced of almost nothing.",
+        "id": "2914630631",
+        "name": "Observador Inquieto",
+        "pinned_tweet_id": "2054307192023511410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031480298366492672/Enpv7LJi_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 901,
+          "like_count": 1683,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 1855
+        },
+        "url": "",
+        "username": "observainquieto",
+        "verified": true
+      },
+      {
+        "created_at": "2016-07-14T03:02:45.000Z",
+        "description": "Curiosidades, entretenimento e cultura pop.\n✉️ publi@portalacervo.com.br",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "portalacervo.com.br",
+                "end": 23,
+                "expanded_url": "http://portalacervo.com.br",
+                "start": 0,
+                "url": "https://t.co/BICfVvadSo"
+              }
+            ]
+          }
+        },
+        "id": "753424463560052736",
+        "location": "Brasil",
+        "name": "ACERVO",
+        "pinned_tweet_id": "2074609400992420250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897105347287908352/g-209otg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216569,
+          "following_count": 7581,
+          "like_count": 26526,
+          "listed_count": 332,
+          "media_count": 13884,
+          "tweet_count": 14828
+        },
+        "url": "https://t.co/BICfVvadSo",
+        "username": "AcervoCharts",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2073383289038262678",
+    "created_at": "2026-07-04T12:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T13:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073383289038262678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1119797280083775488",
+          "start": 3,
+          "username": "yxcgpl"
+        },
+        {
+          "end": 23,
+          "id": "1841626911228780545",
+          "start": 12,
+          "username": "kujou_king"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073383289038262678",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073313831045275996",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yxcgpl: @kujou_king 防沉迷是防力工沉迷，下调性同意是小女孩成官员玩物，享乐的主体不同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2073383289038262678",
+        "created_at": "2026-07-04T12:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073383289038262678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1119797280083775488",
+              "start": 3,
+              "username": "yxcgpl"
+            },
+            {
+              "end": 23,
+              "id": "1841626911228780545",
+              "start": 12,
+              "username": "kujou_king"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073383289038262678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073313831045275996",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yxcgpl: @kujou_king 防沉迷是防力工沉迷，下调性同意是小女孩成官员玩物，享乐的主体不同"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1119797280083775488",
+        "conversation_id": "2073296617785131193",
+        "created_at": "2026-07-04T07:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T08:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073313831045275996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1841626911228780545",
+              "start": 0,
+              "username": "kujou_king"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073313831045275996",
+        "in_reply_to_user_id": "1841626911228780545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1824,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073296617785131193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kujou_king 防沉迷是防力工沉迷，下调性同意是小女孩成官员玩物，享乐的主体不同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 647,
+          "like_count": 2123,
+          "listed_count": 2,
+          "media_count": 2155,
+          "tweet_count": 5645
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-21T02:57:31.000Z",
+        "description": "寻找交易的圣杯",
+        "id": "1119797280083775488",
+        "location": "Taipei City, Taiwan",
+        "name": "Cryptodog",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1467747050976464896/Z9XjykGz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 448,
+          "like_count": 3878,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 7931
+        },
+        "url": "",
+        "username": "yxcgpl",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T23:50:53.000Z",
+        "description": "中国人别骂我了，我最喜欢中国人了，女孩都会回fo的，",
+        "id": "1841626911228780545",
+        "location": "没有🚪不加V不扩列不要问了",
+        "name": "🧸猪圈传奇愛莉莎🍺",
+        "pinned_tweet_id": "1871831076504735759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071748169667350528/bOQCo0Hy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2441,
+          "following_count": 330,
+          "like_count": 4823,
+          "listed_count": 20,
+          "media_count": 49,
+          "tweet_count": 2007
+        },
+        "url": "",
+        "username": "kujou_king",
+        "verified": false
+      }
+    ]
+  }
+}
