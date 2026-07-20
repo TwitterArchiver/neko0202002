@@ -1,0 +1,584 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078047567515176960",
+        "3_2078047567657807873",
+        "3_2078047567666167808",
+        "3_2078047567510962176"
+      ],
+      "media_source_tweet_id": [
+        "2078047573550727249",
+        "2078047573550727249",
+        "2078047573550727249",
+        "2078047573550727249"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2078070973677584864",
+    "created_at": "2026-07-17T10:55:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T11:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078070973677584864"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "まどマギ"
+        },
+        {
+          "end": 28,
+          "start": 20,
+          "tag": "WF2026ｓ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1165591035939917824",
+          "start": 3,
+          "username": "anming02"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zkGE6q4qM8",
+          "end": 52,
+          "expanded_url": "https://x.com/anming02/status/2078047573550727249/photo/1",
+          "media_key": "3_2078047567515176960",
+          "start": 29,
+          "url": "https://t.co/zkGE6q4qM8"
+        },
+        {
+          "display_url": "pic.x.com/zkGE6q4qM8",
+          "end": 52,
+          "expanded_url": "https://x.com/anming02/status/2078047573550727249/photo/1",
+          "media_key": "3_2078047567657807873",
+          "start": 29,
+          "url": "https://t.co/zkGE6q4qM8"
+        },
+        {
+          "display_url": "pic.x.com/zkGE6q4qM8",
+          "end": 52,
+          "expanded_url": "https://x.com/anming02/status/2078047573550727249/photo/1",
+          "media_key": "3_2078047567666167808",
+          "start": 29,
+          "url": "https://t.co/zkGE6q4qM8"
+        },
+        {
+          "display_url": "pic.x.com/zkGE6q4qM8",
+          "end": 52,
+          "expanded_url": "https://x.com/anming02/status/2078047573550727249/photo/1",
+          "media_key": "3_2078047567510962176",
+          "start": 29,
+          "url": "https://t.co/zkGE6q4qM8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078070973677584864",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 111
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078047573550727249",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anming02: #まどマギ #WF2026ｓ https://t.co/zkGE6q4qM8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2078047567515176960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNa1QLAbUAAjXGB.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2078047567657807873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNa1QLibsAEKD3j.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2078047567666167808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNa1QLkbQAApqAG.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2078047567510962176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNa1QK_bAAAJMi0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078047567515176960",
+            "3_2078047567657807873",
+            "3_2078047567666167808",
+            "3_2078047567510962176"
+          ]
+        },
+        "author_id": "1165591035939917824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2078047573550727249",
+        "created_at": "2026-07-17T09:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078047573550727249"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "まどマギ"
+            },
+            {
+              "end": 14,
+              "start": 6,
+              "tag": "WF2026ｓ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zkGE6q4qM8",
+              "end": 38,
+              "expanded_url": "https://x.com/anming02/status/2078047573550727249/photo/1",
+              "media_key": "3_2078047567515176960",
+              "start": 15,
+              "url": "https://t.co/zkGE6q4qM8"
+            },
+            {
+              "display_url": "pic.x.com/zkGE6q4qM8",
+              "end": 38,
+              "expanded_url": "https://x.com/anming02/status/2078047573550727249/photo/1",
+              "media_key": "3_2078047567657807873",
+              "start": 15,
+              "url": "https://t.co/zkGE6q4qM8"
+            },
+            {
+              "display_url": "pic.x.com/zkGE6q4qM8",
+              "end": 38,
+              "expanded_url": "https://x.com/anming02/status/2078047573550727249/photo/1",
+              "media_key": "3_2078047567666167808",
+              "start": 15,
+              "url": "https://t.co/zkGE6q4qM8"
+            },
+            {
+              "display_url": "pic.x.com/zkGE6q4qM8",
+              "end": 38,
+              "expanded_url": "https://x.com/anming02/status/2078047573550727249/photo/1",
+              "media_key": "3_2078047567510962176",
+              "start": 15,
+              "url": "https://t.co/zkGE6q4qM8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078047573550727249",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 11300,
+          "like_count": 454,
+          "quote_count": 10,
+          "reply_count": 0,
+          "retweet_count": 111
+        },
+        "reply_settings": "everyone",
+        "text": "#まどマギ #WF2026ｓ https://t.co/zkGE6q4qM8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078047567515176960",
+            "3_2078047567657807873",
+            "3_2078047567666167808",
+            "3_2078047567510962176"
+          ],
+          "media_source_tweet_id": [
+            "2078047573550727249",
+            "2078047573550727249",
+            "2078047573550727249",
+            "2078047573550727249"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2078070973677584864",
+        "created_at": "2026-07-17T10:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078070973677584864"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "まどマギ"
+            },
+            {
+              "end": 28,
+              "start": 20,
+              "tag": "WF2026ｓ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165591035939917824",
+              "start": 3,
+              "username": "anming02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zkGE6q4qM8",
+              "end": 52,
+              "expanded_url": "https://x.com/anming02/status/2078047573550727249/photo/1",
+              "media_key": "3_2078047567515176960",
+              "start": 29,
+              "url": "https://t.co/zkGE6q4qM8"
+            },
+            {
+              "display_url": "pic.x.com/zkGE6q4qM8",
+              "end": 52,
+              "expanded_url": "https://x.com/anming02/status/2078047573550727249/photo/1",
+              "media_key": "3_2078047567657807873",
+              "start": 29,
+              "url": "https://t.co/zkGE6q4qM8"
+            },
+            {
+              "display_url": "pic.x.com/zkGE6q4qM8",
+              "end": 52,
+              "expanded_url": "https://x.com/anming02/status/2078047573550727249/photo/1",
+              "media_key": "3_2078047567666167808",
+              "start": 29,
+              "url": "https://t.co/zkGE6q4qM8"
+            },
+            {
+              "display_url": "pic.x.com/zkGE6q4qM8",
+              "end": 52,
+              "expanded_url": "https://x.com/anming02/status/2078047573550727249/photo/1",
+              "media_key": "3_2078047567510962176",
+              "start": 29,
+              "url": "https://t.co/zkGE6q4qM8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078070973677584864",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 111
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078047573550727249",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anming02: #まどマギ #WF2026ｓ https://t.co/zkGE6q4qM8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 656,
+          "like_count": 2433,
+          "listed_count": 2,
+          "media_count": 2374,
+          "tweet_count": 6276
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-25T11:45:47.000Z",
+        "description": "中国人 涂装师 和朋友一起使用的小店booth：https://t.co/8BrDkFpljw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yukisensei.booth.pm",
+                "end": 47,
+                "expanded_url": "https://yukisensei.booth.pm/",
+                "start": 24,
+                "url": "https://t.co/8BrDkFpljw"
+              }
+            ]
+          }
+        },
+        "id": "1165591035939917824",
+        "name": "研研研研研研 wf6-02-04",
+        "pinned_tweet_id": "1981317042264547479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1615253684375650304/keN_VdNM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19473,
+          "following_count": 390,
+          "like_count": 1933,
+          "listed_count": 132,
+          "media_count": 747,
+          "tweet_count": 1874
+        },
+        "url": "",
+        "username": "anming02",
+        "verified": false
+      }
+    ]
+  }
+}

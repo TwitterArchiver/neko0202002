@@ -1,0 +1,499 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1932445377128714240",
+        "3_1932445377128767489",
+        "3_1932445377132924928"
+      ],
+      "media_source_tweet_id": [
+        "1932445383680258217",
+        "1932445383680258217",
+        "1932445383680258217"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2077114198002446578",
+    "created_at": "2026-07-14T19:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T20:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077114198002446578"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 31,
+          "tag": "ヨスガノソラ"
+        },
+        {
+          "end": 44,
+          "start": 39,
+          "tag": "春日野穹"
+        },
+        {
+          "end": 50,
+          "start": 45,
+          "tag": "コスプレ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1029880676017876994",
+          "start": 3,
+          "username": "NanakoQAQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r9GqMKYG3G",
+          "end": 74,
+          "expanded_url": "https://x.com/NanakoQAQ/status/1932445383680258217/photo/1",
+          "media_key": "3_1932445377128714240",
+          "start": 51,
+          "url": "https://t.co/r9GqMKYG3G"
+        },
+        {
+          "display_url": "pic.x.com/r9GqMKYG3G",
+          "end": 74,
+          "expanded_url": "https://x.com/NanakoQAQ/status/1932445383680258217/photo/1",
+          "media_key": "3_1932445377128767489",
+          "start": 51,
+          "url": "https://t.co/r9GqMKYG3G"
+        },
+        {
+          "display_url": "pic.x.com/r9GqMKYG3G",
+          "end": 74,
+          "expanded_url": "https://x.com/NanakoQAQ/status/1932445383680258217/photo/1",
+          "media_key": "3_1932445377132924928",
+          "start": 51,
+          "url": "https://t.co/r9GqMKYG3G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077114198002446578",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 165
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932445383680258217",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NanakoQAQ: 「穹のことだけ、見てて……」\n\n#ヨスガノソラ　#春日野穹 #コスプレ https://t.co/r9GqMKYG3G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_1932445377128714240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtFs1PuaUAAMoFo.jpg",
+        "width": 2002
+      },
+      {
+        "height": 1852,
+        "media_key": "3_1932445377128767489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtFs1PubIAEQr8Z.jpg",
+        "width": 2458
+      },
+      {
+        "height": 2836,
+        "media_key": "3_1932445377132924928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtFs1PvakAA4zVy.jpg",
+        "width": 1786
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932445377128714240",
+            "3_1932445377128767489",
+            "3_1932445377132924928"
+          ],
+          "media_source_tweet_id": [
+            "1932445383680258217",
+            "1932445383680258217",
+            "1932445383680258217"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2077114198002446578",
+        "created_at": "2026-07-14T19:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T20:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077114198002446578"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 31,
+              "tag": "ヨスガノソラ"
+            },
+            {
+              "end": 44,
+              "start": 39,
+              "tag": "春日野穹"
+            },
+            {
+              "end": 50,
+              "start": 45,
+              "tag": "コスプレ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1029880676017876994",
+              "start": 3,
+              "username": "NanakoQAQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r9GqMKYG3G",
+              "end": 74,
+              "expanded_url": "https://x.com/NanakoQAQ/status/1932445383680258217/photo/1",
+              "media_key": "3_1932445377128714240",
+              "start": 51,
+              "url": "https://t.co/r9GqMKYG3G"
+            },
+            {
+              "display_url": "pic.x.com/r9GqMKYG3G",
+              "end": 74,
+              "expanded_url": "https://x.com/NanakoQAQ/status/1932445383680258217/photo/1",
+              "media_key": "3_1932445377128767489",
+              "start": 51,
+              "url": "https://t.co/r9GqMKYG3G"
+            },
+            {
+              "display_url": "pic.x.com/r9GqMKYG3G",
+              "end": 74,
+              "expanded_url": "https://x.com/NanakoQAQ/status/1932445383680258217/photo/1",
+              "media_key": "3_1932445377132924928",
+              "start": 51,
+              "url": "https://t.co/r9GqMKYG3G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077114198002446578",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 165
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932445383680258217",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NanakoQAQ: 「穹のことだけ、見てて……」\n\n#ヨスガノソラ　#春日野穹 #コスプレ https://t.co/r9GqMKYG3G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932445377128714240",
+            "3_1932445377128767489",
+            "3_1932445377132924928"
+          ]
+        },
+        "author_id": "1029880676017876994",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1932445383680258217",
+        "created_at": "2025-06-10T14:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T15:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932445383680258217"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "ヨスガノソラ"
+            },
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "春日野穹"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "コスプレ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r9GqMKYG3G",
+              "end": 59,
+              "expanded_url": "https://x.com/NanakoQAQ/status/1932445383680258217/photo/1",
+              "media_key": "3_1932445377128714240",
+              "start": 36,
+              "url": "https://t.co/r9GqMKYG3G"
+            },
+            {
+              "display_url": "pic.x.com/r9GqMKYG3G",
+              "end": 59,
+              "expanded_url": "https://x.com/NanakoQAQ/status/1932445383680258217/photo/1",
+              "media_key": "3_1932445377128767489",
+              "start": 36,
+              "url": "https://t.co/r9GqMKYG3G"
+            },
+            {
+              "display_url": "pic.x.com/r9GqMKYG3G",
+              "end": 59,
+              "expanded_url": "https://x.com/NanakoQAQ/status/1932445383680258217/photo/1",
+              "media_key": "3_1932445377132924928",
+              "start": 36,
+              "url": "https://t.co/r9GqMKYG3G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932445383680258217",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 704,
+          "impression_count": 123708,
+          "like_count": 3401,
+          "quote_count": 4,
+          "reply_count": 9,
+          "retweet_count": 165
+        },
+        "reply_settings": "everyone",
+        "text": "「穹のことだけ、見てて……」\n\n#ヨスガノソラ　#春日野穹 #コスプレ https://t.co/r9GqMKYG3G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 646,
+          "like_count": 2372,
+          "listed_count": 2,
+          "media_count": 2325,
+          "tweet_count": 6134
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-16T00:01:02.000Z",
+        "description": "🇨🇳、コスプレ、日本に留学中、よろしくお願いします🙇‍♀️、無断転載禁止！！！、 BOOTH： https://t.co/pKuw1OkvcY Instagram：nanakoqaqwww 、 weibo：@黑岩奈酱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nanakoqaq.booth.pm",
+                "end": 71,
+                "expanded_url": "https://nanakoqaq.booth.pm",
+                "start": 48,
+                "url": "https://t.co/pKuw1OkvcY"
+              }
+            ]
+          }
+        },
+        "id": "1029880676017876994",
+        "name": "奈々子🦇",
+        "pinned_tweet_id": "1998388564699357317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597249180699066368/5u7C_ojy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139581,
+          "following_count": 507,
+          "like_count": 2286,
+          "listed_count": 660,
+          "media_count": 923,
+          "tweet_count": 4122
+        },
+        "url": "",
+        "username": "NanakoQAQ",
+        "verified": true
+      }
+    ]
+  }
+}

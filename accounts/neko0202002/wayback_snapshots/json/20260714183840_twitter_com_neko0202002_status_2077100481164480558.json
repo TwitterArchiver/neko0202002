@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2077100481164480558",
+    "created_at": "2026-07-14T18:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T19:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077100481164480558"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/imNanIanG/stat…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/imNanIanG/status/2076922015299330165",
+          "start": 37,
+          "url": "https://t.co/3p5vVO7HX3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077100481164480558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076922015299330165",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我这边的比较恶心点，孩子好点之后，变本加厉的压力对方，活生生给人家搞垮了 https://t.co/3p5vVO7HX3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2077100481164480558",
+        "created_at": "2026-07-14T18:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T19:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077100481164480558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/imNanIanG/stat…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/imNanIanG/status/2076922015299330165",
+              "start": 37,
+              "url": "https://t.co/3p5vVO7HX3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077100481164480558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076922015299330165",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我这边的比较恶心点，孩子好点之后，变本加厉的压力对方，活生生给人家搞垮了 https://t.co/3p5vVO7HX3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065709289067696128",
+        "conversation_id": "2076688492239933860",
+        "created_at": "2026-07-14T06:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T07:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076922015299330165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647170304844914689",
+              "start": 0,
+              "username": "DustSwallo15805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076922015299330165",
+        "in_reply_to_user_id": "1647170304844914689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5909,
+          "like_count": 125,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076688492239933860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DustSwallo15805 符合经验总结，一些家长看见孩子忽然好转了，心情恢复了就带着他们去旅游，结果往往是悲剧收场，突然说自己好了通常是要行动了的信号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 646,
+          "like_count": 2372,
+          "listed_count": 2,
+          "media_count": 2325,
+          "tweet_count": 6131
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-13T08:16:22.000Z",
+        "description": "有点苦涩",
+        "id": "2065709289067696128",
+        "location": "苏州",
+        "name": "NanIanG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065710106252345344/R9PPY1LQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 127,
+          "like_count": 263,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "imNanIanG",
+        "verified": false
+      }
+    ]
+  }
+}

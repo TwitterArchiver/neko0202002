@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2077544626484056128",
+    "created_at": "2026-07-16T00:03:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T01:03:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077544626484056128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2077523448180731904",
+          "start": 3,
+          "username": "CaoDamn_TwT"
+        },
+        {
+          "end": 85,
+          "id": "2050947066709573632",
+          "start": 73,
+          "username": "KetChup_Mew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077544626484056128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077540870187089981",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CaoDamn_TwT: 我操大家 好 我是操蛋醬&lt;3（13代目\n操蛋的兩個帳號分別是11代目還有12代目都被凍結7天 而10代目 @KetChup_Mew 已被永久封禁\nmsk大叔也是死了媽媽了牙 小操蛋到底做錯了什麼 要被如此對待？！\n請前世、前前世、前前前世（此處…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [KetChup_Mew].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "KetChup_Mew",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "KetChup_Mew"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2065,
+        "media_key": "3_2077540862964408320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNToaFdaIAAsqA9.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2065,
+        "media_key": "3_2077540863182553088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNToaGRawAAu9A7.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2077544626484056128",
+        "created_at": "2026-07-16T00:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T01:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077544626484056128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2077523448180731904",
+              "start": 3,
+              "username": "CaoDamn_TwT"
+            },
+            {
+              "end": 85,
+              "id": "2050947066709573632",
+              "start": 73,
+              "username": "KetChup_Mew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077544626484056128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077540870187089981",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CaoDamn_TwT: 我操大家 好 我是操蛋醬&lt;3（13代目\n操蛋的兩個帳號分別是11代目還有12代目都被凍結7天 而10代目 @KetChup_Mew 已被永久封禁\nmsk大叔也是死了媽媽了牙 小操蛋到底做錯了什麼 要被如此對待？！\n請前世、前前世、前前前世（此處…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077540862964408320",
+            "3_2077540863182553088"
+          ]
+        },
+        "author_id": "2077523448180731904",
+        "conversation_id": "2077540870187089981",
+        "created_at": "2026-07-15T23:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T00:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077540870187089981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 68,
+              "id": "2050947066709573632",
+              "start": 56,
+              "username": "KetChup_Mew"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2mOyNkqTKc",
+              "end": 186,
+              "expanded_url": "https://x.com/CaoDamn_TwT/status/2077540870187089981/photo/1",
+              "media_key": "3_2077540862964408320",
+              "start": 163,
+              "url": "https://t.co/2mOyNkqTKc"
+            },
+            {
+              "display_url": "pic.x.com/2mOyNkqTKc",
+              "end": 186,
+              "expanded_url": "https://x.com/CaoDamn_TwT/status/2077540870187089981/photo/1",
+              "media_key": "3_2077540863182553088",
+              "start": 163,
+              "url": "https://t.co/2mOyNkqTKc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077540870187089981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我操大家 好 我是操蛋醬&lt;3（13代目\n操蛋的兩個帳號分別是11代目還有12代目都被凍結7天 而10代目 @KetChup_Mew 已被永久封禁\nmsk大叔也是死了媽媽了牙 小操蛋到底做錯了什麼 要被如此對待？！\n請前世、前前世、前前前世（此處省略10個前世）互關幫忙轉帖偶內蓋 這邊給大家一人一個飛機杯（要跳蛋請備註 https://t.co/2mOyNkqTKc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 651,
+          "like_count": 2402,
+          "listed_count": 2,
+          "media_count": 2346,
+          "tweet_count": 6195
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-15T22:40:04.000Z",
+        "description": "主人@7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "7q468438x8964"
+              }
+            ]
+          }
+        },
+        "id": "2077523448180731904",
+        "name": "番茄操蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077538015849951232/sj8tPrs7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 15,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "CaoDamn_TwT",
+        "verified": false
+      }
+    ]
+  }
+}

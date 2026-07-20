@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2075784406787330144",
+    "created_at": "2026-07-11T04:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T05:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075793877446037545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1989191439339933696",
+          "start": 0,
+          "username": "Hiro8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075793877446037545",
+    "in_reply_to_user_id": "1989191439339933696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075784406787330144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hiro8964 可爱！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075784398499352576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM6q6ZbaEAAt8pD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2075784406787330144",
+        "created_at": "2026-07-11T04:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T05:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075793877446037545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1989191439339933696",
+              "start": 0,
+              "username": "Hiro8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075793877446037545",
+        "in_reply_to_user_id": "1989191439339933696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075784406787330144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hiro8964 可爱！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075784398499352576"
+          ]
+        },
+        "author_id": "1989191439339933696",
+        "conversation_id": "2075784406787330144",
+        "created_at": "2026-07-11T03:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T04:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075784406787330144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hfu3YgflOS",
+              "end": 29,
+              "expanded_url": "https://x.com/Hiro8964/status/2075784406787330144/photo/1",
+              "media_key": "3_2075784398499352576",
+              "start": 6,
+              "url": "https://t.co/Hfu3YgflOS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075784406787330144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "地雷妹出击 https://t.co/Hfu3YgflOS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 648,
+          "like_count": 2270,
+          "listed_count": 2,
+          "media_count": 2274,
+          "tweet_count": 5986
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T04:39:32.000Z",
+        "description": "还没被选中的ネクサス适能者/严重失眠/焦虑max",
+        "id": "1989191439339933696",
+        "name": "宝↗生↘永↗梦↘ ！👾",
+        "pinned_tweet_id": "2057836503393583580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074028386939498496/p5KowUOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 295,
+          "like_count": 5720,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 2287
+        },
+        "url": "",
+        "username": "Hiro8964",
+        "verified": false
+      }
+    ]
+  }
+}

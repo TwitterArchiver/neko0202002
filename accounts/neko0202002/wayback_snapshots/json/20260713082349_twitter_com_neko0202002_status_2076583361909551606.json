@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2076098082018938994",
+    "created_at": "2026-07-13T08:23:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T09:23:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076583361909551606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1911628907842818049",
+          "start": 0,
+          "username": "codyhunk"
+        },
+        {
+          "end": 16,
+          "id": "755149",
+          "start": 10,
+          "username": "Datou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076583361909551606",
+    "in_reply_to_user_id": "1911628907842818049",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076375871745835011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@codyhunk @Datou 我也真不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2076098082018938994",
+        "created_at": "2026-07-13T08:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T09:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076583361909551606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1911628907842818049",
+              "start": 0,
+              "username": "codyhunk"
+            },
+            {
+              "end": 16,
+              "id": "755149",
+              "start": 10,
+              "username": "Datou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076583361909551606",
+        "in_reply_to_user_id": "1911628907842818049",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076375871745835011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@codyhunk @Datou 我也真不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911628907842818049",
+        "conversation_id": "2076098082018938994",
+        "created_at": "2026-07-12T18:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T19:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076375871745835011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "755149",
+              "start": 0,
+              "username": "Datou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076375871745835011",
+        "in_reply_to_user_id": "755149",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 229,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076098082018938994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Datou 我真的不行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 642,
+          "like_count": 2324,
+          "listed_count": 2,
+          "media_count": 2305,
+          "tweet_count": 6077
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "夜之城老鼠人",
+        "id": "1911628907842818049",
+        "location": "night city",
+        "name": "夜之城鼠鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010660572497666048/CL2FTU_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14783,
+          "following_count": 1117,
+          "like_count": 24947,
+          "listed_count": 43,
+          "media_count": 6892,
+          "tweet_count": 10279
+        },
+        "url": "",
+        "username": "codyhunk",
+        "verified": true
+      },
+      {
+        "created_at": "2007-02-06T07:25:56.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jiewang.gitbook.io/chan-pin-jing-…",
+                "end": 23,
+                "expanded_url": "https://jiewang.gitbook.io/chan-pin-jing-li-de-wu-xian-you-xi/",
+                "start": 0,
+                "url": "https://t.co/44eSXttD97"
+              }
+            ]
+          }
+        },
+        "id": "755149",
+        "location": "shenzhen",
+        "name": "Datou",
+        "pinned_tweet_id": "1583036841866842112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/649477316461006848/K2eKkOPs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19918,
+          "following_count": 211,
+          "like_count": 11344,
+          "listed_count": 228,
+          "media_count": 8809,
+          "tweet_count": 28866
+        },
+        "url": "https://t.co/44eSXttD97",
+        "username": "Datou",
+        "verified": false
+      }
+    ]
+  }
+}

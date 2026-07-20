@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2075941699357135195",
+    "created_at": "2026-07-11T19:05:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T20:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076019996766142527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1765185217038635008",
+          "start": 0,
+          "username": "MikiPetya"
+        },
+        {
+          "end": 24,
+          "id": "1421766018897125378",
+          "start": 11,
+          "username": "nakunatoidda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076019996766142527",
+    "in_reply_to_user_id": "1765185217038635008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075956384190103978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MikiPetya @nakunatoidda 掰下来重新拼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2075941699357135195",
+        "created_at": "2026-07-11T19:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T20:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076019996766142527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1765185217038635008",
+              "start": 0,
+              "username": "MikiPetya"
+            },
+            {
+              "end": 24,
+              "id": "1421766018897125378",
+              "start": 11,
+              "username": "nakunatoidda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076019996766142527",
+        "in_reply_to_user_id": "1765185217038635008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075956384190103978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MikiPetya @nakunatoidda 掰下来重新拼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765185217038635008",
+        "conversation_id": "2075941699357135195",
+        "created_at": "2026-07-11T14:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075956384190103978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1421766018897125378",
+              "start": 0,
+              "username": "nakunatoidda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075956384190103978",
+        "in_reply_to_user_id": "1421766018897125378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075941699357135195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakunatoidda 小猫，我以前拧三阶魔方只会用底层→顶层的那套公式，而且我没搞明白这套公式的意思，什么小鱼公式更是一点都理解不了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 647,
+          "like_count": 2286,
+          "listed_count": 2,
+          "media_count": 2282,
+          "tweet_count": 6011
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-06T01:18:56.000Z",
+        "description": "好想当三句不离男朋友的恋爱脑",
+        "id": "1765185217038635008",
+        "name": "呆毛都饿蔫了",
+        "pinned_tweet_id": "2057683356268241178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798166843926188032/a2IoRV0V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 171,
+          "like_count": 577,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 428
+        },
+        "url": "",
+        "username": "MikiPetya",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-01T09:33:37.000Z",
+        "description": "🇨🇳&🇭🇰 顺女 intp 性向不确定🌈 擦边非黄推 ‖\n喹硫平用药中 Ⅰ\nds退圈 Ⅰ\n女权、孩随母姓支持者（xp不代表现实意愿）Ⅰ\n\n随缘交交朋友",
+        "id": "1421766018897125378",
+        "name": "被宇宙收养的小猫",
+        "pinned_tweet_id": "2035043643661459626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019296832577540096/HXSfZIZC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 595,
+          "like_count": 7449,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 2217
+        },
+        "url": "",
+        "username": "nakunatoidda",
+        "verified": false
+      }
+    ]
+  }
+}

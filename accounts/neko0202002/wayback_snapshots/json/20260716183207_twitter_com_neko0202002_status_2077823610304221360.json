@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073770736162836480"
+      ],
+      "media_source_tweet_id": [
+        "2073770761362215208"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2077823610304221360",
+    "created_at": "2026-07-16T18:32:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T19:32:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077823610304221360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1242399564591579136",
+          "start": 3,
+          "username": "Segven703"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZWBNfkgUGW",
+          "end": 41,
+          "expanded_url": "https://x.com/Segven703/status/2073770761362215208/photo/1",
+          "media_key": "3_2073770736162836480",
+          "start": 18,
+          "url": "https://t.co/ZWBNfkgUGW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077823610304221360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 693
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073770761362215208",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Segven703: 点图 https://t.co/ZWBNfkgUGW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1236,
+        "media_key": "3_2073770736162836480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeDf0qWEAAYQbh.jpg",
+        "width": 953
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073770736162836480"
+          ]
+        },
+        "author_id": "1242399564591579136",
+        "conversation_id": "2073770761362215208",
+        "created_at": "2026-07-05T14:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073770761362215208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZWBNfkgUGW",
+              "end": 26,
+              "expanded_url": "https://x.com/Segven703/status/2073770761362215208/photo/1",
+              "media_key": "3_2073770736162836480",
+              "start": 3,
+              "url": "https://t.co/ZWBNfkgUGW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073770761362215208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2418,
+          "impression_count": 110283,
+          "like_count": 13040,
+          "quote_count": 36,
+          "reply_count": 20,
+          "retweet_count": 693
+        },
+        "reply_settings": "everyone",
+        "text": "点图 https://t.co/ZWBNfkgUGW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073770736162836480"
+          ],
+          "media_source_tweet_id": [
+            "2073770761362215208"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2077823610304221360",
+        "created_at": "2026-07-16T18:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T19:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077823610304221360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1242399564591579136",
+              "start": 3,
+              "username": "Segven703"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZWBNfkgUGW",
+              "end": 41,
+              "expanded_url": "https://x.com/Segven703/status/2073770761362215208/photo/1",
+              "media_key": "3_2073770736162836480",
+              "start": 18,
+              "url": "https://t.co/ZWBNfkgUGW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077823610304221360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 693
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073770761362215208",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Segven703: 点图 https://t.co/ZWBNfkgUGW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 655,
+          "like_count": 2426,
+          "listed_count": 2,
+          "media_count": 2365,
+          "tweet_count": 6258
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-24T10:35:30.000Z",
+        "description": "＝七代｜20↑｜中文/翻译器｜头像来自友人@Meota_XD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 21,
+                "username": "Meota_XD"
+              }
+            ]
+          }
+        },
+        "id": "1242399564591579136",
+        "name": "Segven",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071608927738028032/rapfr-6-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5491,
+          "following_count": 123,
+          "like_count": 2194,
+          "listed_count": 19,
+          "media_count": 254,
+          "tweet_count": 769
+        },
+        "url": "",
+        "username": "Segven703",
+        "verified": false
+      }
+    ]
+  }
+}

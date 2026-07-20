@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076607266615386112"
+      ],
+      "media_source_tweet_id": [
+        "2076623925434614118"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2076705996895068419",
+    "created_at": "2026-07-13T16:31:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T17:31:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076705996895068419"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "重音テト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1969215846599049216",
+          "start": 3,
+          "username": "gund_no9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/15Jat51Sk7",
+          "end": 50,
+          "expanded_url": "https://x.com/gund_no9/status/2076623925434614118/photo/1",
+          "media_key": "3_2076607266615386112",
+          "start": 27,
+          "url": "https://t.co/15Jat51Sk7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076705996895068419",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076623925434614118",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gund_no9: #重音テト\nう～、くっさ https://t.co/15Jat51Sk7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2076607266615386112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGXToCa4AAxxyN.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076607266615386112"
+          ],
+          "media_source_tweet_id": [
+            "2076623925434614118"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2076705996895068419",
+        "created_at": "2026-07-13T16:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076705996895068419"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "重音テト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1969215846599049216",
+              "start": 3,
+              "username": "gund_no9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/15Jat51Sk7",
+              "end": 50,
+              "expanded_url": "https://x.com/gund_no9/status/2076623925434614118/photo/1",
+              "media_key": "3_2076607266615386112",
+              "start": 27,
+              "url": "https://t.co/15Jat51Sk7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076705996895068419",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076623925434614118",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gund_no9: #重音テト\nう～、くっさ https://t.co/15Jat51Sk7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076607266615386112"
+          ]
+        },
+        "author_id": "1969215846599049216",
+        "conversation_id": "2076623925434614118",
+        "created_at": "2026-07-13T11:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T12:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076623925434614118"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "重音テト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/15Jat51Sk7",
+              "end": 36,
+              "expanded_url": "https://x.com/gund_no9/status/2076623925434614118/photo/1",
+              "media_key": "3_2076607266615386112",
+              "start": 13,
+              "url": "https://t.co/15Jat51Sk7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076623925434614118",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 4436,
+          "like_count": 744,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "#重音テト\nう～、くっさ https://t.co/15Jat51Sk7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 646,
+          "like_count": 2345,
+          "listed_count": 2,
+          "media_count": 2309,
+          "tweet_count": 6101
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-20T01:43:54.000Z",
+        "description": "お絵かきとかアニメとか\n気が向いたらこっちもよろしく→@sdkfz161_1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "sdkfz161_1"
+              }
+            ]
+          }
+        },
+        "id": "1969215846599049216",
+        "name": "藻屑9号",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972590121435426816/yhTsVS2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14392,
+          "following_count": 43,
+          "like_count": 987,
+          "listed_count": 85,
+          "media_count": 107,
+          "tweet_count": 1002
+        },
+        "url": "",
+        "username": "gund_no9",
+        "verified": false
+      }
+    ]
+  }
+}

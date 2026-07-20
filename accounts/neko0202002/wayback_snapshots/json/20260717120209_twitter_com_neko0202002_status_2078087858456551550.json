@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078058458218483712"
+      ],
+      "media_source_tweet_id": [
+        "2078058464484671650"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2078087858456551550",
+    "created_at": "2026-07-17T12:02:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T13:02:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078087858456551550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1246711103129673738",
+          "start": 3,
+          "username": "Charl_414"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e4otsp28cy",
+          "end": 48,
+          "expanded_url": "https://x.com/Charl_414/status/2078058464484671650/photo/1",
+          "media_key": "3_2078058458218483712",
+          "start": 25,
+          "url": "https://t.co/e4otsp28cy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078087858456551550",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 365
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078058464484671650",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Charl_414: 見たいんでしょ〜？ https://t.co/e4otsp28cy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1939,
+        "media_key": "3_2078058458218483712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNa_KGCb0AAgTBP.jpg",
+        "width": 1371
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078058458218483712"
+          ]
+        },
+        "author_id": "1246711103129673738",
+        "conversation_id": "2078058464484671650",
+        "created_at": "2026-07-17T10:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078058464484671650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e4otsp28cy",
+              "end": 33,
+              "expanded_url": "https://x.com/Charl_414/status/2078058464484671650/photo/1",
+              "media_key": "3_2078058458218483712",
+              "start": 10,
+              "url": "https://t.co/e4otsp28cy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078058464484671650",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1414,
+          "impression_count": 70646,
+          "like_count": 6619,
+          "quote_count": 23,
+          "reply_count": 34,
+          "retweet_count": 365
+        },
+        "reply_settings": "everyone",
+        "text": "見たいんでしょ〜？ https://t.co/e4otsp28cy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078058458218483712"
+          ],
+          "media_source_tweet_id": [
+            "2078058464484671650"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2078087858456551550",
+        "created_at": "2026-07-17T12:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T13:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078087858456551550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1246711103129673738",
+              "start": 3,
+              "username": "Charl_414"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e4otsp28cy",
+              "end": 48,
+              "expanded_url": "https://x.com/Charl_414/status/2078058464484671650/photo/1",
+              "media_key": "3_2078058458218483712",
+              "start": 25,
+              "url": "https://t.co/e4otsp28cy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078087858456551550",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 365
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078058464484671650",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Charl_414: 見たいんでしょ〜？ https://t.co/e4otsp28cy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 656,
+          "like_count": 2435,
+          "listed_count": 2,
+          "media_count": 2379,
+          "tweet_count": 6288
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-05T08:09:09.000Z",
+        "description": "Illustrator ◆ご連絡は【Charl06122837@gmail.com】まで 【skeb】▶https://t.co/2j8KTxs3hp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Charl_414",
+                "end": 75,
+                "expanded_url": "https://skeb.jp/@Charl_414",
+                "start": 52,
+                "url": "https://t.co/2j8KTxs3hp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/60533004",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/60533004",
+                "start": 0,
+                "url": "https://t.co/OyseiYiV2Z"
+              }
+            ]
+          }
+        },
+        "id": "1246711103129673738",
+        "location": "イラスト無断使用禁止",
+        "name": "Charlまめ",
+        "pinned_tweet_id": "1819310229047120311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1522237405222572036/ylVS4Cc8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61117,
+          "following_count": 1379,
+          "like_count": 63975,
+          "listed_count": 269,
+          "media_count": 519,
+          "tweet_count": 13304
+        },
+        "url": "https://t.co/OyseiYiV2Z",
+        "username": "Charl_414",
+        "verified": true
+      }
+    ]
+  }
+}
