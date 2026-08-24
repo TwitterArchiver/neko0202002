@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077692800507002880"
+      ],
+      "media_source_tweet_id": [
+        "2077711089077522436"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2077743040811470855",
+    "created_at": "2026-07-16T13:11:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T14:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077743040811470855"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "初音ミク"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1969215846599049216",
+          "start": 3,
+          "username": "gund_no9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EzMaopruOj",
+          "end": 53,
+          "expanded_url": "https://x.com/gund_no9/status/2077711089077522436/photo/1",
+          "media_key": "3_2077692800507002880",
+          "start": 30,
+          "url": "https://t.co/EzMaopruOj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077743040811470855",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 407
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077711089077522436",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gund_no9: #初音ミク\nだって暑いんだもん https://t.co/EzMaopruOj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2077692800507002880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVymA6bQAAH726.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077692800507002880"
+          ],
+          "media_source_tweet_id": [
+            "2077711089077522436"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2077743040811470855",
+        "created_at": "2026-07-16T13:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T14:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077743040811470855"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "初音ミク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1969215846599049216",
+              "start": 3,
+              "username": "gund_no9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EzMaopruOj",
+              "end": 53,
+              "expanded_url": "https://x.com/gund_no9/status/2077711089077522436/photo/1",
+              "media_key": "3_2077692800507002880",
+              "start": 30,
+              "url": "https://t.co/EzMaopruOj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077743040811470855",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 407
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077711089077522436",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gund_no9: #初音ミク\nだって暑いんだもん https://t.co/EzMaopruOj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077692800507002880"
+          ]
+        },
+        "author_id": "1969215846599049216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          }
+        ],
+        "conversation_id": "2077711089077522436",
+        "created_at": "2026-07-16T11:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T12:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077711089077522436"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "初音ミク"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EzMaopruOj",
+              "end": 39,
+              "expanded_url": "https://x.com/gund_no9/status/2077711089077522436/photo/1",
+              "media_key": "3_2077692800507002880",
+              "start": 16,
+              "url": "https://t.co/EzMaopruOj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077711089077522436",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1444,
+          "impression_count": 56826,
+          "like_count": 8685,
+          "quote_count": 10,
+          "reply_count": 16,
+          "retweet_count": 407
+        },
+        "reply_settings": "everyone",
+        "text": "#初音ミク\nだって暑いんだもん https://t.co/EzMaopruOj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 654,
+          "like_count": 2423,
+          "listed_count": 2,
+          "media_count": 2360,
+          "tweet_count": 6242
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-20T01:43:54.000Z",
+        "description": "お絵かきとかアニメとか\n気が向いたらこっちもよろしく→@sdkfz161_1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "sdkfz161_1"
+              }
+            ]
+          }
+        },
+        "id": "1969215846599049216",
+        "name": "藻屑9号",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972590121435426816/yhTsVS2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14514,
+          "following_count": 43,
+          "like_count": 993,
+          "listed_count": 87,
+          "media_count": 108,
+          "tweet_count": 1008
+        },
+        "url": "",
+        "username": "gund_no9",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078177216954011648"
+      ],
+      "media_source_tweet_id": [
+        "2078177231864746430"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2078328008449069262",
+    "created_at": "2026-07-18T03:56:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T04:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078328008449069262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2001286547791101953",
+          "start": 3,
+          "username": "bai94757"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bWjrLzMNzf",
+          "end": 37,
+          "expanded_url": "https://x.com/bai94757/status/2078177231864746430/photo/1",
+          "media_key": "3_2078177216954011648",
+          "start": 14,
+          "url": "https://t.co/bWjrLzMNzf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078328008449069262",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078177231864746430",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bai94757: https://t.co/bWjrLzMNzf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1933,
+        "media_key": "3_2078177216954011648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcrKwzakAAIqgH.jpg",
+        "width": 1450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078177216954011648"
+          ]
+        },
+        "author_id": "2001286547791101953",
+        "conversation_id": "2078177231864746430",
+        "created_at": "2026-07-17T17:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T18:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078177231864746430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bWjrLzMNzf",
+              "end": 23,
+              "expanded_url": "https://x.com/bai94757/status/2078177231864746430/photo/1",
+              "media_key": "3_2078177216954011648",
+              "start": 0,
+              "url": "https://t.co/bWjrLzMNzf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078177231864746430",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bWjrLzMNzf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078177216954011648"
+          ],
+          "media_source_tweet_id": [
+            "2078177231864746430"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2078328008449069262",
+        "created_at": "2026-07-18T03:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T04:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078328008449069262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2001286547791101953",
+              "start": 3,
+              "username": "bai94757"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bWjrLzMNzf",
+              "end": 37,
+              "expanded_url": "https://x.com/bai94757/status/2078177231864746430/photo/1",
+              "media_key": "3_2078177216954011648",
+              "start": 14,
+              "url": "https://t.co/bWjrLzMNzf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078328008449069262",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078177231864746430",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bai94757: https://t.co/bWjrLzMNzf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 659,
+          "like_count": 2453,
+          "listed_count": 2,
+          "media_count": 2395,
+          "tweet_count": 6329
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-17T13:42:19.000Z",
+        "description": "傻逼oder",
+        "id": "2001286547791101953",
+        "name": "知白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016596632318726144/o6TVOh0D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 74,
+          "like_count": 5898,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 567
+        },
+        "url": "",
+        "username": "bai94757",
+        "verified": false
+      }
+    ]
+  }
+}

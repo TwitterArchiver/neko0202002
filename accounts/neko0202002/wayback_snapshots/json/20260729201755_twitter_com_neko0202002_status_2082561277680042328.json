@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2082462647421898752"
+      ],
+      "media_source_tweet_id": [
+        "2082462675947442199"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2082561277680042328",
+    "created_at": "2026-07-29T20:17:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T21:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082561277680042328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1889204925923790848",
+          "start": 3,
+          "username": "nemu953"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ljDJiTgJlJ",
+          "end": 44,
+          "expanded_url": "https://x.com/nemu953/status/2082462675947442199/video/1",
+          "media_key": "13_2082462647421898752",
+          "start": 21,
+          "url": "https://t.co/ljDJiTgJlJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082561277680042328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082462675947442199",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nemu953: また行きたい！ https://t.co/ljDJiTgJlJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11900,
+        "height": 1280,
+        "media_key": "13_2082462647421898752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082462647421898752/img/ObvY3ohTA8YsAawT.jpg",
+        "public_metrics": {
+          "view_count": 6790
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082462647421898752/vid/avc1/320x568/C64bDvkX1cwnTzTe.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082462647421898752/vid/avc1/480x852/FOR5VYmGLdZA2pLD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082462647421898752/vid/avc1/720x1280/-ch5TvJ8T-xWPb4p.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082462647421898752/pl/rUH324rScJSGlCeg.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082462647421898752"
+          ]
+        },
+        "author_id": "1889204925923790848",
+        "conversation_id": "2082462675947442199",
+        "created_at": "2026-07-29T13:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082462675947442199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ljDJiTgJlJ",
+              "end": 31,
+              "expanded_url": "https://x.com/nemu953/status/2082462675947442199/video/1",
+              "media_key": "13_2082462647421898752",
+              "start": 8,
+              "url": "https://t.co/ljDJiTgJlJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082462675947442199",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 378,
+          "impression_count": 18711,
+          "like_count": 1084,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "また行きたい！ https://t.co/ljDJiTgJlJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082462647421898752"
+          ],
+          "media_source_tweet_id": [
+            "2082462675947442199"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2082561277680042328",
+        "created_at": "2026-07-29T20:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T21:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082561277680042328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1889204925923790848",
+              "start": 3,
+              "username": "nemu953"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ljDJiTgJlJ",
+              "end": 44,
+              "expanded_url": "https://x.com/nemu953/status/2082462675947442199/video/1",
+              "media_key": "13_2082462647421898752",
+              "start": 21,
+              "url": "https://t.co/ljDJiTgJlJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082561277680042328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082462675947442199",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nemu953: また行きたい！ https://t.co/ljDJiTgJlJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 668,
+          "like_count": 2504,
+          "listed_count": 3,
+          "media_count": 2451,
+          "tweet_count": 6529
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T06:49:01.000Z",
+        "description": "Cosplay🔰 関西 (兵庫）🚺 18⬇️ ﾘﾄﾘﾝ見てねhttps://t.co/wYzOqEt34m 💖🗝@nemuine0125",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "nemuine0125"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/nemum5l",
+                "end": 53,
+                "expanded_url": "https://lit.link/nemum5l",
+                "start": 30,
+                "url": "https://t.co/wYzOqEt34m"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1D96RA0S0VICN?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/J2UyvNZBLr"
+              }
+            ]
+          }
+        },
+        "id": "1889204925923790848",
+        "location": "才能は、開花させましょう",
+        "name": "ねむ",
+        "pinned_tweet_id": "2080684394663313872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079222519643721729/6WkH4QNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 278,
+          "like_count": 16819,
+          "listed_count": 11,
+          "media_count": 164,
+          "tweet_count": 1315
+        },
+        "url": "https://t.co/J2UyvNZBLr",
+        "username": "nemu953",
+        "verified": false
+      }
+    ]
+  }
+}

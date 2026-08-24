@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078385017861066752"
+      ],
+      "media_source_tweet_id": [
+        "2078415624557191505"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2078554439393432062",
+    "created_at": "2026-07-18T18:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T19:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078554439393432062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2054196065172344832",
+          "start": 3,
+          "username": "GptRainy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7WC2MwtA1C",
+          "end": 44,
+          "expanded_url": "https://x.com/GptRainy/status/2078415624557191505/video/1",
+          "media_key": "13_2078385017861066752",
+          "start": 21,
+          "url": "https://t.co/7WC2MwtA1C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078554439393432062",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078415624557191505",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GptRainy: 典中典之二类 https://t.co/7WC2MwtA1C"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17507,
+        "height": 944,
+        "media_key": "13_2078385017861066752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078385017861066752/img/vvexxIKPJdvXq_rf.jpg",
+        "public_metrics": {
+          "view_count": 159
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078385017861066752/vid/avc1/320x418/hNaVMWuJACL94IMO.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078385017861066752/vid/avc1/480x628/DYwN9LPUg6RZBvsp.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078385017861066752/vid/avc1/720x944/hJRCbOhI-yrM6uKA.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078385017861066752/pl/sFC4yyNgQ0kG96Em.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078385017861066752"
+          ]
+        },
+        "author_id": "2054196065172344832",
+        "conversation_id": "2078415624557191505",
+        "created_at": "2026-07-18T09:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T10:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078415624557191505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7WC2MwtA1C",
+              "end": 30,
+              "expanded_url": "https://x.com/GptRainy/status/2078415624557191505/video/1",
+              "media_key": "13_2078385017861066752",
+              "start": 7,
+              "url": "https://t.co/7WC2MwtA1C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078415624557191505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 341,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "典中典之二类 https://t.co/7WC2MwtA1C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078385017861066752"
+          ],
+          "media_source_tweet_id": [
+            "2078415624557191505"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2078554439393432062",
+        "created_at": "2026-07-18T18:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T19:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078554439393432062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054196065172344832",
+              "start": 3,
+              "username": "GptRainy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7WC2MwtA1C",
+              "end": 44,
+              "expanded_url": "https://x.com/GptRainy/status/2078415624557191505/video/1",
+              "media_key": "13_2078385017861066752",
+              "start": 21,
+              "url": "https://t.co/7WC2MwtA1C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078554439393432062",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078415624557191505",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GptRainy: 典中典之二类 https://t.co/7WC2MwtA1C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 659,
+          "like_count": 2469,
+          "listed_count": 2,
+          "media_count": 2414,
+          "tweet_count": 6393
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-12T13:44:50.000Z",
+        "description": "msk你还我6k粉大号😭。/Transfem🏳️‍⚧️/18岁/queer communist/CS Dev💻/双相/o割/请和我交朋友/PM随时开放🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/b8fHY6IT3G"
+              }
+            ]
+          }
+        },
+        "id": "2054196065172344832",
+        "location": "宁静且永远安乐的天堂；",
+        "name": "小雨 #SayKnowToLLM",
+        "pinned_tweet_id": "2069493204240744550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054196311235457024/AR_qFcWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 551,
+          "like_count": 950,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 537
+        },
+        "url": "https://t.co/b8fHY6IT3G",
+        "username": "GptRainy",
+        "verified": false
+      }
+    ]
+  }
+}

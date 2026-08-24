@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087871849942380544"
+      ],
+      "media_source_tweet_id": [
+        "2087871858695602439"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2087969255845507421",
+    "created_at": "2026-08-13T18:27:17.000Z",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T19:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087969255845507421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2073780355434483712",
+          "start": 3,
+          "username": "QianQian_8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bBjMdfKziv",
+          "end": 77,
+          "expanded_url": "https://x.com/QianQian_8964/status/2087871858695602439/photo/1",
+          "media_key": "3_2087871849942380544",
+          "start": 54,
+          "url": "https://t.co/bBjMdfKziv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087969255845507421",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087871849942380544"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087871858695602439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QianQian_8964: 我只有在推特上才可以做回真正的自己。\n大家都很善良啊……我愛你們呀。 https://t.co/bBjMdfKziv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1211,
+        "media_key": "3_2087871849942380544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmcYrBacAAjb-5.jpg",
+        "width": 1299
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087871849942380544"
+          ]
+        },
+        "author_id": "2073780355434483712",
+        "conversation_id": "2087871858695602439",
+        "created_at": "2026-08-13T12:00:16.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T13:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087871858695602439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bBjMdfKziv",
+              "end": 58,
+              "expanded_url": "https://x.com/QianQian_8964/status/2087871858695602439/photo/1",
+              "media_key": "3_2087871849942380544",
+              "start": 35,
+              "url": "https://t.co/bBjMdfKziv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087871858695602439",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087871849942380544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 605,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我只有在推特上才可以做回真正的自己。\n大家都很善良啊……我愛你們呀。 https://t.co/bBjMdfKziv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087871849942380544"
+          ],
+          "media_source_tweet_id": [
+            "2087871858695602439"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2087969255845507421",
+        "created_at": "2026-08-13T18:27:17.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T19:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087969255845507421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2073780355434483712",
+              "start": 3,
+              "username": "QianQian_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bBjMdfKziv",
+              "end": 77,
+              "expanded_url": "https://x.com/QianQian_8964/status/2087871858695602439/photo/1",
+              "media_key": "3_2087871849942380544",
+              "start": 54,
+              "url": "https://t.co/bBjMdfKziv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087969255845507421",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087871849942380544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087871858695602439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QianQian_8964: 我只有在推特上才可以做回真正的自己。\n大家都很善良啊……我愛你們呀。 https://t.co/bBjMdfKziv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2087969255845507421",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 678,
+          "like_count": 2589,
+          "listed_count": 3,
+          "media_count": 2509,
+          "tweet_count": 6775
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "狗修金♡ @7q468438x8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "7q468438x8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087957982877536410",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2083730052878123308",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073780355434483712/1783276015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080615760960036864/u9TiZBT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2625,
+          "following_count": 68,
+          "like_count": 4112,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1085
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

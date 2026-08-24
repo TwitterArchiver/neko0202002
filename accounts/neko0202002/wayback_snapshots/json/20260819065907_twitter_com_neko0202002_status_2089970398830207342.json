@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2089857483401777192",
+    "created_at": "2026-08-19T06:59:07.000Z",
+    "display_text_range": [
+      8,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T07:59:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089970398830207342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2074175129052143620",
+          "start": 0,
+          "username": "rtqqmc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089970398830207342",
+    "in_reply_to_user_id": "2074175129052143620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089857483401777192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rtqqmc 雷古勒斯是个乐乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1227,
+        "media_key": "3_2089857435515424768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQCqQ9sbEAA4tn6.jpg",
+        "width": 1292
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2089857483401777192",
+        "created_at": "2026-08-19T06:59:07.000Z",
+        "display_text_range": [
+          8,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089970398830207342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2074175129052143620",
+              "start": 0,
+              "username": "rtqqmc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089970398830207342",
+        "in_reply_to_user_id": "2074175129052143620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089857483401777192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rtqqmc 雷古勒斯是个乐乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089857435515424768"
+          ]
+        },
+        "author_id": "2074175129052143620",
+        "conversation_id": "2089857483401777192",
+        "created_at": "2026-08-18T23:30:26.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T00:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089857483401777192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iPwd2TFLAY",
+              "end": 27,
+              "expanded_url": "https://x.com/rtqqmc/status/2089857483401777192/photo/1",
+              "media_key": "3_2089857435515424768",
+              "start": 4,
+              "url": "https://t.co/iPwd2TFLAY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089857483401777192",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089857435515424768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心情。 https://t.co/iPwd2TFLAY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2089970398830207342",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 633,
+          "like_count": 2610,
+          "listed_count": 3,
+          "media_count": 2538,
+          "tweet_count": 6900
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-06T16:57:12.000Z",
+        "description": "",
+        "id": "2074175129052143620",
+        "is_identity_verified": false,
+        "location": "惠泉女子学院",
+        "most_recent_tweet_id": "2089911928932192419",
+        "name": "我登不上二号机我是雨鈴这是3号机😭",
+        "pinned_tweet_id": "2074180083523449272",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2074175129052143620/1785996414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085246025938460672/QCVrLjuO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 61,
+          "like_count": 320,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "rtqqmc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

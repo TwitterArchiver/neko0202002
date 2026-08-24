@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087590389981274112"
+      ],
+      "media_source_tweet_id": [
+        "2087590392002957610"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2087807573462278161",
+    "created_at": "2026-08-13T07:44:49.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T08:44:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087807573462278161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1862884625833660416",
+          "start": 3,
+          "username": "kuololxhssc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MddKs0R45P",
+          "end": 40,
+          "expanded_url": "https://x.com/kuololxhssc/status/2087590392002957610/photo/1",
+          "media_key": "3_2087590389981274112",
+          "start": 17,
+          "url": "https://t.co/MddKs0R45P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087807573462278161",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2087590389981274112"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087590392002957610",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuololxhssc: https://t.co/MddKs0R45P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 362,
+        "media_key": "3_2087590389981274112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPicZi9aYAAGLbK.jpg",
+        "width": 495
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087590389981274112"
+          ]
+        },
+        "author_id": "1862884625833660416",
+        "conversation_id": "2087590392002957610",
+        "created_at": "2026-08-12T17:21:49.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T18:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087590392002957610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MddKs0R45P",
+              "end": 23,
+              "expanded_url": "https://x.com/kuololxhssc/status/2087590392002957610/photo/1",
+              "media_key": "3_2087590389981274112",
+              "start": 0,
+              "url": "https://t.co/MddKs0R45P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087590392002957610",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2087590389981274112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10710,
+          "like_count": 480,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MddKs0R45P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087590389981274112"
+          ],
+          "media_source_tweet_id": [
+            "2087590392002957610"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2087807573462278161",
+        "created_at": "2026-08-13T07:44:49.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T08:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087807573462278161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1862884625833660416",
+              "start": 3,
+              "username": "kuololxhssc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MddKs0R45P",
+              "end": 40,
+              "expanded_url": "https://x.com/kuololxhssc/status/2087590392002957610/photo/1",
+              "media_key": "3_2087590389981274112",
+              "start": 17,
+              "url": "https://t.co/MddKs0R45P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087807573462278161",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2087590389981274112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087590392002957610",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuololxhssc: https://t.co/MddKs0R45P"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2087807573462278161",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 678,
+          "like_count": 2577,
+          "listed_count": 3,
+          "media_count": 2506,
+          "tweet_count": 6744
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-30T15:41:30.000Z",
+        "description": "不约不卖不线下，聊骚请滚么么",
+        "id": "1862884625833660416",
+        "is_identity_verified": false,
+        "location": "我喜欢你˃ ᵕ ˂",
+        "most_recent_tweet_id": "2087764869890392213",
+        "name": "薄荷小薯",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1862884625833660416/1785932540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084978091148115968/R1F3Pbpu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2909,
+          "following_count": 40,
+          "like_count": 513,
+          "listed_count": 4,
+          "media_count": 27,
+          "tweet_count": 261
+        },
+        "url": "",
+        "username": "kuololxhssc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

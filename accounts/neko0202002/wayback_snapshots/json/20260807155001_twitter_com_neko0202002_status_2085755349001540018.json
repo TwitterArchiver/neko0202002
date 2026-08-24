@@ -1,0 +1,556 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085727930743980032"
+      ],
+      "media_source_tweet_id": [
+        "2085727934489448530"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "1174432578503204864",
+          "name": "PC gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1174432578503204864",
+          "name": "PC gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541881395164786688",
+          "name": "Adventure games"
+        }
+      }
+    ],
+    "conversation_id": "2085755349001540018",
+    "created_at": "2026-08-07T15:50:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T16:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085755349001540018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "19643522",
+          "start": 3,
+          "username": "gamespark"
+        }
+      ],
+      "urls": [
+        {
+          "description": "発売から月日を経てもなお売れていて、全年齢版もSteamで配信されている人気作です。",
+          "display_url": "gamespark.jp/article/2026/0…",
+          "end": 102,
+          "expanded_url": "https://www.gamespark.jp/article/2026/08/07/170383.html?utm_source=twitter&utm_medium=social&utm_content=tweet",
+          "images": [
+            {
+              "height": 337,
+              "url": "https://pbs.twimg.com/news_img/2085727940701310976/LMLkJf21?format=jpg&name=orig",
+              "width": 600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2085727940701310976/LMLkJf21?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 79,
+          "status": 200,
+          "title": "ゆずソフトの人気恋愛ADV『サノバウィッチ』全世界売上50万本突破。2015年2月リリースのPC向け美少女アドベンチャーゲーム | Game*Spark - 国内・海外ゲーム情報サイト",
+          "unwound_url": "https://www.gamespark.jp/article/2026/08/07/170383.html?utm_source=twitter&utm_medium=social&utm_content=tweet",
+          "url": "https://t.co/LFhuBnuOx0"
+        },
+        {
+          "display_url": "pic.x.com/uutrvP8NVL",
+          "end": 126,
+          "expanded_url": "https://x.com/gamespark/status/2085727934489448530/photo/1",
+          "media_key": "3_2085727930743980032",
+          "start": 103,
+          "url": "https://t.co/uutrvP8NVL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085755349001540018",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 108
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085727934489448530",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gamespark: ゆずソフトの人気恋愛ADV『サノバウィッチ』全世界売上50万本突破。2015年2月リリースのPC向け美少女アドベンチャーゲーム\nhttps://t.co/LFhuBnuOx0 https://t.co/uutrvP8NVL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2085727930743980032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPH-gJobAAAVd-R.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085727930743980032"
+          ]
+        },
+        "author_id": "19643522",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1174432578503204864",
+              "name": "PC gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1174432578503204864",
+              "name": "PC gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541881395164786688",
+              "name": "Adventure games"
+            }
+          }
+        ],
+        "conversation_id": "2085727934489448530",
+        "created_at": "2026-08-07T14:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085727934489448530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "発売から月日を経てもなお売れていて、全年齢版もSteamで配信されている人気作です。",
+              "display_url": "gamespark.jp/article/2026/0…",
+              "end": 87,
+              "expanded_url": "https://www.gamespark.jp/article/2026/08/07/170383.html?utm_source=twitter&utm_medium=social&utm_content=tweet",
+              "images": [
+                {
+                  "height": 337,
+                  "url": "https://pbs.twimg.com/news_img/2085727940701310976/LMLkJf21?format=jpg&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2085727940701310976/LMLkJf21?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 64,
+              "status": 200,
+              "title": "ゆずソフトの人気恋愛ADV『サノバウィッチ』全世界売上50万本突破。2015年2月リリースのPC向け美少女アドベンチャーゲーム | Game*Spark - 国内・海外ゲーム情報サイト",
+              "unwound_url": "https://www.gamespark.jp/article/2026/08/07/170383.html?utm_source=twitter&utm_medium=social&utm_content=tweet",
+              "url": "https://t.co/LFhuBnuOx0"
+            },
+            {
+              "display_url": "pic.x.com/uutrvP8NVL",
+              "end": 111,
+              "expanded_url": "https://x.com/gamespark/status/2085727934489448530/photo/1",
+              "media_key": "3_2085727930743980032",
+              "start": 88,
+              "url": "https://t.co/uutrvP8NVL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085727934489448530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 29031,
+          "like_count": 349,
+          "quote_count": 7,
+          "reply_count": 1,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "ゆずソフトの人気恋愛ADV『サノバウィッチ』全世界売上50万本突破。2015年2月リリースのPC向け美少女アドベンチャーゲーム\nhttps://t.co/LFhuBnuOx0 https://t.co/uutrvP8NVL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085727930743980032"
+          ],
+          "media_source_tweet_id": [
+            "2085727934489448530"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1174432578503204864",
+              "name": "PC gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1174432578503204864",
+              "name": "PC gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541881395164786688",
+              "name": "Adventure games"
+            }
+          }
+        ],
+        "conversation_id": "2085755349001540018",
+        "created_at": "2026-08-07T15:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085755349001540018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "19643522",
+              "start": 3,
+              "username": "gamespark"
+            }
+          ],
+          "urls": [
+            {
+              "description": "発売から月日を経てもなお売れていて、全年齢版もSteamで配信されている人気作です。",
+              "display_url": "gamespark.jp/article/2026/0…",
+              "end": 102,
+              "expanded_url": "https://www.gamespark.jp/article/2026/08/07/170383.html?utm_source=twitter&utm_medium=social&utm_content=tweet",
+              "images": [
+                {
+                  "height": 337,
+                  "url": "https://pbs.twimg.com/news_img/2085727940701310976/LMLkJf21?format=jpg&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2085727940701310976/LMLkJf21?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 79,
+              "status": 200,
+              "title": "ゆずソフトの人気恋愛ADV『サノバウィッチ』全世界売上50万本突破。2015年2月リリースのPC向け美少女アドベンチャーゲーム | Game*Spark - 国内・海外ゲーム情報サイト",
+              "unwound_url": "https://www.gamespark.jp/article/2026/08/07/170383.html?utm_source=twitter&utm_medium=social&utm_content=tweet",
+              "url": "https://t.co/LFhuBnuOx0"
+            },
+            {
+              "display_url": "pic.x.com/uutrvP8NVL",
+              "end": 126,
+              "expanded_url": "https://x.com/gamespark/status/2085727934489448530/photo/1",
+              "media_key": "3_2085727930743980032",
+              "start": 103,
+              "url": "https://t.co/uutrvP8NVL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085755349001540018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 108
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085727934489448530",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gamespark: ゆずソフトの人気恋愛ADV『サノバウィッチ』全世界売上50万本突破。2015年2月リリースのPC向け美少女アドベンチャーゲーム\nhttps://t.co/LFhuBnuOx0 https://t.co/uutrvP8NVL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 670,
+          "like_count": 2536,
+          "listed_count": 3,
+          "media_count": 2474,
+          "tweet_count": 6621
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2009-01-28T09:37:14.000Z",
+        "description": "ハードコアゲーマーのための情報サイト「Game*Spark」公式アカウント。最新ゲームのニュースをお届け！\n\nゲーム動画＆スクショ供養部屋：https://t.co/5ujl9yzJEw…",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitter.com/i/communities/",
+                "end": 93,
+                "expanded_url": "https://twitter.com/i/communities/",
+                "start": 70,
+                "url": "https://t.co/5ujl9yzJEw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gamespark.jp",
+                "end": 23,
+                "expanded_url": "https://www.gamespark.jp/",
+                "start": 0,
+                "url": "https://t.co/i6vJCl8oWn"
+              }
+            ]
+          }
+        },
+        "id": "19643522",
+        "location": "日本",
+        "name": "⚡Game*Spark⚡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077921236055928832/YPQnvWoP_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241084,
+          "following_count": 11957,
+          "like_count": 10653,
+          "listed_count": 3804,
+          "media_count": 71730,
+          "tweet_count": 170961
+        },
+        "url": "https://t.co/i6vJCl8oWn",
+        "username": "gamespark",
+        "verified": true
+      }
+    ]
+  }
+}

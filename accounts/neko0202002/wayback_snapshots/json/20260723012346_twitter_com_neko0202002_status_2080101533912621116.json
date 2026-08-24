@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079960828263227392"
+      ],
+      "media_source_tweet_id": [
+        "2079960848790102128"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2080101533912621116",
+    "created_at": "2026-07-23T01:23:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T02:23:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080101533912621116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2074053435083657216",
+          "start": 3,
+          "username": "ShamsAfridiPRM"
+        },
+        {
+          "end": 33,
+          "id": "2063130242898866176",
+          "start": 20,
+          "username": "aaradhyaa_21"
+        },
+        {
+          "end": 39,
+          "id": "1720665183188922368",
+          "start": 34,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n4bB7MOt6X",
+          "end": 63,
+          "expanded_url": "https://x.com/ShamsAfridiPRM/status/2079960848790102128/photo/1",
+          "media_key": "3_2079960828263227392",
+          "start": 40,
+          "url": "https://t.co/n4bB7MOt6X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080101533912621116",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079960848790102128",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShamsAfridiPRM: @aaradhyaa_21 @grok https://t.co/n4bB7MOt6X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 966,
+        "media_key": "3_2079960828263227392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN2BWmtbYAAt7OJ.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079960828263227392"
+          ]
+        },
+        "author_id": "2074053435083657216",
+        "conversation_id": "2079802040415600917",
+        "created_at": "2026-07-22T16:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079960848790102128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063130242898866176",
+              "start": 0,
+              "username": "aaradhyaa_21"
+            },
+            {
+              "end": 19,
+              "id": "1720665183188922368",
+              "start": 14,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n4bB7MOt6X",
+              "end": 43,
+              "expanded_url": "https://x.com/ShamsAfridiPRM/status/2079960848790102128/photo/1",
+              "media_key": "3_2079960828263227392",
+              "start": 20,
+              "url": "https://t.co/n4bB7MOt6X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079960848790102128",
+        "in_reply_to_user_id": "2063130242898866176",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 44597,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079802040415600917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaradhyaa_21 @grok https://t.co/n4bB7MOt6X"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079960828263227392"
+          ],
+          "media_source_tweet_id": [
+            "2079960848790102128"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2080101533912621116",
+        "created_at": "2026-07-23T01:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T02:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080101533912621116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2074053435083657216",
+              "start": 3,
+              "username": "ShamsAfridiPRM"
+            },
+            {
+              "end": 33,
+              "id": "2063130242898866176",
+              "start": 20,
+              "username": "aaradhyaa_21"
+            },
+            {
+              "end": 39,
+              "id": "1720665183188922368",
+              "start": 34,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n4bB7MOt6X",
+              "end": 63,
+              "expanded_url": "https://x.com/ShamsAfridiPRM/status/2079960848790102128/photo/1",
+              "media_key": "3_2079960828263227392",
+              "start": 40,
+              "url": "https://t.co/n4bB7MOt6X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080101533912621116",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079960848790102128",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShamsAfridiPRM: @aaradhyaa_21 @grok https://t.co/n4bB7MOt6X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 662,
+          "like_count": 2493,
+          "listed_count": 3,
+          "media_count": 2445,
+          "tweet_count": 6481
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-06T08:51:58.000Z",
+        "description": "I'm an artist",
+        "id": "2074053435083657216",
+        "name": "Shamii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078117576778129410/BcusgrRs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 848,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 833,
+          "tweet_count": 971
+        },
+        "url": "",
+        "username": "ShamsAfridiPRM",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-06T05:27:23.000Z",
+        "description": "Aesthetically pleasing everything! ✨",
+        "id": "2063130242898866176",
+        "name": "Aaradhya☘️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073389064242565120/KSpxn25__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1799,
+          "following_count": 633,
+          "like_count": 1782,
+          "listed_count": 6,
+          "media_count": 318,
+          "tweet_count": 1636
+        },
+        "url": "",
+        "username": "aaradhyaa_21",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8873029,
+          "following_count": 5,
+          "like_count": 121,
+          "listed_count": 7198,
+          "media_count": 9177972,
+          "tweet_count": 132044625
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

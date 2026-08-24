@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087550928442601472"
+      ],
+      "media_source_tweet_id": [
+        "2087550936453627931"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2087612268779614230",
+    "created_at": "2026-08-12T18:48:45.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T19:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087612268779614230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "114160345",
+          "start": 3,
+          "username": "hal05215588"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ByUp6JzTMe",
+          "end": 54,
+          "expanded_url": "https://x.com/hal05215588/status/2087550936453627931/photo/1",
+          "media_key": "3_2087550928442601472",
+          "start": 31,
+          "url": "https://t.co/ByUp6JzTMe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087612268779614230",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087550928442601472"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087550936453627931",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hal05215588: 今日のコネクトのお時間です https://t.co/ByUp6JzTMe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2087550928442601472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPh4glRbsAAShKo.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087550928442601472"
+          ]
+        },
+        "author_id": "114160345",
+        "conversation_id": "2087550936453627931",
+        "created_at": "2026-08-12T14:45:02.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087550936453627931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ByUp6JzTMe",
+              "end": 37,
+              "expanded_url": "https://x.com/hal05215588/status/2087550936453627931/photo/1",
+              "media_key": "3_2087550928442601472",
+              "start": 14,
+              "url": "https://t.co/ByUp6JzTMe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087550936453627931",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087550928442601472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2374,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今日のコネクトのお時間です https://t.co/ByUp6JzTMe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087550928442601472"
+          ],
+          "media_source_tweet_id": [
+            "2087550936453627931"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2087612268779614230",
+        "created_at": "2026-08-12T18:48:45.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T19:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087612268779614230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "114160345",
+              "start": 3,
+              "username": "hal05215588"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ByUp6JzTMe",
+              "end": 54,
+              "expanded_url": "https://x.com/hal05215588/status/2087550936453627931/photo/1",
+              "media_key": "3_2087550928442601472",
+              "start": 31,
+              "url": "https://t.co/ByUp6JzTMe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087612268779614230",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087550928442601472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087550936453627931",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hal05215588: 今日のコネクトのお時間です https://t.co/ByUp6JzTMe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2087612268779614230",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 678,
+          "like_count": 2567,
+          "listed_count": 3,
+          "media_count": 2500,
+          "tweet_count": 6725
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-02-14T10:31:00.000Z",
+        "description": "まどマギと艦これとパチンコパチスロが趣味の社会人(高卒2012/4〜)。 北海道苫小牧市でマギレコの痛車もどきの3代目ホンダインサイトに乗ってます。ニコニコ生放送でパチンコとパチスロの配信も実施中。2025/3/26からまどドラスタート。艦これの嫁：ヘッダーの8人。まどマギシリーズの嫁：環いろは。天安門事件",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.livedoor.jp/yoshi05215588/",
+                "end": 23,
+                "expanded_url": "http://blog.livedoor.jp/yoshi05215588/",
+                "start": 0,
+                "url": "https://t.co/d1t7DOyQQ9"
+              }
+            ]
+          }
+        },
+        "id": "114160345",
+        "is_identity_verified": false,
+        "location": "北海道 道央",
+        "most_recent_tweet_id": "2087584403719680427",
+        "name": "HAL-夜勤閣下-@Lマギレコ実機持ち&総プレイ数100万ゲーム達成",
+        "pinned_tweet_id": "2044048020803858442",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/114160345/1680277462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1316498417992957952/BgcyqCR7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1971,
+          "following_count": 2338,
+          "like_count": 1240,
+          "listed_count": 16,
+          "media_count": 27391,
+          "tweet_count": 59689
+        },
+        "url": "https://t.co/d1t7DOyQQ9",
+        "username": "hal05215588",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

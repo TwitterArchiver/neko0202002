@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2089817784532283392"
+      ],
+      "media_source_tweet_id": [
+        "2089817803247288520"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781972125179518977",
+          "name": "Auto Manufacturer - Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026377943",
+          "name": "Subaru"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026377943",
+          "name": "Subaru"
+        }
+      }
+    ],
+    "conversation_id": "2090352244814447010",
+    "created_at": "2026-08-20T08:16:26.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T09:16:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090352244814447010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1844077527863541760",
+          "start": 3,
+          "username": "O_Dougl4s"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GwOrEEg1ze",
+          "end": 67,
+          "expanded_url": "https://x.com/O_Dougl4s/status/2089817803247288520/video/1",
+          "media_key": "13_2089817784532283392",
+          "start": 44,
+          "url": "https://t.co/GwOrEEg1ze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090352244814447010",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "13_2089817784532283392"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 881
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089817803247288520",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @O_Dougl4s: Subaru em mais um dia normal https://t.co/GwOrEEg1ze"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9543,
+        "height": 706,
+        "media_key": "13_2089817784532283392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089817784532283392/img/Wqi-qqGNwAB24ltE.jpg",
+        "public_metrics": {
+          "view_count": 86702
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089817784532283392/vid/avc1/488x270/0AcgRvQxOs4q0TQT.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089817784532283392/vid/avc1/652x360/P8EdsseJ-M9PPwZ7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089817784532283392/vid/avc1/1280x706/lxg9evW6NC1e9enI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089817784532283392/pl/hAcxABroiFXcgA1n.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089817784532283392"
+          ],
+          "media_source_tweet_id": [
+            "2089817803247288520"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026377943",
+              "name": "Subaru"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026377943",
+              "name": "Subaru"
+            }
+          }
+        ],
+        "conversation_id": "2090352244814447010",
+        "created_at": "2026-08-20T08:16:26.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T09:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090352244814447010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1844077527863541760",
+              "start": 3,
+              "username": "O_Dougl4s"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GwOrEEg1ze",
+              "end": 67,
+              "expanded_url": "https://x.com/O_Dougl4s/status/2089817803247288520/video/1",
+              "media_key": "13_2089817784532283392",
+              "start": 44,
+              "url": "https://t.co/GwOrEEg1ze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090352244814447010",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2089817784532283392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 881
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089817803247288520",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @O_Dougl4s: Subaru em mais um dia normal https://t.co/GwOrEEg1ze"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089817784532283392"
+          ]
+        },
+        "author_id": "1844077527863541760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026377943",
+              "name": "Subaru"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026377943",
+              "name": "Subaru"
+            }
+          }
+        ],
+        "conversation_id": "2089817803247288520",
+        "created_at": "2026-08-18T20:52:45.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T21:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089817803247288520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GwOrEEg1ze",
+              "end": 52,
+              "expanded_url": "https://x.com/O_Dougl4s/status/2089817803247288520/video/1",
+              "media_key": "13_2089817784532283392",
+              "start": 29,
+              "url": "https://t.co/GwOrEEg1ze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089817803247288520",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2089817784532283392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1569,
+          "impression_count": 172640,
+          "like_count": 9828,
+          "quote_count": 23,
+          "reply_count": 15,
+          "retweet_count": 881
+        },
+        "reply_settings": "everyone",
+        "text": "Subaru em mais um dia normal https://t.co/GwOrEEg1ze"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2090352244814447010",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 626,
+          "like_count": 2616,
+          "listed_count": 3,
+          "media_count": 2541,
+          "tweet_count": 6924
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-09T18:08:50.000Z",
+        "description": "Conta fã de animes 🎌\n👊 Página dedicada a animes e mangás ✨\n📊 Conteúdo diário para otakus\n🎨 Criação de banners para X, YouTube e outras plataformas",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/o_dougl4s?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/o_dougl4s?igsh=dmRtc2Vlb29kNTBs",
+                "start": 0,
+                "url": "https://t.co/jlJcvMpexK"
+              }
+            ]
+          }
+        },
+        "id": "1844077527863541760",
+        "is_identity_verified": false,
+        "location": "TEMPEST",
+        "most_recent_tweet_id": "2090243053264978081",
+        "name": "𝙊𝘿𝙤𝙪𝙜𝙡𝙖𝙨ヅ🎨🖌️",
+        "pinned_tweet_id": "1917331409145831772",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1844077527863541760/1769745835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006607752563511297/B5x341UV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15670,
+          "following_count": 5207,
+          "like_count": 49930,
+          "listed_count": 22,
+          "media_count": 8745,
+          "tweet_count": 20917
+        },
+        "url": "https://t.co/jlJcvMpexK",
+        "username": "O_Dougl4s",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

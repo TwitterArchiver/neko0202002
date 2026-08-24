@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086831134563033088"
+      ],
+      "media_source_tweet_id": [
+        "2086831379208376456"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2086844448479297642",
+    "created_at": "2026-08-10T15:57:42.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T16:57:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086844448479297642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1719223435",
+          "start": 3,
+          "username": "qaltted"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UgVg7LYanx",
+          "end": 36,
+          "expanded_url": "https://x.com/qaltted/status/2086831379208376456/photo/1",
+          "media_key": "3_2086831134563033088",
+          "start": 13,
+          "url": "https://t.co/UgVg7LYanx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086844448479297642",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2086831134563033088"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 145
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086831379208376456",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qaltted: https://t.co/UgVg7LYanx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1445,
+        "media_key": "3_2086831134563033088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXp3EHa4AACjb7.jpg",
+        "width": 1022
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086831134563033088"
+          ]
+        },
+        "author_id": "1719223435",
+        "conversation_id": "2086831379208376456",
+        "created_at": "2026-08-10T15:05:46.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086831379208376456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UgVg7LYanx",
+              "end": 23,
+              "expanded_url": "https://x.com/qaltted/status/2086831379208376456/photo/1",
+              "media_key": "3_2086831134563033088",
+              "start": 0,
+              "url": "https://t.co/UgVg7LYanx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086831379208376456",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086831134563033088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 241,
+          "impression_count": 18621,
+          "like_count": 1736,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 145
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UgVg7LYanx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086831134563033088"
+          ],
+          "media_source_tweet_id": [
+            "2086831379208376456"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2086844448479297642",
+        "created_at": "2026-08-10T15:57:42.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086844448479297642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1719223435",
+              "start": 3,
+              "username": "qaltted"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UgVg7LYanx",
+              "end": 36,
+              "expanded_url": "https://x.com/qaltted/status/2086831379208376456/photo/1",
+              "media_key": "3_2086831134563033088",
+              "start": 13,
+              "url": "https://t.co/UgVg7LYanx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086844448479297642",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086831134563033088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 145
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086831379208376456",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qaltted: https://t.co/UgVg7LYanx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2086844448479297642",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 672,
+          "like_count": 2546,
+          "listed_count": 3,
+          "media_count": 2488,
+          "tweet_count": 6679
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-09-01T14:22:06.000Z",
+        "description": "エロ漫画描きです。サークルからももたると FANBOX:https://t.co/nIShektitr Fantia:https://t.co/657eblJqFq DLsite:https://t.co/bUBv9lnxa7 FANZA:https://t.co/AtdNo6jeUd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/pzKCL",
+                "end": 51,
+                "expanded_url": "https://x.gd/pzKCL",
+                "start": 28,
+                "url": "https://t.co/nIShektitr"
+              },
+              {
+                "display_url": "x.gd/voMLU",
+                "end": 82,
+                "expanded_url": "https://x.gd/voMLU",
+                "start": 59,
+                "url": "https://t.co/657eblJqFq"
+              },
+              {
+                "display_url": "x.gd/iMnxA",
+                "end": 113,
+                "expanded_url": "https://x.gd/iMnxA",
+                "start": 90,
+                "url": "https://t.co/bUBv9lnxa7"
+              },
+              {
+                "display_url": "x.gd/jYix4",
+                "end": 143,
+                "expanded_url": "https://x.gd/jYix4",
+                "start": 120,
+                "url": "https://t.co/AtdNo6jeUd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/member.php?id=274961",
+                "start": 0,
+                "url": "https://t.co/2uRBSTuJAV"
+              }
+            ]
+          }
+        },
+        "id": "1719223435",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086831379208376456",
+        "name": "きんだつ🔞@日曜東ア39b",
+        "pinned_tweet_id": "2006667460595036432",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1719223435/1659546890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655471511384514560/njY4wvYt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504678,
+          "following_count": 1223,
+          "like_count": 23600,
+          "listed_count": 3359,
+          "media_count": 825,
+          "tweet_count": 18921
+        },
+        "url": "https://t.co/2uRBSTuJAV",
+        "username": "qaltted",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

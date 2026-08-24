@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086583665740402688",
+        "3_2086583665732009984"
+      ],
+      "media_source_tweet_id": [
+        "2086583673432764868",
+        "2086583673432764868"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2087706801601224942",
+    "created_at": "2026-08-13T01:04:23.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T02:04:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087706801601224942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1912411999243288577",
+          "start": 3,
+          "username": "bebemahoshojo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TFvbIUu9Dm",
+          "end": 42,
+          "expanded_url": "https://x.com/bebemahoshojo/status/2086583673432764868/photo/1",
+          "media_key": "3_2086583665740402688",
+          "start": 19,
+          "url": "https://t.co/TFvbIUu9Dm"
+        },
+        {
+          "display_url": "pic.x.com/TFvbIUu9Dm",
+          "end": 42,
+          "expanded_url": "https://x.com/bebemahoshojo/status/2086583673432764868/photo/1",
+          "media_key": "3_2086583665732009984",
+          "start": 19,
+          "url": "https://t.co/TFvbIUu9Dm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087706801601224942",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2086583665740402688"
+      },
+      {
+        "media_key": "3_2086583665732009984"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086583673432764868",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bebemahoshojo: https://t.co/TFvbIUu9Dm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2086583665740402688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPUIye6W0AAAf5j.jpg",
+        "width": 1920
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2086583665732009984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPUIye4WwAAJjI_.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086583665740402688",
+            "3_2086583665732009984"
+          ]
+        },
+        "author_id": "1912411999243288577",
+        "conversation_id": "2086583673432764868",
+        "created_at": "2026-08-09T22:41:29.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T23:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086583673432764868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TFvbIUu9Dm",
+              "end": 23,
+              "expanded_url": "https://x.com/bebemahoshojo/status/2086583673432764868/photo/1",
+              "media_key": "3_2086583665740402688",
+              "start": 0,
+              "url": "https://t.co/TFvbIUu9Dm"
+            },
+            {
+              "display_url": "pic.x.com/TFvbIUu9Dm",
+              "end": 23,
+              "expanded_url": "https://x.com/bebemahoshojo/status/2086583673432764868/photo/1",
+              "media_key": "3_2086583665732009984",
+              "start": 0,
+              "url": "https://t.co/TFvbIUu9Dm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086583673432764868",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086583665740402688"
+          },
+          {
+            "media_key": "3_2086583665732009984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 347,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TFvbIUu9Dm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086583665740402688",
+            "3_2086583665732009984"
+          ],
+          "media_source_tweet_id": [
+            "2086583673432764868",
+            "2086583673432764868"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2087706801601224942",
+        "created_at": "2026-08-13T01:04:23.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T02:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087706801601224942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1912411999243288577",
+              "start": 3,
+              "username": "bebemahoshojo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TFvbIUu9Dm",
+              "end": 42,
+              "expanded_url": "https://x.com/bebemahoshojo/status/2086583673432764868/photo/1",
+              "media_key": "3_2086583665740402688",
+              "start": 19,
+              "url": "https://t.co/TFvbIUu9Dm"
+            },
+            {
+              "display_url": "pic.x.com/TFvbIUu9Dm",
+              "end": 42,
+              "expanded_url": "https://x.com/bebemahoshojo/status/2086583673432764868/photo/1",
+              "media_key": "3_2086583665732009984",
+              "start": 19,
+              "url": "https://t.co/TFvbIUu9Dm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087706801601224942",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086583665740402688"
+          },
+          {
+            "media_key": "3_2086583665732009984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086583673432764868",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bebemahoshojo: https://t.co/TFvbIUu9Dm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2087706801601224942",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 678,
+          "like_count": 2569,
+          "listed_count": 3,
+          "media_count": 2501,
+          "tweet_count": 6729
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-16T07:46:24.000Z",
+        "description": "Me besaste para olvidar y me olvidaste allí, junto al mar. Sumergiste mis ilusiones; mis latidos son, desde entonces, olas del mar.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "markitten.straw.page",
+                "end": 23,
+                "expanded_url": "https://markitten.straw.page/",
+                "start": 0,
+                "url": "https://t.co/MRrtTVlehv"
+              }
+            ]
+          }
+        },
+        "id": "1912411999243288577",
+        "is_identity_verified": false,
+        "location": "Español/English/Português",
+        "most_recent_tweet_id": "2087052498045485246",
+        "name": "marquitomoe",
+        "pinned_tweet_id": "2084461936738029985",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1912411999243288577/1785644376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084126855460790273/SOxQ0YUC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1459,
+          "following_count": 741,
+          "like_count": 33758,
+          "listed_count": 3,
+          "media_count": 822,
+          "tweet_count": 1559
+        },
+        "url": "https://t.co/MRrtTVlehv",
+        "username": "bebemahoshojo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

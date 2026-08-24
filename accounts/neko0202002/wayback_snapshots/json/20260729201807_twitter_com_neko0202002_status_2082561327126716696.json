@@ -1,0 +1,502 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Behavior around Fashion",
+          "id": "1006277139233103872",
+          "name": "Behavior around fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2082561327126716696",
+    "created_at": "2026-07-29T20:18:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T21:18:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082561327126716696"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 102,
+          "start": 97,
+          "tag": "ハミクリ"
+        },
+        {
+          "end": 109,
+          "start": 103,
+          "tag": "まどそふと"
+        },
+        {
+          "end": 117,
+          "start": 110,
+          "tag": "コスパティオ"
+        },
+        {
+          "end": 126,
+          "start": 118,
+          "tag": "cosplay"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "983261585094291456",
+          "start": 3,
+          "username": "cos_patio"
+        }
+      ],
+      "urls": [
+        {
+          "description": "公式コスチューム、コスプレ衣装ならCOSPATIO(コスパティオ)。熟練の経験、知識、技術で再現度、着心地共に最高品質をご提供。アニメ、ゲーム、漫画のキャラクターコスチューム、ウィッグ、サポートアイテムなど種類豊富に取り揃え、コスプレライフを完全サポート。",
+          "display_url": "cospa.com/cospatio/iteml…",
+          "end": 95,
+          "expanded_url": "https://www.cospa.com/cospatio/itemlist/id/02156/mode/series",
+          "start": 72,
+          "status": 200,
+          "title": "ハミダシクリエイティブ | 公式コスプレ衣装製作販売コスパティオ｜COSPATIO | COSPA,inc.",
+          "unwound_url": "https://www.cospa.com/cospatio/itemlist/id/02156/mode/series",
+          "url": "https://t.co/pWwlqVQ8sY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082561327126716696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082066036233257050",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cos_patio: 【発売中】\n『ハミダシクリエイティブ』\n千玉学園女子制服\n・ベストセット\n・スカート\n👇詳細・ご購入はこちら！👇\nhttps://t.co/pWwlqVQ8sY\n\n#ハミクリ #まどそふと #コスパティオ\n#cosplay https://t.co…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2082061295655022593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOT3t5gbcAE0Xs8.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Behavior around Fashion",
+              "id": "1006277139233103872",
+              "name": "Behavior around fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2082561327126716696",
+        "created_at": "2026-07-29T20:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T21:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082561327126716696"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 102,
+              "start": 97,
+              "tag": "ハミクリ"
+            },
+            {
+              "end": 109,
+              "start": 103,
+              "tag": "まどそふと"
+            },
+            {
+              "end": 117,
+              "start": 110,
+              "tag": "コスパティオ"
+            },
+            {
+              "end": 126,
+              "start": 118,
+              "tag": "cosplay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "983261585094291456",
+              "start": 3,
+              "username": "cos_patio"
+            }
+          ],
+          "urls": [
+            {
+              "description": "公式コスチューム、コスプレ衣装ならCOSPATIO(コスパティオ)。熟練の経験、知識、技術で再現度、着心地共に最高品質をご提供。アニメ、ゲーム、漫画のキャラクターコスチューム、ウィッグ、サポートアイテムなど種類豊富に取り揃え、コスプレライフを完全サポート。",
+              "display_url": "cospa.com/cospatio/iteml…",
+              "end": 95,
+              "expanded_url": "https://www.cospa.com/cospatio/itemlist/id/02156/mode/series",
+              "start": 72,
+              "status": 200,
+              "title": "ハミダシクリエイティブ | 公式コスプレ衣装製作販売コスパティオ｜COSPATIO | COSPA,inc.",
+              "unwound_url": "https://www.cospa.com/cospatio/itemlist/id/02156/mode/series",
+              "url": "https://t.co/pWwlqVQ8sY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082561327126716696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082066036233257050",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cos_patio: 【発売中】\n『ハミダシクリエイティブ』\n千玉学園女子制服\n・ベストセット\n・スカート\n👇詳細・ご購入はこちら！👇\nhttps://t.co/pWwlqVQ8sY\n\n#ハミクリ #まどそふと #コスパティオ\n#cosplay https://t.co…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082061295655022593"
+          ]
+        },
+        "author_id": "983261585094291456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Behavior around Fashion",
+              "id": "1006277139233103872",
+              "name": "Behavior around fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2082066036233257050",
+        "created_at": "2026-07-28T11:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082066036233257050"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 82,
+              "tag": "ハミクリ"
+            },
+            {
+              "end": 94,
+              "start": 88,
+              "tag": "まどそふと"
+            },
+            {
+              "end": 102,
+              "start": 95,
+              "tag": "コスパティオ"
+            },
+            {
+              "end": 111,
+              "start": 103,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "description": "公式コスチューム、コスプレ衣装ならCOSPATIO(コスパティオ)。熟練の経験、知識、技術で再現度、着心地共に最高品質をご提供。アニメ、ゲーム、漫画のキャラクターコスチューム、ウィッグ、サポートアイテムなど種類豊富に取り揃え、コスプレライフを完全サポート。",
+              "display_url": "cospa.com/cospatio/iteml…",
+              "end": 80,
+              "expanded_url": "https://www.cospa.com/cospatio/itemlist/id/02156/mode/series",
+              "start": 57,
+              "status": 200,
+              "title": "ハミダシクリエイティブ | 公式コスプレ衣装製作販売コスパティオ｜COSPATIO | COSPA,inc.",
+              "unwound_url": "https://www.cospa.com/cospatio/itemlist/id/02156/mode/series",
+              "url": "https://t.co/pWwlqVQ8sY"
+            },
+            {
+              "display_url": "pic.x.com/nbqElQV1sc",
+              "end": 135,
+              "expanded_url": "https://x.com/cos_patio/status/2082066036233257050/photo/1",
+              "media_key": "3_2082061295655022593",
+              "start": 112,
+              "url": "https://t.co/nbqElQV1sc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082066036233257050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 21169,
+          "like_count": 337,
+          "quote_count": 22,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "【発売中】\n『ハミダシクリエイティブ』\n千玉学園女子制服\n・ベストセット\n・スカート\n👇詳細・ご購入はこちら！👇\nhttps://t.co/pWwlqVQ8sY\n\n#ハミクリ #まどそふと #コスパティオ\n#cosplay https://t.co/nbqElQV1sc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 668,
+          "like_count": 2504,
+          "listed_count": 3,
+          "media_count": 2451,
+          "tweet_count": 6530
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-09T08:33:24.000Z",
+        "description": "株式会社コスパが展開する公式キャラ衣装・コスプレサポート用品ブランド『COSPATIO（#コスパティオ）』の公式アカウントです。\n商品情報のほかコスプレイベントの情報もお知らせ！\nNEXT➡ #パティオ_グリーンランド\nお問い合わせ➡ https://t.co/9CudhGYDCr",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 44,
+                "tag": "コスパティオ"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "tag": "パティオ_グリーンランド"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cospa.com/inquiry",
+                "end": 141,
+                "expanded_url": "https://www.cospa.com/inquiry",
+                "start": 118,
+                "url": "https://t.co/9CudhGYDCr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cospa.com/cospatio/",
+                "end": 23,
+                "expanded_url": "https://www.cospa.com/cospatio/",
+                "start": 0,
+                "url": "https://t.co/AutgPb6ivB"
+              }
+            ]
+          }
+        },
+        "id": "983261585094291456",
+        "location": "TOKYO-JAPAN",
+        "name": "COSPATIO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/986964680940777473/n1zaxjan_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5716,
+          "following_count": 418,
+          "like_count": 2777,
+          "listed_count": 73,
+          "media_count": 1738,
+          "tweet_count": 5136
+        },
+        "url": "https://t.co/AutgPb6ivB",
+        "username": "cos_patio",
+        "verified": false
+      }
+    ]
+  }
+}

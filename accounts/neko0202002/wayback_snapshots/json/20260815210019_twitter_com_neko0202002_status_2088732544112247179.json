@@ -1,0 +1,461 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2088732544112247179",
+    "created_at": "2026-08-15T21:00:19.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T22:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088732544112247179"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 60,
+          "start": 53,
+          "tag": "まどかマギカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1090569366985297920",
+          "start": 3,
+          "username": "COMICFUZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088732544112247179",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 292
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088430601841885187",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @COMICFUZ: ⋆⁺⊹✧┈┈┈┈⁺🎀⁺┈┈┈┈✧⊹⁺ ⋆\n　　❓誰の導きで扉を開く❓\n　　　　#まどかマギカ\n　　    オススメ作品診断！\n⋆⁺⊹✧┈┈┈┈⁺🎀⁺┈┈┈┈✧⊹⁺ ⋆\n\n質問に答えるだけ✨\nあなたにベストなスピンオフ作品が分かる\n\n🪞診断スタート🔗…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2088430598410964992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPuYkHRXkAAM6vi.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2088732544112247179",
+        "created_at": "2026-08-15T21:00:19.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T22:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088732544112247179"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 53,
+              "tag": "まどかマギカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1090569366985297920",
+              "start": 3,
+              "username": "COMICFUZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088732544112247179",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 292
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088430601841885187",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @COMICFUZ: ⋆⁺⊹✧┈┈┈┈⁺🎀⁺┈┈┈┈✧⊹⁺ ⋆\n　　❓誰の導きで扉を開く❓\n　　　　#まどかマギカ\n　　    オススメ作品診断！\n⋆⁺⊹✧┈┈┈┈⁺🎀⁺┈┈┈┈✧⊹⁺ ⋆\n\n質問に答えるだけ✨\nあなたにベストなスピンオフ作品が分かる\n\n🪞診断スタート🔗…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088430598410964992"
+          ]
+        },
+        "author_id": "1090569366985297920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2088430601841885187",
+        "created_at": "2026-08-15T01:00:31.000Z",
+        "display_text_range": [
+          0,
+          159
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T02:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088430601841885187"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 39,
+              "tag": "まどかマギカ"
+            },
+            {
+              "end": 159,
+              "start": 150,
+              "tag": "COMICFUZ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "芳文社公式まんがサービス！COMIC FUZオリジナルの作品多数掲載！さらに「ゆるキャン△」「まちカドまぞく」などの人気作のほか「まんがタイムきらら」「週刊漫画TIMES」などの作品も毎日無料で読める！アニメ化作品も多数掲載！",
+              "display_url": "comic-fuz.com/webview/puella…",
+              "end": 148,
+              "expanded_url": "https://comic-fuz.com/webview/puella_magi_madoka_magica",
+              "start": 125,
+              "status": 200,
+              "title": "「まどか☆マギカ」おすすめ作品診断！",
+              "unwound_url": "https://comic-fuz.com/webview/puella_magi_madoka_magica",
+              "url": "https://t.co/SemijY4XE3"
+            },
+            {
+              "display_url": "pic.x.com/AEVaiOXdkV",
+              "end": 183,
+              "expanded_url": "https://x.com/COMICFUZ/status/2088430601841885187/photo/1",
+              "media_key": "3_2088430598410964992",
+              "start": 160,
+              "url": "https://t.co/AEVaiOXdkV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088430601841885187",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088430598410964992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 382,
+          "impression_count": 56045,
+          "like_count": 973,
+          "quote_count": 41,
+          "reply_count": 0,
+          "retweet_count": 292
+        },
+        "reply_settings": "everyone",
+        "text": "⋆⁺⊹✧┈┈┈┈⁺🎀⁺┈┈┈┈✧⊹⁺ ⋆\n　　❓誰の導きで扉を開く❓\n　　　　#まどかマギカ\n　　    オススメ作品診断！\n⋆⁺⊹✧┈┈┈┈⁺🎀⁺┈┈┈┈✧⊹⁺ ⋆\n\n質問に答えるだけ✨\nあなたにベストなスピンオフ作品が分かる\n\n🪞診断スタート🔗 https://t.co/SemijY4XE3\n #COMICFUZ https://t.co/AEVaiOXdkV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2088732544112247179",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 675,
+          "like_count": 2598,
+          "listed_count": 3,
+          "media_count": 2526,
+          "tweet_count": 6850
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-01-30T11:16:13.000Z",
+        "description": "芳文社公式漫画アプリ「COMIC FUZ」のTwitterアカウントです。 情報発信用のアカウントで、質問にはお答えしておりません。 アプリに関するご質問・ご要望は下記をご利用ください。 COMIC FUZお問い合わせフォーム https://t.co/EYLPQF63Ow",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "comic-fuz.com/webview/contac…",
+                "end": 137,
+                "expanded_url": "https://comic-fuz.com/webview/contact_us",
+                "start": 114,
+                "url": "https://t.co/EYLPQF63Ow"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "comic-fuz.com",
+                "end": 23,
+                "expanded_url": "https://comic-fuz.com/",
+                "start": 0,
+                "url": "https://t.co/wTrtbrAqmX"
+              }
+            ]
+          }
+        },
+        "id": "1090569366985297920",
+        "is_identity_verified": false,
+        "location": "東京都文京区後楽１丁目２−１２",
+        "most_recent_tweet_id": "2088641867575628218",
+        "name": "COMIC FUZ（コミックファズ）",
+        "pinned_tweet_id": "2086830067942859027",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1090569366985297920/1773718132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033747361365995520/5IH4om5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32280,
+          "following_count": 16,
+          "like_count": 2274,
+          "listed_count": 237,
+          "media_count": 16863,
+          "tweet_count": 22333
+        },
+        "url": "https://t.co/wTrtbrAqmX",
+        "username": "COMICFUZ",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

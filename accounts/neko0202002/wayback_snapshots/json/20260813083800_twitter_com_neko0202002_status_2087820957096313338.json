@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2087820957096313338",
+    "created_at": "2026-08-13T08:38:00.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T09:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087820957096313338"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/satou_mohamedo…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/satou_mohamedo/status/2022245856322392294",
+          "start": 14,
+          "url": "https://t.co/S1nVqZlshT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087820957096313338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022245856322392294",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要，给我吃啊😭😭😭好浪费 https://t.co/S1nVqZlshT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15066,
+        "height": 720,
+        "media_key": "7_2022245810914889728",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2022245810914889728/pu/img/ZqaIiZfaFrx8yNgt.jpg",
+        "public_metrics": {
+          "view_count": 1614882
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022245810914889728/pu/vid/avc1/320x320/XcY02rtTc6K3KAxm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022245810914889728/pu/vid/avc1/540x540/Ps7atCMFbIAcyPdW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022245810914889728/pu/vid/avc1/720x720/XxeUrR0K7WXNrOhx.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2022245810914889728/pu/pl/d9nV__cmrM_ZQ-e8.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2087820957096313338",
+        "created_at": "2026-08-13T08:38:00.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T09:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087820957096313338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/satou_mohamedo…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/satou_mohamedo/status/2022245856322392294",
+              "start": 14,
+              "url": "https://t.co/S1nVqZlshT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087820957096313338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022245856322392294",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要，给我吃啊😭😭😭好浪费 https://t.co/S1nVqZlshT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2022245810914889728"
+          ]
+        },
+        "author_id": "1343781767841386496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2022245856322392294",
+        "created_at": "2026-02-13T09:45:58.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-02-13T10:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022245856322392294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YwSoh4kr8X",
+              "end": 81,
+              "expanded_url": "https://x.com/satou_mohamedo/status/2022245856322392294/video/1",
+              "media_key": "7_2022245810914889728",
+              "start": 58,
+              "url": "https://t.co/YwSoh4kr8X"
+            },
+            {
+              "display_url": "x.com/lad_tripnote/s…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/lad_tripnote/status/2022187622752559253",
+              "start": 82,
+              "url": "https://t.co/yMytdsxaeL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022245856322392294",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "7_2022245810914889728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1828,
+          "impression_count": 5762121,
+          "like_count": 7714,
+          "quote_count": 226,
+          "reply_count": 247,
+          "retweet_count": 343
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022187622752559253",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1200μg食って脱水が酷く腱鞘炎になり丸3日起きて10万円分のLSDを便所に流しました。下水のネズミは宇宙を見た https://t.co/YwSoh4kr8X https://t.co/yMytdsxaeL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2087820957096313338",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 678,
+          "like_count": 2577,
+          "listed_count": 3,
+          "media_count": 2506,
+          "tweet_count": 6745
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-29T04:52:10.000Z",
+        "description": "嗚呼嗚呼(ああああ)です 2chの廃人。176cm45kg  #100日断食 (達成) 基本的に独り言を投稿するだけなので通知が多い方にフォロー返します。サブ垢→ @_mohamedo04 INFJ-T",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 38,
+                "start": 31,
+                "tag": "100日断食"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 94,
+                "start": 82,
+                "username": "_mohamedo04"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/7zcfitx1uywlsv…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/7zcfitx1uywlsvg?t=jImT8T&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/tKwokACmUh"
+              }
+            ]
+          }
+        },
+        "id": "1343781767841386496",
+        "is_identity_verified": false,
+        "location": "ニュー速VIP",
+        "most_recent_tweet_id": "2087816350714802649",
+        "name": "嗚呼嗚呼",
+        "pinned_tweet_id": "2022437383321588029",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343781767841386496/1721777103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022761805022691328/qKgqCFwR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6370,
+          "following_count": 254,
+          "like_count": 18240,
+          "listed_count": 17,
+          "media_count": 2045,
+          "tweet_count": 6922
+        },
+        "url": "https://t.co/tKwokACmUh",
+        "username": "satou_mohamedo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

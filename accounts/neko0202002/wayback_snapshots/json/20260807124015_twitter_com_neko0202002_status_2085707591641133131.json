@@ -1,0 +1,541 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1392988484256759811",
+          "name": "Steam"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "1174432578503204864",
+          "name": "PC gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1174432578503204864",
+          "name": "PC gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1392975566253424640",
+          "name": "Gaming retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1392988484256759811",
+          "name": "Steam"
+        }
+      }
+    ],
+    "conversation_id": "2085707591641133131",
+    "created_at": "2026-08-07T12:40:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T13:40:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085707591641133131"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 138,
+          "start": 132,
+          "tag": "ゆずソフト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "90302375",
+          "start": 3,
+          "username": "yuzusoft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085707591641133131",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1214
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085652165465636870",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuzusoft: 【🪄50万本突破🪄】この度、弊社作品『サノバウィッチ』の全世界セールスが✨50万本✨を突破しました！応援して頂いているユーザーの皆様に感謝いたします！『サノバウィッチ』はPC版、Steam版で展開中ですのでよろしくお願いいたします‼️\n#ゆずソフト…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2272,
+        "media_key": "3_2085566739274985472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPFr5kna8AAnvyT.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1174432578503204864",
+              "name": "PC gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1174432578503204864",
+              "name": "PC gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392975566253424640",
+              "name": "Gaming retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          }
+        ],
+        "conversation_id": "2085707591641133131",
+        "created_at": "2026-08-07T12:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T13:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085707591641133131"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 138,
+              "start": 132,
+              "tag": "ゆずソフト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "90302375",
+              "start": 3,
+              "username": "yuzusoft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085707591641133131",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1214
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085652165465636870",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuzusoft: 【🪄50万本突破🪄】この度、弊社作品『サノバウィッチ』の全世界セールスが✨50万本✨を突破しました！応援して頂いているユーザーの皆様に感謝いたします！『サノバウィッチ』はPC版、Steam版で展開中ですのでよろしくお願いいたします‼️\n#ゆずソフト…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085566739274985472"
+          ]
+        },
+        "author_id": "90302375",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1174432578503204864",
+              "name": "PC gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1174432578503204864",
+              "name": "PC gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392975566253424640",
+              "name": "Gaming retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          }
+        ],
+        "conversation_id": "2085652165465636870",
+        "created_at": "2026-08-07T09:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T10:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085652165465636870"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 124,
+              "start": 118,
+              "tag": "ゆずソフト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cjPKdYhQ53",
+              "end": 148,
+              "expanded_url": "https://x.com/yuzusoft/status/2085652165465636870/photo/1",
+              "media_key": "3_2085566739274985472",
+              "start": 125,
+              "url": "https://t.co/cjPKdYhQ53"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085652165465636870",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 226,
+          "impression_count": 104075,
+          "like_count": 3424,
+          "quote_count": 91,
+          "reply_count": 29,
+          "retweet_count": 1214
+        },
+        "reply_settings": "everyone",
+        "text": "【🪄50万本突破🪄】この度、弊社作品『サノバウィッチ』の全世界セールスが✨50万本✨を突破しました！応援して頂いているユーザーの皆様に感謝いたします！『サノバウィッチ』はPC版、Steam版で展開中ですのでよろしくお願いいたします‼️\n#ゆずソフト https://t.co/cjPKdYhQ53"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 669,
+          "like_count": 2531,
+          "listed_count": 3,
+          "media_count": 2467,
+          "tweet_count": 6606
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-16T02:18:48.000Z",
+        "description": "美少女ゲームメーカーゆずソフトの公式アカウントです。こちらのアカウントでは質問は受け付けておりません。質問のある方は弊社WEBサイトのメールフォームよりお願い致します。 https://t.co/cTz4SpnUlh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/yuzusoft2007",
+                "end": 108,
+                "expanded_url": "http://youtube.com/c/yuzusoft2007",
+                "start": 85,
+                "url": "https://t.co/cTz4SpnUlh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "project-3lj.com",
+                "end": 23,
+                "expanded_url": "https://www.project-3lj.com/",
+                "start": 0,
+                "url": "https://t.co/cKH4U2KJOO"
+              }
+            ]
+          }
+        },
+        "id": "90302375",
+        "location": "大阪",
+        "name": "ゆずソフト【公式】",
+        "pinned_tweet_id": "2083477837114417293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/528772266/_______normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243294,
+          "following_count": 34,
+          "like_count": 239,
+          "listed_count": 2187,
+          "media_count": 23367,
+          "tweet_count": 44097
+        },
+        "url": "https://t.co/cKH4U2KJOO",
+        "username": "yuzusoft",
+        "verified": true
+      }
+    ]
+  }
+}

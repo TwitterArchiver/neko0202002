@@ -1,0 +1,720 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088078315915776000"
+      ],
+      "media_source_tweet_id": [
+        "2088078328704229698"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2088259094570479885",
+    "created_at": "2026-08-14T13:39:00.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T14:39:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088259094570479885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1245269511667724288",
+          "start": 3,
+          "username": "strawberry___53"
+        },
+        {
+          "end": 76,
+          "id": "1063466108722630656",
+          "start": 64,
+          "username": "shin_tecchi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VyER8sS2AE",
+          "end": 101,
+          "expanded_url": "https://x.com/strawberry___53/status/2088078328704229698/photo/1",
+          "media_key": "3_2088078315915776000",
+          "start": 78,
+          "url": "https://t.co/VyER8sS2AE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088259094570479885",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2088078315915776000"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 148
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088078328704229698",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @strawberry___53: ⚠️コスプレ/Cosplay💜\n\n  魔法少女  🖤  暁美ほむら\n\nphoto📸:(@shin_tecchi) https://t.co/VyER8sS2AE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2088078315915776000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPpYKktbEAAJcmd.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088078315915776000"
+          ]
+        },
+        "author_id": "1245269511667724288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2088078328704229698",
+        "created_at": "2026-08-14T01:40:42.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T02:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088078328704229698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 55,
+              "id": "1063466108722630656",
+              "start": 43,
+              "username": "shin_tecchi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VyER8sS2AE",
+              "end": 80,
+              "expanded_url": "https://x.com/strawberry___53/status/2088078328704229698/photo/1",
+              "media_key": "3_2088078315915776000",
+              "start": 57,
+              "url": "https://t.co/VyER8sS2AE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088078328704229698",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088078315915776000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 165,
+          "impression_count": 19316,
+          "like_count": 1540,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 148
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️コスプレ/Cosplay💜\n\n  魔法少女  🖤  暁美ほむら\n\nphoto📸:(@shin_tecchi) https://t.co/VyER8sS2AE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088078315915776000"
+          ],
+          "media_source_tweet_id": [
+            "2088078328704229698"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2088259094570479885",
+        "created_at": "2026-08-14T13:39:00.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T14:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088259094570479885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1245269511667724288",
+              "start": 3,
+              "username": "strawberry___53"
+            },
+            {
+              "end": 76,
+              "id": "1063466108722630656",
+              "start": 64,
+              "username": "shin_tecchi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VyER8sS2AE",
+              "end": 101,
+              "expanded_url": "https://x.com/strawberry___53/status/2088078328704229698/photo/1",
+              "media_key": "3_2088078315915776000",
+              "start": 78,
+              "url": "https://t.co/VyER8sS2AE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088259094570479885",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088078315915776000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 148
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088078328704229698",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @strawberry___53: ⚠️コスプレ/Cosplay💜\n\n  魔法少女  🖤  暁美ほむら\n\nphoto📸:(@shin_tecchi) https://t.co/VyER8sS2AE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2088259094570479885",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 675,
+          "like_count": 2594,
+          "listed_count": 3,
+          "media_count": 2518,
+          "tweet_count": 6818
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-01T08:41:38.000Z",
+        "description": "ショタと中性が大好きです。\n\n【愛方@oichi_cos】ハッピーセット💕\nリトリン貼ってるので良ければ確認してね！\n\n日常（コス垢以外通してます）【@ruimiya__noe】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 18,
+                "username": "oichi_cos"
+              },
+              {
+                "end": 88,
+                "start": 75,
+                "username": "ruimiya__noe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/strawberry360",
+                "end": 23,
+                "expanded_url": "https://lit.link/strawberry360",
+                "start": 0,
+                "url": "https://t.co/HMkLE0mrOA"
+              }
+            ]
+          }
+        },
+        "id": "1245269511667724288",
+        "is_identity_verified": false,
+        "location": "クラン 繭期",
+        "most_recent_tweet_id": "2088246438237208631",
+        "name": "一条一期くん🍓🫐㌠",
+        "pinned_tweet_id": "2088078328704229698",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1245269511667724288/1778059741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088253743066439680/QBdrjAMZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7031,
+          "following_count": 1997,
+          "like_count": 49318,
+          "listed_count": 105,
+          "media_count": 513,
+          "tweet_count": 30047
+        },
+        "url": "https://t.co/HMkLE0mrOA",
+        "username": "strawberry___53",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-11-16T16:17:33.000Z",
+        "description": "関東メイン。アコスタ公式カメラマン。ゼンゼロ、原神、NIKKE、etc。個撮やご依頼は好きな作品やキャラ、楽しい撮影優先。ご相談はDMにて。私が撮影した写真のみリポスト。※写真の無断転載禁止。ヘッダー:（@rukochiii）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "rukochiii"
+              }
+            ]
+          }
+        },
+        "id": "1063466108722630656",
+        "is_identity_verified": false,
+        "location": "栃木県",
+        "most_recent_tweet_id": "2088100032801374665",
+        "name": "てっち",
+        "pinned_tweet_id": "1816486927073452526",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1063466108722630656/1751387832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870457669724827648/8rxbIFNj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4767,
+          "following_count": 3004,
+          "like_count": 61978,
+          "listed_count": 78,
+          "media_count": 323,
+          "tweet_count": 7104
+        },
+        "url": "",
+        "username": "shin_tecchi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

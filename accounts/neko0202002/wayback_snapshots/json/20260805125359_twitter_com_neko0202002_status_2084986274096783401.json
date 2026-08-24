@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2084986261845266432"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2084967334398058601",
+    "created_at": "2026-08-05T12:53:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T13:53:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084986274096783401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2067535566535815168",
+          "start": 0,
+          "username": "yumumu_msknb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NgIjbBActZ",
+          "end": 37,
+          "expanded_url": "https://x.com/neko0202002/status/2084986274096783401/photo/1",
+          "media_key": "16_2084986261845266432",
+          "start": 14,
+          "url": "https://t.co/NgIjbBActZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084986274096783401",
+    "in_reply_to_user_id": "2067535566535815168",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084967334398058601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumumu_msknb https://t.co/NgIjbBActZ"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2084967334398058601].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2084967334398058601",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2084967334398058601"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 316,
+        "media_key": "16_2084986261845266432",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HO9b9VrbUAAAR2h.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HO9b9VrbUAAAR2h.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2084986261845266432"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2084967334398058601",
+        "created_at": "2026-08-05T12:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084986274096783401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2067535566535815168",
+              "start": 0,
+              "username": "yumumu_msknb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NgIjbBActZ",
+              "end": 37,
+              "expanded_url": "https://x.com/neko0202002/status/2084986274096783401/photo/1",
+              "media_key": "16_2084986261845266432",
+              "start": 14,
+              "url": "https://t.co/NgIjbBActZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084986274096783401",
+        "in_reply_to_user_id": "2067535566535815168",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084967334398058601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumumu_msknb https://t.co/NgIjbBActZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 667,
+          "like_count": 2531,
+          "listed_count": 3,
+          "media_count": 2467,
+          "tweet_count": 6591
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-18T09:11:58.000Z",
+        "description": "等到世界只有我们彼此\n兄弟们我是霖\n磕大药割大手吸大毒杀大人\n马斯克你继续封号我操你妈\n大号@FanQie_QianQian\n狗@woaiuai0721\n💊@AminoXx_killer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 46,
+                "username": "FanQie_QianQian"
+              },
+              {
+                "end": 76,
+                "start": 64,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 93,
+                "start": 78,
+                "username": "AminoXx_killer"
+              }
+            ]
+          }
+        },
+        "id": "2067535566535815168",
+        "location": "你墓地",
+        "name": "这里只有小伊",
+        "pinned_tweet_id": "2075658366651613615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083296124949938176/KIY_WS6A_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 92,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 184
+        },
+        "url": "",
+        "username": "yumumu_msknb",
+        "verified": false
+      }
+    ]
+  }
+}

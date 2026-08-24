@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2079299567783424244",
+    "created_at": "2026-07-21T15:28:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T16:28:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079589405724176402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1963735256261148672",
+          "start": 0,
+          "username": "wcp4U9Bfv58052"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079589405724176402",
+    "in_reply_to_user_id": "1963735256261148672",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079550914957090955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wcp4U9Bfv58052 ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13070,
+        "height": 720,
+        "media_key": "13_2079550892895035392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079550892895035392/img/uy0T6TQI-2IwFv5m.jpg",
+        "public_metrics": {
+          "view_count": 911
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079550892895035392/vid/avc1/320x320/F7BFeYWGhZwzI57A.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079550892895035392/vid/avc1/540x540/HqdiLfBisiO4KkHS.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079550892895035392/vid/avc1/720x720/bFwfvBLj7POf6coQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079550892895035392/pl/ltEsaqTkYjfsnh90.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2079299567783424244",
+        "created_at": "2026-07-21T15:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T16:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079589405724176402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1963735256261148672",
+              "start": 0,
+              "username": "wcp4U9Bfv58052"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079589405724176402",
+        "in_reply_to_user_id": "1963735256261148672",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079550914957090955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wcp4U9Bfv58052 ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079550892895035392"
+          ]
+        },
+        "author_id": "1963735256261148672",
+        "conversation_id": "2079299567783424244",
+        "created_at": "2026-07-21T12:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T13:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079550914957090955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8oCoLgENba",
+              "end": 36,
+              "expanded_url": "https://x.com/wcp4U9Bfv58052/status/2079550914957090955/video/1",
+              "media_key": "13_2079550892895035392",
+              "start": 13,
+              "url": "https://t.co/8oCoLgENba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079550914957090955",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2973,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079299567783424244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 https://t.co/8oCoLgENba"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 662,
+          "like_count": 2494,
+          "listed_count": 2,
+          "media_count": 2445,
+          "tweet_count": 6472
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-04T22:46:04.000Z",
+        "description": "モンハン大好きな人ですもえP応援団2号です！",
+        "id": "1963735256261148672",
+        "name": "太郎ニャンコ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963735501552390144/IObx84yD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 22,
+          "like_count": 7829,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 111
+        },
+        "url": "",
+        "username": "wcp4U9Bfv58052",
+        "verified": false
+      }
+    ]
+  }
+}

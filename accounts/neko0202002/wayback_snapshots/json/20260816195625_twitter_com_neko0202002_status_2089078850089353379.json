@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088965165425610752"
+      ],
+      "media_source_tweet_id": [
+        "2088965178830578051"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2089078850089353379",
+    "created_at": "2026-08-16T19:56:25.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T20:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089078850089353379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2053892249851998208",
+          "start": 3,
+          "username": "iiq1427276"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/auIZlMjSXf",
+          "end": 39,
+          "expanded_url": "https://x.com/iiq1427276/status/2088965178830578051/photo/1",
+          "media_key": "3_2088965165425610752",
+          "start": 16,
+          "url": "https://t.co/auIZlMjSXf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089078850089353379",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2088965165425610752"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088965178830578051",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iiq1427276: https://t.co/auIZlMjSXf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4080,
+        "media_key": "3_2088965165425610752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1-wAlb0AAUHUd.jpg",
+        "width": 3060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088965165425610752"
+          ],
+          "media_source_tweet_id": [
+            "2088965178830578051"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2089078850089353379",
+        "created_at": "2026-08-16T19:56:25.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T20:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089078850089353379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2053892249851998208",
+              "start": 3,
+              "username": "iiq1427276"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/auIZlMjSXf",
+              "end": 39,
+              "expanded_url": "https://x.com/iiq1427276/status/2088965178830578051/photo/1",
+              "media_key": "3_2088965165425610752",
+              "start": 16,
+              "url": "https://t.co/auIZlMjSXf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089078850089353379",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088965165425610752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088965178830578051",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iiq1427276: https://t.co/auIZlMjSXf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088965165425610752"
+          ]
+        },
+        "author_id": "2053892249851998208",
+        "conversation_id": "2088965178830578051",
+        "created_at": "2026-08-16T12:24:44.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088965178830578051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/auIZlMjSXf",
+              "end": 23,
+              "expanded_url": "https://x.com/iiq1427276/status/2088965178830578051/photo/1",
+              "media_key": "3_2088965165425610752",
+              "start": 0,
+              "url": "https://t.co/auIZlMjSXf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088965178830578051",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088965165425610752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/auIZlMjSXf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2089078850089353379",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 673,
+          "like_count": 2600,
+          "listed_count": 3,
+          "media_count": 2531,
+          "tweet_count": 6862
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-11T17:38:33.000Z",
+        "description": "夏美在此💟08|超高p线下无此人|我是神经病臭疯狗别攻击我🤲|日语学习中|水上由岐超天酱重度依赖|友跨友一切！我爱所有的宝宝们🥺💟查成分互fo~爱你们喵~\nhttps://t.co/2LuNaTNtow提问箱来玩吧嗯",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/natsumi5005",
+                "end": 101,
+                "expanded_url": "https://ngl.link/natsumi5005",
+                "start": 78,
+                "url": "https://t.co/2LuNaTNtow"
+              }
+            ]
+          }
+        },
+        "id": "2053892249851998208",
+        "is_identity_verified": false,
+        "location": "全世界最萌的夏美",
+        "most_recent_tweet_id": "2089000285561823376",
+        "name": "众生蒙太奇",
+        "pinned_tweet_id": "2085235346888065375",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053892249851998208/1783680231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072928025931661312/4z_pTR9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 176,
+          "like_count": 1773,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 858
+        },
+        "url": "",
+        "username": "iiq1427276",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

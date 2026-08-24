@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087374394872229889"
+      ],
+      "media_source_tweet_id": [
+        "2087374399716643042"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10048750451",
+          "name": "スペシャルドラマ炎の経営者"
+        }
+      }
+    ],
+    "conversation_id": "2087512040860758360",
+    "created_at": "2026-08-12T12:10:29.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T13:10:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087512040860758360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1946480065224548352",
+          "start": 3,
+          "username": "VC_LH_I"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zahug7ofyN",
+          "end": 67,
+          "expanded_url": "https://x.com/VC_LH_I/status/2087374399716643042/photo/1",
+          "media_key": "3_2087374394872229889",
+          "start": 44,
+          "url": "https://t.co/zahug7ofyN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087512040860758360",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087374394872229889"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087374399716643042",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VC_LH_I: 夏コミもお手伝いさせていただきます！\nよろしくお願いします🐶 https://t.co/zahug7ofyN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2087374394872229889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPfX8-ea8AELgWk.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087374394872229889"
+          ]
+        },
+        "author_id": "1946480065224548352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10048750451",
+              "name": "スペシャルドラマ炎の経営者"
+            }
+          }
+        ],
+        "conversation_id": "2087374399716643042",
+        "created_at": "2026-08-12T03:03:33.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T04:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087374399716643042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zahug7ofyN",
+              "end": 54,
+              "expanded_url": "https://x.com/VC_LH_I/status/2087374399716643042/photo/1",
+              "media_key": "3_2087374394872229889",
+              "start": 31,
+              "url": "https://t.co/zahug7ofyN"
+            },
+            {
+              "display_url": "x.com/orthrossoft/st…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/orthrossoft/status/2084966038249377938",
+              "start": 55,
+              "url": "https://t.co/J10lSI5La9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087374399716643042",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087374394872229889"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1723,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084966038249377938",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "夏コミもお手伝いさせていただきます！\nよろしくお願いします🐶 https://t.co/zahug7ofyN https://t.co/J10lSI5La9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087374394872229889"
+          ],
+          "media_source_tweet_id": [
+            "2087374399716643042"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10048750451",
+              "name": "スペシャルドラマ炎の経営者"
+            }
+          }
+        ],
+        "conversation_id": "2087512040860758360",
+        "created_at": "2026-08-12T12:10:29.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T13:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087512040860758360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1946480065224548352",
+              "start": 3,
+              "username": "VC_LH_I"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zahug7ofyN",
+              "end": 67,
+              "expanded_url": "https://x.com/VC_LH_I/status/2087374399716643042/photo/1",
+              "media_key": "3_2087374394872229889",
+              "start": 44,
+              "url": "https://t.co/zahug7ofyN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087512040860758360",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087374394872229889"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087374399716643042",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VC_LH_I: 夏コミもお手伝いさせていただきます！\nよろしくお願いします🐶 https://t.co/zahug7ofyN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2087512040860758360",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 677,
+          "like_count": 2564,
+          "listed_count": 3,
+          "media_count": 2496,
+          "tweet_count": 6713
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-19T07:59:57.000Z",
+        "description": "ゲームとコスプレ！🥳",
+        "id": "1946480065224548352",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087374437004009833",
+        "name": "ميري",
+        "pinned_tweet_id": "1946562044058382743",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1946480065224548352/1752925083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946536285704785920/YGcALj1x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 31,
+          "like_count": 1214,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 155
+        },
+        "url": "",
+        "username": "VC_LH_I",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

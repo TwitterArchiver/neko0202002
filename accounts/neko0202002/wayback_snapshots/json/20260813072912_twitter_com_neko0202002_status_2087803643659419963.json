@@ -1,0 +1,528 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087664857739055104"
+      ],
+      "media_source_tweet_id": [
+        "2087664868828824015"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2087803643659419963",
+    "created_at": "2026-08-13T07:29:12.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T08:29:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087803643659419963"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 23,
+          "tag": "鹿目まどか"
+        },
+        {
+          "end": 37,
+          "start": 30,
+          "tag": "まどかマギカ"
+        },
+        {
+          "end": 51,
+          "start": 38,
+          "tag": "MadokaMagica"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1447091094378856454",
+          "start": 3,
+          "username": "poloneshi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JjYRRQoHe5",
+          "end": 75,
+          "expanded_url": "https://x.com/poloneshi/status/2087664868828824015/photo/1",
+          "media_key": "3_2087664857739055104",
+          "start": 52,
+          "url": "https://t.co/JjYRRQoHe5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087803643659419963",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087664857739055104"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087664868828824015",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @poloneshi: 鹿目まどか🎀\n\n#鹿目まどか #まどかマギカ #MadokaMagica https://t.co/JjYRRQoHe5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3710,
+        "media_key": "3_2087664857739055104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPjgII-aUAA9fzf.jpg",
+        "width": 2721
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087664857739055104"
+          ]
+        },
+        "author_id": "1447091094378856454",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2087664868828824015",
+        "created_at": "2026-08-12T22:17:46.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T23:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087664868828824015"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 8,
+              "tag": "鹿目まどか"
+            },
+            {
+              "end": 22,
+              "start": 15,
+              "tag": "まどかマギカ"
+            },
+            {
+              "end": 36,
+              "start": 23,
+              "tag": "MadokaMagica"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JjYRRQoHe5",
+              "end": 60,
+              "expanded_url": "https://x.com/poloneshi/status/2087664868828824015/photo/1",
+              "media_key": "3_2087664857739055104",
+              "start": 37,
+              "url": "https://t.co/JjYRRQoHe5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087664868828824015",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087664857739055104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 3444,
+          "like_count": 472,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "鹿目まどか🎀\n\n#鹿目まどか #まどかマギカ #MadokaMagica https://t.co/JjYRRQoHe5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087664857739055104"
+          ],
+          "media_source_tweet_id": [
+            "2087664868828824015"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2087803643659419963",
+        "created_at": "2026-08-13T07:29:12.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T08:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087803643659419963"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 23,
+              "tag": "鹿目まどか"
+            },
+            {
+              "end": 37,
+              "start": 30,
+              "tag": "まどかマギカ"
+            },
+            {
+              "end": 51,
+              "start": 38,
+              "tag": "MadokaMagica"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1447091094378856454",
+              "start": 3,
+              "username": "poloneshi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JjYRRQoHe5",
+              "end": 75,
+              "expanded_url": "https://x.com/poloneshi/status/2087664868828824015/photo/1",
+              "media_key": "3_2087664857739055104",
+              "start": 52,
+              "url": "https://t.co/JjYRRQoHe5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087803643659419963",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087664857739055104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087664868828824015",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @poloneshi: 鹿目まどか🎀\n\n#鹿目まどか #まどかマギカ #MadokaMagica https://t.co/JjYRRQoHe5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2087803643659419963",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 678,
+          "like_count": 2577,
+          "listed_count": 3,
+          "media_count": 2506,
+          "tweet_count": 6743
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-10T06:46:33.000Z",
+        "description": "illustration https://t.co/zHIXp3ei62",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/60624774",
+                "end": 36,
+                "expanded_url": "https://www.pixiv.net/users/60624774",
+                "start": 13,
+                "url": "https://t.co/zHIXp3ei62"
+              }
+            ]
+          }
+        },
+        "id": "1447091094378856454",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087739215505489969",
+        "name": "ポロン@絵の修行僧",
+        "pinned_tweet_id": "2050438192562913380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1447091094378856454/1773812760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005033721142067200/EUzwE0Ez_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1768,
+          "following_count": 161,
+          "like_count": 1459,
+          "listed_count": 12,
+          "media_count": 280,
+          "tweet_count": 1126
+        },
+        "url": "",
+        "username": "poloneshi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

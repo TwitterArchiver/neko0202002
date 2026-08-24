@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087107713058947072",
+        "3_2087107713054732289"
+      ],
+      "media_source_tweet_id": [
+        "2087107769510080685",
+        "2087107769510080685"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2087124955108409713",
+    "created_at": "2026-08-11T10:32:20.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T11:32:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087124955108409713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2047894021457211393",
+          "start": 3,
+          "username": "IiRin_00917_QwQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N4bZD4K8SA",
+          "end": 48,
+          "expanded_url": "https://x.com/IiRin_00917_QwQ/status/2087107769510080685/photo/1",
+          "media_key": "3_2087107713058947072",
+          "start": 25,
+          "url": "https://t.co/N4bZD4K8SA"
+        },
+        {
+          "display_url": "pic.x.com/N4bZD4K8SA",
+          "end": 48,
+          "expanded_url": "https://x.com/IiRin_00917_QwQ/status/2087107769510080685/photo/1",
+          "media_key": "3_2087107713054732289",
+          "start": 25,
+          "url": "https://t.co/N4bZD4K8SA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087124955108409713",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087107713058947072"
+      },
+      {
+        "media_key": "3_2087107713054732289"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087107769510080685",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IiRin_00917_QwQ: 就这样 https://t.co/N4bZD4K8SA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2087107713058947072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPblaDTbQAArRsB.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087107713054732289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPblaDSa8AEWtv0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087107713058947072",
+            "3_2087107713054732289"
+          ]
+        },
+        "author_id": "2047894021457211393",
+        "conversation_id": "2087107769510080685",
+        "created_at": "2026-08-11T09:24:03.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T10:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087107769510080685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N4bZD4K8SA",
+              "end": 27,
+              "expanded_url": "https://x.com/IiRin_00917_QwQ/status/2087107769510080685/photo/1",
+              "media_key": "3_2087107713058947072",
+              "start": 4,
+              "url": "https://t.co/N4bZD4K8SA"
+            },
+            {
+              "display_url": "pic.x.com/N4bZD4K8SA",
+              "end": 27,
+              "expanded_url": "https://x.com/IiRin_00917_QwQ/status/2087107769510080685/photo/1",
+              "media_key": "3_2087107713054732289",
+              "start": 4,
+              "url": "https://t.co/N4bZD4K8SA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087107769510080685",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087107713058947072"
+          },
+          {
+            "media_key": "3_2087107713054732289"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 129,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "就这样 https://t.co/N4bZD4K8SA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087107713058947072",
+            "3_2087107713054732289"
+          ],
+          "media_source_tweet_id": [
+            "2087107769510080685",
+            "2087107769510080685"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2087124955108409713",
+        "created_at": "2026-08-11T10:32:20.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T11:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087124955108409713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2047894021457211393",
+              "start": 3,
+              "username": "IiRin_00917_QwQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N4bZD4K8SA",
+              "end": 48,
+              "expanded_url": "https://x.com/IiRin_00917_QwQ/status/2087107769510080685/photo/1",
+              "media_key": "3_2087107713058947072",
+              "start": 25,
+              "url": "https://t.co/N4bZD4K8SA"
+            },
+            {
+              "display_url": "pic.x.com/N4bZD4K8SA",
+              "end": 48,
+              "expanded_url": "https://x.com/IiRin_00917_QwQ/status/2087107769510080685/photo/1",
+              "media_key": "3_2087107713054732289",
+              "start": 25,
+              "url": "https://t.co/N4bZD4K8SA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087124955108409713",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087107713058947072"
+          },
+          {
+            "media_key": "3_2087107713054732289"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087107769510080685",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IiRin_00917_QwQ: 就这样 https://t.co/N4bZD4K8SA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2087124955108409713",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 673,
+          "like_count": 2551,
+          "listed_count": 3,
+          "media_count": 2490,
+          "tweet_count": 6693
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-25T04:22:51.000Z",
+        "description": "21号机×寻回\nhrt：25-06-23\n- ✰*🎀 ੈ✩🍥✰*💗ੈ✩-\n互联网永生-眼熟fo/低龄糖福😭别和我计较了\n末地级严重失眠 -12现役初中生\n^✟❀小号@yumumu_msknb❀家族耻辱@woaiuai0721❀🐱@niconekkod❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 82,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "woaiuai0721"
+              },
+              {
+                "end": 125,
+                "start": 114,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 0,
+                "url": "https://t.co/CHH7qlTRQX"
+              }
+            ]
+          }
+        },
+        "id": "2047894021457211393",
+        "is_identity_verified": false,
+        "location": "你看看你身后",
+        "most_recent_tweet_id": "2087120001451143263",
+        "name": "IiRin",
+        "pinned_tweet_id": "2084899038219104559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047894021457211393/1785917884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084916830247014400/nMn0uWwQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 104,
+          "like_count": 6426,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 2566
+        },
+        "url": "https://t.co/CHH7qlTRQX",
+        "username": "IiRin_00917_QwQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

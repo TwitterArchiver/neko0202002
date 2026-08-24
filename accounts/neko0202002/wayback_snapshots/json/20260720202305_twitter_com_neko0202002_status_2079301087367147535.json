@@ -1,0 +1,446 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Family and Life Stages",
+          "id": "864925500627484672",
+          "name": "Family and life stages"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Moms",
+          "id": "847545709800767488",
+          "name": "Motherhood"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Dads",
+          "id": "847545883637891072",
+          "name": "Fatherhood"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Moms",
+          "id": "847545709800767488",
+          "name": "Motherhood"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Dads",
+          "id": "847545883637891072",
+          "name": "Fatherhood"
+        }
+      }
+    ],
+    "conversation_id": "2079301087367147535",
+    "created_at": "2026-07-20T20:23:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T21:23:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079301087367147535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2026229094711721984",
+          "start": 3,
+          "username": "Docwho89757"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079301087367147535",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 163
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079060228650250410",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Docwho89757: パパ、ママ、あなたたちのヒーローが帰ってきたよ。  「パパ、ようやくパパに勝てるようになったよ。俺にも自分の輝きができたんだ」\n「ママ、まずはコップ置いて、俺が洗うね」  「あなたたちの息子はあっちで結構成長したよ。心配かけてごめんね。\n使命は…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20333,
+        "height": 1080,
+        "media_key": "13_2079047859731857408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079047859731857408/img/ncY-BquKDu1Ap1TM.jpg",
+        "public_metrics": {
+          "view_count": 247791
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079047859731857408/vid/avc1/540x270/bl_7F_Zg3Or36WId.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079047859731857408/vid/avc1/2160x1080/eHlQNWeaaTS5mRIQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079047859731857408/vid/avc1/1440x720/IXm4Ya4Bscecgjsi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079047859731857408/pl/ewTrKehhlzPZuIj7.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079047859731857408/vid/avc1/720x360/nGNU4EN6e5j8qcxe.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Moms",
+              "id": "847545709800767488",
+              "name": "Motherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Moms",
+              "id": "847545709800767488",
+              "name": "Motherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          }
+        ],
+        "conversation_id": "2079301087367147535",
+        "created_at": "2026-07-20T20:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T21:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079301087367147535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2026229094711721984",
+              "start": 3,
+              "username": "Docwho89757"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079301087367147535",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 163
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079060228650250410",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Docwho89757: パパ、ママ、あなたたちのヒーローが帰ってきたよ。  「パパ、ようやくパパに勝てるようになったよ。俺にも自分の輝きができたんだ」\n「ママ、まずはコップ置いて、俺が洗うね」  「あなたたちの息子はあっちで結構成長したよ。心配かけてごめんね。\n使命は…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079047859731857408"
+          ]
+        },
+        "author_id": "2026229094711721984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Moms",
+              "id": "847545709800767488",
+              "name": "Motherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Moms",
+              "id": "847545709800767488",
+              "name": "Motherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          }
+        ],
+        "conversation_id": "2079060228650250410",
+        "created_at": "2026-07-20T04:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T05:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079060228650250410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tz27QEEw7h",
+              "end": 159,
+              "expanded_url": "https://x.com/Docwho89757/status/2079060228650250410/video/1",
+              "media_key": "13_2079047859731857408",
+              "start": 136,
+              "url": "https://t.co/tz27QEEw7h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079060228650250410",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 179,
+                "start": 175,
+                "tag": "リゼロ"
+              },
+              {
+                "end": 187,
+                "start": 180,
+                "tag": "rezero"
+              }
+            ]
+          },
+          "text": "パパ、ママ、あなたたちのヒーローが帰ってきたよ。  「パパ、ようやくパパに勝てるようになったよ。俺にも自分の輝きができたんだ」\n「ママ、まずはコップ置いて、俺が洗うね」  「あなたたちの息子はあっちで結構成長したよ。心配かけてごめんね。\n使命はまだ残ってるから、ごめん…\n絶対にみんなを救って、それからちゃんと帰ってきて、\n一緒に過ごすからね！」😇\n#リゼロ #rezero"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 851,
+          "impression_count": 430886,
+          "like_count": 2671,
+          "quote_count": 26,
+          "reply_count": 21,
+          "retweet_count": 163
+        },
+        "reply_settings": "everyone",
+        "text": "パパ、ママ、あなたたちのヒーローが帰ってきたよ。  「パパ、ようやくパパに勝てるようになったよ。俺にも自分の輝きができたんだ」\n「ママ、まずはコップ置いて、俺が洗うね」  「あなたたちの息子はあっちで結構成長したよ。心配かけてごめんね。\n使命はまだ残ってるから、ごめん… https://t.co/tz27QEEw7h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 660,
+          "like_count": 2482,
+          "listed_count": 2,
+          "media_count": 2433,
+          "tweet_count": 6450
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T09:34:26.000Z",
+        "description": "NTE、活俠傳とか人気ゲームの動画やスクショをメインに投稿してるよ/あとアニメの動画切り抜きも結構上げてる感じ/ゲームの感想とか面白いところを気軽に呟いてるわ\n気軽に絡んでくれたら嬉しいな！\n一緒に遊んだり話したり、気楽に声かけてね\n待ってるよ୧(๑•̀⌄•́๑)૭",
+        "id": "2026229094711721984",
+        "location": "Yokohama City Kohoku Ward",
+        "name": "Kang Shun Lin",
+        "pinned_tweet_id": "2075999880997490780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026230936241938433/EGDiVNsS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2395,
+          "following_count": 1436,
+          "like_count": 5419,
+          "listed_count": 12,
+          "media_count": 591,
+          "tweet_count": 1575
+        },
+        "url": "",
+        "username": "Docwho89757",
+        "verified": true
+      }
+    ]
+  }
+}

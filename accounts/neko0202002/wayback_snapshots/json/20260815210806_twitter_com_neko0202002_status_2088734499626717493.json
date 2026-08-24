@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088289972529020929",
+        "3_2088289972566790144"
+      ],
+      "media_source_tweet_id": [
+        "2088289977889415250",
+        "2088289977889415250"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2088734499626717493",
+    "created_at": "2026-08-15T21:08:06.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T22:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088734499626717493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1871051468511621120",
+          "start": 3,
+          "username": "binbotsundoku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nYgM4T4o3C",
+          "end": 58,
+          "expanded_url": "https://x.com/binbotsundoku/status/2088289977889415250/photo/1",
+          "media_key": "3_2088289972529020929",
+          "start": 35,
+          "url": "https://t.co/nYgM4T4o3C"
+        },
+        {
+          "display_url": "pic.x.com/nYgM4T4o3C",
+          "end": 58,
+          "expanded_url": "https://x.com/binbotsundoku/status/2088289977889415250/photo/1",
+          "media_key": "3_2088289972566790144",
+          "start": 35,
+          "url": "https://t.co/nYgM4T4o3C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088734499626717493",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "3_2088289972529020929"
+      },
+      {
+        "media_key": "3_2088289972566790144"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 231
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088289977889415250",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @binbotsundoku: 큐베야 얘 너 그거 포상이야 https://t.co/nYgM4T4o3C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088289972529020929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsYqnCaQAE8wrW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088289972566790144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsYqnLakAA7-d9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088289972529020929",
+            "3_2088289972566790144"
+          ],
+          "media_source_tweet_id": [
+            "2088289977889415250",
+            "2088289977889415250"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2088734499626717493",
+        "created_at": "2026-08-15T21:08:06.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T22:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088734499626717493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1871051468511621120",
+              "start": 3,
+              "username": "binbotsundoku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nYgM4T4o3C",
+              "end": 58,
+              "expanded_url": "https://x.com/binbotsundoku/status/2088289977889415250/photo/1",
+              "media_key": "3_2088289972529020929",
+              "start": 35,
+              "url": "https://t.co/nYgM4T4o3C"
+            },
+            {
+              "display_url": "pic.x.com/nYgM4T4o3C",
+              "end": 58,
+              "expanded_url": "https://x.com/binbotsundoku/status/2088289977889415250/photo/1",
+              "media_key": "3_2088289972566790144",
+              "start": 35,
+              "url": "https://t.co/nYgM4T4o3C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088734499626717493",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2088289972529020929"
+          },
+          {
+            "media_key": "3_2088289972566790144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 231
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088289977889415250",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @binbotsundoku: 큐베야 얘 너 그거 포상이야 https://t.co/nYgM4T4o3C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088289972529020929",
+            "3_2088289972566790144"
+          ]
+        },
+        "author_id": "1871051468511621120",
+        "conversation_id": "2088289977889415250",
+        "created_at": "2026-08-14T15:41:43.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088289977889415250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nYgM4T4o3C",
+              "end": 39,
+              "expanded_url": "https://x.com/binbotsundoku/status/2088289977889415250/photo/1",
+              "media_key": "3_2088289972529020929",
+              "start": 16,
+              "url": "https://t.co/nYgM4T4o3C"
+            },
+            {
+              "display_url": "pic.x.com/nYgM4T4o3C",
+              "end": 39,
+              "expanded_url": "https://x.com/binbotsundoku/status/2088289977889415250/photo/1",
+              "media_key": "3_2088289972566790144",
+              "start": 16,
+              "url": "https://t.co/nYgM4T4o3C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088289977889415250",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2088289972529020929"
+          },
+          {
+            "media_key": "3_2088289972566790144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 233,
+          "impression_count": 73505,
+          "like_count": 2814,
+          "quote_count": 22,
+          "reply_count": 3,
+          "retweet_count": 231
+        },
+        "reply_settings": "everyone",
+        "text": "큐베야 얘 너 그거 포상이야 https://t.co/nYgM4T4o3C"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2088734514587832331",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 675,
+          "like_count": 2600,
+          "listed_count": 3,
+          "media_count": 2527,
+          "tweet_count": 6853
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-23T04:33:42.000Z",
+        "description": "안경호무보존협회",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/binbotsundoku",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/binbotsundoku",
+                "start": 0,
+                "url": "https://t.co/xqYmK7wx8Z"
+              }
+            ]
+          }
+        },
+        "id": "1871051468511621120",
+        "is_identity_verified": false,
+        "location": "👓",
+        "most_recent_tweet_id": "2088692035029291453",
+        "name": "빈보",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1871051468511621120/1780638386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056402263577702400/sEiLqfb3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 30,
+          "like_count": 12011,
+          "listed_count": 1,
+          "media_count": 437,
+          "tweet_count": 2375
+        },
+        "url": "https://t.co/xqYmK7wx8Z",
+        "username": "binbotsundoku",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

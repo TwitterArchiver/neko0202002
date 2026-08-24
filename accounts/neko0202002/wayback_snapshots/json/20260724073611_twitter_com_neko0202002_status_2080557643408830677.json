@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080217201806843904"
+      ],
+      "media_source_tweet_id": [
+        "2080217224103813254"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2080557643408830677",
+    "created_at": "2026-07-24T07:36:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T08:36:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080557643408830677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2076841557802864640",
+          "start": 3,
+          "username": "kuukiwtf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4g4guPuEra",
+          "end": 39,
+          "expanded_url": "https://x.com/kuukiwtf/status/2080217224103813254/video/1",
+          "media_key": "13_2080217201806843904",
+          "start": 16,
+          "url": "https://t.co/4g4guPuEra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080557643408830677",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080217224103813254",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuukiwtf: （ https://t.co/4g4guPuEra"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8448,
+        "height": 960,
+        "media_key": "13_2080217201806843904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080217201806843904/img/1FBV72MDagMCJH_a.jpg",
+        "public_metrics": {
+          "view_count": 299
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080217201806843904/vid/avc1/320x564/A14BY6OBl-aLYNgN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080217201806843904/vid/avc1/480x846/O5Tz-HFdIAF732LD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080217201806843904/vid/avc1/544x960/QAfNlp2eMnotrd9y.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080217201806843904/pl/5nLbFZ4lt6NnwLdz.m3u8"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080217201806843904"
+          ]
+        },
+        "author_id": "2076841557802864640",
+        "conversation_id": "2080217224103813254",
+        "created_at": "2026-07-23T09:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080217224103813254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4g4guPuEra",
+              "end": 25,
+              "expanded_url": "https://x.com/kuukiwtf/status/2080217224103813254/video/1",
+              "media_key": "13_2080217201806843904",
+              "start": 2,
+              "url": "https://t.co/4g4guPuEra"
+            },
+            {
+              "display_url": "x.com/4ever_keep_mov…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/4ever_keep_move/status/2079912176144539651",
+              "start": 26,
+              "url": "https://t.co/IwcNStYuVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080217224103813254",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 828,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079912176144539651",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（ https://t.co/4g4guPuEra https://t.co/IwcNStYuVC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080217201806843904"
+          ],
+          "media_source_tweet_id": [
+            "2080217224103813254"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2080557643408830677",
+        "created_at": "2026-07-24T07:36:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080557643408830677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2076841557802864640",
+              "start": 3,
+              "username": "kuukiwtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4g4guPuEra",
+              "end": 39,
+              "expanded_url": "https://x.com/kuukiwtf/status/2080217224103813254/video/1",
+              "media_key": "13_2080217201806843904",
+              "start": 16,
+              "url": "https://t.co/4g4guPuEra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080557643408830677",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080217224103813254",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuukiwtf: （ https://t.co/4g4guPuEra"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 664,
+          "like_count": 2490,
+          "listed_count": 3,
+          "media_count": 2445,
+          "tweet_count": 6486
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ overdose ♡ \n\n@kuuki_official\n@voidsama777\n\ndm已开可以找我聊天喵♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚 (anti miniworld",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 322,
+          "like_count": 4532,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 804
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      }
+    ]
+  }
+}

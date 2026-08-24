@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2087766842664251392"
+      ],
+      "media_source_tweet_id": [
+        "2087766870497632521"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2087887958393360654",
+    "created_at": "2026-08-13T13:04:15.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T14:04:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087887958393360654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1870313420807163904",
+          "start": 3,
+          "username": "IzayoiMarin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1YL4BnJiOF",
+          "end": 40,
+          "expanded_url": "https://x.com/IzayoiMarin/status/2087766870497632521/video/1",
+          "media_key": "13_2087766842664251392",
+          "start": 17,
+          "url": "https://t.co/1YL4BnJiOF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087887958393360654",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2087766842664251392"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087766870497632521",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IzayoiMarin: https://t.co/1YL4BnJiOF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4086,
+        "height": 1080,
+        "media_key": "13_2087766842664251392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087766842664251392/img/PoARjoAsxIptUOj5.jpg",
+        "public_metrics": {
+          "view_count": 403
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087766842664251392/vid/avc1/480x270/T9UIfblGW5CnLj6P.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087766842664251392/pl/X0CRjGAVqNc37kvV.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087766842664251392/vid/avc1/1280x720/92y_zobeV9v0x4k0.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087766842664251392/vid/avc1/1920x1080/_dq-A_cjJMoM-Bv2.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087766842664251392/vid/avc1/640x360/Des8leQTNNvVucDn.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087766842664251392"
+          ]
+        },
+        "author_id": "1870313420807163904",
+        "conversation_id": "2087766870497632521",
+        "created_at": "2026-08-13T05:03:05.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T06:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087766870497632521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1YL4BnJiOF",
+              "end": 23,
+              "expanded_url": "https://x.com/IzayoiMarin/status/2087766870497632521/video/1",
+              "media_key": "13_2087766842664251392",
+              "start": 0,
+              "url": "https://t.co/1YL4BnJiOF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087766870497632521",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2087766842664251392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 964,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1YL4BnJiOF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087766842664251392"
+          ],
+          "media_source_tweet_id": [
+            "2087766870497632521"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2087887958393360654",
+        "created_at": "2026-08-13T13:04:15.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T14:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087887958393360654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1870313420807163904",
+              "start": 3,
+              "username": "IzayoiMarin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1YL4BnJiOF",
+              "end": 40,
+              "expanded_url": "https://x.com/IzayoiMarin/status/2087766870497632521/video/1",
+              "media_key": "13_2087766842664251392",
+              "start": 17,
+              "url": "https://t.co/1YL4BnJiOF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087887958393360654",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2087766842664251392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087766870497632521",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IzayoiMarin: https://t.co/1YL4BnJiOF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2087887958393360654",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962,
+          "following_count": 679,
+          "like_count": 2584,
+          "listed_count": 3,
+          "media_count": 2509,
+          "tweet_count": 6765
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-21T03:40:57.000Z",
+        "description": "Hoshino Marin（星野真凛）|   09高三纯女🇨🇳   |   梗图源网络，如有侵权可删   |  恩师：@aoim33  |  251： @umodamo | 互fo评论区留言 | 碎碎念 |  恋爱脑｜厌蠢症｜JPOPアニメ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 59,
+                "username": "aoim33"
+              },
+              {
+                "end": 84,
+                "start": 76,
+                "username": "umodamo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep1449270",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep1449270",
+                "start": 0,
+                "url": "https://t.co/BABPQroFMf"
+              }
+            ]
+          }
+        },
+        "id": "1870313420807163904",
+        "is_identity_verified": false,
+        "location": "Mr.'Broken Heart' ——松下優也",
+        "most_recent_tweet_id": "2087879662978425101",
+        "name": "星野まりん",
+        "pinned_tweet_id": "2087766870497632521",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870313420807163904/1784883294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076574568773197824/WCbkByx-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3196,
+          "following_count": 2195,
+          "like_count": 55801,
+          "listed_count": 9,
+          "media_count": 2878,
+          "tweet_count": 25292
+        },
+        "url": "https://t.co/BABPQroFMf",
+        "username": "IzayoiMarin",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

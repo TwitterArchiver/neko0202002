@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086748397843910656"
+      ],
+      "media_source_tweet_id": [
+        "2086748403434979403"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2086884907469636015",
+    "created_at": "2026-08-10T18:38:29.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T19:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086884907469636015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1916110583751184384",
+          "start": 3,
+          "username": "rate11717991"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FZ00ixHWaA",
+          "end": 62,
+          "expanded_url": "https://x.com/rate11717991/status/2086748403434979403/photo/1",
+          "media_key": "3_2086748397843910656",
+          "start": 39,
+          "url": "https://t.co/FZ00ixHWaA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086884907469636015",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2086748397843910656"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 276
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086748403434979403",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rate11717991: ※まどマギパロ\n魔法少女シンジ⭐︎マギカ https://t.co/FZ00ixHWaA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1207,
+        "media_key": "3_2086748397843910656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPWenJ0aEAA-FoM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086748397843910656"
+          ]
+        },
+        "author_id": "1916110583751184384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2086748403434979403",
+        "created_at": "2026-08-10T09:36:03.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T10:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086748403434979403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FZ00ixHWaA",
+              "end": 44,
+              "expanded_url": "https://x.com/rate11717991/status/2086748403434979403/photo/1",
+              "media_key": "3_2086748397843910656",
+              "start": 21,
+              "url": "https://t.co/FZ00ixHWaA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086748403434979403",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086748397843910656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 198,
+          "impression_count": 22242,
+          "like_count": 2022,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 276
+        },
+        "reply_settings": "everyone",
+        "text": "※まどマギパロ\n魔法少女シンジ⭐︎マギカ https://t.co/FZ00ixHWaA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086748397843910656"
+          ],
+          "media_source_tweet_id": [
+            "2086748403434979403"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2086884907469636015",
+        "created_at": "2026-08-10T18:38:29.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T19:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086884907469636015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1916110583751184384",
+              "start": 3,
+              "username": "rate11717991"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FZ00ixHWaA",
+              "end": 62,
+              "expanded_url": "https://x.com/rate11717991/status/2086748403434979403/photo/1",
+              "media_key": "3_2086748397843910656",
+              "start": 39,
+              "url": "https://t.co/FZ00ixHWaA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086884907469636015",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086748397843910656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 276
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086748403434979403",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rate11717991: ※まどマギパロ\n魔法少女シンジ⭐︎マギカ https://t.co/FZ00ixHWaA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2086884907469636015",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 673,
+          "like_count": 2547,
+          "listed_count": 3,
+          "media_count": 2488,
+          "tweet_count": 6682
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-26T12:42:25.000Z",
+        "description": "イラスト描いてます‼️まどマギとエヴァが好きです❗️サブ垢@aijo64\nskeb→ https://t.co/278x6Lurhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "aijo64"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@rate11717991",
+                "end": 66,
+                "expanded_url": "https://skeb.jp/@rate11717991",
+                "start": 43,
+                "url": "https://t.co/278x6Lurhh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/rate11717991",
+                "end": 23,
+                "expanded_url": "https://lit.link/rate11717991",
+                "start": 0,
+                "url": "https://t.co/zsZV0M9ybS"
+              }
+            ]
+          }
+        },
+        "id": "1916110583751184384",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086795992196915608",
+        "name": "らーて",
+        "pinned_tweet_id": "2038594716502216842",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1916110583751184384/1785890332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084801375159083008/e_FvYPQa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2027,
+          "following_count": 142,
+          "like_count": 1094,
+          "listed_count": 6,
+          "media_count": 228,
+          "tweet_count": 937
+        },
+        "url": "https://t.co/zsZV0M9ybS",
+        "username": "rate11717991",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

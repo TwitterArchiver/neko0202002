@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2088672521486999997",
+    "created_at": "2026-08-15T17:01:49.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T18:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088672521486999997"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 17,
+          "tag": "C108"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "580448205",
+          "start": 3,
+          "username": "ayumi_sarah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088672521486999997",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088587164321980636",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ayumi_sarah: #C108\n出演させていただいたASMRが手に入る、ぶりきやさん（仮）にも行ってきました！\n\n世にも珍しく麗しいメタルポスター、とっても綺麗だった✨銀髪猫耳少女の錫ちゃんのレイヤーさんがめちゃくちゃ錫ちゃんで可愛かったです！！！超美少女🥰\n企業…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2088587157070032896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwm9BuaMAAq0u4.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088587157023932416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwm9BjawAAx8R_.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088587157070069760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwm9BuawAA00L5.jpg",
+        "width": 1776
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2088672521486999997",
+        "created_at": "2026-08-15T17:01:49.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T18:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088672521486999997"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "C108"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "580448205",
+              "start": 3,
+              "username": "ayumi_sarah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088672521486999997",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088587164321980636",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ayumi_sarah: #C108\n出演させていただいたASMRが手に入る、ぶりきやさん（仮）にも行ってきました！\n\n世にも珍しく麗しいメタルポスター、とっても綺麗だった✨銀髪猫耳少女の錫ちゃんのレイヤーさんがめちゃくちゃ錫ちゃんで可愛かったです！！！超美少女🥰\n企業…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088587157070032896",
+            "3_2088587157023932416",
+            "3_2088587157070069760"
+          ]
+        },
+        "author_id": "580448205",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2088587164321980636",
+        "created_at": "2026-08-15T11:22:38.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T12:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088587164321980636"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "C108"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RxAOypA3kK",
+              "end": 159,
+              "expanded_url": "https://x.com/ayumi_sarah/status/2088587164321980636/photo/1",
+              "media_key": "3_2088587157070032896",
+              "start": 136,
+              "url": "https://t.co/RxAOypA3kK"
+            },
+            {
+              "display_url": "pic.x.com/RxAOypA3kK",
+              "end": 159,
+              "expanded_url": "https://x.com/ayumi_sarah/status/2088587164321980636/photo/1",
+              "media_key": "3_2088587157023932416",
+              "start": 136,
+              "url": "https://t.co/RxAOypA3kK"
+            },
+            {
+              "display_url": "pic.x.com/RxAOypA3kK",
+              "end": 159,
+              "expanded_url": "https://x.com/ayumi_sarah/status/2088587164321980636/photo/1",
+              "media_key": "3_2088587157070069760",
+              "start": 136,
+              "url": "https://t.co/RxAOypA3kK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088587164321980636",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088587157070032896"
+          },
+          {
+            "media_key": "3_2088587157023932416"
+          },
+          {
+            "media_key": "3_2088587157070069760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6188,
+          "like_count": 121,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "#C108\n出演させていただいたASMRが手に入る、ぶりきやさん（仮）にも行ってきました！\n\n世にも珍しく麗しいメタルポスター、とっても綺麗だった✨銀髪猫耳少女の錫ちゃんのレイヤーさんがめちゃくちゃ錫ちゃんで可愛かったです！！！超美少女🥰\n企業ブース西4-1933です✨ https://t.co/RxAOypA3kK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2088672521486999997",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 675,
+          "like_count": 2598,
+          "listed_count": 3,
+          "media_count": 2526,
+          "tweet_count": 6848
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-05-15T00:14:44.000Z",
+        "description": "大人向けな作品に声を吹き込む大切なお仕事。\n音声作品サークル『potte』始めました→@potte1919 \nファンアート #ぽっとれーと （配信等で使わせて頂く場合があります）ご依頼はHPのお問い合わせからお願い致します。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 62,
+                "tag": "ぽっとれーと"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "potte1919"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/posara",
+                "end": 23,
+                "expanded_url": "https://lit.link/posara",
+                "start": 0,
+                "url": "https://t.co/l6YmTJpSD9"
+              }
+            ]
+          }
+        },
+        "id": "580448205",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088649381922902201",
+        "name": "歩サラ🌿",
+        "pinned_tweet_id": "2087473264146940018",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/580448205/1720690909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888059433437249538/XV3dd4Rt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67811,
+          "following_count": 1384,
+          "like_count": 25460,
+          "listed_count": 572,
+          "media_count": 3118,
+          "tweet_count": 67413
+        },
+        "url": "https://t.co/l6YmTJpSD9",
+        "username": "ayumi_sarah",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

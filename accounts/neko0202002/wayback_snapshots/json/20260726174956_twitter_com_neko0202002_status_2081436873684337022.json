@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081094641936748545"
+      ],
+      "media_source_tweet_id": [
+        "2081137420519571568"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2081436873684337022",
+    "created_at": "2026-07-26T17:49:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T18:49:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081436873684337022"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 35,
+          "tag": "まどドラ"
+        },
+        {
+          "end": 46,
+          "start": 41,
+          "tag": "マギレコ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "726795855471083520",
+          "start": 3,
+          "username": "DriedSardines17"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2fzgvmk4r4",
+          "end": 70,
+          "expanded_url": "https://x.com/DriedSardines17/status/2081137420519571568/photo/1",
+          "media_key": "3_2081094641936748545",
+          "start": 47,
+          "url": "https://t.co/2fzgvmk4r4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081436873684337022",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 208
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081137420519571568",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DriedSardines17: やちいろタピオカチャレンジ\n#まどドラ #マギレコ https://t.co/2fzgvmk4r4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2081094641936748545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOGIjPyb0AECFyS.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081094641936748545"
+          ]
+        },
+        "author_id": "726795855471083520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2081137420519571568",
+        "created_at": "2026-07-25T22:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T23:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081137420519571568"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "まどドラ"
+            },
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "マギレコ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2fzgvmk4r4",
+              "end": 49,
+              "expanded_url": "https://x.com/DriedSardines17/status/2081137420519571568/photo/1",
+              "media_key": "3_2081094641936748545",
+              "start": 26,
+              "url": "https://t.co/2fzgvmk4r4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081137420519571568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 244,
+          "impression_count": 25404,
+          "like_count": 2071,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 208
+        },
+        "reply_settings": "everyone",
+        "text": "やちいろタピオカチャレンジ\n#まどドラ #マギレコ https://t.co/2fzgvmk4r4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081094641936748545"
+          ],
+          "media_source_tweet_id": [
+            "2081137420519571568"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2081436873684337022",
+        "created_at": "2026-07-26T17:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T18:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081436873684337022"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "まどドラ"
+            },
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "マギレコ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "726795855471083520",
+              "start": 3,
+              "username": "DriedSardines17"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2fzgvmk4r4",
+              "end": 70,
+              "expanded_url": "https://x.com/DriedSardines17/status/2081137420519571568/photo/1",
+              "media_key": "3_2081094641936748545",
+              "start": 47,
+              "url": "https://t.co/2fzgvmk4r4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081436873684337022",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 208
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081137420519571568",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DriedSardines17: やちいろタピオカチャレンジ\n#まどドラ #マギレコ https://t.co/2fzgvmk4r4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 662,
+          "like_count": 2497,
+          "listed_count": 3,
+          "media_count": 2448,
+          "tweet_count": 6499
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-01T15:30:09.000Z",
+        "description": "AIに推しのイラストを生成してもらう夜行性の生き物\nキャラクターの可愛さ重視で他は色々破綻しがち",
+        "id": "726795855471083520",
+        "name": "にぼし",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051806334803402753/wO7m_3fV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 40,
+          "like_count": 430,
+          "listed_count": 7,
+          "media_count": 78,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "DriedSardines17",
+        "verified": false
+      }
+    ]
+  }
+}

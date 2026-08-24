@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2079543874033430620",
+    "created_at": "2026-07-21T12:27:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T13:27:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079543874033430620"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Yuki312813/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/Yuki312813/status/2079491258041389411",
+          "start": 14,
+          "url": "https://t.co/kRPTK6YI0I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079543874033430620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079491258041389411",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本来就不存在东西，何谈没有 https://t.co/kRPTK6YI0I"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2079543874033430620",
+        "created_at": "2026-07-21T12:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T13:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079543874033430620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yuki312813/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Yuki312813/status/2079491258041389411",
+              "start": 14,
+              "url": "https://t.co/kRPTK6YI0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079543874033430620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079491258041389411",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本来就不存在东西，何谈没有 https://t.co/kRPTK6YI0I"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008420775204896768",
+        "conversation_id": "2079491258041389411",
+        "created_at": "2026-07-21T08:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T09:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079491258041389411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sakura8964666/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Sakura8964666/status/2079437704471965967",
+              "start": 9,
+              "url": "https://t.co/GUdKj8Rsvy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079491258041389411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 228,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079437704471965967",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们的未来没有了 https://t.co/GUdKj8Rsvy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 662,
+          "like_count": 2491,
+          "listed_count": 2,
+          "media_count": 2442,
+          "tweet_count": 6466
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-06T06:10:50.000Z",
+        "description": "",
+        "id": "2008420775204896768",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想跳了。",
+        "pinned_tweet_id": "2078144810670542937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069472168459522048/7mjvUfxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 241,
+          "like_count": 4234,
+          "listed_count": 0,
+          "media_count": 352,
+          "tweet_count": 3297
+        },
+        "url": "",
+        "username": "Yuki312813",
+        "verified": true
+      }
+    ]
+  }
+}

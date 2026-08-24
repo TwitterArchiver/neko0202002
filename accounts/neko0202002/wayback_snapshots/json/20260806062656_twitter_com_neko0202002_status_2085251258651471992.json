@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085142925227487232"
+      ],
+      "media_source_tweet_id": [
+        "2085143075626872963"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2085251258651471992",
+    "created_at": "2026-08-06T06:26:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T07:26:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085251258651471992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1979336068924395520",
+          "start": 3,
+          "username": "ShiroyukiNoa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wkWnucYbG7",
+          "end": 59,
+          "expanded_url": "https://x.com/ShiroyukiNoa/status/2085143075626872963/photo/1",
+          "media_key": "3_2085142925227487232",
+          "start": 36,
+          "url": "https://t.co/wkWnucYbG7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085251258651471992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085143075626872963",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShiroyukiNoa: 这种小笨猫...\n算了，她好可爱！ https://t.co/wkWnucYbG7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2085142925227487232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO_qcWQacAAZWqg.jpg",
+        "width": 1792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085142925227487232"
+          ]
+        },
+        "author_id": "1979336068924395520",
+        "conversation_id": "2085143075626872963",
+        "created_at": "2026-08-05T23:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T00:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085143075626872963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wkWnucYbG7",
+              "end": 41,
+              "expanded_url": "https://x.com/ShiroyukiNoa/status/2085143075626872963/photo/1",
+              "media_key": "3_2085142925227487232",
+              "start": 18,
+              "url": "https://t.co/wkWnucYbG7"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "35fd5bacecc4c6e5"
+        },
+        "id": "2085143075626872963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 1630,
+          "like_count": 115,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这种小笨猫...\n算了，她好可爱！ https://t.co/wkWnucYbG7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085142925227487232"
+          ],
+          "media_source_tweet_id": [
+            "2085143075626872963"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2085251258651471992",
+        "created_at": "2026-08-06T06:26:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:26:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085251258651471992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1979336068924395520",
+              "start": 3,
+              "username": "ShiroyukiNoa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wkWnucYbG7",
+              "end": 59,
+              "expanded_url": "https://x.com/ShiroyukiNoa/status/2085143075626872963/photo/1",
+              "media_key": "3_2085142925227487232",
+              "start": 36,
+              "url": "https://t.co/wkWnucYbG7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085251258651471992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085143075626872963",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShiroyukiNoa: 这种小笨猫...\n算了，她好可爱！ https://t.co/wkWnucYbG7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 670,
+          "like_count": 2530,
+          "listed_count": 3,
+          "media_count": 2467,
+          "tweet_count": 6599
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T23:58:00.000Z",
+        "description": "00后infp摩羯座女生。\n心理健康极少玉玉，不想回的私信不会回。\n称呼嘛可以叫我noa\n想聊天随时可以私信～",
+        "id": "1979336068924395520",
+        "location": "Hong Kong",
+        "name": "白雪乃爱",
+        "pinned_tweet_id": "2022603083004678337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022601888861163520/JLns_ZHH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 46,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 174
+        },
+        "url": "",
+        "username": "ShiroyukiNoa",
+        "verified": false
+      }
+    ]
+  }
+}

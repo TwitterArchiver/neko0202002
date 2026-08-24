@@ -1,0 +1,635 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2089735729907990950",
+    "created_at": "2026-08-18T15:26:38.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T16:26:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089735729907990950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1561806114274287616",
+          "start": 3,
+          "username": "crossyangshe"
+        },
+        {
+          "end": 43,
+          "id": "1804875241367433216",
+          "start": 30,
+          "username": "aberyoheiskm"
+        },
+        {
+          "end": 63,
+          "id": "1852135214795100164",
+          "start": 54,
+          "username": "ayameeii"
+        },
+        {
+          "end": 86,
+          "id": "2038184435477319680",
+          "start": 74,
+          "username": "MIMIsamaOvo"
+        },
+        {
+          "end": 104,
+          "id": "1801354933796741120",
+          "start": 97,
+          "username": "Xzz_64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089735729907990950",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089626591907426776",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @crossyangshe: ⭐开奖啦！⭐\n\n一等奖 @aberyoheiskm （35r）\n二等奖 @ayameeii （25r）\n三等奖 @MIMIsamaOvo （20r）\n四等奖 @Xzz_64 （20r）\n采用grok抽奖（除去1和2是因为1和2是az的回复），…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089625890963804160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_XrTBbUAAqUce.jpg",
+        "width": 922
+      },
+      {
+        "height": 1116,
+        "media_key": "3_2089625890959523840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_XrTAaAAAt6Im.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2089735729907990950",
+        "created_at": "2026-08-18T15:26:38.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T16:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089735729907990950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1561806114274287616",
+              "start": 3,
+              "username": "crossyangshe"
+            },
+            {
+              "end": 43,
+              "id": "1804875241367433216",
+              "start": 30,
+              "username": "aberyoheiskm"
+            },
+            {
+              "end": 63,
+              "id": "1852135214795100164",
+              "start": 54,
+              "username": "ayameeii"
+            },
+            {
+              "end": 86,
+              "id": "2038184435477319680",
+              "start": 74,
+              "username": "MIMIsamaOvo"
+            },
+            {
+              "end": 104,
+              "id": "1801354933796741120",
+              "start": 97,
+              "username": "Xzz_64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089735729907990950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089626591907426776",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @crossyangshe: ⭐开奖啦！⭐\n\n一等奖 @aberyoheiskm （35r）\n二等奖 @ayameeii （25r）\n三等奖 @MIMIsamaOvo （20r）\n四等奖 @Xzz_64 （20r）\n采用grok抽奖（除去1和2是因为1和2是az的回复），…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089625890963804160",
+            "3_2089625890959523840"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2089626591907426776",
+        "created_at": "2026-08-18T08:12:57.000Z",
+        "display_text_range": [
+          0,
+          172
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T09:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089626591907426776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1804875241367433216",
+              "start": 12,
+              "username": "aberyoheiskm"
+            },
+            {
+              "end": 45,
+              "id": "1852135214795100164",
+              "start": 36,
+              "username": "ayameeii"
+            },
+            {
+              "end": 68,
+              "id": "2038184435477319680",
+              "start": 56,
+              "username": "MIMIsamaOvo"
+            },
+            {
+              "end": 86,
+              "id": "1801354933796741120",
+              "start": 79,
+              "username": "Xzz_64"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hrdw4hBREU",
+              "end": 196,
+              "expanded_url": "https://x.com/crossyangshe/status/2089626591907426776/photo/1",
+              "media_key": "3_2089625890963804160",
+              "start": 173,
+              "url": "https://t.co/Hrdw4hBREU"
+            },
+            {
+              "display_url": "pic.x.com/Hrdw4hBREU",
+              "end": 196,
+              "expanded_url": "https://x.com/crossyangshe/status/2089626591907426776/photo/1",
+              "media_key": "3_2089625890959523840",
+              "start": 173,
+              "url": "https://t.co/Hrdw4hBREU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089626591907426776",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089625890963804160"
+          },
+          {
+            "media_key": "3_2089625890959523840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 319,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "⭐开奖啦！⭐\n\n一等奖 @aberyoheiskm （35r）\n二等奖 @ayameeii （25r）\n三等奖 @MIMIsamaOvo （20r）\n四等奖 @Xzz_64 （20r）\n采用grok抽奖（除去1和2是因为1和2是az的回复），已经私信你们了呀！你们发微信收款码az就能收到，az从来不骗大家！\n大家帮帮转转一下，以后还有机会哦！ https://t.co/Hrdw4hBREU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2089735729907990950",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 676,
+          "like_count": 2603,
+          "listed_count": 3,
+          "media_count": 2537,
+          "tweet_count": 6883
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2089627453270733293",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 585,
+          "like_count": 5109,
+          "listed_count": 2,
+          "media_count": 171,
+          "tweet_count": 1243
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-23T13:53:01.000Z",
+        "description": "⊹ 𝚜𝚞𝚣𝚞𝚖𝚎 ⊹ サブ垢：@aberyoheiabe⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n仲良くしてくれる子 DM待ってます💤\n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo↓来玩提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "aberyoheiabe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aberyoheiskm",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aberyoheiskm",
+                "start": 0,
+                "url": "https://t.co/gj0HdlxzyS"
+              }
+            ]
+          }
+        },
+        "id": "1804875241367433216",
+        "is_identity_verified": false,
+        "location": "キラキラな世界ʚ✞ɞ ",
+        "most_recent_tweet_id": "2089735727542329740",
+        "name": "⊹すずめ⊹🩵",
+        "pinned_tweet_id": "2040494384823874007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804875241367433216/1775358395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040630139747553280/HymSNJZ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 619,
+          "like_count": 8131,
+          "listed_count": 2,
+          "media_count": 477,
+          "tweet_count": 4851
+        },
+        "url": "https://t.co/gj0HdlxzyS",
+        "username": "aberyoheiskm",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-31T23:47:06.000Z",
+        "description": "互联网依存|前世@ayamekiss 另一个我@aeroayame",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "ayamekiss"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "aeroayame"
+              }
+            ]
+          }
+        },
+        "id": "1852135214795100164",
+        "is_identity_verified": false,
+        "location": "某处",
+        "most_recent_tweet_id": "2089564423941988690",
+        "name": "绫绫绫",
+        "pinned_tweet_id": "2042562085209673832",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852135214795100164/1760476595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978206852908539904/zv_IdkSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1276,
+          "following_count": 807,
+          "like_count": 11287,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 4785
+        },
+        "url": "",
+        "username": "ayameeii",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-29T09:21:29.000Z",
+        "description": "梦到什么发什么，关注mimi谢谢喵\n戒毒中day0\n二号机@MIMIsamowo\n诚接私人导弹定制",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "MIMIsamowo"
+              }
+            ]
+          }
+        },
+        "id": "2038184435477319680",
+        "is_identity_verified": false,
+        "location": "戒毒所",
+        "most_recent_tweet_id": "2089605695582937550",
+        "name": "MIMI",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2038184435477319680/1775595884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069136182697672704/2H0_ygY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 63,
+          "like_count": 472,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 320
+        },
+        "url": "",
+        "username": "MIMIsamaOvo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-13T20:44:28.000Z",
+        "description": "",
+        "id": "1801354933796741120",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089213829200871803",
+        "name": "被喝茶的可怜人",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 98,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 256
+        },
+        "url": "",
+        "username": "Xzz_64",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

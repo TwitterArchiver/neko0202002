@@ -1,0 +1,442 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077652077720018945",
+        "3_2077652077153832960"
+      ],
+      "media_source_tweet_id": [
+        "2077652080538640643",
+        "2077652080538640643"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2077652759852249265",
+    "created_at": "2026-07-16T07:13:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T08:13:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077652759852249265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1643490407094030338",
+          "start": 3,
+          "username": "Usam8964"
+        },
+        {
+          "end": 30,
+          "id": "2063228399586541568",
+          "start": 19,
+          "username": "_FanQie11_"
+        },
+        {
+          "end": 44,
+          "id": "2073780355434483712",
+          "start": 31,
+          "username": "QianQian_TwT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DG50hVofEP",
+          "end": 92,
+          "expanded_url": "https://x.com/Usam8964/status/2077652080538640643/photo/1",
+          "media_key": "3_2077652077720018945",
+          "start": 69,
+          "url": "https://t.co/DG50hVofEP"
+        },
+        {
+          "display_url": "pic.x.com/DG50hVofEP",
+          "end": 92,
+          "expanded_url": "https://x.com/Usam8964/status/2077652080538640643/photo/1",
+          "media_key": "3_2077652077153832960",
+          "start": 69,
+          "url": "https://t.co/DG50hVofEP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077652759852249265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077652080538640643",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Usam8964: 悲报，番茄@_FanQie11_ @QianQian_TwT ​因歼仁举报不可抗力被封印7天。燥候芊芊复活。 https://t.co/DG50hVofEP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2065,
+        "media_key": "3_2077652077720018945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVNjotaoAEX7ri.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2065,
+        "media_key": "3_2077652077153832960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVNjmmbUAA2HB5.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077652077720018945",
+            "3_2077652077153832960"
+          ],
+          "media_source_tweet_id": [
+            "2077652080538640643",
+            "2077652080538640643"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2077652759852249265",
+        "created_at": "2026-07-16T07:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T08:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077652759852249265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1643490407094030338",
+              "start": 3,
+              "username": "Usam8964"
+            },
+            {
+              "end": 30,
+              "id": "2063228399586541568",
+              "start": 19,
+              "username": "_FanQie11_"
+            },
+            {
+              "end": 44,
+              "id": "2073780355434483712",
+              "start": 31,
+              "username": "QianQian_TwT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DG50hVofEP",
+              "end": 92,
+              "expanded_url": "https://x.com/Usam8964/status/2077652080538640643/photo/1",
+              "media_key": "3_2077652077720018945",
+              "start": 69,
+              "url": "https://t.co/DG50hVofEP"
+            },
+            {
+              "display_url": "pic.x.com/DG50hVofEP",
+              "end": 92,
+              "expanded_url": "https://x.com/Usam8964/status/2077652080538640643/photo/1",
+              "media_key": "3_2077652077153832960",
+              "start": 69,
+              "url": "https://t.co/DG50hVofEP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077652759852249265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077652080538640643",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Usam8964: 悲报，番茄@_FanQie11_ @QianQian_TwT ​因歼仁举报不可抗力被封印7天。燥候芊芊复活。 https://t.co/DG50hVofEP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077652077720018945",
+            "3_2077652077153832960"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2077652080538640643",
+        "created_at": "2026-07-16T07:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T08:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077652080538640643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2063228399586541568",
+              "start": 5,
+              "username": "_FanQie11_"
+            },
+            {
+              "end": 30,
+              "id": "2073780355434483712",
+              "start": 17,
+              "username": "QianQian_TwT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DG50hVofEP",
+              "end": 78,
+              "expanded_url": "https://x.com/Usam8964/status/2077652080538640643/photo/1",
+              "media_key": "3_2077652077720018945",
+              "start": 55,
+              "url": "https://t.co/DG50hVofEP"
+            },
+            {
+              "display_url": "pic.x.com/DG50hVofEP",
+              "end": 78,
+              "expanded_url": "https://x.com/Usam8964/status/2077652080538640643/photo/1",
+              "media_key": "3_2077652077153832960",
+              "start": 55,
+              "url": "https://t.co/DG50hVofEP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077652080538640643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "悲报，番茄@_FanQie11_ @QianQian_TwT ​因歼仁举报不可抗力被封印7天。燥候芊芊复活。 https://t.co/DG50hVofEP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 653,
+          "like_count": 2406,
+          "listed_count": 2,
+          "media_count": 2351,
+          "tweet_count": 6208
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）\n🩷：@bolckAshley @yuki40582\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 106,
+                "username": "bolckAshley"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usam8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usam8964",
+                "start": 0,
+                "url": "https://t.co/DA3k6l1EmZ"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "pinned_tweet_id": "2072003546862715204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4139,
+          "following_count": 1353,
+          "like_count": 79435,
+          "listed_count": 6,
+          "media_count": 604,
+          "tweet_count": 8152
+        },
+        "url": "https://t.co/DA3k6l1EmZ",
+        "username": "Usam8964",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-06T11:59:22.000Z",
+        "description": "操蛋第11世\n寶寶@7q46843886669\n\n媽媽@zameru619",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "7q46843886669"
+              },
+              {
+                "end": 37,
+                "start": 27,
+                "username": "zameru619"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/GHBdAGFG8e"
+              }
+            ]
+          }
+        },
+        "id": "2063228399586541568",
+        "location": "看看你身後呢",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2066018609181372479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063229850941579264/ABMYWBep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 119,
+          "like_count": 1573,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1004
+        },
+        "url": "https://t.co/GHBdAGFG8e",
+        "username": "_FanQie11_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-05T14:47:09.000Z",
+        "description": "LGBTQ 全友好？！交友大歡迎！！\n寶寶 @7q46843886669",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 22,
+                "username": "7q46843886669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_2",
+                "start": 0,
+                "url": "https://t.co/v79ODfNpxi"
+              }
+            ]
+          }
+        },
+        "id": "2073780355434483712",
+        "name": "番茄操蛋",
+        "pinned_tweet_id": "2073811033744171495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073780960559276032/7BDjGxja_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1315,
+          "following_count": 52,
+          "like_count": 1131,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 308
+        },
+        "url": "https://t.co/v79ODfNpxi",
+        "username": "QianQian_TwT",
+        "verified": true
+      }
+    ]
+  }
+}

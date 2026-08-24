@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2089795705627889962",
+    "created_at": "2026-08-19T07:05:16.000Z",
+    "display_text_range": [
+      12,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T08:05:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089971947362787832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1836539055334658048",
+          "start": 0,
+          "username": "gwz1375935"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089971947362787832",
+    "in_reply_to_user_id": "1836539055334658048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089795705627889962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gwz1375935 从墙内刷到墙外都被推荐了，好巧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2398,
+        "media_key": "3_2089795664947417088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQByFcZXkAA3MY3.jpg",
+        "width": 1820
+      },
+      {
+        "height": 2803,
+        "media_key": "3_2089795685897928704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQByGqcXAAA94An.jpg",
+        "width": 1829
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2089795705627889962",
+        "created_at": "2026-08-19T07:05:16.000Z",
+        "display_text_range": [
+          12,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089971947362787832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1836539055334658048",
+              "start": 0,
+              "username": "gwz1375935"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089971947362787832",
+        "in_reply_to_user_id": "1836539055334658048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089795705627889962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gwz1375935 从墙内刷到墙外都被推荐了，好巧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089795664947417088",
+            "3_2089795685897928704"
+          ]
+        },
+        "author_id": "1836539055334658048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          }
+        ],
+        "conversation_id": "2089795705627889962",
+        "created_at": "2026-08-18T19:24:57.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T20:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089795705627889962"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 111,
+              "start": 106,
+              "tag": "ddlc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ScWhLnU997",
+              "end": 135,
+              "expanded_url": "https://x.com/gwz1375935/status/2089795705627889962/photo/1",
+              "media_key": "3_2089795664947417088",
+              "start": 112,
+              "url": "https://t.co/ScWhLnU997"
+            },
+            {
+              "display_url": "pic.x.com/ScWhLnU997",
+              "end": 135,
+              "expanded_url": "https://x.com/gwz1375935/status/2089795705627889962/photo/1",
+              "media_key": "3_2089795685897928704",
+              "start": 112,
+              "url": "https://t.co/ScWhLnU997"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089795705627889962",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2089795664947417088"
+          },
+          {
+            "media_key": "3_2089795685897928704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 3708,
+          "like_count": 459,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "I'm glad someone cosplayed my painting ，Although sometimes I feel that their paintings may not deserve it #ddlc https://t.co/ScWhLnU997"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2089971947362787832",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 623,
+          "like_count": 2611,
+          "listed_count": 3,
+          "media_count": 2538,
+          "tweet_count": 6901
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-18T22:53:36.000Z",
+        "description": "Temporarily not accepting the commission",
+        "id": "1836539055334658048",
+        "is_identity_verified": false,
+        "location": "柏林",
+        "most_recent_tweet_id": "2089795705627889962",
+        "name": "Rachel Campbell",
+        "pinned_tweet_id": "2040052339365855497",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1836539055334658048/1772470045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075640418843115520/1wTWf0i6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4421,
+          "following_count": 17,
+          "like_count": 428,
+          "listed_count": 4,
+          "media_count": 162,
+          "tweet_count": 333
+        },
+        "url": "",
+        "username": "gwz1375935",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

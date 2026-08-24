@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078480118843072513"
+      ],
+      "media_source_tweet_id": [
+        "2078480253652214266"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2078659100645429469",
+    "created_at": "2026-07-19T01:52:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T02:52:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078659100645429469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1725423645944881152",
+          "start": 3,
+          "username": "VRC_Conchan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mmJ7bpq4pd",
+          "end": 47,
+          "expanded_url": "https://x.com/VRC_Conchan/status/2078480253652214266/photo/1",
+          "media_key": "3_2078480118843072513",
+          "start": 24,
+          "url": "https://t.co/mmJ7bpq4pd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078659100645429469",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 202
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078480253652214266",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VRC_Conchan: 小学生キラー https://t.co/mmJ7bpq4pd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_2078480118843072513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNg-p-RaYAEXNja.jpg",
+        "width": 1919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078480118843072513"
+          ]
+        },
+        "author_id": "1725423645944881152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078480253652214266",
+        "created_at": "2026-07-18T14:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078480253652214266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mmJ7bpq4pd",
+              "end": 30,
+              "expanded_url": "https://x.com/VRC_Conchan/status/2078480253652214266/photo/1",
+              "media_key": "3_2078480118843072513",
+              "start": 7,
+              "url": "https://t.co/mmJ7bpq4pd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078480253652214266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1698,
+          "impression_count": 305489,
+          "like_count": 7059,
+          "quote_count": 17,
+          "reply_count": 10,
+          "retweet_count": 202
+        },
+        "reply_settings": "everyone",
+        "text": "小学生キラー https://t.co/mmJ7bpq4pd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078480118843072513"
+          ],
+          "media_source_tweet_id": [
+            "2078480253652214266"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078659100645429469",
+        "created_at": "2026-07-19T01:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T02:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078659100645429469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1725423645944881152",
+              "start": 3,
+              "username": "VRC_Conchan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mmJ7bpq4pd",
+              "end": 47,
+              "expanded_url": "https://x.com/VRC_Conchan/status/2078480253652214266/photo/1",
+              "media_key": "3_2078480118843072513",
+              "start": 24,
+              "url": "https://t.co/mmJ7bpq4pd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078659100645429469",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 202
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078480253652214266",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VRC_Conchan: 小学生キラー https://t.co/mmJ7bpq4pd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 656,
+          "like_count": 2469,
+          "listed_count": 2,
+          "media_count": 2417,
+          "tweet_count": 6402
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-17T08:00:42.000Z",
+        "description": "𝗙𝗮𝗻𝗠𝗮𝗿𝗸 -🔌-\nrespe @Areshoppp.@vkkxxx\n/Shop tag #Conse_Shop",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 47,
+                "tag": "Conse_Shop"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 28,
+                "start": 18,
+                "username": "Areshoppp"
+              },
+              {
+                "end": 36,
+                "start": 29,
+                "username": "vkkxxx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "myconsentostore.booth.pm",
+                "end": 23,
+                "expanded_url": "https://myconsentostore.booth.pm/",
+                "start": 0,
+                "url": "https://t.co/EgWNyWROT5"
+              }
+            ]
+          }
+        },
+        "id": "1725423645944881152",
+        "location": "Live and learn",
+        "name": "こんせんと🔌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983482476845764610/N9pP437N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 314,
+          "like_count": 9832,
+          "listed_count": 3,
+          "media_count": 1450,
+          "tweet_count": 4486
+        },
+        "url": "https://t.co/EgWNyWROT5",
+        "username": "VRC_Conchan",
+        "verified": false
+      }
+    ]
+  }
+}

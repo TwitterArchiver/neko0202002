@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078339908364898305"
+      ],
+      "media_source_tweet_id": [
+        "2078339931685138489"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2078381505437732956",
+    "created_at": "2026-07-18T07:29:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T08:29:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078381505437732956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1242399564591579136",
+          "start": 3,
+          "username": "Segven703"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LH366kPFgd",
+          "end": 50,
+          "expanded_url": "https://x.com/Segven703/status/2078339931685138489/video/1",
+          "media_key": "13_2078339908364898305",
+          "start": 27,
+          "url": "https://t.co/LH366kPFgd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078381505437732956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078339931685138489",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Segven703: 这踏马啥适配度啊我喷了 https://t.co/LH366kPFgd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4866,
+        "height": 720,
+        "media_key": "13_2078339908364898305",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078339908364898305/img/dB2NylHkVahQkgU4.jpg",
+        "public_metrics": {
+          "view_count": 384
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078339908364898305/vid/avc1/320x320/9GS0b2cbQkes8nRJ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078339908364898305/vid/avc1/540x540/TACIqEmoUcbamc5m.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078339908364898305/vid/avc1/720x720/vLbWqiuHG496M8GM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078339908364898305/pl/OClqgKAwlbCSmCa1.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078339908364898305"
+          ]
+        },
+        "author_id": "1242399564591579136",
+        "conversation_id": "2078339931685138489",
+        "created_at": "2026-07-18T04:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078339931685138489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LH366kPFgd",
+              "end": 35,
+              "expanded_url": "https://x.com/Segven703/status/2078339931685138489/video/1",
+              "media_key": "13_2078339908364898305",
+              "start": 12,
+              "url": "https://t.co/LH366kPFgd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078339931685138489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1180,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这踏马啥适配度啊我喷了 https://t.co/LH366kPFgd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078339908364898305"
+          ],
+          "media_source_tweet_id": [
+            "2078339931685138489"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2078381505437732956",
+        "created_at": "2026-07-18T07:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T08:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078381505437732956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1242399564591579136",
+              "start": 3,
+              "username": "Segven703"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LH366kPFgd",
+              "end": 50,
+              "expanded_url": "https://x.com/Segven703/status/2078339931685138489/video/1",
+              "media_key": "13_2078339908364898305",
+              "start": 27,
+              "url": "https://t.co/LH366kPFgd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078381505437732956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078339931685138489",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Segven703: 这踏马啥适配度啊我喷了 https://t.co/LH366kPFgd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 660,
+          "like_count": 2457,
+          "listed_count": 2,
+          "media_count": 2397,
+          "tweet_count": 6346
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-24T10:35:30.000Z",
+        "description": "＝七代｜20↑｜中文/翻译器｜头像来自友人@Meota_XD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 21,
+                "username": "Meota_XD"
+              }
+            ]
+          }
+        },
+        "id": "1242399564591579136",
+        "name": "Segven",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071608927738028032/rapfr-6-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5694,
+          "following_count": 123,
+          "like_count": 2249,
+          "listed_count": 19,
+          "media_count": 259,
+          "tweet_count": 801
+        },
+        "url": "",
+        "username": "Segven703",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081376184236158977"
+      ],
+      "media_source_tweet_id": [
+        "2081379162565288078"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2081437328611086347",
+    "created_at": "2026-07-26T17:51:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T18:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081437328611086347"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 21,
+          "tag": "ゆずソフト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1211984080448831490",
+          "start": 3,
+          "username": "1089oden"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8CqpEXbJtx",
+          "end": 51,
+          "expanded_url": "https://x.com/1089oden/status/2081379162565288078/photo/1",
+          "media_key": "3_2081376184236158977",
+          "start": 28,
+          "url": "https://t.co/8CqpEXbJtx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081437328611086347",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 114
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081379162565288078",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1089oden: 綾地さん！🍜\n＃ゆずソフト https://t.co/8CqpEXbJtx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2081376184236158977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKInKlasAEl2gX.jpg",
+        "width": 2992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081376184236158977"
+          ]
+        },
+        "author_id": "1211984080448831490",
+        "conversation_id": "2081379162565288078",
+        "created_at": "2026-07-26T14:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T15:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081379162565288078"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 7,
+              "tag": "ゆずソフト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8CqpEXbJtx",
+              "end": 37,
+              "expanded_url": "https://x.com/1089oden/status/2081379162565288078/photo/1",
+              "media_key": "3_2081376184236158977",
+              "start": 14,
+              "url": "https://t.co/8CqpEXbJtx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081379162565288078",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 153,
+          "impression_count": 7541,
+          "like_count": 909,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 114
+        },
+        "reply_settings": "everyone",
+        "text": "綾地さん！🍜\n＃ゆずソフト https://t.co/8CqpEXbJtx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081376184236158977"
+          ],
+          "media_source_tweet_id": [
+            "2081379162565288078"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2081437328611086347",
+        "created_at": "2026-07-26T17:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T18:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081437328611086347"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 21,
+              "tag": "ゆずソフト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1211984080448831490",
+              "start": 3,
+              "username": "1089oden"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8CqpEXbJtx",
+              "end": 51,
+              "expanded_url": "https://x.com/1089oden/status/2081379162565288078/photo/1",
+              "media_key": "3_2081376184236158977",
+              "start": 28,
+              "url": "https://t.co/8CqpEXbJtx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081437328611086347",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 114
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081379162565288078",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1089oden: 綾地さん！🍜\n＃ゆずソフト https://t.co/8CqpEXbJtx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "location": "圣应女子学院",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 662,
+          "like_count": 2497,
+          "listed_count": 3,
+          "media_count": 2448,
+          "tweet_count": 6501
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-31T12:15:08.000Z",
+        "description": "絵をかいています! アニメや漫画、ゲームが好きです！まったり楽しみます！人を罵倒する事はありません",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/user_nmej2822",
+                "end": 23,
+                "expanded_url": "http://pixiv.me/user_nmej2822",
+                "start": 0,
+                "url": "https://t.co/uBu2UkpCQ1"
+              }
+            ]
+          }
+        },
+        "id": "1211984080448831490",
+        "location": "サークル/1089まっしろ",
+        "name": "まっしろ",
+        "pinned_tweet_id": "2006915544646299673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581288247820398592/U09-9UXb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 471,
+          "like_count": 23475,
+          "listed_count": 4,
+          "media_count": 55,
+          "tweet_count": 490
+        },
+        "url": "https://t.co/uBu2UkpCQ1",
+        "username": "1089oden",
+        "verified": false
+      }
+    ]
+  }
+}

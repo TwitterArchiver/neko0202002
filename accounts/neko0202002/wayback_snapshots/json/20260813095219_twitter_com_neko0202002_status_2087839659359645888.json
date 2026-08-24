@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2062784578935529472"
+      ],
+      "media_source_tweet_id": [
+        "2062785309172289755"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2087839659359645888",
+    "created_at": "2026-08-13T09:52:19.000Z",
+    "display_text_range": [
+      0,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T10:52:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087839659359645888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1682018448065589248",
+          "start": 3,
+          "username": "AsumuInori"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FMfXw4J0dx",
+          "end": 74,
+          "expanded_url": "https://x.com/AsumuInori/status/2062785309172289755/video/1",
+          "media_key": "13_2062784578935529472",
+          "start": 51,
+          "url": "https://t.co/FMfXw4J0dx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087839659359645888",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "13_2062784578935529472"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 363
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062785309172289755",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @AsumuInori: 꽤 예전에 만든 영상이라 엉성하지만 애정과 열정이 보이네... https://t.co/FMfXw4J0dx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 95033,
+        "height": 2160,
+        "media_key": "13_2062784578935529472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062784578935529472/img/bp2nGD8avgqmHDyp.jpg",
+        "public_metrics": {
+          "view_count": 19694
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062784578935529472/vid/avc1/3744x2160/Yk4Y_ldmzHaAua7Q.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062784578935529472/pl/qFlH0V0g2cDEcavM.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062784578935529472/vid/avc1/468x270/tbuSVaQMok499QnH.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062784578935529472/vid/avc1/1872x1080/bI6stP22tnuJWzCf.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062784578935529472/vid/avc1/624x360/Nz_oOBNK6K1ByXE7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062784578935529472/vid/avc1/1248x720/J_6PAgE1N143VW_p.mp4"
+          }
+        ],
+        "width": 3744
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062784578935529472"
+          ]
+        },
+        "author_id": "1682018448065589248",
+        "conversation_id": "2062785309172289755",
+        "created_at": "2026-06-05T06:35:17.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-05T07:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062785309172289755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FMfXw4J0dx",
+              "end": 58,
+              "expanded_url": "https://x.com/AsumuInori/status/2062785309172289755/video/1",
+              "media_key": "13_2062784578935529472",
+              "start": 35,
+              "url": "https://t.co/FMfXw4J0dx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062785309172289755",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "13_2062784578935529472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 415,
+          "impression_count": 74647,
+          "like_count": 2194,
+          "quote_count": 17,
+          "reply_count": 0,
+          "retweet_count": 363
+        },
+        "reply_settings": "following",
+        "text": "꽤 예전에 만든 영상이라 엉성하지만 애정과 열정이 보이네... https://t.co/FMfXw4J0dx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062784578935529472"
+          ],
+          "media_source_tweet_id": [
+            "2062785309172289755"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087839659359645888",
+        "created_at": "2026-08-13T09:52:19.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T10:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087839659359645888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1682018448065589248",
+              "start": 3,
+              "username": "AsumuInori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FMfXw4J0dx",
+              "end": 74,
+              "expanded_url": "https://x.com/AsumuInori/status/2062785309172289755/video/1",
+              "media_key": "13_2062784578935529472",
+              "start": 51,
+              "url": "https://t.co/FMfXw4J0dx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087839659359645888",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "13_2062784578935529472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 363
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062785309172289755",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @AsumuInori: 꽤 예전에 만든 영상이라 엉성하지만 애정과 열정이 보이네... https://t.co/FMfXw4J0dx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2087839659359645888",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 679,
+          "like_count": 2583,
+          "listed_count": 3,
+          "media_count": 2509,
+          "tweet_count": 6757
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-20T13:24:24.000Z",
+        "description": "#鹿目まどか 우리들 모두의 희망 @inS2ri",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "鹿目まどか"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "inS2ri"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "AsumuInori.carrd.co",
+                "end": 23,
+                "expanded_url": "https://AsumuInori.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/Yu8CnT5rfI"
+              }
+            ]
+          }
+        },
+        "id": "1682018448065589248",
+        "is_identity_verified": false,
+        "location": "i 설 님 •  Do not save & use",
+        "most_recent_tweet_id": "2087830206828658759",
+        "name": "いろ",
+        "pinned_tweet_id": "2085000668390302103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1682018448065589248/1706654628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757735671689789440/8-lzOiiw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 49,
+          "like_count": 1708,
+          "listed_count": 3,
+          "media_count": 115,
+          "tweet_count": 477
+        },
+        "url": "https://t.co/Yu8CnT5rfI",
+        "username": "AsumuInori",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
