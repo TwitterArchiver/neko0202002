@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2091771848317186048"
+      ],
+      "media_source_tweet_id": [
+        "2091771873290051812"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2091813346966401123",
+    "created_at": "2026-08-24T09:02:20.000Z",
+    "display_text_range": [
+      0,
+      132
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T10:02:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091813346966401123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1966859937406971904",
+          "start": 3,
+          "username": "TheAdorablePups"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dXHVUw1877",
+          "end": 132,
+          "expanded_url": "https://x.com/TheAdorablePups/status/2091771873290051812/video/1",
+          "media_key": "13_2091771848317186048",
+          "start": 109,
+          "url": "https://t.co/dXHVUw1877"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091813346966401123",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2091771848317186048"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 257
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091771873290051812",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheAdorablePups: Just before the final injection, this dog gave his human one last heartbreaking look 💔😭 https://t.co/dXHVUw1877"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8322,
+        "height": 912,
+        "media_key": "13_2091771848317186048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091771848317186048/img/wooVZq9XO02l-VYs.jpg",
+        "public_metrics": {
+          "view_count": 62821
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091771848317186048/vid/avc1/320x404/-4cHskhWGUx83RZh.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091771848317186048/vid/avc1/480x606/aIBH_BbMxyM1cMpn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091771848317186048/vid/avc1/720x910/XkUXESQp8jWfJ4uM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091771848317186048/pl/Gi8bchAuRcbT7CCv.m3u8"
+          }
+        ],
+        "width": 721
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091771848317186048"
+          ],
+          "media_source_tweet_id": [
+            "2091771873290051812"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2091813346966401123",
+        "created_at": "2026-08-24T09:02:20.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T10:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091813346966401123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1966859937406971904",
+              "start": 3,
+              "username": "TheAdorablePups"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dXHVUw1877",
+              "end": 132,
+              "expanded_url": "https://x.com/TheAdorablePups/status/2091771873290051812/video/1",
+              "media_key": "13_2091771848317186048",
+              "start": 109,
+              "url": "https://t.co/dXHVUw1877"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091813346966401123",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2091771848317186048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 257
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091771873290051812",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheAdorablePups: Just before the final injection, this dog gave his human one last heartbreaking look 💔😭 https://t.co/dXHVUw1877"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091771848317186048"
+          ]
+        },
+        "author_id": "1966859937406971904",
+        "conversation_id": "2091771873290051812",
+        "created_at": "2026-08-24T06:17:32.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T07:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091771873290051812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dXHVUw1877",
+              "end": 111,
+              "expanded_url": "https://x.com/TheAdorablePups/status/2091771873290051812/video/1",
+              "media_key": "13_2091771848317186048",
+              "start": 88,
+              "url": "https://t.co/dXHVUw1877"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091771873290051812",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2091771848317186048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 245,
+          "impression_count": 119862,
+          "like_count": 4177,
+          "quote_count": 27,
+          "reply_count": 67,
+          "retweet_count": 259
+        },
+        "reply_settings": "everyone",
+        "text": "Just before the final injection, this dog gave his human one last heartbreaking look 💔😭 https://t.co/dXHVUw1877"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2091813346966401123",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 647,
+          "like_count": 2642,
+          "listed_count": 3,
+          "media_count": 2560,
+          "tweet_count": 7056
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-13T13:42:35.000Z",
+        "description": "Your Daily Dose of Puppies",
+        "id": "1966859937406971904",
+        "is_identity_verified": false,
+        "location": "DM for credit/removal",
+        "most_recent_tweet_id": "2091790710995611688",
+        "name": "The Adorable Pups",
+        "pinned_tweet_id": "2072026735861006647",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1966859937406971904/1757771688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014662806399025155/wYJ-PbWh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15900,
+          "following_count": 6631,
+          "like_count": 1161,
+          "listed_count": 21,
+          "media_count": 4735,
+          "tweet_count": 4748
+        },
+        "url": "",
+        "username": "TheAdorablePups",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

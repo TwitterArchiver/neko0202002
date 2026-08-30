@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2092215110047805440"
+      ],
+      "media_source_tweet_id": [
+        "2092215124782387689"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2092262164614488158",
+    "created_at": "2026-08-25T14:45:47.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T15:45:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092262164614488158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1541056625351720961",
+          "start": 3,
+          "username": "Prairie20210108"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5a0y4FZRQa",
+          "end": 52,
+          "expanded_url": "https://x.com/Prairie20210108/status/2092215124782387689/video/1",
+          "media_key": "13_2092215110047805440",
+          "start": 29,
+          "url": "https://t.co/5a0y4FZRQa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092262164614488158",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2092215110047805440"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1023
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092215124782387689",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Prairie20210108: ｽﾌｧﾝﾃｨｽ https://t.co/5a0y4FZRQa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1000,
+        "height": 1080,
+        "media_key": "13_2092215110047805440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092215110047805440/img/R_TtzZIk5YNEbzst.jpg",
+        "public_metrics": {
+          "view_count": 30458
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092215110047805440/vid/avc1/274x270/bUATotnpLTNxNhU4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092215110047805440/pl/j2PUBy1D1YVPm9Oh.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092215110047805440/vid/avc1/1098x1080/GbSAnlZOtLgdKxBA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092215110047805440/vid/avc1/732x720/Doeh-KLMAe5_9U6E.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092215110047805440/vid/avc1/366x360/VIn53LpKuZeo6ema.mp4"
+          }
+        ],
+        "width": 1098
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092215110047805440"
+          ],
+          "media_source_tweet_id": [
+            "2092215124782387689"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2092262164614488158",
+        "created_at": "2026-08-25T14:45:47.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T15:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092262164614488158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1541056625351720961",
+              "start": 3,
+              "username": "Prairie20210108"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5a0y4FZRQa",
+              "end": 52,
+              "expanded_url": "https://x.com/Prairie20210108/status/2092215124782387689/video/1",
+              "media_key": "13_2092215110047805440",
+              "start": 29,
+              "url": "https://t.co/5a0y4FZRQa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092262164614488158",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2092215110047805440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1023
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092215124782387689",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Prairie20210108: ｽﾌｧﾝﾃｨｽ https://t.co/5a0y4FZRQa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092215110047805440"
+          ]
+        },
+        "author_id": "1541056625351720961",
+        "conversation_id": "2092215124782387689",
+        "created_at": "2026-08-25T11:38:51.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T12:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092215124782387689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5a0y4FZRQa",
+              "end": 31,
+              "expanded_url": "https://x.com/Prairie20210108/status/2092215124782387689/video/1",
+              "media_key": "13_2092215110047805440",
+              "start": 8,
+              "url": "https://t.co/5a0y4FZRQa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092215124782387689",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2092215110047805440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 707,
+          "impression_count": 268647,
+          "like_count": 8987,
+          "quote_count": 107,
+          "reply_count": 17,
+          "retweet_count": 1023
+        },
+        "reply_settings": "everyone",
+        "text": "ｽﾌｧﾝﾃｨｽ https://t.co/5a0y4FZRQa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2092262164614488158",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 650,
+          "like_count": 2647,
+          "listed_count": 3,
+          "media_count": 2562,
+          "tweet_count": 7086
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-26T13:52:04.000Z",
+        "description": "大好きなペットのアカウントです！プレーリードッグ、ケープハイラックス、ウサギ、デグー、猫、亀、熱帯魚がいます！飼主は愛玩動物飼養管理士！優しい気持ちで観て頂けると嬉しいです",
+        "id": "1541056625351720961",
+        "is_identity_verified": false,
+        "location": "東京都",
+        "most_recent_tweet_id": "2092215124782387689",
+        "name": "やみの@Prairie dog",
+        "pinned_tweet_id": "1542118083141443584",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1541056625351720961/1656252437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1543245503902928898/rJKDZBwL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39355,
+          "following_count": 268,
+          "like_count": 28624,
+          "listed_count": 341,
+          "media_count": 1795,
+          "tweet_count": 19574
+        },
+        "url": "",
+        "username": "Prairie20210108",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

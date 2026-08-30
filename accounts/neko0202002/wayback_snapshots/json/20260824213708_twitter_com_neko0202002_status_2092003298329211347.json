@@ -1,0 +1,611 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2090414326553415680"
+      ],
+      "media_source_tweet_id": [
+        "2091842957842485624"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2092003298329211347",
+    "created_at": "2026-08-24T21:37:08.000Z",
+    "display_text_range": [
+      0,
+      122
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T22:37:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092003298329211347"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 98,
+          "start": 91,
+          "tag": "まどかマギカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "205592115",
+          "start": 3,
+          "username": "madoka_magica"
+        }
+      ],
+      "urls": [
+        {
+          "description": "劇場版 魔法少女まどか☆マギカ [新編]叛逆の物語の公開劇場一覧ページです。",
+          "display_url": "eigakan.org/theaterpage/sc…",
+          "end": 89,
+          "expanded_url": "https://eigakan.org/theaterpage/schedule.php?t=shinpen",
+          "start": 66,
+          "status": 200,
+          "title": "劇場版 魔法少女まどか☆マギカ [新編]叛逆の物語 劇場情報",
+          "unwound_url": "https://eigakan.org/theaterpage/schedule.php?t=shinpen",
+          "url": "https://t.co/n9HlJaQrY0"
+        },
+        {
+          "display_url": "pic.x.com/R3KdsR1CsN",
+          "end": 122,
+          "expanded_url": "https://x.com/madoka_magica/status/2091842957842485624/video/1",
+          "media_key": "13_2090414326553415680",
+          "start": 99,
+          "url": "https://t.co/R3KdsR1CsN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092003298329211347",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "description": "",
+        "media_key": "13_2090414326553415680",
+        "title": ""
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 590
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091842957842485624",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @madoka_magica: 一緒に──\n¨¨¨¨¨¨¨¨¨¨¨\n[新編]叛逆の物語 リバイバル上映中🎥\n\n▼上映劇場一覧\nhttps://t.co/n9HlJaQrY0\n\n#まどかマギカ https://t.co/R3KdsR1CsN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60602,
+        "height": 1920,
+        "media_key": "13_2090414326553415680",
+        "preview_image_url": "https://pbs.twimg.com/media/HQKlLQga4AADqTB.jpg",
+        "public_metrics": {
+          "view_count": 26942
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090414326553415680/vid/avc1/720x1280/OyMePhEgrfYXfzvr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090414326553415680/pl/Ff75d_O6TgqmKVfV.m3u8?v=0e7"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090414326553415680/vid/avc1/1080x1920/5UKuF1gtDo5Hch6l.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090414326553415680/vid/avc1/480x852/B9RmJGQSf3t12Mc4.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090414326553415680/vid/avc1/320x568/AivIwiDeCW1cSTRD.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090414326553415680"
+          ],
+          "media_source_tweet_id": [
+            "2091842957842485624"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2092003298329211347",
+        "created_at": "2026-08-24T21:37:08.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T22:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092003298329211347"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 98,
+              "start": 91,
+              "tag": "まどかマギカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "205592115",
+              "start": 3,
+              "username": "madoka_magica"
+            }
+          ],
+          "urls": [
+            {
+              "description": "劇場版 魔法少女まどか☆マギカ [新編]叛逆の物語の公開劇場一覧ページです。",
+              "display_url": "eigakan.org/theaterpage/sc…",
+              "end": 89,
+              "expanded_url": "https://eigakan.org/theaterpage/schedule.php?t=shinpen",
+              "start": 66,
+              "status": 200,
+              "title": "劇場版 魔法少女まどか☆マギカ [新編]叛逆の物語 劇場情報",
+              "unwound_url": "https://eigakan.org/theaterpage/schedule.php?t=shinpen",
+              "url": "https://t.co/n9HlJaQrY0"
+            },
+            {
+              "display_url": "pic.x.com/R3KdsR1CsN",
+              "end": 122,
+              "expanded_url": "https://x.com/madoka_magica/status/2091842957842485624/video/1",
+              "media_key": "13_2090414326553415680",
+              "start": 99,
+              "url": "https://t.co/R3KdsR1CsN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092003298329211347",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "description": "",
+            "media_key": "13_2090414326553415680",
+            "title": ""
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 590
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091842957842485624",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @madoka_magica: 一緒に──\n¨¨¨¨¨¨¨¨¨¨¨\n[新編]叛逆の物語 リバイバル上映中🎥\n\n▼上映劇場一覧\nhttps://t.co/n9HlJaQrY0\n\n#まどかマギカ https://t.co/R3KdsR1CsN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090414326553415680"
+          ]
+        },
+        "author_id": "205592115",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2091842957842485624",
+        "created_at": "2026-08-24T11:00:00.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T12:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091842957842485624"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 79,
+              "start": 72,
+              "tag": "まどかマギカ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "劇場版 魔法少女まどか☆マギカ [新編]叛逆の物語の公開劇場一覧ページです。",
+              "display_url": "eigakan.org/theaterpage/sc…",
+              "end": 70,
+              "expanded_url": "https://eigakan.org/theaterpage/schedule.php?t=shinpen",
+              "start": 47,
+              "status": 200,
+              "title": "劇場版 魔法少女まどか☆マギカ [新編]叛逆の物語 劇場情報",
+              "unwound_url": "https://eigakan.org/theaterpage/schedule.php?t=shinpen",
+              "url": "https://t.co/n9HlJaQrY0"
+            },
+            {
+              "display_url": "pic.x.com/R3KdsR1CsN",
+              "end": 103,
+              "expanded_url": "https://x.com/madoka_magica/status/2091842957842485624/video/1",
+              "media_key": "13_2090414326553415680",
+              "start": 80,
+              "url": "https://t.co/R3KdsR1CsN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091842957842485624",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "description": "",
+            "media_key": "13_2090414326553415680",
+            "title": ""
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 213,
+          "impression_count": 100852,
+          "like_count": 2831,
+          "quote_count": 59,
+          "reply_count": 5,
+          "retweet_count": 590
+        },
+        "reply_settings": "everyone",
+        "text": "一緒に──\n¨¨¨¨¨¨¨¨¨¨¨\n[新編]叛逆の物語 リバイバル上映中🎥\n\n▼上映劇場一覧\nhttps://t.co/n9HlJaQrY0\n\n#まどかマギカ https://t.co/R3KdsR1CsN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2092003298329211347",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 650,
+          "like_count": 2645,
+          "listed_count": 3,
+          "media_count": 2560,
+          "tweet_count": 7068
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-10-21T06:07:04.000Z",
+        "description": "総監督：新房昭之×脚本：虚淵玄(ニトロプラス)×キャラクター原案：蒼樹うめ×アニメーション制作：シャフト による『叛逆の物語』の正統なる続編『劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』2026年8月28日公開　#まどかマギカ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 118,
+                "start": 111,
+                "tag": "まどかマギカ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "madoka-magica.com",
+                "end": 23,
+                "expanded_url": "https://www.madoka-magica.com/",
+                "start": 0,
+                "url": "https://t.co/PSfUr9lntF"
+              }
+            ]
+          }
+        },
+        "id": "205592115",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091842957842485624",
+        "name": "魔法少女まどか☆マギカ",
+        "pinned_tweet_id": "2087851657686343827",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/205592115/1772164830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973764917862998016/SSAaMAtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490587,
+          "following_count": 16,
+          "like_count": 5,
+          "listed_count": 4619,
+          "media_count": 1189,
+          "tweet_count": 3424
+        },
+        "url": "https://t.co/PSfUr9lntF",
+        "username": "madoka_magica",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

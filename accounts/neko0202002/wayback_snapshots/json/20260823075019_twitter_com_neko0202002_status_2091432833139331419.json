@@ -1,0 +1,468 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2091395237801308160"
+      ],
+      "media_source_tweet_id": [
+        "2091395337764151737"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2091432833139331419",
+    "created_at": "2026-08-23T07:50:19.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T08:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091432833139331419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1816256392195612672",
+          "start": 3,
+          "username": "Leviannatho"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BnYrItelYc",
+          "end": 53,
+          "expanded_url": "https://x.com/Leviannatho/status/2091395337764151737/photo/1",
+          "media_key": "16_2091395237801308160",
+          "start": 30,
+          "url": "https://t.co/BnYrItelYc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091432833139331419",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "16_2091395237801308160"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091395337764151737",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Leviannatho: Magical girl https://t.co/BnYrItelYc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 280,
+        "media_key": "16_2091395237801308160",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HQYg41oXMAANUNA.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HQYg41oXMAANUNA.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2091395237801308160"
+          ],
+          "media_source_tweet_id": [
+            "2091395337764151737"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2091432833139331419",
+        "created_at": "2026-08-23T07:50:19.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T08:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091432833139331419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1816256392195612672",
+              "start": 3,
+              "username": "Leviannatho"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BnYrItelYc",
+              "end": 53,
+              "expanded_url": "https://x.com/Leviannatho/status/2091395337764151737/photo/1",
+              "media_key": "16_2091395237801308160",
+              "start": 30,
+              "url": "https://t.co/BnYrItelYc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091432833139331419",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2091395237801308160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091395337764151737",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Leviannatho: Magical girl https://t.co/BnYrItelYc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2091395237801308160"
+          ]
+        },
+        "author_id": "1816256392195612672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2091395337764151737",
+        "created_at": "2026-08-23T05:21:19.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T06:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091395337764151737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BnYrItelYc",
+              "end": 36,
+              "expanded_url": "https://x.com/Leviannatho/status/2091395337764151737/photo/1",
+              "media_key": "16_2091395237801308160",
+              "start": 13,
+              "url": "https://t.co/BnYrItelYc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091395337764151737",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2091395237801308160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 1749,
+          "like_count": 258,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "Magical girl https://t.co/BnYrItelYc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2091432833139331419",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 636,
+          "like_count": 2634,
+          "listed_count": 3,
+          "media_count": 2551,
+          "tweet_count": 6987
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-24T23:37:39.000Z",
+        "description": "humble enjoyer of nso & alst #ilovemybf {Sua, Sayori, Kangel, Mizuki, Miku, Aiko, Aubrey #1 fan ❤️‍🩹!!} @tictactoechamp\n🧬\nhttps://t.co/2iex9VAgex",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 29,
+                "tag": "ilovemybf"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 119,
+                "start": 104,
+                "username": "tictactoechamp"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "walloftext.co/ughqhaarrr",
+                "end": 145,
+                "expanded_url": "http://walloftext.co/ughqhaarrr",
+                "start": 122,
+                "url": "https://t.co/2iex9VAgex"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "raincandysimpu.straw.page",
+                "end": 23,
+                "expanded_url": "https://raincandysimpu.straw.page",
+                "start": 0,
+                "url": "https://t.co/58blDXOPC4"
+              }
+            ]
+          }
+        },
+        "id": "1816256392195612672",
+        "is_identity_verified": false,
+        "location": "I love my hubby (18) BLESS 🙏",
+        "most_recent_tweet_id": "2091426662231536118",
+        "name": "Ame",
+        "pinned_tweet_id": "2074336546308673901",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1816256392195612672/1786136926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085835517199777792/2ojjMN1p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1982,
+          "following_count": 1530,
+          "like_count": 19368,
+          "listed_count": 9,
+          "media_count": 1774,
+          "tweet_count": 11783
+        },
+        "url": "https://t.co/58blDXOPC4",
+        "username": "Leviannatho",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

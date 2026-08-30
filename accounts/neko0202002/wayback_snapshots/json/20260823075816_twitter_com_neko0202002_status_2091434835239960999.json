@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091396245311131648",
+        "3_2091396245319565312"
+      ],
+      "media_source_tweet_id": [
+        "2091396251124461935",
+        "2091396251124461935"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "2091434835239960999",
+    "created_at": "2026-08-23T07:58:16.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T08:58:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091434835239960999"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 16,
+          "tag": "prsk_cos"
+        },
+        {
+          "end": 31,
+          "start": 26,
+          "tag": "プロセカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2022734580420349954",
+          "start": 3,
+          "username": "amiamamizu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/336nTfy5cG",
+          "end": 58,
+          "expanded_url": "https://x.com/amiamamizu/status/2091396251124461935/photo/1",
+          "media_key": "3_2091396245311131648",
+          "start": 35,
+          "url": "https://t.co/336nTfy5cG"
+        },
+        {
+          "display_url": "pic.x.com/336nTfy5cG",
+          "end": 58,
+          "expanded_url": "https://x.com/amiamamizu/status/2091396251124461935/photo/1",
+          "media_key": "3_2091396245319565312",
+          "start": 35,
+          "url": "https://t.co/336nTfy5cG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091434835239960999",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2091396245311131648"
+      },
+      {
+        "media_key": "3_2091396245319565312"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091396251124461935",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amiamamizu: #prsk_cos #プロセカ \n🎀 https://t.co/336nTfy5cG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_2091396245311131648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQYhze5bEAApnzT.jpg",
+        "width": 750
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2091396245319565312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQYhze7bwAAksPo.jpg",
+        "width": 1155
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091396245311131648",
+            "3_2091396245319565312"
+          ],
+          "media_source_tweet_id": [
+            "2091396251124461935",
+            "2091396251124461935"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2091434835239960999",
+        "created_at": "2026-08-23T07:58:16.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T08:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091434835239960999"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 16,
+              "tag": "prsk_cos"
+            },
+            {
+              "end": 31,
+              "start": 26,
+              "tag": "プロセカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2022734580420349954",
+              "start": 3,
+              "username": "amiamamizu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/336nTfy5cG",
+              "end": 58,
+              "expanded_url": "https://x.com/amiamamizu/status/2091396251124461935/photo/1",
+              "media_key": "3_2091396245311131648",
+              "start": 35,
+              "url": "https://t.co/336nTfy5cG"
+            },
+            {
+              "display_url": "pic.x.com/336nTfy5cG",
+              "end": 58,
+              "expanded_url": "https://x.com/amiamamizu/status/2091396251124461935/photo/1",
+              "media_key": "3_2091396245319565312",
+              "start": 35,
+              "url": "https://t.co/336nTfy5cG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091434835239960999",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2091396245311131648"
+          },
+          {
+            "media_key": "3_2091396245319565312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091396251124461935",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amiamamizu: #prsk_cos #プロセカ \n🎀 https://t.co/336nTfy5cG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091396245311131648",
+            "3_2091396245319565312"
+          ]
+        },
+        "author_id": "2022734580420349954",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2091396251124461935",
+        "created_at": "2026-08-23T05:24:57.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T06:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091396251124461935"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "prsk_cos"
+            },
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "プロセカ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/336nTfy5cG",
+              "end": 42,
+              "expanded_url": "https://x.com/amiamamizu/status/2091396251124461935/photo/1",
+              "media_key": "3_2091396245311131648",
+              "start": 19,
+              "url": "https://t.co/336nTfy5cG"
+            },
+            {
+              "display_url": "pic.x.com/336nTfy5cG",
+              "end": 42,
+              "expanded_url": "https://x.com/amiamamizu/status/2091396251124461935/photo/1",
+              "media_key": "3_2091396245319565312",
+              "start": 19,
+              "url": "https://t.co/336nTfy5cG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091396251124461935",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2091396245311131648"
+          },
+          {
+            "media_key": "3_2091396245319565312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 988,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "#prsk_cos #プロセカ \n🎀 https://t.co/336nTfy5cG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2091434835239960999",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 640,
+          "like_count": 2634,
+          "listed_count": 3,
+          "media_count": 2553,
+          "tweet_count": 6995
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-14T18:08:08.000Z",
+        "description": "20⬇️",
+        "id": "2022734580420349954",
+        "is_identity_verified": false,
+        "location": "프세카,에이스테,음합엔,버튜버",
+        "most_recent_tweet_id": "2091403998977020150",
+        "name": "롱",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091413898612408321/F6ZEnLnM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 49,
+          "like_count": 648,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "amiamamizu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
