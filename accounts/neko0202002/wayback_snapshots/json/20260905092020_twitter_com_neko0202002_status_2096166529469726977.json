@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2096166529469726977",
+    "created_at": "2026-09-05T09:20:20.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T10:20:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096166529469726977"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaojingcanxue…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/xiaojingcanxue/status/2091390034750607691",
+          "start": 10,
+          "url": "https://t.co/AWNZk2K7cK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096166529469726977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091390034750607691",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老师:我想做个好人 https://t.co/AWNZk2K7cK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 476752,
+        "height": 960,
+        "media_key": "13_2091389611151093760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091389611151093760/img/XNAtTGrigjk8UKVy.jpg",
+        "public_metrics": {
+          "view_count": 90074
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091389611151093760/vid/avc1/320x564/3wi0o9Msal4GW-Nt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091389611151093760/vid/avc1/480x846/ljPOX1fKZlGttJwY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091389611151093760/vid/avc1/544x960/URlgXX008xArdkJC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091389611151093760/pl/Kgrv_guMIN7rwdDf.m3u8?v=e38"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2096166529469726977",
+        "created_at": "2026-09-05T09:20:20.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T10:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096166529469726977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaojingcanxue…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/xiaojingcanxue/status/2091390034750607691",
+              "start": 10,
+              "url": "https://t.co/AWNZk2K7cK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096166529469726977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091390034750607691",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老师:我想做个好人 https://t.co/AWNZk2K7cK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091389611151093760"
+          ]
+        },
+        "author_id": "44186175",
+        "conversation_id": "2091390034750607691",
+        "created_at": "2026-08-23T05:00:15.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T06:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091390034750607691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oOErIWa85a",
+              "end": 60,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2091390034750607691/video/1",
+              "media_key": "13_2091389611151093760",
+              "start": 37,
+              "url": "https://t.co/oOErIWa85a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091390034750607691",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2091389611151093760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 382,
+          "impression_count": 90038,
+          "like_count": 890,
+          "quote_count": 11,
+          "reply_count": 92,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "“一听要上补习班，我家高三孩子就装病怎么办？”一个严重焦虑的中国式家长。 https://t.co/oOErIWa85a"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2096166529469726977",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 518,
+          "like_count": 2720,
+          "listed_count": 3,
+          "media_count": 2625,
+          "tweet_count": 7370
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号，内容均可去掉id随意转载。错漏、传谣处欢迎指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表认同。请怀抱乐子人心态，太较真则可能严重抑郁。认知失调时请先反思自己是否3D人士。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教",
+        "id": "44186175",
+        "is_identity_verified": false,
+        "location": "美国",
+        "most_recent_tweet_id": "2096076767584977054",
+        "name": "小径残雪",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238258,
+          "following_count": 1870,
+          "like_count": 190,
+          "listed_count": 1279,
+          "media_count": 29563,
+          "tweet_count": 37875
+        },
+        "url": "",
+        "username": "xiaojingcanxue",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

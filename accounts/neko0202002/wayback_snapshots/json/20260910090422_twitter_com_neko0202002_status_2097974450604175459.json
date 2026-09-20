@@ -1,0 +1,466 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1826684751165480960"
+      ],
+      "media_source_tweet_id": [
+        "1826684753891979635"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2097974450604175459",
+    "created_at": "2026-09-10T09:04:22.000Z",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T10:04:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097974450604175459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1315809940557246465",
+          "start": 3,
+          "username": "irreligiositat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yxhh8wzc12",
+          "end": 77,
+          "expanded_url": "https://x.com/irreligiositat/status/1826684753891979635/photo/1",
+          "media_key": "3_1826684751165480960",
+          "start": 54,
+          "url": "https://t.co/Yxhh8wzc12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097974450604175459",
+    "lang": "et",
+    "media_metadata": [
+      {
+        "media_key": "3_1826684751165480960"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13412
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826684753891979635",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @irreligiositat: Hatsune Miku brasileira!!! 🇧🇷🇧🇷🇧🇷 https://t.co/Yxhh8wzc12"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1826684751165480960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVmwGl3XYAAQhem.jpg",
+        "width": 1393
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826684751165480960"
+          ],
+          "media_source_tweet_id": [
+            "1826684753891979635"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2097974450604175459",
+        "created_at": "2026-09-10T09:04:22.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T10:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097974450604175459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1315809940557246465",
+              "start": 3,
+              "username": "irreligiositat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yxhh8wzc12",
+              "end": 77,
+              "expanded_url": "https://x.com/irreligiositat/status/1826684753891979635/photo/1",
+              "media_key": "3_1826684751165480960",
+              "start": 54,
+              "url": "https://t.co/Yxhh8wzc12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097974450604175459",
+        "lang": "et",
+        "media_metadata": [
+          {
+            "media_key": "3_1826684751165480960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13412
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826684753891979635",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @irreligiositat: Hatsune Miku brasileira!!! 🇧🇷🇧🇷🇧🇷 https://t.co/Yxhh8wzc12"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826684751165480960"
+          ]
+        },
+        "author_id": "1315809940557246465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1826684753891979635",
+        "created_at": "2024-08-22T18:15:58.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2024-08-22T19:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826684753891979635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yxhh8wzc12",
+              "end": 57,
+              "expanded_url": "https://x.com/irreligiositat/status/1826684753891979635/photo/1",
+              "media_key": "3_1826684751165480960",
+              "start": 34,
+              "url": "https://t.co/Yxhh8wzc12"
+            },
+            {
+              "display_url": "x.com/doodly_sheery/…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/doodly_sheery/status/1824867218225566196",
+              "start": 58,
+              "url": "https://t.co/JkDM8psaOA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826684753891979635",
+        "lang": "et",
+        "media_metadata": [
+          {
+            "media_key": "3_1826684751165480960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19256,
+          "impression_count": 5874551,
+          "like_count": 129628,
+          "quote_count": 1138,
+          "reply_count": 358,
+          "retweet_count": 13412
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824867218225566196",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Hatsune Miku brasileira!!! 🇧🇷🇧🇷🇧🇷 https://t.co/Yxhh8wzc12 https://t.co/JkDM8psaOA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2097974450604175459",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 556,
+          "like_count": 2791,
+          "listed_count": 4,
+          "media_count": 2669,
+          "tweet_count": 7620
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-13T00:22:04.000Z",
+        "description": "denpa yo! Landmine ୨୧ VN and black metal lover ୨୧ J-Fashion/Merch collector\nDiscord: hexenholz\n\npatreon: https://t.co/GE2JrIwKCY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/irreligiositat",
+                "end": 128,
+                "expanded_url": "http://patreon.com/irreligiositat",
+                "start": 105,
+                "url": "https://t.co/GE2JrIwKCY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/irreligiositat",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/irreligiositat",
+                "start": 0,
+                "url": "https://t.co/VXTGwjtYTp"
+              }
+            ]
+          }
+        },
+        "id": "1315809940557246465",
+        "is_identity_verified": false,
+        "location": "Yokohama Base",
+        "most_recent_tweet_id": "2097862000735088779",
+        "name": "𝖍𝖊𝖝𝖊𝖓𝖍𝖔𝖑𝖟 ♡地雷🎀",
+        "pinned_tweet_id": "1826684753891979635",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1315809940557246465/1782862212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095689042105081856/gUileJJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16155,
+          "following_count": 766,
+          "like_count": 72634,
+          "listed_count": 88,
+          "media_count": 1150,
+          "tweet_count": 10257
+        },
+        "url": "https://t.co/VXTGwjtYTp",
+        "username": "irreligiositat",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

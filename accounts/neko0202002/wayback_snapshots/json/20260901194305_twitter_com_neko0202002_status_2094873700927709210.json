@@ -1,0 +1,583 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094156257381040128"
+      ],
+      "media_source_tweet_id": [
+        "2094787366963880161"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899469046054924",
+          "name": "Virtual reality games"
+        }
+      }
+    ],
+    "conversation_id": "2094873700927709210",
+    "created_at": "2026-09-01T19:43:05.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T20:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094873700927709210"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 34,
+          "tag": "VRChat"
+        },
+        {
+          "end": 44,
+          "start": 42,
+          "tag": "萌"
+        },
+        {
+          "end": 51,
+          "start": 45,
+          "tag": "Moe3D"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "320859237",
+          "start": 3,
+          "username": "Nikon_VR"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GlPZ2hLX05",
+          "end": 75,
+          "expanded_url": "https://x.com/Nikon_VR/status/2094787366963880161/photo/1",
+          "media_key": "3_2094156257381040128",
+          "start": 52,
+          "url": "https://t.co/GlPZ2hLX05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094873700927709210",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2094156257381040128"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094787366963880161",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nikon_VR: 今日も一日お疲れ様です\nおやすみなさい\n#VRChat #萌 #Moe3D https://t.co/GlPZ2hLX05"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2094156257381040128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ_wBVFbwAA0r-7.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094156257381040128"
+          ],
+          "media_source_tweet_id": [
+            "2094787366963880161"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "2094873700927709210",
+        "created_at": "2026-09-01T19:43:05.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T20:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094873700927709210"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 34,
+              "tag": "VRChat"
+            },
+            {
+              "end": 44,
+              "start": 42,
+              "tag": "萌"
+            },
+            {
+              "end": 51,
+              "start": 45,
+              "tag": "Moe3D"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "320859237",
+              "start": 3,
+              "username": "Nikon_VR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GlPZ2hLX05",
+              "end": 75,
+              "expanded_url": "https://x.com/Nikon_VR/status/2094787366963880161/photo/1",
+              "media_key": "3_2094156257381040128",
+              "start": 52,
+              "url": "https://t.co/GlPZ2hLX05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094873700927709210",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094156257381040128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094787366963880161",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nikon_VR: 今日も一日お疲れ様です\nおやすみなさい\n#VRChat #萌 #Moe3D https://t.co/GlPZ2hLX05"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094156257381040128"
+          ]
+        },
+        "author_id": "320859237",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "2094787366963880161",
+        "created_at": "2026-09-01T14:00:02.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T15:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094787366963880161"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 20,
+              "tag": "VRChat"
+            },
+            {
+              "end": 30,
+              "start": 28,
+              "tag": "萌"
+            },
+            {
+              "end": 37,
+              "start": 31,
+              "tag": "Moe3D"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GlPZ2hLX05",
+              "end": 61,
+              "expanded_url": "https://x.com/Nikon_VR/status/2094787366963880161/photo/1",
+              "media_key": "3_2094156257381040128",
+              "start": 38,
+              "url": "https://t.co/GlPZ2hLX05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094787366963880161",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094156257381040128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 2994,
+          "like_count": 363,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "今日も一日お疲れ様です\nおやすみなさい\n#VRChat #萌 #Moe3D https://t.co/GlPZ2hLX05"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2094873700927709210",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 509,
+          "like_count": 2702,
+          "listed_count": 3,
+          "media_count": 2603,
+          "tweet_count": 7277
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-06-20T17:00:53.000Z",
+        "description": "Hiǃ I'm NikonRSǃǃ I can only speak Japanese․ I'm a beginner․ Thank you in advance․ I'd love for you to repost my photos.#VRChat #Moe3D #萌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 127,
+                "start": 120,
+                "tag": "VRChat"
+              },
+              {
+                "end": 134,
+                "start": 128,
+                "tag": "Moe3D"
+              },
+              {
+                "end": 137,
+                "start": 135,
+                "tag": "萌"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vrchat.com/home/user/usr_…",
+                "end": 23,
+                "expanded_url": "https://vrchat.com/home/user/usr_8ac2286c-0064-44e3-9fda-27e0de774063",
+                "start": 0,
+                "url": "https://t.co/Rl0M00pHHy"
+              }
+            ]
+          }
+        },
+        "id": "320859237",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094814542924812711",
+        "name": "NikonRS",
+        "pinned_tweet_id": "1990115614279844122",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/320859237/1766296822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003517096337301504/gHCoz1J-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 52,
+          "like_count": 3120,
+          "listed_count": 2,
+          "media_count": 969,
+          "tweet_count": 1154
+        },
+        "url": "https://t.co/Rl0M00pHHy",
+        "username": "Nikon_VR",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2093170891408773368",
+    "created_at": "2026-08-31T12:06:56.000Z",
+    "display_text_range": [
+      28,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T13:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094396516073103789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2025951595020845056",
+          "start": 0,
+          "username": "fhv932189957574"
+        },
+        {
+          "end": 27,
+          "id": "1814180431765667840",
+          "start": 17,
+          "username": "y_ganman3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094396516073103789",
+    "in_reply_to_user_id": "2025951595020845056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093755744411943166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fhv932189957574 @y_ganman3 痔疮那很爽了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_2093755734714634240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ6Dv14aUAA_Nj9.jpg",
+        "width": 1314
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2093170891408773368",
+        "created_at": "2026-08-31T12:06:56.000Z",
+        "display_text_range": [
+          28,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T13:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094396516073103789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2025951595020845056",
+              "start": 0,
+              "username": "fhv932189957574"
+            },
+            {
+              "end": 27,
+              "id": "1814180431765667840",
+              "start": 17,
+              "username": "y_ganman3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094396516073103789",
+        "in_reply_to_user_id": "2025951595020845056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093755744411943166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fhv932189957574 @y_ganman3 痔疮那很爽了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093755734714634240"
+          ]
+        },
+        "author_id": "2025951595020845056",
+        "conversation_id": "2093170891408773368",
+        "created_at": "2026-08-29T17:40:44.000Z",
+        "display_text_range": [
+          10,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T18:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093755744411943166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1814180431765667840",
+              "start": 0,
+              "username": "y_ganman3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JTLrzNujWM",
+              "end": 34,
+              "expanded_url": "https://x.com/fhv932189957574/status/2093755744411943166/photo/1",
+              "media_key": "3_2093755734714634240",
+              "start": 11,
+              "url": "https://t.co/JTLrzNujWM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093755744411943166",
+        "in_reply_to_user_id": "1814180431765667840",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2093755734714634240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093170891408773368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y_ganman3 https://t.co/JTLrzNujWM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2094396516073103789",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 658,
+          "like_count": 2691,
+          "listed_count": 3,
+          "media_count": 2592,
+          "tweet_count": 7229
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-23T15:11:32.000Z",
+        "description": "要有笑声\n可是我觉得奶龙大笑很神圣啊，一想到就想笑哈哈哈哈哈哈哈，纯粹纯洁的笑啊\n\n｜爱看乐子｜随意发言立场随机｜希望大家活着｜不讨论政治不聊黄｜不遭禁言有时安慰人｜复读机乱搬梗图｜身份认同混乱爱搬屎｜个人自由主义｜应该无性恋｜https://t.co/kx7T6bc1Hr l 活的小号@fnvku67498",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 144,
+                "username": "fnvku67498"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/bibi10071",
+                "end": 137,
+                "expanded_url": "https://ngl.link/bibi10071",
+                "start": 114,
+                "url": "https://t.co/kx7T6bc1Hr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fhvk466",
+                "end": 23,
+                "expanded_url": "https://t.me/fhvk466",
+                "start": 0,
+                "url": "https://t.co/uMu7ZPwNnw"
+              }
+            ]
+          }
+        },
+        "id": "2025951595020845056",
+        "is_identity_verified": false,
+        "location": "我要看纯爱",
+        "most_recent_tweet_id": "2094327832398999984",
+        "name": "f hv",
+        "pinned_tweet_id": "2093762587242700922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025951595020845056/1778431965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053111743757619201/2u769IIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 497,
+          "like_count": 17963,
+          "listed_count": 0,
+          "media_count": 1346,
+          "tweet_count": 4107
+        },
+        "url": "https://t.co/uMu7ZPwNnw",
+        "username": "fhv932189957574",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-19T06:08:32.000Z",
+        "description": "雑多で絵を描いています。 ホシノとｱﾙﾁｬが激推しです。漫画家志望です。\n【FANBOX】https://t.co/vSwSNfMPXO \n【skeb】https://t.co/1itaiWXus6\n【Pixiv】https://t.co/VNQ1epXyQL\nV垢 @y_ganman2 コス垢@y_ganman4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 134,
+                "username": "y_ganman2"
+              },
+              {
+                "end": 158,
+                "start": 148,
+                "username": "y_ganman4"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "r-ganma.fanbox.cc",
+                "end": 68,
+                "expanded_url": "https://r-ganma.fanbox.cc/",
+                "start": 45,
+                "url": "https://t.co/vSwSNfMPXO"
+              },
+              {
+                "display_url": "skeb.jp/@y_ganman2",
+                "end": 99,
+                "expanded_url": "https://skeb.jp/@y_ganman2",
+                "start": 76,
+                "url": "https://t.co/1itaiWXus6"
+              },
+              {
+                "display_url": "x.gd/U1Ydj",
+                "end": 130,
+                "expanded_url": "https://x.gd/U1Ydj",
+                "start": 107,
+                "url": "https://t.co/VNQ1epXyQL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/gqpwdry42h7lv0…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/gqpwdry42h7lv0k?t=r3QaaF&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/gVx7TC4q7j"
+              }
+            ]
+          }
+        },
+        "id": "1814180431765667840",
+        "is_identity_verified": false,
+        "location": "FANBOX毎週更新してます！！",
+        "most_recent_tweet_id": "2094381456592380155",
+        "name": "ガンマ_絵垢 @ふぁんぼ週一更新",
+        "pinned_tweet_id": "2090721730168008736",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1814180431765667840/1773496513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084206804859523072/lEC_EGzq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55081,
+          "following_count": 854,
+          "like_count": 7745,
+          "listed_count": 183,
+          "media_count": 1576,
+          "tweet_count": 7878
+        },
+        "url": "https://t.co/gVx7TC4q7j",
+        "username": "y_ganman3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

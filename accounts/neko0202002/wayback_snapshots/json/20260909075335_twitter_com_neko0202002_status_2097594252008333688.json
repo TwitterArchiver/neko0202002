@@ -1,0 +1,565 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097371257494974464"
+      ],
+      "media_source_tweet_id": [
+        "2097376167074685106"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1404909205924966400",
+          "name": "Doki Doki Literature Club"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311309260597329921",
+          "name": "Visual novels"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1404909205924966400",
+          "name": "Doki Doki Literature Club"
+        }
+      }
+    ],
+    "conversation_id": "2097594252008333688",
+    "created_at": "2026-09-09T07:53:35.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T08:53:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097594252008333688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1726867312769191936",
+          "start": 3,
+          "username": "Timmy_Tommy_1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7vkWecKmNv",
+          "end": 66,
+          "expanded_url": "https://x.com/Timmy_Tommy_1/status/2097376167074685106/photo/1",
+          "media_key": "3_2097371257494974464",
+          "start": 43,
+          "url": "https://t.co/7vkWecKmNv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097594252008333688",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2097371257494974464"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 430
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097376167074685106",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Timmy_Tommy_1: Just Monika.\nモニカ(DDLC)… https://t.co/7vkWecKmNv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_2097371257494974464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRtcC90aMAAE-eS.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097371257494974464"
+          ],
+          "media_source_tweet_id": [
+            "2097376167074685106"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          }
+        ],
+        "conversation_id": "2097594252008333688",
+        "created_at": "2026-09-09T07:53:35.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T08:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097594252008333688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1726867312769191936",
+              "start": 3,
+              "username": "Timmy_Tommy_1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7vkWecKmNv",
+              "end": 66,
+              "expanded_url": "https://x.com/Timmy_Tommy_1/status/2097376167074685106/photo/1",
+              "media_key": "3_2097371257494974464",
+              "start": 43,
+              "url": "https://t.co/7vkWecKmNv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097594252008333688",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097371257494974464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 430
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097376167074685106",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Timmy_Tommy_1: Just Monika.\nモニカ(DDLC)… https://t.co/7vkWecKmNv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097371257494974464"
+          ]
+        },
+        "author_id": "1726867312769191936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          }
+        ],
+        "conversation_id": "2097376167074685106",
+        "created_at": "2026-09-08T17:27:00.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T18:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097376167074685106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7vkWecKmNv",
+              "end": 46,
+              "expanded_url": "https://x.com/Timmy_Tommy_1/status/2097376167074685106/photo/1",
+              "media_key": "3_2097371257494974464",
+              "start": 23,
+              "url": "https://t.co/7vkWecKmNv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097376167074685106",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097371257494974464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "Just Monika.\nモニカ(DDLC)                                                                                                                                                                                                                                                                            \nSFWイラスト"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2072,
+          "impression_count": 63511,
+          "like_count": 9182,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 430
+        },
+        "reply_settings": "everyone",
+        "text": "Just Monika.\nモニカ(DDLC) https://t.co/7vkWecKmNv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2097594252008333688",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 544,
+          "like_count": 2778,
+          "listed_count": 4,
+          "media_count": 2661,
+          "tweet_count": 7530
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-21T07:37:39.000Z",
+        "description": "Yelan 💙 Raiden Shogun 💜 and Mavuika 🧡 simp\n#GenshinImpact #原神 #HonkaiStarRail #スターレイル #zzzero #ゼンゼロ\nNai+SD Illust\n🔞 @TimmyTommyNsfw\n💬 https://t.co/auBMH4qCgB",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 43,
+                "tag": "GenshinImpact"
+              },
+              {
+                "end": 61,
+                "start": 58,
+                "tag": "原神"
+              },
+              {
+                "end": 77,
+                "start": 62,
+                "tag": "HonkaiStarRail"
+              },
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "スターレイル"
+              },
+              {
+                "end": 93,
+                "start": 86,
+                "tag": "zzzero"
+              },
+              {
+                "end": 99,
+                "start": 94,
+                "tag": "ゼンゼロ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 131,
+                "start": 116,
+                "username": "TimmyTommyNsfw"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/EZVhF6T5v2",
+                "end": 157,
+                "expanded_url": "http://discord.gg/EZVhF6T5v2",
+                "start": 134,
+                "url": "https://t.co/auBMH4qCgB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/EZVhF6T5v2",
+                "end": 23,
+                "expanded_url": "https://discord.gg/EZVhF6T5v2",
+                "start": 0,
+                "url": "https://t.co/Vya2ZfbUla"
+              }
+            ]
+          }
+        },
+        "id": "1726867312769191936",
+        "is_identity_verified": false,
+        "location": "Yelan's lap",
+        "most_recent_tweet_id": "2097593782485086702",
+        "name": "Tommy",
+        "pinned_tweet_id": "2097542764816699723",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1726867312769191936/1785946060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814478164535463936/yFcLRGsR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403149,
+          "following_count": 257,
+          "like_count": 7370,
+          "listed_count": 1272,
+          "media_count": 4425,
+          "tweet_count": 10434
+        },
+        "url": "https://t.co/Vya2ZfbUla",
+        "username": "Timmy_Tommy_1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

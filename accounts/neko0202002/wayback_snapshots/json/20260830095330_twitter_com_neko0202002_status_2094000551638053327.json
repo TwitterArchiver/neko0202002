@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2093991744312594432"
+      ],
+      "media_source_tweet_id": [
+        "2093991774994006217"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2094000551638053327",
+    "created_at": "2026-08-30T09:53:30.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T10:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094000551638053327"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 19,
+          "tag": "maimai"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2058425995686985728",
+          "start": 3,
+          "username": "ShadowLiuyueX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1SETAqWuF2",
+          "end": 50,
+          "expanded_url": "https://x.com/ShadowLiuyueX/status/2093991774994006217/video/1",
+          "media_key": "13_2093991744312594432",
+          "start": 27,
+          "url": "https://t.co/1SETAqWuF2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094000551638053327",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "13_2093991744312594432"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093991774994006217",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShadowLiuyueX: #maimai https://t.co/1SETAqWuF2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15673,
+        "height": 1240,
+        "media_key": "13_2093991744312594432",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093991744312594432/img/MPIJRKCKbd9hxw4J.jpg",
+        "public_metrics": {
+          "view_count": 101
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093991744312594432/vid/avc1/320x550/msBxOv0UYpaI25Ww.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093991744312594432/vid/avc1/480x826/b7rkr-PtGOArn6Zo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093991744312594432/vid/avc1/720x1240/JbSWGXyGJScFQnMw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093991744312594432/pl/afvNSsy-CK11vytS.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093991744312594432"
+          ],
+          "media_source_tweet_id": [
+            "2093991774994006217"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094000551638053327",
+        "created_at": "2026-08-30T09:53:30.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T10:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094000551638053327"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 19,
+              "tag": "maimai"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2058425995686985728",
+              "start": 3,
+              "username": "ShadowLiuyueX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1SETAqWuF2",
+              "end": 50,
+              "expanded_url": "https://x.com/ShadowLiuyueX/status/2093991774994006217/video/1",
+              "media_key": "13_2093991744312594432",
+              "start": 27,
+              "url": "https://t.co/1SETAqWuF2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094000551638053327",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2093991744312594432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093991774994006217",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShadowLiuyueX: #maimai https://t.co/1SETAqWuF2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093991744312594432"
+          ]
+        },
+        "author_id": "2058425995686985728",
+        "conversation_id": "2093991774994006217",
+        "created_at": "2026-08-30T09:18:38.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T10:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093991774994006217"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "maimai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1SETAqWuF2",
+              "end": 31,
+              "expanded_url": "https://x.com/ShadowLiuyueX/status/2093991774994006217/video/1",
+              "media_key": "13_2093991744312594432",
+              "start": 8,
+              "url": "https://t.co/1SETAqWuF2"
+            },
+            {
+              "display_url": "x.com/y_ganman3/stat…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/y_ganman3/status/2093170891408773368",
+              "start": 32,
+              "url": "https://t.co/FGNXqe69qb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093991774994006217",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2093991744312594432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 293,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093170891408773368",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#maimai https://t.co/1SETAqWuF2 https://t.co/FGNXqe69qb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2094000551638053327",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 657,
+          "like_count": 2687,
+          "listed_count": 3,
+          "media_count": 2581,
+          "tweet_count": 7204
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-24T05:55:01.000Z",
+        "description": "蔚藍檔案玩家，會喜歡稱別人媽媽，互fo，含糖，之前的號@LiuyuedeHuoban被炸了，這是二號機，嘗試包容世界，不搞極端，不搞極端，不搞極端，純抽象，純抽象，純抽象",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 27,
+                "username": "LiuyuedeHuoban"
+              }
+            ]
+          }
+        },
+        "id": "2058425995686985728",
+        "is_identity_verified": false,
+        "location": "I NEED YOU.J",
+        "most_recent_tweet_id": "2093999132356788363",
+        "name": "Shadow_114514（二號機）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058425995686985728/1780313390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061409880037294080/HA5Qm6JL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 879,
+          "like_count": 10492,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1245
+        },
+        "url": "",
+        "username": "ShadowLiuyueX",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

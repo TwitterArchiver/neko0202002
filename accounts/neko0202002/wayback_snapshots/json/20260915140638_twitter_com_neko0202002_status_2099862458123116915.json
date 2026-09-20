@@ -1,0 +1,491 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099647378437685249"
+      ],
+      "media_source_tweet_id": [
+        "2099647383554666885"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2099862458123116915",
+    "created_at": "2026-09-15T14:06:38.000Z",
+    "display_text_range": [
+      0,
+      132
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T15:06:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099862458123116915"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 102,
+          "start": 91,
+          "tag": "madokamagi"
+        },
+        {
+          "end": 108,
+          "start": 103,
+          "tag": "pmmm"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2036261014975684609",
+          "start": 3,
+          "username": "artofsavea"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AWDtL3alrJ",
+          "end": 132,
+          "expanded_url": "https://x.com/artofsavea/status/2099647383554666885/photo/1",
+          "media_key": "3_2099647378437685249",
+          "start": 109,
+          "url": "https://t.co/AWDtL3alrJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099862458123116915",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2099647378437685249"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2817
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099647383554666885",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @artofsavea: Trans women are women.\nTrans men are men.\n\nTrans rights are human rights.\n\n#madokamagi #pmmm https://t.co/AWDtL3alrJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1446,
+        "media_key": "3_2099647378437685249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSNyKpFbwAESpER.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099647378437685249"
+          ],
+          "media_source_tweet_id": [
+            "2099647383554666885"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2099862458123116915",
+        "created_at": "2026-09-15T14:06:38.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T15:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099862458123116915"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 102,
+              "start": 91,
+              "tag": "madokamagi"
+            },
+            {
+              "end": 108,
+              "start": 103,
+              "tag": "pmmm"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2036261014975684609",
+              "start": 3,
+              "username": "artofsavea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AWDtL3alrJ",
+              "end": 132,
+              "expanded_url": "https://x.com/artofsavea/status/2099647383554666885/photo/1",
+              "media_key": "3_2099647378437685249",
+              "start": 109,
+              "url": "https://t.co/AWDtL3alrJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099862458123116915",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2099647378437685249"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2817
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099647383554666885",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @artofsavea: Trans women are women.\nTrans men are men.\n\nTrans rights are human rights.\n\n#madokamagi #pmmm https://t.co/AWDtL3alrJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099647378437685249"
+          ]
+        },
+        "author_id": "2036261014975684609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2099647383554666885",
+        "created_at": "2026-09-14T23:52:00.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T00:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099647383554666885"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 86,
+              "start": 75,
+              "tag": "madokamagi"
+            },
+            {
+              "end": 92,
+              "start": 87,
+              "tag": "pmmm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AWDtL3alrJ",
+              "end": 116,
+              "expanded_url": "https://x.com/artofsavea/status/2099647383554666885/photo/1",
+              "media_key": "3_2099647378437685249",
+              "start": 93,
+              "url": "https://t.co/AWDtL3alrJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099647383554666885",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2099647378437685249"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 602,
+          "impression_count": 167333,
+          "like_count": 11870,
+          "quote_count": 13,
+          "reply_count": 40,
+          "retweet_count": 2817
+        },
+        "reply_settings": "everyone",
+        "text": "Trans women are women.\nTrans men are men.\n\nTrans rights are human rights.\n\n#madokamagi #pmmm https://t.co/AWDtL3alrJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2099862458123116915",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 579,
+          "like_count": 2828,
+          "listed_count": 4,
+          "media_count": 2697,
+          "tweet_count": 7829
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-24T01:57:29.000Z",
+        "description": "SEL SHAR #五条悟 #両面宿儺 riako ♡ ◞ selective following | Edward Cullen & Cedric Diggory NS riako !!! | \n—— ♡ ——\nthey/them | WAITLIST OPEN \n@Defintely_Maybe 💗💍",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 9,
+                "tag": "五条悟"
+              },
+              {
+                "end": 19,
+                "start": 14,
+                "tag": "両面宿儺"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 150,
+                "start": 134,
+                "username": "Defintely_Maybe"
+              }
+            ]
+          }
+        },
+        "id": "2036261014975684609",
+        "is_identity_verified": false,
+        "location": "I love @StrongestToday",
+        "most_recent_tweet_id": "2099780275106689504",
+        "name": "𝐌𝐀𝐈𝐕 / 𝐋𝐈𝐀 ❤︎⁠ 𝒔ukugo",
+        "pinned_tweet_id": "2099647383554666885",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098648687748710401/xoRexkqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 185,
+          "like_count": 2529,
+          "listed_count": 4,
+          "media_count": 319,
+          "tweet_count": 2688
+        },
+        "url": "",
+        "username": "artofsavea",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

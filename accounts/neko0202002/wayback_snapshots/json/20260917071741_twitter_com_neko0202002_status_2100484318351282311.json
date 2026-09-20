@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2100464512088608768"
+      ],
+      "media_source_tweet_id": [
+        "2100464993263321597"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2100484318351282311",
+    "created_at": "2026-09-17T07:17:41.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T08:17:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100484318351282311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1635747975229214732",
+          "start": 3,
+          "username": "Hsonberry_proto"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I89UMfbELv",
+          "end": 46,
+          "expanded_url": "https://x.com/Hsonberry_proto/status/2100464993263321597/video/1",
+          "media_key": "13_2100464512088608768",
+          "start": 23,
+          "url": "https://t.co/I89UMfbELv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100484318351282311",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2100464512088608768"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 144
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100464993263321597",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hsonberry_proto: 縛 https://t.co/I89UMfbELv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32458,
+        "height": 1080,
+        "media_key": "13_2100464512088608768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100464512088608768/img/EloN6yDD69jDaws6.jpg",
+        "public_metrics": {
+          "view_count": 2433
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100464512088608768/vid/avc1/480x270/g83ejn2071o-JL2L.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100464512088608768/vid/avc1/640x360/ZJ1s0EL4uZYtyOg4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100464512088608768/vid/avc1/1280x720/eFEB3LjyPilI1_El.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100464512088608768/pl/LJkAjRAKG0JykfC8.m3u8?tag=14&v=91f"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100464512088608768"
+          ],
+          "media_source_tweet_id": [
+            "2100464993263321597"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2100484318351282311",
+        "created_at": "2026-09-17T07:17:41.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T08:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100484318351282311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1635747975229214732",
+              "start": 3,
+              "username": "Hsonberry_proto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I89UMfbELv",
+              "end": 46,
+              "expanded_url": "https://x.com/Hsonberry_proto/status/2100464993263321597/video/1",
+              "media_key": "13_2100464512088608768",
+              "start": 23,
+              "url": "https://t.co/I89UMfbELv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100484318351282311",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2100464512088608768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 144
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100464993263321597",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hsonberry_proto: 縛 https://t.co/I89UMfbELv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100464512088608768"
+          ]
+        },
+        "author_id": "1635747975229214732",
+        "conversation_id": "2100464993263321597",
+        "created_at": "2026-09-17T06:00:53.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T07:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100464993263321597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I89UMfbELv",
+              "end": 25,
+              "expanded_url": "https://x.com/Hsonberry_proto/status/2100464993263321597/video/1",
+              "media_key": "13_2100464512088608768",
+              "start": 2,
+              "url": "https://t.co/I89UMfbELv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100464993263321597",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2100464512088608768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 155,
+          "impression_count": 5385,
+          "like_count": 453,
+          "quote_count": 19,
+          "reply_count": 1,
+          "retweet_count": 144
+        },
+        "reply_settings": "everyone",
+        "text": "縛 https://t.co/I89UMfbELv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2100484318351282311",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1099,
+          "following_count": 587,
+          "like_count": 2840,
+          "listed_count": 4,
+          "media_count": 2712,
+          "tweet_count": 7899
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-14T21:01:47.000Z",
+        "description": "덕질사담 낙서多                      \n        리버시블 🔄️⭕\n스핀 https://t.co/tTRsseXR8n",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/Hsonberry_proto",
+                "end": 74,
+                "expanded_url": "https://spin-spin.com/Hsonberry_proto",
+                "start": 51,
+                "url": "https://t.co/tTRsseXR8n"
+              }
+            ]
+          }
+        },
+        "id": "1635747975229214732",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100465373007217035",
+        "name": "겜풍",
+        "pinned_tweet_id": "2068386233886376447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1635747975229214732/1779973318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889953487594856450/yJGFuief_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8229,
+          "following_count": 95,
+          "like_count": 6616,
+          "listed_count": 34,
+          "media_count": 685,
+          "tweet_count": 14886
+        },
+        "url": "",
+        "username": "Hsonberry_proto",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

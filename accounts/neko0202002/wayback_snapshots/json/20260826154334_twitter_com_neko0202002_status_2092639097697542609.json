@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2092614120713629697"
+      ],
+      "media_source_tweet_id": [
+        "2092614136056475682"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2092639097697542609",
+    "created_at": "2026-08-26T15:43:34.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T16:43:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092639097697542609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1567130939016491008",
+          "start": 3,
+          "username": "_______u2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cU1AGPgkvX",
+          "end": 49,
+          "expanded_url": "https://x.com/_______u2/status/2092614136056475682/video/1",
+          "media_key": "13_2092614120713629697",
+          "start": 26,
+          "url": "https://t.co/cU1AGPgkvX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092639097697542609",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2092614120713629697"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092614136056475682",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_______u2: へその形が良すぎる… https://t.co/cU1AGPgkvX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2156,
+        "height": 1440,
+        "media_key": "13_2092614120713629697",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092614120713629697/img/cHIHEiplg49W9c48.jpg",
+        "public_metrics": {
+          "view_count": 7234
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092614120713629697/vid/avc1/1080x1440/B3mXT1TaStVH9f9L.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092614120713629697/vid/avc1/720x960/zyVGxqqA26R3pWLP.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092614120713629697/vid/avc1/320x426/54uWwnBNS2g9UxCd.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092614120713629697/vid/avc1/480x640/x1xghidsob7rQ2CD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092614120713629697/pl/0KeYDhB57Pn_BK14.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092614120713629697"
+          ],
+          "media_source_tweet_id": [
+            "2092614136056475682"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2092639097697542609",
+        "created_at": "2026-08-26T15:43:34.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T16:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092639097697542609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1567130939016491008",
+              "start": 3,
+              "username": "_______u2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cU1AGPgkvX",
+              "end": 49,
+              "expanded_url": "https://x.com/_______u2/status/2092614136056475682/video/1",
+              "media_key": "13_2092614120713629697",
+              "start": 26,
+              "url": "https://t.co/cU1AGPgkvX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092639097697542609",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2092614120713629697"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092614136056475682",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_______u2: へその形が良すぎる… https://t.co/cU1AGPgkvX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092614120713629697"
+          ]
+        },
+        "author_id": "1567130939016491008",
+        "conversation_id": "2092614136056475682",
+        "created_at": "2026-08-26T14:04:23.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T15:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092614136056475682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cU1AGPgkvX",
+              "end": 34,
+              "expanded_url": "https://x.com/_______u2/status/2092614136056475682/video/1",
+              "media_key": "13_2092614120713629697",
+              "start": 11,
+              "url": "https://t.co/cU1AGPgkvX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092614136056475682",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2092614120713629697"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 400,
+          "impression_count": 24529,
+          "like_count": 2315,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "へその形が良すぎる… https://t.co/cU1AGPgkvX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2092639097697542609",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 626,
+          "like_count": 2653,
+          "listed_count": 3,
+          "media_count": 2565,
+          "tweet_count": 7104
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-06T12:41:53.000Z",
+        "description": "VOC@LOID🎶 Sub▶@Foryou2I Daily ▶︎@u2_all",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Foryou2I"
+              },
+              {
+                "end": 39,
+                "start": 32,
+                "username": "u2_all"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/u2net",
+                "end": 23,
+                "expanded_url": "https://lit.link/u2net",
+                "start": 0,
+                "url": "https://t.co/QRK7hLwfLN"
+              }
+            ]
+          }
+        },
+        "id": "1567130939016491008",
+        "is_identity_verified": false,
+        "location": "For grown-ups only…♡ ▶▷▶",
+        "most_recent_tweet_id": "2092614136056475682",
+        "name": "ゆに",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567130939016491008/1711300466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910675731388260356/219CUfn2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275010,
+          "following_count": 1,
+          "like_count": 2535,
+          "listed_count": 979,
+          "media_count": 340,
+          "tweet_count": 3142
+        },
+        "url": "https://t.co/QRK7hLwfLN",
+        "username": "_______u2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

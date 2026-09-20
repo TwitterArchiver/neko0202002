@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2099841635916087571",
+    "created_at": "2026-09-15T14:09:17.000Z",
+    "display_text_range": [
+      27,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T15:09:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099863126485438815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1998435905280028674",
+          "start": 0,
+          "username": "MikeArfa"
+        },
+        {
+          "end": 26,
+          "id": "2089408201209102336",
+          "start": 10,
+          "username": "zhuzhuzhuzhusiz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099863126485438815",
+    "in_reply_to_user_id": "1998435905280028674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099845085617848703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MikeArfa @zhuzhuzhuzhusiz 傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2099841635916087571",
+        "created_at": "2026-09-15T14:09:17.000Z",
+        "display_text_range": [
+          27,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T15:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099863126485438815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1998435905280028674",
+              "start": 0,
+              "username": "MikeArfa"
+            },
+            {
+              "end": 26,
+              "id": "2089408201209102336",
+              "start": 10,
+              "username": "zhuzhuzhuzhusiz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099863126485438815",
+        "in_reply_to_user_id": "1998435905280028674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099845085617848703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MikeArfa @zhuzhuzhuzhusiz 傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998435905280028674",
+        "conversation_id": "2099841635916087571",
+        "created_at": "2026-09-15T12:57:36.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T13:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099845085617848703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2089408201209102336",
+              "start": 0,
+              "username": "zhuzhuzhuzhusiz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099845085617848703",
+        "in_reply_to_user_id": "2089408201209102336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099841635916087571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhuzhuzhuzhusiz 疼就砍了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2099863126485438815",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 579,
+          "like_count": 2828,
+          "listed_count": 4,
+          "media_count": 2698,
+          "tweet_count": 7831
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-09T16:54:06.000Z",
+        "description": "随便玩玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/cbxns111",
+                "end": 23,
+                "expanded_url": "http://t.me/cbxns111",
+                "start": 0,
+                "url": "https://t.co/5ivEbubk2p"
+              }
+            ]
+          }
+        },
+        "id": "1998435905280028674",
+        "is_identity_verified": false,
+        "location": "未知",
+        "most_recent_tweet_id": "2099857434823344373",
+        "name": "特朗普",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1998435905280028674/1765392451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998826863536586752/DizG40vc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 21,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 279
+        },
+        "url": "https://t.co/5ivEbubk2p",
+        "username": "MikeArfa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T17:45:53.000Z",
+        "description": "炸玉的6.0\n含od自伤内容\n妈妈@elonmusk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 17,
+                "username": "elonmusk"
+              }
+            ]
+          }
+        },
+        "id": "2089408201209102336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099860582732276019",
+        "name": "炸炸的玉6.0",
+        "pinned_tweet_id": "2099496247329694190",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089408201209102336/1788779799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089408584824291328/xsqL6M6O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 225,
+          "like_count": 729,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 341
+        },
+        "url": "",
+        "username": "zhuzhuzhuzhusiz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

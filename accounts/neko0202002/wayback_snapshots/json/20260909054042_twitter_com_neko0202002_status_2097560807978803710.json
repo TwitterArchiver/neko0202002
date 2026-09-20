@@ -1,0 +1,542 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097316363844866048"
+      ],
+      "media_source_tweet_id": [
+        "2097316555432280528"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1404909205924966400",
+          "name": "Doki Doki Literature Club"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311309260597329921",
+          "name": "Visual novels"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1404909205924966400",
+          "name": "Doki Doki Literature Club"
+        }
+      }
+    ],
+    "conversation_id": "2097560807978803710",
+    "created_at": "2026-09-09T05:40:42.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T06:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097560807978803710"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 31,
+          "tag": "DDLC"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1847781977564356608",
+          "start": 3,
+          "username": "shiro_burro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KI24OTwCuV",
+          "end": 60,
+          "expanded_url": "https://x.com/shiro_burro/status/2097316555432280528/photo/1",
+          "media_key": "3_2097316363844866048",
+          "start": 37,
+          "url": "https://t.co/KI24OTwCuV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097560807978803710",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2097316363844866048"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 411
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097316555432280528",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiro_burro: Say cheese! 📸\n#DDLC https://t.co/KI24OTwCuV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2097316363844866048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRsqHvCWUAA1XjJ.png",
+        "width": 2200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097316363844866048"
+          ],
+          "media_source_tweet_id": [
+            "2097316555432280528"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          }
+        ],
+        "conversation_id": "2097560807978803710",
+        "created_at": "2026-09-09T05:40:42.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T06:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097560807978803710"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "DDLC"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847781977564356608",
+              "start": 3,
+              "username": "shiro_burro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KI24OTwCuV",
+              "end": 60,
+              "expanded_url": "https://x.com/shiro_burro/status/2097316555432280528/photo/1",
+              "media_key": "3_2097316363844866048",
+              "start": 37,
+              "url": "https://t.co/KI24OTwCuV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097560807978803710",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2097316363844866048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 411
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097316555432280528",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shiro_burro: Say cheese! 📸\n#DDLC https://t.co/KI24OTwCuV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097316363844866048"
+          ]
+        },
+        "author_id": "1847781977564356608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          }
+        ],
+        "conversation_id": "2097316555432280528",
+        "created_at": "2026-09-08T13:30:07.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T14:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097316555432280528"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "DDLC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KI24OTwCuV",
+              "end": 43,
+              "expanded_url": "https://x.com/shiro_burro/status/2097316555432280528/photo/1",
+              "media_key": "3_2097316363844866048",
+              "start": 20,
+              "url": "https://t.co/KI24OTwCuV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097316555432280528",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2097316363844866048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 565,
+          "impression_count": 32204,
+          "like_count": 4898,
+          "quote_count": 12,
+          "reply_count": 58,
+          "retweet_count": 411
+        },
+        "reply_settings": "everyone",
+        "text": "Say cheese! 📸\n#DDLC https://t.co/KI24OTwCuV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2097560807978803710",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 545,
+          "like_count": 2777,
+          "listed_count": 4,
+          "media_count": 2658,
+          "tweet_count": 7520
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-19T23:29:15.000Z",
+        "description": "artist / pixel art\n@shiro_burro2 \nmy english is bad\nhttps://t.co/39p08tJlAM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 19,
+                "username": "shiro_burro2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/Shiro_burro",
+                "end": 75,
+                "expanded_url": "http://linktr.ee/Shiro_burro",
+                "start": 52,
+                "url": "https://t.co/39p08tJlAM"
+              }
+            ]
+          }
+        },
+        "id": "1847781977564356608",
+        "is_identity_verified": false,
+        "location": "𝙹𝚞𝚜𝚝 𝙼𝚘𝚗𝚒𝚔𝚊",
+        "most_recent_tweet_id": "2097316601058001160",
+        "name": "shiro_burro",
+        "pinned_tweet_id": "1856217242913972330",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1847781977564356608/1775706778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070332507334021120/WqYqXotv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10106,
+          "following_count": 637,
+          "like_count": 47644,
+          "listed_count": 27,
+          "media_count": 238,
+          "tweet_count": 941
+        },
+        "url": "",
+        "username": "shiro_burro",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

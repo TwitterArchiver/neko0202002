@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099810409033428992",
+        "3_2099810409041756160"
+      ],
+      "media_source_tweet_id": [
+        "2099810417556234332",
+        "2099810417556234332"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2100046784081051862",
+    "created_at": "2026-09-16T02:19:04.000Z",
+    "display_text_range": [
+      0,
+      123
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T03:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100046784081051862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2354699412",
+          "start": 3,
+          "username": "nico__ni"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j7on8lgwSF",
+          "end": 123,
+          "expanded_url": "https://x.com/nico__ni/status/2099810417556234332/photo/1",
+          "media_key": "3_2099810409033428992",
+          "start": 100,
+          "url": "https://t.co/j7on8lgwSF"
+        },
+        {
+          "display_url": "pic.x.com/j7on8lgwSF",
+          "end": 123,
+          "expanded_url": "https://x.com/nico__ni/status/2099810417556234332/photo/1",
+          "media_key": "3_2099810409041756160",
+          "start": 100,
+          "url": "https://t.co/j7on8lgwSF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100046784081051862",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2099810409033428992"
+      },
+      {
+        "media_key": "3_2099810409041756160"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099810417556234332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nico__ni: 早速しろたんミクのスカート外してみた\nしわがしっかり入ってて本来見えないところだけどこだわってて良い\n熱湯使わずにエンボスヒーターだけで分解できるようになって楽になるなあ https://t.co/j7on8lgwSF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3922,
+        "media_key": "3_2099810409033428992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQGcRYa8AAAoaq.jpg",
+        "width": 2942
+      },
+      {
+        "height": 3784,
+        "media_key": "3_2099810409041756160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQGcRaaAAA--6r.jpg",
+        "width": 2838
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099810409033428992",
+            "3_2099810409041756160"
+          ],
+          "media_source_tweet_id": [
+            "2099810417556234332",
+            "2099810417556234332"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2100046784081051862",
+        "created_at": "2026-09-16T02:19:04.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T03:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100046784081051862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2354699412",
+              "start": 3,
+              "username": "nico__ni"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j7on8lgwSF",
+              "end": 123,
+              "expanded_url": "https://x.com/nico__ni/status/2099810417556234332/photo/1",
+              "media_key": "3_2099810409033428992",
+              "start": 100,
+              "url": "https://t.co/j7on8lgwSF"
+            },
+            {
+              "display_url": "pic.x.com/j7on8lgwSF",
+              "end": 123,
+              "expanded_url": "https://x.com/nico__ni/status/2099810417556234332/photo/1",
+              "media_key": "3_2099810409041756160",
+              "start": 100,
+              "url": "https://t.co/j7on8lgwSF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100046784081051862",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099810409033428992"
+          },
+          {
+            "media_key": "3_2099810409041756160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099810417556234332",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nico__ni: 早速しろたんミクのスカート外してみた\nしわがしっかり入ってて本来見えないところだけどこだわってて良い\n熱湯使わずにエンボスヒーターだけで分解できるようになって楽になるなあ https://t.co/j7on8lgwSF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099810409033428992",
+            "3_2099810409041756160"
+          ]
+        },
+        "author_id": "2354699412",
+        "conversation_id": "2099810417556234332",
+        "created_at": "2026-09-15T10:39:50.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T11:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099810417556234332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j7on8lgwSF",
+              "end": 109,
+              "expanded_url": "https://x.com/nico__ni/status/2099810417556234332/photo/1",
+              "media_key": "3_2099810409033428992",
+              "start": 86,
+              "url": "https://t.co/j7on8lgwSF"
+            },
+            {
+              "display_url": "pic.x.com/j7on8lgwSF",
+              "end": 109,
+              "expanded_url": "https://x.com/nico__ni/status/2099810417556234332/photo/1",
+              "media_key": "3_2099810409041756160",
+              "start": 86,
+              "url": "https://t.co/j7on8lgwSF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099810417556234332",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099810409033428992"
+          },
+          {
+            "media_key": "3_2099810409041756160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 513,
+          "impression_count": 59012,
+          "like_count": 1135,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "早速しろたんミクのスカート外してみた\nしわがしっかり入ってて本来見えないところだけどこだわってて良い\n熱湯使わずにエンボスヒーターだけで分解できるようになって楽になるなあ https://t.co/j7on8lgwSF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2100046784081051862",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 582,
+          "like_count": 2838,
+          "listed_count": 4,
+          "media_count": 2708,
+          "tweet_count": 7863
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-02-21T12:10:38.000Z",
+        "description": "アニソン好きのSE 学マス美鈴担当 フィギュア収集",
+        "id": "2354699412",
+        "is_identity_verified": false,
+        "location": "東京 千代田区",
+        "most_recent_tweet_id": "2099811323194622337",
+        "name": "nico__ni",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2354699412/1748536753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662468663172304896/yquKbk5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 442,
+          "like_count": 178,
+          "listed_count": 2,
+          "media_count": 1081,
+          "tweet_count": 2925
+        },
+        "url": "",
+        "username": "nico__ni",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

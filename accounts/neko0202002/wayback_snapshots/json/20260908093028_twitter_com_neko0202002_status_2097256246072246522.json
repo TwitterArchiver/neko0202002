@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097080006749077504"
+      ],
+      "media_source_tweet_id": [
+        "2097080011178266991"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2097256246072246522",
+    "created_at": "2026-09-08T09:30:28.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T10:30:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097256246072246522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2294444582",
+          "start": 3,
+          "username": "mnhr__chan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uxxb3h8r76",
+          "end": 43,
+          "expanded_url": "https://x.com/mnhr__chan/status/2097080011178266991/photo/1",
+          "media_key": "3_2097080006749077504",
+          "start": 20,
+          "url": "https://t.co/uxxb3h8r76"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097256246072246522",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2097080006749077504"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 159
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097080011178266991",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mnhr__chan: おはよ https://t.co/uxxb3h8r76"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1451,
+        "media_key": "3_2097080006749077504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRpTJ8PaQAAfcWU.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097080006749077504"
+          ],
+          "media_source_tweet_id": [
+            "2097080011178266991"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2097256246072246522",
+        "created_at": "2026-09-08T09:30:28.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T10:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097256246072246522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2294444582",
+              "start": 3,
+              "username": "mnhr__chan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uxxb3h8r76",
+              "end": 43,
+              "expanded_url": "https://x.com/mnhr__chan/status/2097080011178266991/photo/1",
+              "media_key": "3_2097080006749077504",
+              "start": 20,
+              "url": "https://t.co/uxxb3h8r76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097256246072246522",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097080006749077504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 159
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097080011178266991",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mnhr__chan: おはよ https://t.co/uxxb3h8r76"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097080006749077504"
+          ]
+        },
+        "author_id": "2294444582",
+        "conversation_id": "2097080011178266991",
+        "created_at": "2026-09-07T21:50:11.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T22:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097080011178266991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uxxb3h8r76",
+              "end": 27,
+              "expanded_url": "https://x.com/mnhr__chan/status/2097080011178266991/photo/1",
+              "media_key": "3_2097080006749077504",
+              "start": 4,
+              "url": "https://t.co/uxxb3h8r76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097080011178266991",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097080006749077504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 5920,
+          "like_count": 935,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 159
+        },
+        "reply_settings": "everyone",
+        "text": "おはよ https://t.co/uxxb3h8r76"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2097256246072246522",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1052,
+          "following_count": 542,
+          "like_count": 2748,
+          "listed_count": 4,
+          "media_count": 2643,
+          "tweet_count": 7471
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-01-16T13:25:35.000Z",
+        "description": "【グッズ】→ https://t.co/Dz0sDm05rg\n【リトリン】→https://t.co/8gcEWQ0puE\n【お問い合わせ】→ezakibisuko@gmail.com\n⚠️イラストのアイコン・ヘッダー使用はご遠慮ください。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "menherabusu.thebase.in",
+                "end": 30,
+                "expanded_url": "https://menherabusu.thebase.in/",
+                "start": 7,
+                "url": "https://t.co/Dz0sDm05rg"
+              },
+              {
+                "display_url": "lit.link/mhcyamikawaii",
+                "end": 61,
+                "expanded_url": "https://lit.link/mhcyamikawaii",
+                "start": 38,
+                "url": "https://t.co/8gcEWQ0puE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ateliermu.wixsite.com/ateliermu",
+                "end": 23,
+                "expanded_url": "http://ateliermu.wixsite.com/ateliermu",
+                "start": 0,
+                "url": "https://t.co/PCYZBRwvvT"
+              }
+            ]
+          }
+        },
+        "id": "2294444582",
+        "is_identity_verified": false,
+        "location": "作:江崎びす子　LINEスタンプ&着せ替え&絵文字発売中！",
+        "most_recent_tweet_id": "2097080011178266991",
+        "name": "メンヘラチャン【公式】病みかわいい",
+        "pinned_tweet_id": "2037101744703107519",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2294444582/1455236477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/697938539539931136/h586eWvA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74448,
+          "following_count": 8,
+          "like_count": 6839,
+          "listed_count": 310,
+          "media_count": 2989,
+          "tweet_count": 12209
+        },
+        "url": "https://t.co/PCYZBRwvvT",
+        "username": "mnhr__chan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

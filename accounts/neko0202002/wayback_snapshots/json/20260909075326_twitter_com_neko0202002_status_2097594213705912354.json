@@ -1,0 +1,661 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046487168",
+          "name": "App Store"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2097594213705912354",
+    "created_at": "2026-09-09T07:53:26.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T08:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097594213705912354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "4346734399",
+          "start": 3,
+          "username": "mzn773"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097594213705912354",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096572523815055737",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mzn773: 上海でバグシステム様のポップアップストアが👀✨✨✨\n『真愛の百合は赤く染まる』優子ちゃんのグッズもありまーーーーーーーーーーーーーーーーーーーーーす🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌\n海外ﾆｷﾈｷの皆様、行かれる方々は是非手に入れてください😊優しい子、で優子ちゃん…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096572512411013120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiFl4gbUAAtcx2.jpg",
+        "width": 1446
+      },
+      {
+        "height": 1800,
+        "media_key": "3_2096572518501089280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiFmPMagAAVTq1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2097594213705912354",
+        "created_at": "2026-09-09T07:53:26.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T08:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097594213705912354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "4346734399",
+              "start": 3,
+              "username": "mzn773"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097594213705912354",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096572523815055737",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mzn773: 上海でバグシステム様のポップアップストアが👀✨✨✨\n『真愛の百合は赤く染まる』優子ちゃんのグッズもありまーーーーーーーーーーーーーーーーーーーーーす🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌\n海外ﾆｷﾈｷの皆様、行かれる方々は是非手に入れてください😊優しい子、で優子ちゃん…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096572512411013120",
+            "3_2096572518501089280"
+          ]
+        },
+        "author_id": "4346734399",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2096572523815055737",
+        "created_at": "2026-09-06T12:13:36.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T13:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096572523815055737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y7LVOdfzMf",
+              "end": 156,
+              "expanded_url": "https://x.com/mzn773/status/2096572523815055737/photo/1",
+              "media_key": "3_2096572512411013120",
+              "start": 133,
+              "url": "https://t.co/Y7LVOdfzMf"
+            },
+            {
+              "display_url": "pic.x.com/Y7LVOdfzMf",
+              "end": 156,
+              "expanded_url": "https://x.com/mzn773/status/2096572523815055737/photo/1",
+              "media_key": "3_2096572518501089280",
+              "start": 133,
+              "url": "https://t.co/Y7LVOdfzMf"
+            },
+            {
+              "display_url": "x.com/Nikumannbunnka…",
+              "end": 180,
+              "expanded_url": "https://twitter.com/Nikumannbunnka/status/2093264439843987633",
+              "start": 157,
+              "url": "https://t.co/q9o7hz9avm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096572523815055737",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096572512411013120"
+          },
+          {
+            "media_key": "3_2096572518501089280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 9054,
+          "like_count": 113,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093264439843987633",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上海でバグシステム様のポップアップストアが👀✨✨✨\n『真愛の百合は赤く染まる』優子ちゃんのグッズもありまーーーーーーーーーーーーーーーーーーーーーす🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌\n海外ﾆｷﾈｷの皆様、行かれる方々は是非手に入れてください😊優しい子、で優子ちゃん！！！！！ https://t.co/Y7LVOdfzMf https://t.co/q9o7hz9avm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2097594213705912354",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 544,
+          "like_count": 2778,
+          "listed_count": 4,
+          "media_count": 2661,
+          "tweet_count": 7529
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-11-24T16:28:09.000Z",
+        "description": "猫を養うフリー声優！出演 #ぬきたし 礼 #オウギヒメ #ドットアビス #スイメド #おっぱいスパイ学園 他 💌お問合せ https://t.co/StGLLM8U1S 商業同人スタ録宅録OK🗿フォロー＆リプ感謝ですん🙏",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 13,
+                "tag": "ぬきたし"
+              },
+              {
+                "end": 27,
+                "start": 21,
+                "tag": "オウギヒメ"
+              },
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "ドットアビス"
+              },
+              {
+                "end": 41,
+                "start": 36,
+                "tag": "スイメド"
+              },
+              {
+                "end": 52,
+                "start": 42,
+                "tag": "おっぱいスパイ学園"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mzn773.wixsite.com/mzn773",
+                "end": 84,
+                "expanded_url": "http://mzn773.wixsite.com/mzn773",
+                "start": 61,
+                "url": "https://t.co/StGLLM8U1S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/mzn773",
+                "end": 23,
+                "expanded_url": "https://potofu.me/mzn773",
+                "start": 0,
+                "url": "https://t.co/2a0bVpk0VG"
+              }
+            ]
+          }
+        },
+        "id": "4346734399",
+        "is_identity_verified": false,
+        "location": "フリーランス／インボイス応相談／生成AI学習❌",
+        "most_recent_tweet_id": "2097337824802697401",
+        "name": "水野七海🐈@声のお仕事受付ちゅ！",
+        "pinned_tweet_id": "2040425256759050400",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4346734399/1777569974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973406457522692101/E5snaxrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36023,
+          "following_count": 2258,
+          "like_count": 248423,
+          "listed_count": 283,
+          "media_count": 6965,
+          "tweet_count": 45879
+        },
+        "url": "https://t.co/2a0bVpk0VG",
+        "username": "mzn773",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,477 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097887490208370688",
+        "3_2097887490258653184",
+        "3_2097887490174771200",
+        "3_2097887490212532224"
+      ],
+      "media_source_tweet_id": [
+        "2097887789060698458",
+        "2097887789060698458",
+        "2097887789060698458",
+        "2097887789060698458"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2097963342765945188",
+    "created_at": "2026-09-10T08:20:13.000Z",
+    "display_text_range": [
+      0,
+      123
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T09:20:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097963342765945188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eSoOtRov03",
+          "end": 123,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2097887789060698458/video/1",
+          "media_key": "13_2097887490208370688",
+          "start": 100,
+          "url": "https://t.co/eSoOtRov03"
+        },
+        {
+          "display_url": "pic.x.com/eSoOtRov03",
+          "end": 123,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2097887789060698458/video/1",
+          "media_key": "3_2097887490258653184",
+          "start": 100,
+          "url": "https://t.co/eSoOtRov03"
+        },
+        {
+          "display_url": "pic.x.com/eSoOtRov03",
+          "end": 123,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2097887789060698458/video/1",
+          "media_key": "3_2097887490174771200",
+          "start": 100,
+          "url": "https://t.co/eSoOtRov03"
+        },
+        {
+          "display_url": "pic.x.com/eSoOtRov03",
+          "end": 123,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2097887789060698458/video/1",
+          "media_key": "3_2097887490212532224",
+          "start": 100,
+          "url": "https://t.co/eSoOtRov03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097963342765945188",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2097887490208370688"
+      },
+      {
+        "media_key": "3_2097887490258653184"
+      },
+      {
+        "media_key": "3_2097887490174771200"
+      },
+      {
+        "media_key": "3_2097887490212532224"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097887789060698458",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 跳楼也要扣分\n\n近日，一位学生发视频称自己学校管理的扣分项里面竟然有跳楼，显得极其荒谬。\n该视频引发其他网友关于中国学校掩盖学生自杀事件和社交媒体审查的讨论。 https://t.co/eSoOtRov03"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8452,
+        "height": 1280,
+        "media_key": "13_2097887490208370688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097887490208370688/img/1ixlbp_A1rhNQaNq.jpg",
+        "public_metrics": {
+          "view_count": 25212
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097887490208370688/vid/avc1/320x568/kNWnHt5qvIR0BrwZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097887490208370688/vid/avc1/480x852/AwCfvsCTHKP0JwUx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097887490208370688/vid/avc1/720x1280/uV3yjPnALoBsypG3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097887490208370688/pl/EnJW3pPVFFvJkXgZ.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2097887490258653184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR0xjquaUAA7HKA.jpg",
+        "width": 584
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2097887490174771200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR0xjqaaYAAL2w7.jpg",
+        "width": 587
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2097887490212532224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR0xjqjakAAUy0d.jpg",
+        "width": 587
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097887490208370688",
+            "3_2097887490258653184",
+            "3_2097887490174771200",
+            "3_2097887490212532224"
+          ],
+          "media_source_tweet_id": [
+            "2097887789060698458",
+            "2097887789060698458",
+            "2097887789060698458",
+            "2097887789060698458"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2097963342765945188",
+        "created_at": "2026-09-10T08:20:13.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T09:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097963342765945188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eSoOtRov03",
+              "end": 123,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2097887789060698458/video/1",
+              "media_key": "13_2097887490208370688",
+              "start": 100,
+              "url": "https://t.co/eSoOtRov03"
+            },
+            {
+              "display_url": "pic.x.com/eSoOtRov03",
+              "end": 123,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2097887789060698458/video/1",
+              "media_key": "3_2097887490258653184",
+              "start": 100,
+              "url": "https://t.co/eSoOtRov03"
+            },
+            {
+              "display_url": "pic.x.com/eSoOtRov03",
+              "end": 123,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2097887789060698458/video/1",
+              "media_key": "3_2097887490174771200",
+              "start": 100,
+              "url": "https://t.co/eSoOtRov03"
+            },
+            {
+              "display_url": "pic.x.com/eSoOtRov03",
+              "end": 123,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2097887789060698458/video/1",
+              "media_key": "3_2097887490212532224",
+              "start": 100,
+              "url": "https://t.co/eSoOtRov03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097963342765945188",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2097887490208370688"
+          },
+          {
+            "media_key": "3_2097887490258653184"
+          },
+          {
+            "media_key": "3_2097887490174771200"
+          },
+          {
+            "media_key": "3_2097887490212532224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097887789060698458",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 跳楼也要扣分\n\n近日，一位学生发视频称自己学校管理的扣分项里面竟然有跳楼，显得极其荒谬。\n该视频引发其他网友关于中国学校掩盖学生自杀事件和社交媒体审查的讨论。 https://t.co/eSoOtRov03"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097887490208370688",
+            "3_2097887490258653184",
+            "3_2097887490174771200",
+            "3_2097887490212532224"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2097887789060698458",
+        "created_at": "2026-09-10T03:20:00.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T04:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097887789060698458"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eSoOtRov03",
+              "end": 103,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2097887789060698458/video/1",
+              "media_key": "13_2097887490208370688",
+              "start": 80,
+              "url": "https://t.co/eSoOtRov03"
+            },
+            {
+              "display_url": "pic.x.com/eSoOtRov03",
+              "end": 103,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2097887789060698458/video/1",
+              "media_key": "3_2097887490258653184",
+              "start": 80,
+              "url": "https://t.co/eSoOtRov03"
+            },
+            {
+              "display_url": "pic.x.com/eSoOtRov03",
+              "end": 103,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2097887789060698458/video/1",
+              "media_key": "3_2097887490174771200",
+              "start": 80,
+              "url": "https://t.co/eSoOtRov03"
+            },
+            {
+              "display_url": "pic.x.com/eSoOtRov03",
+              "end": 103,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2097887789060698458/video/1",
+              "media_key": "3_2097887490212532224",
+              "start": 80,
+              "url": "https://t.co/eSoOtRov03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097887789060698458",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2097887490208370688"
+          },
+          {
+            "media_key": "3_2097887490258653184"
+          },
+          {
+            "media_key": "3_2097887490174771200"
+          },
+          {
+            "media_key": "3_2097887490212532224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 44563,
+          "like_count": 472,
+          "quote_count": 0,
+          "reply_count": 63,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "跳楼也要扣分\n\n近日，一位学生发视频称自己学校管理的扣分项里面竟然有跳楼，显得极其荒谬。\n该视频引发其他网友关于中国学校掩盖学生自杀事件和社交媒体审查的讨论。 https://t.co/eSoOtRov03"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2097963342765945188",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 555,
+          "like_count": 2791,
+          "listed_count": 4,
+          "media_count": 2667,
+          "tweet_count": 7608
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2097963285685637529",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2263529,
+          "following_count": 1083,
+          "like_count": 10476,
+          "listed_count": 8898,
+          "media_count": 53522,
+          "tweet_count": 60852
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

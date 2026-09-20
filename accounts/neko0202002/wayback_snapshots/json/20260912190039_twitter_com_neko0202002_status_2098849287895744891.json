@@ -1,0 +1,741 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098154705650405376",
+        "3_2098154705889447936",
+        "3_2098154705914601472",
+        "3_2098154705910370304"
+      ],
+      "media_source_tweet_id": [
+        "2098155253900382711",
+        "2098155253900382711",
+        "2098155253900382711",
+        "2098155253900382711"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Board Games",
+          "id": "872578743771963392",
+          "name": "Tabletop gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Japanese chess",
+          "id": "1099057212704489472",
+          "name": "Shogi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Traditional tabletop games like poker, chess, and mahjong.",
+          "id": "1175097393290735616",
+          "name": "Traditional games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Board Games",
+          "id": "872578743771963392",
+          "name": "Tabletop gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese chess",
+          "id": "1099057212704489472",
+          "name": "Shogi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Traditional tabletop games like poker, chess, and mahjong.",
+          "id": "1175097393290735616",
+          "name": "Traditional games"
+        }
+      }
+    ],
+    "conversation_id": "2098849287895744891",
+    "created_at": "2026-09-12T19:00:39.000Z",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T20:00:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098849287895744891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1692258563270541312",
+          "start": 3,
+          "username": "kyuusatsu9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VKZxa5lbIF",
+          "end": 73,
+          "expanded_url": "https://x.com/kyuusatsu9/status/2098155253900382711/photo/1",
+          "media_key": "3_2098154705650405376",
+          "start": 50,
+          "url": "https://t.co/VKZxa5lbIF"
+        },
+        {
+          "display_url": "pic.x.com/VKZxa5lbIF",
+          "end": 73,
+          "expanded_url": "https://x.com/kyuusatsu9/status/2098155253900382711/photo/1",
+          "media_key": "3_2098154705889447936",
+          "start": 50,
+          "url": "https://t.co/VKZxa5lbIF"
+        },
+        {
+          "display_url": "pic.x.com/VKZxa5lbIF",
+          "end": 73,
+          "expanded_url": "https://x.com/kyuusatsu9/status/2098155253900382711/photo/1",
+          "media_key": "3_2098154705914601472",
+          "start": 50,
+          "url": "https://t.co/VKZxa5lbIF"
+        },
+        {
+          "display_url": "pic.x.com/VKZxa5lbIF",
+          "end": 73,
+          "expanded_url": "https://x.com/kyuusatsu9/status/2098155253900382711/photo/1",
+          "media_key": "3_2098154705910370304",
+          "start": 50,
+          "url": "https://t.co/VKZxa5lbIF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098849287895744891",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2098154705650405376"
+      },
+      {
+        "media_key": "3_2098154705889447936"
+      },
+      {
+        "media_key": "3_2098154705914601472"
+      },
+      {
+        "media_key": "3_2098154705910370304"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4088
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098155253900382711",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kyuusatsu9: Be sure to study shogi very well! https://t.co/VKZxa5lbIF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2098154705650405376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR4klpobUAAGaQg.jpg",
+        "width": 1000
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2098154705889447936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR4klqha0AAylEN.jpg",
+        "width": 1000
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2098154705914601472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR4klqnaoAArIZP.jpg",
+        "width": 1000
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2098154705910370304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR4klqmaEAArYa-.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098154705650405376",
+            "3_2098154705889447936",
+            "3_2098154705914601472",
+            "3_2098154705910370304"
+          ],
+          "media_source_tweet_id": [
+            "2098155253900382711",
+            "2098155253900382711",
+            "2098155253900382711",
+            "2098155253900382711"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Japanese chess",
+              "id": "1099057212704489472",
+              "name": "Shogi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Traditional tabletop games like poker, chess, and mahjong.",
+              "id": "1175097393290735616",
+              "name": "Traditional games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese chess",
+              "id": "1099057212704489472",
+              "name": "Shogi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Traditional tabletop games like poker, chess, and mahjong.",
+              "id": "1175097393290735616",
+              "name": "Traditional games"
+            }
+          }
+        ],
+        "conversation_id": "2098849287895744891",
+        "created_at": "2026-09-12T19:00:39.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T20:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098849287895744891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1692258563270541312",
+              "start": 3,
+              "username": "kyuusatsu9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VKZxa5lbIF",
+              "end": 73,
+              "expanded_url": "https://x.com/kyuusatsu9/status/2098155253900382711/photo/1",
+              "media_key": "3_2098154705650405376",
+              "start": 50,
+              "url": "https://t.co/VKZxa5lbIF"
+            },
+            {
+              "display_url": "pic.x.com/VKZxa5lbIF",
+              "end": 73,
+              "expanded_url": "https://x.com/kyuusatsu9/status/2098155253900382711/photo/1",
+              "media_key": "3_2098154705889447936",
+              "start": 50,
+              "url": "https://t.co/VKZxa5lbIF"
+            },
+            {
+              "display_url": "pic.x.com/VKZxa5lbIF",
+              "end": 73,
+              "expanded_url": "https://x.com/kyuusatsu9/status/2098155253900382711/photo/1",
+              "media_key": "3_2098154705914601472",
+              "start": 50,
+              "url": "https://t.co/VKZxa5lbIF"
+            },
+            {
+              "display_url": "pic.x.com/VKZxa5lbIF",
+              "end": 73,
+              "expanded_url": "https://x.com/kyuusatsu9/status/2098155253900382711/photo/1",
+              "media_key": "3_2098154705910370304",
+              "start": 50,
+              "url": "https://t.co/VKZxa5lbIF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098849287895744891",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2098154705650405376"
+          },
+          {
+            "media_key": "3_2098154705889447936"
+          },
+          {
+            "media_key": "3_2098154705914601472"
+          },
+          {
+            "media_key": "3_2098154705910370304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4088
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098155253900382711",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kyuusatsu9: Be sure to study shogi very well! https://t.co/VKZxa5lbIF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098154705650405376",
+            "3_2098154705889447936",
+            "3_2098154705914601472",
+            "3_2098154705910370304"
+          ]
+        },
+        "author_id": "1692258563270541312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Japanese chess",
+              "id": "1099057212704489472",
+              "name": "Shogi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Traditional tabletop games like poker, chess, and mahjong.",
+              "id": "1175097393290735616",
+              "name": "Traditional games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese chess",
+              "id": "1099057212704489472",
+              "name": "Shogi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Traditional tabletop games like poker, chess, and mahjong.",
+              "id": "1175097393290735616",
+              "name": "Traditional games"
+            }
+          }
+        ],
+        "conversation_id": "2098155253900382711",
+        "created_at": "2026-09-10T21:02:49.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T22:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098155253900382711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VKZxa5lbIF",
+              "end": 57,
+              "expanded_url": "https://x.com/kyuusatsu9/status/2098155253900382711/photo/1",
+              "media_key": "3_2098154705650405376",
+              "start": 34,
+              "url": "https://t.co/VKZxa5lbIF"
+            },
+            {
+              "display_url": "pic.x.com/VKZxa5lbIF",
+              "end": 57,
+              "expanded_url": "https://x.com/kyuusatsu9/status/2098155253900382711/photo/1",
+              "media_key": "3_2098154705889447936",
+              "start": 34,
+              "url": "https://t.co/VKZxa5lbIF"
+            },
+            {
+              "display_url": "pic.x.com/VKZxa5lbIF",
+              "end": 57,
+              "expanded_url": "https://x.com/kyuusatsu9/status/2098155253900382711/photo/1",
+              "media_key": "3_2098154705914601472",
+              "start": 34,
+              "url": "https://t.co/VKZxa5lbIF"
+            },
+            {
+              "display_url": "pic.x.com/VKZxa5lbIF",
+              "end": 57,
+              "expanded_url": "https://x.com/kyuusatsu9/status/2098155253900382711/photo/1",
+              "media_key": "3_2098154705910370304",
+              "start": 34,
+              "url": "https://t.co/VKZxa5lbIF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098155253900382711",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2098154705650405376"
+          },
+          {
+            "media_key": "3_2098154705889447936"
+          },
+          {
+            "media_key": "3_2098154705914601472"
+          },
+          {
+            "media_key": "3_2098154705910370304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40299,
+          "impression_count": 12934326,
+          "like_count": 81713,
+          "quote_count": 370,
+          "reply_count": 96,
+          "retweet_count": 4088
+        },
+        "reply_settings": "everyone",
+        "text": "Be sure to study shogi very well! https://t.co/VKZxa5lbIF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2098849287895744891",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1090,
+          "following_count": 568,
+          "like_count": 2810,
+          "listed_count": 4,
+          "media_count": 2682,
+          "tweet_count": 7723
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T19:34:30.000Z",
+        "description": "9books/kyuusatsu\n\nworks are usually cropped to become wholesome(?)\n\ntotally random websites\nhttps://t.co/VYfoi9SWYk\nhttps://t.co/C9FXiToNsO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/en/users/30838…",
+                "end": 115,
+                "expanded_url": "https://www.pixiv.net/en/users/3083895",
+                "start": 92,
+                "url": "https://t.co/VYfoi9SWYk"
+              },
+              {
+                "display_url": "baraag.net/@kyuusatsu",
+                "end": 139,
+                "expanded_url": "https://baraag.net/@kyuusatsu",
+                "start": 116,
+                "url": "https://t.co/C9FXiToNsO"
+              }
+            ]
+          }
+        },
+        "id": "1692258563270541312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098831947724443917",
+        "name": "kyuusatsu",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692258563270541312/1764095300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092073657741004800/AolDghRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7593,
+          "following_count": 9,
+          "like_count": 217,
+          "listed_count": 13,
+          "media_count": 39,
+          "tweet_count": 107
+        },
+        "url": "",
+        "username": "kyuusatsu9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,549 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Health, mind and body",
+          "id": "859532297376219136",
+          "name": "Health & wellness books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Health, mind and body",
+          "id": "859532297376219136",
+          "name": "Health & wellness books"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2100487918100091289",
+    "created_at": "2026-09-17T07:31:59.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T08:31:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100487918100091289"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_ur_17/status/…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/_ur_17/status/2099461737686966566",
+          "start": 19,
+          "url": "https://t.co/hCTZRYAMti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100487918100091289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099461737686966566",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还能看到本子amv，有点活到头的感觉 https://t.co/hCTZRYAMti"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27366,
+        "height": 1440,
+        "media_key": "13_2099461278083493888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099461278083493888/img/axf2cDYmzmOVlUMb.jpg",
+        "public_metrics": {
+          "view_count": 19770
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099461278083493888/vid/avc1/374x270/9NPUQvuNVrJZw8S_.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099461278083493888/vid/avc1/500x360/giluTIK3LNWpawTz.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099461278083493888/vid/avc1/1000x720/FmMR7jbtIdHAMUZJ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099461278083493888/pl/fVZDyvSQln924Ska.m3u8?tag=14"
+          }
+        ],
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Health, mind and body",
+              "id": "859532297376219136",
+              "name": "Health & wellness books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Health, mind and body",
+              "id": "859532297376219136",
+              "name": "Health & wellness books"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2100487918100091289",
+        "created_at": "2026-09-17T07:31:59.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T08:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100487918100091289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_ur_17/status/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/_ur_17/status/2099461737686966566",
+              "start": 19,
+              "url": "https://t.co/hCTZRYAMti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100487918100091289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099461737686966566",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还能看到本子amv，有点活到头的感觉 https://t.co/hCTZRYAMti"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099461278083493888"
+          ]
+        },
+        "author_id": "1870773680378429440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Health, mind and body",
+              "id": "859532297376219136",
+              "name": "Health & wellness books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Health, mind and body",
+              "id": "859532297376219136",
+              "name": "Health & wellness books"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2099461737686966566",
+        "created_at": "2026-09-14T11:34:19.000Z",
+        "display_text_range": [
+          0,
+          151
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T12:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099461737686966566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "1847809771.share.123pan.cn/123pan/FS13vd-…",
+              "end": 114,
+              "expanded_url": "https://1847809771.share.123pan.cn/123pan/FS13vd-4BOMA?pwd=qA0q#",
+              "start": 91,
+              "status": 200,
+              "title": "本子魔法使AMV - 123云盘免费不限速|下载免登录",
+              "unwound_url": "https://1847809771.share.123pan.cn/123pan/FS13vd-4BOMA?pwd=qA0q#",
+              "url": "https://t.co/6Nl2OlxaLx"
+            },
+            {
+              "display_url": "pic.x.com/ERmwpOU5Ji",
+              "end": 175,
+              "expanded_url": "https://x.com/_ur_17/status/2099461737686966566/video/1",
+              "media_key": "13_2099461278083493888",
+              "start": 152,
+              "url": "https://t.co/ERmwpOU5Ji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099461737686966566",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2099461278083493888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 881,
+          "impression_count": 24712,
+          "like_count": 1703,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "给牢本做的AMV（？\n这应该是AMV吧（我不懂）\n用到了很多h的素材，也是我第一次用本子和瑟图做片\n其他每什么可说的，那就祝牢本身体健康吧\n\n另外这里是工程文件，感兴趣可以下载学习：https://t.co/6Nl2OlxaLx\n\n另外我给b站上也投稿了，结果给我号封了，这这这牢本多少有点责任吧（不是 https://t.co/ERmwpOU5Ji"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2100487918100091289",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 587,
+          "like_count": 2840,
+          "listed_count": 4,
+          "media_count": 2712,
+          "tweet_count": 7903
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-22T10:09:55.000Z",
+        "description": "e",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "trying.fun",
+                "end": 23,
+                "expanded_url": "http://www.trying.fun",
+                "start": 0,
+                "url": "https://t.co/7BN0vQPa2g"
+              }
+            ]
+          }
+        },
+        "id": "1870773680378429440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100272692050231522",
+        "name": "wCSnDb",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1870773680378429440/1789386000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099463502679420928/AfR9QXq4_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 50,
+          "like_count": 172,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 5
+        },
+        "url": "https://t.co/7BN0vQPa2g",
+        "username": "_ur_17",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

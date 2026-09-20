@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2095422090698760579",
+    "created_at": "2026-09-03T08:02:12.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T09:02:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095422090698760579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2040496801401425920",
+          "start": 3,
+          "username": "Xxkg3g"
+        },
+        {
+          "end": 30,
+          "id": "1905850606813855744",
+          "start": 14,
+          "username": "3R8sMFwksd434I0"
+        },
+        {
+          "end": 50,
+          "id": "1921068047542218754",
+          "start": 34,
+          "username": "3R8sMFwksd43410"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095422090698760579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095402805649375434",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xxkg3g: 傻逼@3R8sMFwksd434I0 \n本人@3R8sMFwksd43410 这他妈盗的也太像了吧 就把1给改了"
+  },
+  "errors": [
+    {
+      "detail": "User is unavailable: [3R8sMFwksd434I0].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "3R8sMFwksd434I0",
+      "resource_type": "user",
+      "title": "Resource Unavailable Error",
+      "type": "https://api.x.com/2/problems/resource-unavailable"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2095422090698760579",
+        "created_at": "2026-09-03T08:02:12.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T09:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095422090698760579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2040496801401425920",
+              "start": 3,
+              "username": "Xxkg3g"
+            },
+            {
+              "end": 30,
+              "id": "1905850606813855744",
+              "start": 14,
+              "username": "3R8sMFwksd434I0"
+            },
+            {
+              "end": 50,
+              "id": "1921068047542218754",
+              "start": 34,
+              "username": "3R8sMFwksd43410"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095422090698760579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095402805649375434",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xxkg3g: 傻逼@3R8sMFwksd434I0 \n本人@3R8sMFwksd43410 这他妈盗的也太像了吧 就把1给改了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2095402805649375434",
+        "created_at": "2026-09-03T06:45:34.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T07:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095402805649375434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1905850606813855744",
+              "start": 2,
+              "username": "3R8sMFwksd434I0"
+            },
+            {
+              "end": 38,
+              "id": "1921068047542218754",
+              "start": 22,
+              "username": "3R8sMFwksd43410"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095402805649375434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 213,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼@3R8sMFwksd434I0 \n本人@3R8sMFwksd43410 这他妈盗的也太像了吧 就把1给改了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2095422090698760579",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 508,
+          "like_count": 2702,
+          "listed_count": 3,
+          "media_count": 2607,
+          "tweet_count": 7297
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你 防丢号@xiaolingii9\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2095406091421077783",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1763,
+          "following_count": 545,
+          "like_count": 586,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 2575
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-10T05:01:53.000Z",
+        "description": "",
+        "id": "1921068047542218754",
+        "is_identity_verified": false,
+        "location": "(T . T)",
+        "most_recent_tweet_id": "2093824134568648779",
+        "name": "^ ^",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1921068047542218754/1754874410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084207889032572928/3Mwbys5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 681,
+          "like_count": 61,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 202
+        },
+        "url": "",
+        "username": "3R8sMFwksd43410",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

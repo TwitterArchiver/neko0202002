@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097595201690988544"
+      ],
+      "media_source_tweet_id": [
+        "2097595286977950074"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2097744287937306666",
+    "created_at": "2026-09-09T17:49:47.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T18:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097744287937306666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1994424181115809792",
+          "start": 3,
+          "username": "inasaneko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xpd3g0j308",
+          "end": 51,
+          "expanded_url": "https://x.com/inasaneko/status/2097595286977950074/photo/1",
+          "media_key": "3_2097595201690988544",
+          "start": 28,
+          "url": "https://t.co/Xpd3g0j308"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097744287937306666",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2097595201690988544"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 164
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097595286977950074",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @inasaneko: まどかは\n願いを\n叶えた https://t.co/Xpd3g0j308"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1004,
+        "media_key": "3_2097595201690988544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRwnuO9a8AA_YnY.jpg",
+        "width": 948
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097595201690988544"
+          ],
+          "media_source_tweet_id": [
+            "2097595286977950074"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2097744287937306666",
+        "created_at": "2026-09-09T17:49:47.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T18:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097744287937306666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1994424181115809792",
+              "start": 3,
+              "username": "inasaneko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xpd3g0j308",
+              "end": 51,
+              "expanded_url": "https://x.com/inasaneko/status/2097595286977950074/photo/1",
+              "media_key": "3_2097595201690988544",
+              "start": 28,
+              "url": "https://t.co/Xpd3g0j308"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097744287937306666",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097595201690988544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 164
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097595286977950074",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @inasaneko: まどかは\n願いを\n叶えた https://t.co/Xpd3g0j308"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097595201690988544"
+          ]
+        },
+        "author_id": "1994424181115809792",
+        "conversation_id": "2097595286977950074",
+        "created_at": "2026-09-09T07:57:42.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T08:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097595286977950074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xpd3g0j308",
+              "end": 36,
+              "expanded_url": "https://x.com/inasaneko/status/2097595286977950074/photo/1",
+              "media_key": "3_2097595201690988544",
+              "start": 13,
+              "url": "https://t.co/Xpd3g0j308"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097595286977950074",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097595201690988544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 280,
+          "impression_count": 22409,
+          "like_count": 1465,
+          "quote_count": 4,
+          "reply_count": 22,
+          "retweet_count": 164
+        },
+        "reply_settings": "everyone",
+        "text": "まどかは\n願いを\n叶えた https://t.co/Xpd3g0j308"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2097744287937306666",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 553,
+          "like_count": 2786,
+          "listed_count": 4,
+          "media_count": 2663,
+          "tweet_count": 7564
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-28T15:12:50.000Z",
+        "description": "Skeb▶https://t.co/HaLw3zZgJS\n※Skebにてご依頼して頂いた絵はご自由に使用してください。\npixiv：https://t.co/f1Fs9S3qVn\nFANBOX：https://t.co/pevVVC5KoB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@inasa_orange",
+                "end": 28,
+                "expanded_url": "https://skeb.jp/@inasa_orange",
+                "start": 5,
+                "url": "https://t.co/HaLw3zZgJS"
+              },
+              {
+                "display_url": "pixiv.net/users/55968",
+                "end": 89,
+                "expanded_url": "https://www.pixiv.net/users/55968",
+                "start": 66,
+                "url": "https://t.co/f1Fs9S3qVn"
+              },
+              {
+                "display_url": "inasaorange.fanbox.cc/posts",
+                "end": 120,
+                "expanded_url": "https://inasaorange.fanbox.cc/posts",
+                "start": 97,
+                "url": "https://t.co/pevVVC5KoB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.co.jp/wishlist",
+                "end": 23,
+                "expanded_url": "https://www.amazon.co.jp/wishlist",
+                "start": 0,
+                "url": "https://t.co/Tm9yWwKIss"
+              }
+            ]
+          }
+        },
+        "id": "1994424181115809792",
+        "is_identity_verified": false,
+        "location": "日本 大阪",
+        "most_recent_tweet_id": "2097727960703008793",
+        "name": "いなさ@",
+        "pinned_tweet_id": "2095065503501107539",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1994424181115809792/1769350729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995059434905837568/rDKLjFXo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6987,
+          "following_count": 464,
+          "like_count": 15639,
+          "listed_count": 43,
+          "media_count": 371,
+          "tweet_count": 6369
+        },
+        "url": "https://t.co/Tm9yWwKIss",
+        "username": "inasaneko",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

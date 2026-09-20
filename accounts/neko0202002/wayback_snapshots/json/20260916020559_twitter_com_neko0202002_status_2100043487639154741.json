@@ -1,0 +1,511 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099995891998621696"
+      ],
+      "media_source_tweet_id": [
+        "2099996693441749188"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2100043487639154741",
+    "created_at": "2026-09-16T02:05:59.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T03:05:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100043487639154741"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "まどマギ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2086261975412248577",
+          "start": 3,
+          "username": "viora_draw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u5VqlNVwJA",
+          "end": 50,
+          "expanded_url": "https://x.com/viora_draw/status/2099996693441749188/photo/1",
+          "media_key": "3_2099995891998621696",
+          "start": 27,
+          "url": "https://t.co/u5VqlNVwJA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100043487639154741",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2099995891998621696"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099996693441749188",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @viora_draw: 「逆命」\n#まどマギ https://t.co/u5VqlNVwJA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2099995891998621696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSSvIzRbgAAZlZB.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099995891998621696"
+          ],
+          "media_source_tweet_id": [
+            "2099996693441749188"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2100043487639154741",
+        "created_at": "2026-09-16T02:05:59.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T03:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100043487639154741"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "まどマギ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2086261975412248577",
+              "start": 3,
+              "username": "viora_draw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u5VqlNVwJA",
+              "end": 50,
+              "expanded_url": "https://x.com/viora_draw/status/2099996693441749188/photo/1",
+              "media_key": "3_2099995891998621696",
+              "start": 27,
+              "url": "https://t.co/u5VqlNVwJA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100043487639154741",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099995891998621696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099996693441749188",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @viora_draw: 「逆命」\n#まどマギ https://t.co/u5VqlNVwJA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099995891998621696"
+          ]
+        },
+        "author_id": "2086261975412248577",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2099996693441749188",
+        "created_at": "2026-09-15T23:00:02.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T00:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099996693441749188"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "まどマギ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u5VqlNVwJA",
+              "end": 34,
+              "expanded_url": "https://x.com/viora_draw/status/2099996693441749188/photo/1",
+              "media_key": "3_2099995891998621696",
+              "start": 11,
+              "url": "https://t.co/u5VqlNVwJA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099996693441749188",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099995891998621696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 5385,
+          "like_count": 616,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "「逆命」\n#まどマギ https://t.co/u5VqlNVwJA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2100043487639154741",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 582,
+          "like_count": 2838,
+          "listed_count": 4,
+          "media_count": 2708,
+          "tweet_count": 7862
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-09T01:24:18.000Z",
+        "description": "毎日1枚、女の子や #百合(#yuri)のイラストを投稿しているヴィオラです💜\n描き友達欲しい！IT / EN / JP / KR 👌",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 10,
+                "tag": "百合"
+              },
+              {
+                "end": 19,
+                "start": 14,
+                "tag": "yuri"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/en/users/12843…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/en/users/128439660/illustrations",
+                "start": 0,
+                "url": "https://t.co/vIXIu1FCpB"
+              }
+            ]
+          }
+        },
+        "id": "2086261975412248577",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099996906961449429",
+        "name": "ヴィオラ百合 | VioraYuri",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086261975412248577/1787552478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092508276818919424/SelLL48D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2852,
+          "following_count": 175,
+          "like_count": 1071,
+          "listed_count": 6,
+          "media_count": 46,
+          "tweet_count": 118
+        },
+        "url": "https://t.co/vIXIu1FCpB",
+        "username": "viora_draw",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

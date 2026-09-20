@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096561603529650176",
+        "3_2096561609212854273"
+      ],
+      "media_source_tweet_id": [
+        "2096561614107635818",
+        "2096561614107635818"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2096670522004385953",
+    "created_at": "2026-09-06T18:43:01.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T19:43:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096670522004385953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1265287619241316357",
+          "start": 3,
+          "username": "takeno_omoti"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/osgKNztf56",
+          "end": 56,
+          "expanded_url": "https://x.com/takeno_omoti/status/2096561614107635818/photo/1",
+          "media_key": "3_2096561603529650176",
+          "start": 33,
+          "url": "https://t.co/osgKNztf56"
+        },
+        {
+          "display_url": "pic.x.com/osgKNztf56",
+          "end": 56,
+          "expanded_url": "https://x.com/takeno_omoti/status/2096561614107635818/photo/1",
+          "media_key": "3_2096561609212854273",
+          "start": 33,
+          "url": "https://t.co/osgKNztf56"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096670522004385953",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2096561603529650176"
+      },
+      {
+        "media_key": "3_2096561609212854273"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 743
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096561614107635818",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @takeno_omoti: なくした水着の行方は……？👀 https://t.co/osgKNztf56"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2096561603529650176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRh7q5wbsAAa-yo.jpg",
+        "width": 1810
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2096561609212854273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRh7rO7agAExl5n.jpg",
+        "width": 1357
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096561603529650176",
+            "3_2096561609212854273"
+          ],
+          "media_source_tweet_id": [
+            "2096561614107635818",
+            "2096561614107635818"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2096670522004385953",
+        "created_at": "2026-09-06T18:43:01.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T19:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096670522004385953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1265287619241316357",
+              "start": 3,
+              "username": "takeno_omoti"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/osgKNztf56",
+              "end": 56,
+              "expanded_url": "https://x.com/takeno_omoti/status/2096561614107635818/photo/1",
+              "media_key": "3_2096561603529650176",
+              "start": 33,
+              "url": "https://t.co/osgKNztf56"
+            },
+            {
+              "display_url": "pic.x.com/osgKNztf56",
+              "end": 56,
+              "expanded_url": "https://x.com/takeno_omoti/status/2096561614107635818/photo/1",
+              "media_key": "3_2096561609212854273",
+              "start": 33,
+              "url": "https://t.co/osgKNztf56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096670522004385953",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096561603529650176"
+          },
+          {
+            "media_key": "3_2096561609212854273"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 743
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096561614107635818",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @takeno_omoti: なくした水着の行方は……？👀 https://t.co/osgKNztf56"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096561603529650176",
+            "3_2096561609212854273"
+          ]
+        },
+        "author_id": "1265287619241316357",
+        "conversation_id": "2096561614107635818",
+        "created_at": "2026-09-06T11:30:15.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T12:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096561614107635818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/osgKNztf56",
+              "end": 38,
+              "expanded_url": "https://x.com/takeno_omoti/status/2096561614107635818/photo/1",
+              "media_key": "3_2096561603529650176",
+              "start": 15,
+              "url": "https://t.co/osgKNztf56"
+            },
+            {
+              "display_url": "pic.x.com/osgKNztf56",
+              "end": 38,
+              "expanded_url": "https://x.com/takeno_omoti/status/2096561614107635818/photo/1",
+              "media_key": "3_2096561609212854273",
+              "start": 15,
+              "url": "https://t.co/osgKNztf56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096561614107635818",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096561603529650176"
+          },
+          {
+            "media_key": "3_2096561609212854273"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3634,
+          "impression_count": 232093,
+          "like_count": 17532,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 743
+        },
+        "reply_settings": "everyone",
+        "text": "なくした水着の行方は……？👀 https://t.co/osgKNztf56"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2096670522004385953",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 535,
+          "like_count": 2727,
+          "listed_count": 4,
+          "media_count": 2634,
+          "tweet_count": 7414
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-26T14:24:56.000Z",
+        "description": "Illustrator\nお仕事募集中 (10月着手〇)\n【contact✉】takenoomoti@gmail.com【work】https://t.co/fBdmes2gYw\n  【pixiv】https://t.co/1PcS8H9kbi\nHoYoCREATOR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xfolio.jp/portfolio/take…",
+                "end": 88,
+                "expanded_url": "https://xfolio.jp/portfolio/takeno_omoti",
+                "start": 65,
+                "url": "https://t.co/fBdmes2gYw"
+              },
+              {
+                "display_url": "pixiv.net/users/55924913",
+                "end": 121,
+                "expanded_url": "https://www.pixiv.net/users/55924913",
+                "start": 98,
+                "url": "https://t.co/1PcS8H9kbi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "takenoomoti.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://takenoomoti.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/24RVPuDyfo"
+              }
+            ]
+          }
+        },
+        "id": "1265287619241316357",
+        "is_identity_verified": false,
+        "location": "AI学習禁止",
+        "most_recent_tweet_id": "2096592748157809034",
+        "name": "たけのおもち",
+        "pinned_tweet_id": "2082790828708347984",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1265287619241316357/1780385686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023363500727541760/UN2dCCmc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128887,
+          "following_count": 286,
+          "like_count": 22944,
+          "listed_count": 684,
+          "media_count": 207,
+          "tweet_count": 7311
+        },
+        "url": "https://t.co/24RVPuDyfo",
+        "username": "takeno_omoti",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

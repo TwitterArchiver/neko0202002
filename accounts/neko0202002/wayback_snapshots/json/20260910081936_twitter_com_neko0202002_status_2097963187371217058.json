@@ -1,0 +1,625 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097578273886887936"
+      ],
+      "media_source_tweet_id": [
+        "2097578298746503674"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Advertising",
+          "id": "857878521472888832",
+          "name": "Advertising"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Advertising",
+          "id": "857878521472888832",
+          "name": "Advertising"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272636957504356352",
+          "name": "Business professions"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2097963187371217058",
+    "created_at": "2026-09-10T08:19:36.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T09:19:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097963187371217058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "988264871610339328",
+          "start": 3,
+          "username": "fish_studio"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TBGOM9aWWL",
+          "end": 68,
+          "expanded_url": "https://x.com/fish_studio/status/2097578298746503674/video/1",
+          "media_key": "13_2097578273886887936",
+          "start": 45,
+          "url": "https://t.co/TBGOM9aWWL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097963187371217058",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2097578273886887936"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 286
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097578298746503674",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fish_studio: 個展4日目\n\n新しいショート動画も\n作ってもらいました https://t.co/TBGOM9aWWL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9900,
+        "height": 720,
+        "media_key": "13_2097578273886887936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097578273886887936/img/pwGRIzSl52t5XiZE.jpg",
+        "public_metrics": {
+          "view_count": 61620
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097578273886887936/vid/avc1/480x270/ntCEv0kD-vxZ671V.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097578273886887936/vid/avc1/640x360/LfR3lc--7iYfYnmk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097578273886887936/vid/avc1/1280x720/Zx-xpSghzftqvPAa.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097578273886887936/pl/ON1QJY-mbiqGHK3e.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097578273886887936"
+          ],
+          "media_source_tweet_id": [
+            "2097578298746503674"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Advertising",
+              "id": "857878521472888832",
+              "name": "Advertising"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Advertising",
+              "id": "857878521472888832",
+              "name": "Advertising"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272636957504356352",
+              "name": "Business professions"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2097963187371217058",
+        "created_at": "2026-09-10T08:19:36.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T09:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097963187371217058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "988264871610339328",
+              "start": 3,
+              "username": "fish_studio"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TBGOM9aWWL",
+              "end": 68,
+              "expanded_url": "https://x.com/fish_studio/status/2097578298746503674/video/1",
+              "media_key": "13_2097578273886887936",
+              "start": 45,
+              "url": "https://t.co/TBGOM9aWWL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097963187371217058",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2097578273886887936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 286
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097578298746503674",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fish_studio: 個展4日目\n\n新しいショート動画も\n作ってもらいました https://t.co/TBGOM9aWWL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097578273886887936"
+          ]
+        },
+        "author_id": "988264871610339328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Advertising",
+              "id": "857878521472888832",
+              "name": "Advertising"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Advertising",
+              "id": "857878521472888832",
+              "name": "Advertising"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272636957504356352",
+              "name": "Business professions"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2097578298746503674",
+        "created_at": "2026-09-09T06:50:12.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T07:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097578298746503674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TBGOM9aWWL",
+              "end": 51,
+              "expanded_url": "https://x.com/fish_studio/status/2097578298746503674/video/1",
+              "media_key": "13_2097578273886887936",
+              "start": 28,
+              "url": "https://t.co/TBGOM9aWWL"
+            },
+            {
+              "display_url": "x.com/fish_studio/st…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/fish_studio/status/2094659460690219375",
+              "start": 52,
+              "url": "https://t.co/9S7p5uAzpy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097578298746503674",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2097578273886887936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 524,
+          "impression_count": 169321,
+          "like_count": 2212,
+          "quote_count": 13,
+          "reply_count": 1,
+          "retweet_count": 286
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094659460690219375",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "個展4日目\n\n新しいショート動画も\n作ってもらいました https://t.co/TBGOM9aWWL https://t.co/9S7p5uAzpy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2097963187371217058",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 555,
+          "like_count": 2791,
+          "listed_count": 4,
+          "media_count": 2667,
+          "tweet_count": 7607
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-23T03:54:41.000Z",
+        "description": "造型屋 巨頭ｵ デザイン造形「イシナガキクエを探しています」「飯沼一家に謝罪します」 \"闇動画\"特殊メイク造型 Number_i 「3XL」 BE：FIRST「GRIT」オタフク面 ゆりやんレトリィバァ「YURIYANTIME」キタニタツヤ「scar」「藪原検校」「ミュージカル封神演義」とか \"はきだめ造型\"メンバー",
+        "id": "988264871610339328",
+        "is_identity_verified": false,
+        "location": "日本",
+        "most_recent_tweet_id": "2097952395254956248",
+        "name": "大森ばなな",
+        "pinned_tweet_id": "1794337379958034748",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/988264871610339328/1748529062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940051554251272192/KeNklsfx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4462,
+          "following_count": 1985,
+          "like_count": 63148,
+          "listed_count": 30,
+          "media_count": 1067,
+          "tweet_count": 2778
+        },
+        "url": "",
+        "username": "fish_studio",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

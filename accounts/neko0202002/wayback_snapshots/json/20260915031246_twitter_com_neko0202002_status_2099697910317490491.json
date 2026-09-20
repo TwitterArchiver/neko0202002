@@ -1,0 +1,467 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099500001579962368"
+      ],
+      "media_source_tweet_id": [
+        "2099500007586165157"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2099697910317490491",
+    "created_at": "2026-09-15T03:12:46.000Z",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T04:12:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099697910317490491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "764040134861873153",
+          "start": 3,
+          "username": "fiveboiledeggs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZXrYSTjyjd",
+          "end": 85,
+          "expanded_url": "https://x.com/fiveboiledeggs/status/2099500007586165157/photo/1",
+          "media_key": "3_2099500001579962368",
+          "start": 62,
+          "url": "https://t.co/ZXrYSTjyjd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099697910317490491",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2099500001579962368"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1700
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099500007586165157",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fiveboiledeggs: kyubey makes a contract with a trans girl https://t.co/ZXrYSTjyjd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2099500001579962368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSLsILgbEAAt9hr.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099500001579962368"
+          ],
+          "media_source_tweet_id": [
+            "2099500007586165157"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2099697910317490491",
+        "created_at": "2026-09-15T03:12:46.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T04:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099697910317490491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "764040134861873153",
+              "start": 3,
+              "username": "fiveboiledeggs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZXrYSTjyjd",
+              "end": 85,
+              "expanded_url": "https://x.com/fiveboiledeggs/status/2099500007586165157/photo/1",
+              "media_key": "3_2099500001579962368",
+              "start": 62,
+              "url": "https://t.co/ZXrYSTjyjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099697910317490491",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2099500001579962368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1700
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099500007586165157",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fiveboiledeggs: kyubey makes a contract with a trans girl https://t.co/ZXrYSTjyjd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099500001579962368"
+          ]
+        },
+        "author_id": "764040134861873153",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2099500007586165157",
+        "created_at": "2026-09-14T14:06:23.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T15:06:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099500007586165157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZXrYSTjyjd",
+              "end": 65,
+              "expanded_url": "https://x.com/fiveboiledeggs/status/2099500007586165157/photo/1",
+              "media_key": "3_2099500001579962368",
+              "start": 42,
+              "url": "https://t.co/ZXrYSTjyjd"
+            },
+            {
+              "display_url": "x.com/rawr_sofluffy/…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/rawr_sofluffy/status/2099224763465887919",
+              "start": 66,
+              "url": "https://t.co/qZ5aQLuFTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099500007586165157",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2099500001579962368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1767,
+          "impression_count": 272400,
+          "like_count": 20740,
+          "quote_count": 25,
+          "reply_count": 28,
+          "retweet_count": 1700
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099224763465887919",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "kyubey makes a contract with a trans girl https://t.co/ZXrYSTjyjd https://t.co/qZ5aQLuFTW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2099697910317490491",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1095,
+          "following_count": 579,
+          "like_count": 2825,
+          "listed_count": 4,
+          "media_count": 2695,
+          "tweet_count": 7804
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-08-12T10:05:38.000Z",
+        "description": "𓆟 ✧ ﾟ. ⋆ ☢️ ｡°✩‧₊˚ 𓆞 | priv: @fiveomelettes | 🍉🌻🇵🇸🇺🇦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "fiveomelettes"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fiveboiledeggs.straw.page",
+                "end": 23,
+                "expanded_url": "https://fiveboiledeggs.straw.page",
+                "start": 0,
+                "url": "https://t.co/8MWbQfmtnX"
+              }
+            ]
+          }
+        },
+        "id": "764040134861873153",
+        "is_identity_verified": false,
+        "location": "he/him 23 | pfp a_rrrr64",
+        "most_recent_tweet_id": "2099621908245602577",
+        "name": "eggo ⚰️",
+        "pinned_tweet_id": "2028421795628622275",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/764040134861873153/1772448845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028421481286565888/SCalgr8Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 716,
+          "like_count": 37709,
+          "listed_count": 3,
+          "media_count": 1701,
+          "tweet_count": 9387
+        },
+        "url": "https://t.co/8MWbQfmtnX",
+        "username": "fiveboiledeggs",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

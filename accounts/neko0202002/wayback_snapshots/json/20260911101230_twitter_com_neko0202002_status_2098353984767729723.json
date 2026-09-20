@@ -1,0 +1,471 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2098088699850526720"
+      ],
+      "media_source_tweet_id": [
+        "2098088709430362586"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10047721771",
+          "name": "魔法少女まどか☆マギカ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1208935442483011584",
+          "name": "Puella Magi Madoka Magica"
+        }
+      }
+    ],
+    "conversation_id": "2098353984767729723",
+    "created_at": "2026-09-11T10:12:30.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T11:12:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098353984767729723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2030617798620463104",
+          "start": 3,
+          "username": "mimic_sushi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nq7dgGQWT2",
+          "end": 64,
+          "expanded_url": "https://x.com/mimic_sushi/status/2098088709430362586/photo/1",
+          "media_key": "16_2098088699850526720",
+          "start": 41,
+          "url": "https://t.co/nq7dgGQWT2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098353984767729723",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "16_2098088699850526720"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 196
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098088709430362586",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mimic_sushi: キュゥべえを食べるほむらちゃんで許してください https://t.co/nq7dgGQWT2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 496,
+        "media_key": "16_2098088699850526720",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HR3ojm3aEAAjovH.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HR3ojm3aEAAjovH.mp4"
+          }
+        ],
+        "width": 372
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2098088699850526720"
+          ],
+          "media_source_tweet_id": [
+            "2098088709430362586"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2098353984767729723",
+        "created_at": "2026-09-11T10:12:30.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T11:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098353984767729723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2030617798620463104",
+              "start": 3,
+              "username": "mimic_sushi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nq7dgGQWT2",
+              "end": 64,
+              "expanded_url": "https://x.com/mimic_sushi/status/2098088709430362586/photo/1",
+              "media_key": "16_2098088699850526720",
+              "start": 41,
+              "url": "https://t.co/nq7dgGQWT2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098353984767729723",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "16_2098088699850526720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 196
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098088709430362586",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mimic_sushi: キュゥべえを食べるほむらちゃんで許してください https://t.co/nq7dgGQWT2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2098088699850526720"
+          ]
+        },
+        "author_id": "2030617798620463104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10047721771",
+              "name": "魔法少女まどか☆マギカ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1208935442483011584",
+              "name": "Puella Magi Madoka Magica"
+            }
+          }
+        ],
+        "conversation_id": "2098088709430362586",
+        "created_at": "2026-09-10T16:38:23.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T17:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098088709430362586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nq7dgGQWT2",
+              "end": 47,
+              "expanded_url": "https://x.com/mimic_sushi/status/2098088709430362586/photo/1",
+              "media_key": "16_2098088699850526720",
+              "start": 24,
+              "url": "https://t.co/nq7dgGQWT2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098088709430362586",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "16_2098088699850526720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 177,
+          "impression_count": 16839,
+          "like_count": 1476,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 196
+        },
+        "reply_settings": "everyone",
+        "text": "キュゥべえを食べるほむらちゃんで許してください https://t.co/nq7dgGQWT2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2098353984767729723",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 560,
+          "like_count": 2791,
+          "listed_count": 4,
+          "media_count": 2674,
+          "tweet_count": 7646
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-08T12:13:15.000Z",
+        "description": "クロスプレイ不可",
+        "id": "2030617798620463104",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098289197841051931",
+        "name": "ファンアカウント",
+        "pinned_tweet_id": "2084459434768777585",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030618174463561729/Qa8XFDkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 72,
+          "like_count": 1770,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 949
+        },
+        "url": "",
+        "username": "mimic_sushi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

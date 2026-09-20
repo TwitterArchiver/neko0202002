@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098732458644840449"
+      ],
+      "media_source_tweet_id": [
+        "2098758531730293008"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2098826486438596983",
+    "created_at": "2026-09-12T17:30:03.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T18:30:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098826486438596983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1906481695773360128",
+          "start": 3,
+          "username": "NEKOKAN651540"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iFvuyHgkb5",
+          "end": 60,
+          "expanded_url": "https://x.com/NEKOKAN651540/status/2098758531730293008/photo/1",
+          "media_key": "3_2098732458644840449",
+          "start": 37,
+          "url": "https://t.co/iFvuyHgkb5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098826486438596983",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2098732458644840449"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098758531730293008",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NEKOKAN651540: 「安心してください、履いてますよ」 https://t.co/iFvuyHgkb5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2098732458644840449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSAyDTQboAElA9-.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098732458644840449"
+          ],
+          "media_source_tweet_id": [
+            "2098758531730293008"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2098826486438596983",
+        "created_at": "2026-09-12T17:30:03.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098826486438596983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1906481695773360128",
+              "start": 3,
+              "username": "NEKOKAN651540"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iFvuyHgkb5",
+              "end": 60,
+              "expanded_url": "https://x.com/NEKOKAN651540/status/2098758531730293008/photo/1",
+              "media_key": "3_2098732458644840449",
+              "start": 37,
+              "url": "https://t.co/iFvuyHgkb5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098826486438596983",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098732458644840449"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098758531730293008",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NEKOKAN651540: 「安心してください、履いてますよ」 https://t.co/iFvuyHgkb5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098732458644840449"
+          ]
+        },
+        "author_id": "1906481695773360128",
+        "conversation_id": "2098758531730293008",
+        "created_at": "2026-09-12T13:00:01.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T14:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098758531730293008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iFvuyHgkb5",
+              "end": 41,
+              "expanded_url": "https://x.com/NEKOKAN651540/status/2098758531730293008/photo/1",
+              "media_key": "3_2098732458644840449",
+              "start": 18,
+              "url": "https://t.co/iFvuyHgkb5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098758531730293008",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098732458644840449"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 243,
+          "impression_count": 17492,
+          "like_count": 1560,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "「安心してください、履いてますよ」 https://t.co/iFvuyHgkb5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2098826486438596983",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 568,
+          "like_count": 2808,
+          "listed_count": 4,
+          "media_count": 2682,
+          "tweet_count": 7721
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-30T23:00:59.000Z",
+        "description": "AIイラスト専用アカウント\nAnimaで生成、一枚一枚生成プロンプトにこだわってます。\nAIイラスト好きさんは基本フォロバします。\nウチの子①：沙耶 無気力・無表情、どこでもすぐに寝ようとする。踊らせると別人の様になる。\nウチの子②：栞 黒髪ボブの活発な子、ちょっとエロい。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chichi-pui.com/users/user_nek…",
+                "end": 23,
+                "expanded_url": "https://www.chichi-pui.com/users/user_nekocan/",
+                "start": 0,
+                "url": "https://t.co/pXcaP8SbVg"
+              }
+            ]
+          }
+        },
+        "id": "1906481695773360128",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098771976118829204",
+        "name": "NEKOCAN",
+        "pinned_tweet_id": "2096478815149322341",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906481695773360128/1788068548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054376622862778368/AibHYw4S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1951,
+          "following_count": 956,
+          "like_count": 15673,
+          "listed_count": 10,
+          "media_count": 254,
+          "tweet_count": 736
+        },
+        "url": "https://t.co/pXcaP8SbVg",
+        "username": "NEKOKAN651540",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

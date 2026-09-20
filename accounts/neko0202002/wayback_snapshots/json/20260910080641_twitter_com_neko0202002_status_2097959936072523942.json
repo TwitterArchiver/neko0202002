@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097742663810195456"
+      ],
+      "media_source_tweet_id": [
+        "2097742981352583199"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2097959936072523942",
+    "created_at": "2026-09-10T08:06:41.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T09:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097959936072523942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1605508017574772736",
+          "start": 3,
+          "username": "DOAAOQ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yrHlz0hyvw",
+          "end": 76,
+          "expanded_url": "https://x.com/DOAAOQ/status/2097742981352583199/video/1",
+          "media_key": "13_2097742663810195456",
+          "start": 53,
+          "url": "https://t.co/yrHlz0hyvw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097959936072523942",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2097742663810195456"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097742981352583199",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DOAAOQ: Nero just likes walking around like that https://t.co/yrHlz0hyvw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33111,
+        "height": 1080,
+        "media_key": "13_2097742663810195456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097742663810195456/img/jsQ4lAxvRxSY_GP_.jpg",
+        "public_metrics": {
+          "view_count": 23943
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097742663810195456/vid/avc1/640x360/0QoD7bp7tP01UwgP.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097742663810195456/vid/avc1/480x270/LCi-r7mDfv_HTNRf.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097742663810195456/vid/avc1/1920x1080/0woMC0BHCNe5jFkC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097742663810195456/vid/avc1/1280x720/kS1wsGCZaKiY_tUu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097742663810195456/pl/FHYiJLXJLjRxJ4WF.m3u8?v=ea3"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097742663810195456"
+          ],
+          "media_source_tweet_id": [
+            "2097742981352583199"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097959936072523942",
+        "created_at": "2026-09-10T08:06:41.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T09:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097959936072523942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1605508017574772736",
+              "start": 3,
+              "username": "DOAAOQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yrHlz0hyvw",
+              "end": 76,
+              "expanded_url": "https://x.com/DOAAOQ/status/2097742981352583199/video/1",
+              "media_key": "13_2097742663810195456",
+              "start": 53,
+              "url": "https://t.co/yrHlz0hyvw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097959936072523942",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2097742663810195456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097742981352583199",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DOAAOQ: Nero just likes walking around like that https://t.co/yrHlz0hyvw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097742663810195456"
+          ]
+        },
+        "author_id": "1605508017574772736",
+        "conversation_id": "2097742981352583199",
+        "created_at": "2026-09-09T17:44:35.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T18:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097742981352583199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yrHlz0hyvw",
+              "end": 64,
+              "expanded_url": "https://x.com/DOAAOQ/status/2097742981352583199/video/1",
+              "media_key": "13_2097742663810195456",
+              "start": 41,
+              "url": "https://t.co/yrHlz0hyvw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097742981352583199",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2097742663810195456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 495,
+          "impression_count": 36917,
+          "like_count": 1343,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "Nero just likes walking around like that https://t.co/yrHlz0hyvw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2097959936072523942",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 554,
+          "like_count": 2791,
+          "listed_count": 4,
+          "media_count": 2666,
+          "tweet_count": 7593
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-21T10:18:55.000Z",
+        "description": "Posting Anything I like\n\nAnimation Enjoyer\n\nAlt: @DOOQUA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 49,
+                "username": "DOOQUA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "anilist.co/user/DOAAOQ",
+                "end": 23,
+                "expanded_url": "http://anilist.co/user/DOAAOQ",
+                "start": 0,
+                "url": "https://t.co/GXokjvuijd"
+              }
+            ]
+          }
+        },
+        "id": "1605508017574772736",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097790145025994883",
+        "name": "doaa",
+        "pinned_tweet_id": "2018394704681779640",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1605508017574772736/1788210892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088763097955602432/RJwMcJS__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3911,
+          "following_count": 788,
+          "like_count": 11895,
+          "listed_count": 6,
+          "media_count": 2167,
+          "tweet_count": 8035
+        },
+        "url": "https://t.co/GXokjvuijd",
+        "username": "DOAAOQ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
