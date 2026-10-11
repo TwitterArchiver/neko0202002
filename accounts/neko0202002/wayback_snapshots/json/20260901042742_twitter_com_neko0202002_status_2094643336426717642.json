@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094363978025897985"
+      ],
+      "media_source_tweet_id": [
+        "2094363983033905330"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2094643336426717642",
+    "created_at": "2026-09-01T04:27:42.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T05:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094643336426717642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "88883506",
+          "start": 3,
+          "username": "kuroseP"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bEMxhTYgER",
+          "end": 52,
+          "expanded_url": "https://x.com/kuroseP/status/2094363983033905330/photo/1",
+          "media_key": "3_2094363978025897985",
+          "start": 29,
+          "url": "https://t.co/bEMxhTYgER"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094643336426717642",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2094363978025897985"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 782
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094363983033905330",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuroseP: ほむ・・・ほむ・・・ほむ・・・ https://t.co/bEMxhTYgER"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1576,
+        "media_key": "3_2094363978025897985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRCs8QybkAE6hc-.jpg",
+        "width": 1370
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094363978025897985"
+          ],
+          "media_source_tweet_id": [
+            "2094363983033905330"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2094643336426717642",
+        "created_at": "2026-09-01T04:27:42.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T05:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094643336426717642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "88883506",
+              "start": 3,
+              "username": "kuroseP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bEMxhTYgER",
+              "end": 52,
+              "expanded_url": "https://x.com/kuroseP/status/2094363983033905330/photo/1",
+              "media_key": "3_2094363978025897985",
+              "start": 29,
+              "url": "https://t.co/bEMxhTYgER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094643336426717642",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094363978025897985"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 782
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094363983033905330",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuroseP: ほむ・・・ほむ・・・ほむ・・・ https://t.co/bEMxhTYgER"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094363978025897985"
+          ]
+        },
+        "author_id": "88883506",
+        "conversation_id": "2094363983033905330",
+        "created_at": "2026-08-31T09:57:39.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T10:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094363983033905330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bEMxhTYgER",
+              "end": 39,
+              "expanded_url": "https://x.com/kuroseP/status/2094363983033905330/photo/1",
+              "media_key": "3_2094363978025897985",
+              "start": 16,
+              "url": "https://t.co/bEMxhTYgER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094363983033905330",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094363978025897985"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 419,
+          "impression_count": 51156,
+          "like_count": 5399,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 782
+        },
+        "reply_settings": "everyone",
+        "text": "ほむ・・・ほむ・・・ほむ・・・ https://t.co/bEMxhTYgER"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2094643336426717642",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 510,
+          "like_count": 2696,
+          "listed_count": 3,
+          "media_count": 2594,
+          "tweet_count": 7247
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-11-10T08:33:49.000Z",
+        "description": "漫画家\n連載中作品\n「ゴブリンスレイヤー」\n「ホロライブオルタナティブ・神想怪異譚」\n\nVtuber活動\n現在グレート多忙ゆえに配信休止中～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCq6zD…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCq6zDxOHS0Hl7my19jOuRzg/",
+                "start": 0,
+                "url": "https://t.co/nNvSiL8IQx"
+              }
+            ]
+          }
+        },
+        "id": "88883506",
+        "is_identity_verified": false,
+        "location": "Vtuberの沼地の底の泥の中",
+        "most_recent_tweet_id": "2094598992021868566",
+        "name": "黒瀬浩介 ✒ヤマト神想怪異譚/ゴブリンスレイヤー連載",
+        "pinned_tweet_id": "2062804852678553656",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/88883506/1653301502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1505927262398730245/zRtmLPVV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87305,
+          "following_count": 1158,
+          "like_count": 35196,
+          "listed_count": 1063,
+          "media_count": 6293,
+          "tweet_count": 107438
+        },
+        "url": "https://t.co/nNvSiL8IQx",
+        "username": "kuroseP",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,622 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2101511119546527744"
+      ],
+      "media_source_tweet_id": [
+        "2101511197774512181"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1484201912765276161",
+          "name": "Enako"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291094662682271744",
+          "name": "Gaming events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1395155006580396032",
+          "name": "Tokyo Game Show"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1484201912765276161",
+          "name": "Enako"
+        }
+      }
+    ],
+    "conversation_id": "2101581042079433019",
+    "created_at": "2026-09-20T07:55:40.000Z",
+    "display_text_range": [
+      0,
+      100
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T08:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101581042079433019"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 52,
+          "start": 48,
+          "tag": "えなこ"
+        },
+        {
+          "end": 59,
+          "start": 53,
+          "tag": "えなこりん"
+        },
+        {
+          "end": 67,
+          "start": 60,
+          "tag": "MIRESI"
+        },
+        {
+          "end": 76,
+          "start": 68,
+          "tag": "TGS2026"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "733197756748025856",
+          "start": 3,
+          "username": "mizutaaaaan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tt1h9FzDvj",
+          "end": 100,
+          "expanded_url": "https://x.com/mizutaaaaan/status/2101511197774512181/video/1",
+          "media_key": "13_2101511119546527744",
+          "start": 77,
+          "url": "https://t.co/Tt1h9FzDvj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101581042079433019",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2101511119546527744"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 231
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101511197774512181",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mizutaaaaan: どえらい可愛いギャル忍者が回ってるMIRESIブースさん。\n\n#えなこ #えなこりん #MIRESI #TGS2026 https://t.co/Tt1h9FzDvj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29633,
+        "height": 1280,
+        "media_key": "13_2101511119546527744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101511119546527744/img/x-0k5pwWLTgJEDz1.jpg",
+        "public_metrics": {
+          "view_count": 128116
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101511119546527744/vid/avc1/320x568/C08RipTK3gjtmsrN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101511119546527744/vid/avc1/480x852/Wj1CQVbbR9OyzGGE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101511119546527744/vid/avc1/720x1280/772xuKTzpHxZiqDA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101511119546527744/pl/BYL1qXezOWqB913Y.m3u8?v=5b7"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101511119546527744"
+          ],
+          "media_source_tweet_id": [
+            "2101511197774512181"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1484201912765276161",
+              "name": "Enako"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291094662682271744",
+              "name": "Gaming events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1395155006580396032",
+              "name": "Tokyo Game Show"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484201912765276161",
+              "name": "Enako"
+            }
+          }
+        ],
+        "conversation_id": "2101581042079433019",
+        "created_at": "2026-09-20T07:55:40.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T08:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101581042079433019"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "えなこ"
+            },
+            {
+              "end": 59,
+              "start": 53,
+              "tag": "えなこりん"
+            },
+            {
+              "end": 67,
+              "start": 60,
+              "tag": "MIRESI"
+            },
+            {
+              "end": 76,
+              "start": 68,
+              "tag": "TGS2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "733197756748025856",
+              "start": 3,
+              "username": "mizutaaaaan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tt1h9FzDvj",
+              "end": 100,
+              "expanded_url": "https://x.com/mizutaaaaan/status/2101511197774512181/video/1",
+              "media_key": "13_2101511119546527744",
+              "start": 77,
+              "url": "https://t.co/Tt1h9FzDvj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101581042079433019",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2101511119546527744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 231
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101511197774512181",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mizutaaaaan: どえらい可愛いギャル忍者が回ってるMIRESIブースさん。\n\n#えなこ #えなこりん #MIRESI #TGS2026 https://t.co/Tt1h9FzDvj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101511119546527744"
+          ]
+        },
+        "author_id": "733197756748025856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1484201912765276161",
+              "name": "Enako"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291094662682271744",
+              "name": "Gaming events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1395155006580396032",
+              "name": "Tokyo Game Show"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484201912765276161",
+              "name": "Enako"
+            }
+          }
+        ],
+        "conversation_id": "2101511197774512181",
+        "created_at": "2026-09-20T03:18:08.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T04:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101511197774512181"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "えなこ"
+            },
+            {
+              "end": 42,
+              "start": 36,
+              "tag": "えなこりん"
+            },
+            {
+              "end": 50,
+              "start": 43,
+              "tag": "MIRESI"
+            },
+            {
+              "end": 59,
+              "start": 51,
+              "tag": "TGS2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tt1h9FzDvj",
+              "end": 83,
+              "expanded_url": "https://x.com/mizutaaaaan/status/2101511197774512181/video/1",
+              "media_key": "13_2101511119546527744",
+              "start": 60,
+              "url": "https://t.co/Tt1h9FzDvj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101511197774512181",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2101511119546527744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2568,
+          "impression_count": 257525,
+          "like_count": 5464,
+          "quote_count": 22,
+          "reply_count": 10,
+          "retweet_count": 230
+        },
+        "reply_settings": "everyone",
+        "text": "どえらい可愛いギャル忍者が回ってるMIRESIブースさん。\n\n#えなこ #えなこりん #MIRESI #TGS2026 https://t.co/Tt1h9FzDvj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2101581058391048594",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 594,
+          "like_count": 2866,
+          "listed_count": 4,
+          "media_count": 2730,
+          "tweet_count": 8013
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-05-19T07:29:02.000Z",
+        "description": "ミズの2Pカラーの方。ただの趣味垢🌙たまに写真とか撮ってます？撮影機材はあいふぉんとかニンテンドー3DSとか☘️",
+        "id": "733197756748025856",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101542737787207976",
+        "name": "みず(本物)@日.月TGS",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/733197756748025856/1767285683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015456985077198848/3T6kSDc2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3370,
+          "following_count": 475,
+          "like_count": 13257,
+          "listed_count": 23,
+          "media_count": 1236,
+          "tweet_count": 5779
+        },
+        "url": "",
+        "username": "mizutaaaaan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

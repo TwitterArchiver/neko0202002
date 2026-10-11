@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2092637389441114112"
+      ],
+      "media_source_tweet_id": [
+        "2092637405517951349"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2092808270566367613",
+    "created_at": "2026-08-27T02:55:48.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T03:55:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092808270566367613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1579989420891070467",
+          "start": 3,
+          "username": "MangoJuice81"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fj2dNNMQeL",
+          "end": 41,
+          "expanded_url": "https://x.com/MangoJuice81/status/2092637405517951349/video/1",
+          "media_key": "13_2092637389441114112",
+          "start": 18,
+          "url": "https://t.co/fj2dNNMQeL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092808270566367613",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2092637389441114112"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092637405517951349",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MangoJuice81: https://t.co/fj2dNNMQeL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2600,
+        "height": 350,
+        "media_key": "13_2092637389441114112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092637389441114112/img/ekSDK7Kzf5Lzb3Cw.jpg",
+        "public_metrics": {
+          "view_count": 158
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092637389441114112/vid/avc1/492x270/Ke2wh5C4UqRlYw12.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092637389441114112/vid/avc1/640x350/VRsuBk0yAhpbX1A3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092637389441114112/pl/5DRF8dO-Duqk4sFS.m3u8"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092637389441114112"
+          ],
+          "media_source_tweet_id": [
+            "2092637405517951349"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2092808270566367613",
+        "created_at": "2026-08-27T02:55:48.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T03:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092808270566367613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1579989420891070467",
+              "start": 3,
+              "username": "MangoJuice81"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fj2dNNMQeL",
+              "end": 41,
+              "expanded_url": "https://x.com/MangoJuice81/status/2092637405517951349/video/1",
+              "media_key": "13_2092637389441114112",
+              "start": 18,
+              "url": "https://t.co/fj2dNNMQeL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092808270566367613",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2092637389441114112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092637405517951349",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MangoJuice81: https://t.co/fj2dNNMQeL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092637389441114112"
+          ]
+        },
+        "author_id": "1579989420891070467",
+        "conversation_id": "2092637405517951349",
+        "created_at": "2026-08-26T15:36:51.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T16:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092637405517951349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fj2dNNMQeL",
+              "end": 23,
+              "expanded_url": "https://x.com/MangoJuice81/status/2092637405517951349/video/1",
+              "media_key": "13_2092637389441114112",
+              "start": 0,
+              "url": "https://t.co/fj2dNNMQeL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092637405517951349",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2092637389441114112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 340,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/fj2dNNMQeL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2092808270566367613",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 948,
+          "following_count": 632,
+          "like_count": 2663,
+          "listed_count": 3,
+          "media_count": 2567,
+          "tweet_count": 7131
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-12T00:17:12.000Z",
+        "description": "20 🐀🇦🇷\nɪɴꜰᴘ 𝟦ᴡ𝟧 ꜱᴘ/ꜱx 461\nME GUSTA LA TIPOLOGIA Y LOS JUEGUITOS Y LOS DIBUJITOS",
+        "id": "1579989420891070467",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092783980776993204",
+        "name": "Lou",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1579989420891070467/1665535339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091276400208531456/hPQZ7wTR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 163,
+          "like_count": 22202,
+          "listed_count": 1,
+          "media_count": 394,
+          "tweet_count": 5576
+        },
+        "url": "",
+        "username": "MangoJuice81",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

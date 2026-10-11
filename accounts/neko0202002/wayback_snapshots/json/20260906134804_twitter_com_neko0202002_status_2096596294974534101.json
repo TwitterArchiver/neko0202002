@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2092945562870194176"
+      ],
+      "media_source_tweet_id": [
+        "2092945587087999256"
+      ]
+    },
+    "author_id": "1820207828931424256",
+    "conversation_id": "2096596294974534101",
+    "created_at": "2026-09-06T13:48:04.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T14:48:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096596294974534101"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 18,
+          "tag": "古振兴"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2049823029623226368",
+          "start": 3,
+          "username": "cncover"
+        },
+        {
+          "end": 28,
+          "id": "63485337",
+          "start": 22,
+          "username": "notch"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F3OZoEy26L",
+          "end": 52,
+          "expanded_url": "https://x.com/cncover/status/2092945587087999256/video/1",
+          "media_key": "13_2092945562870194176",
+          "start": 29,
+          "url": "https://t.co/F3OZoEy26L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096596294974534101",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2092945562870194176"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092945587087999256",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cncover: 攻防转换 #古振兴@notch https://t.co/F3OZoEy26L"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9333,
+        "height": 1280,
+        "media_key": "13_2092945562870194176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092945562870194176/img/hVnPCcJDifOZE55W.jpg",
+        "public_metrics": {
+          "view_count": 22352
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092945562870194176/vid/avc1/320x568/19YF8lwd73HDTuZs.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092945562870194176/vid/avc1/480x852/47MCCKXOMkEhCGQH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092945562870194176/vid/avc1/720x1280/MkG2sVWMKi1xwlpf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092945562870194176/pl/hLGqcTiT31j6iWCV.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092945562870194176"
+          ],
+          "media_source_tweet_id": [
+            "2092945587087999256"
+          ]
+        },
+        "author_id": "1820207828931424256",
+        "conversation_id": "2096596294974534101",
+        "created_at": "2026-09-06T13:48:04.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096596294974534101"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "古振兴"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2049823029623226368",
+              "start": 3,
+              "username": "cncover"
+            },
+            {
+              "end": 28,
+              "id": "63485337",
+              "start": 22,
+              "username": "notch"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F3OZoEy26L",
+              "end": 52,
+              "expanded_url": "https://x.com/cncover/status/2092945587087999256/video/1",
+              "media_key": "13_2092945562870194176",
+              "start": 29,
+              "url": "https://t.co/F3OZoEy26L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096596294974534101",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2092945562870194176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092945587087999256",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cncover: 攻防转换 #古振兴@notch https://t.co/F3OZoEy26L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092945562870194176"
+          ]
+        },
+        "author_id": "2049823029623226368",
+        "conversation_id": "2092945587087999256",
+        "created_at": "2026-08-27T12:01:27.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T13:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092945587087999256"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "古振兴"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "63485337",
+              "start": 9,
+              "username": "notch"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F3OZoEy26L",
+              "end": 39,
+              "expanded_url": "https://x.com/cncover/status/2092945587087999256/video/1",
+              "media_key": "13_2092945562870194176",
+              "start": 16,
+              "url": "https://t.co/F3OZoEy26L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092945587087999256",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2092945562870194176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 38930,
+          "like_count": 500,
+          "quote_count": 0,
+          "reply_count": 67,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "攻防转换 #古振兴@notch https://t.co/F3OZoEy26L"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2096596294974534101",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 533,
+          "like_count": 2727,
+          "listed_count": 4,
+          "media_count": 2633,
+          "tweet_count": 7409
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-30T12:08:04.000Z",
+        "description": "猎奇视频制作者，专黑古振兴和闹吃😄 互fo\n 所有视频皆为原创，允许转载，需要素材私我\n抖音号86092856623",
+        "id": "2049823029623226368",
+        "is_identity_verified": false,
+        "location": "古镇兴家床上",
+        "most_recent_tweet_id": "2096459528430870937",
+        "name": "coverゆ",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080273130002731008/yIDaQ-IF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 127,
+          "like_count": 445,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 183
+        },
+        "url": "",
+        "username": "cncover",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-08-06T17:08:06.000Z",
+        "description": "Currently working on Levers and Chests, a dungeon crawler roguelike roguelite.",
+        "id": "63485337",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096220538628710598",
+        "name": "notch",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/63485337/1747782066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523817638706700288/tVCx9ZP1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3247663,
+          "following_count": 244,
+          "like_count": 16094,
+          "listed_count": 8823,
+          "media_count": 2558,
+          "tweet_count": 99711
+        },
+        "url": "",
+        "username": "notch",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

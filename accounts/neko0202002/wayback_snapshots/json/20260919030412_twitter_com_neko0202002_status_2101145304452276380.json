@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2101145304452276380",
+    "created_at": "2026-09-19T03:04:12.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T04:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101145304452276380"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ididnothinglqz…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/Ididnothinglqz/status/2100623652677124500",
+          "start": 11,
+          "url": "https://t.co/hnnDfp1W6V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101145304452276380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100623652677124500",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "根本没有这种视频…… https://t.co/hnnDfp1W6V"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 138201,
+        "height": 1280,
+        "media_key": "13_2093139959754694656",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093139959754694656/img/kIuXpEm6P2Xy3igQ.jpg",
+        "public_metrics": {
+          "view_count": 8937007
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093139959754694656/vid/avc1/320x564/GK2DgCmibGkJlRq5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093139959754694656/vid/avc1/480x848/z0AWdHVjSYJfdgTF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093139959754694656/vid/avc1/724x1280/UFRdnag1kFB8MgBG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093139959754694656/pl/cAy0jzV4hLEbrYlL.m3u8"
+          }
+        ],
+        "width": 724
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2101145304452276380",
+        "created_at": "2026-09-19T03:04:12.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T04:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101145304452276380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ididnothinglqz…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/Ididnothinglqz/status/2100623652677124500",
+              "start": 11,
+              "url": "https://t.co/hnnDfp1W6V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101145304452276380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100623652677124500",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "根本没有这种视频…… https://t.co/hnnDfp1W6V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093139959754694656"
+          ],
+          "media_source_tweet_id": [
+            "2093140032685289790"
+          ]
+        },
+        "author_id": "2086838732741885952",
+        "conversation_id": "2100623652677124500",
+        "created_at": "2026-09-17T16:31:21.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T17:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100623652677124500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k7B9pARDHp",
+              "end": 34,
+              "expanded_url": "https://x.com/hymanjuan4/status/2093140032685289790/video/1",
+              "media_key": "13_2093139959754694656",
+              "start": 11,
+              "url": "https://t.co/k7B9pARDHp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100623652677124500",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2093139959754694656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4216,
+          "impression_count": 292977,
+          "like_count": 6899,
+          "quote_count": 26,
+          "reply_count": 54,
+          "retweet_count": 540
+        },
+        "reply_settings": "everyone",
+        "text": "你们最爱的主体性来了 https://t.co/k7B9pARDHp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2101145304452276380",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1113,
+          "following_count": 593,
+          "like_count": 2857,
+          "listed_count": 4,
+          "media_count": 2725,
+          "tweet_count": 7979
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-10T15:39:27.000Z",
+        "description": "昵称源于操蚂蚁龙 \n原则上可以和所有人沟通\n间歇炒作间歇呢喃间歇魔人\n友左友右友跨友同友女权友基督教，你包容我我包容你，原则上不ban少ban，新注册号除外看黄号除外魔人除外\n前世前前世昵称撒旦子民",
+        "id": "2086838732741885952",
+        "is_identity_verified": false,
+        "location": "美国菏泽曹县",
+        "most_recent_tweet_id": "2101136107597451640",
+        "name": "蚂蚁操龙8964",
+        "pinned_tweet_id": "2092575887237480786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086838732741885952/1786377026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089708250635935744/H9CfsHhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2236,
+          "following_count": 420,
+          "like_count": 7758,
+          "listed_count": 0,
+          "media_count": 306,
+          "tweet_count": 3626
+        },
+        "url": "",
+        "username": "Ididnothinglqz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1820207828931424256",
+    "conversation_id": "2101525205504167994",
+    "created_at": "2026-09-20T04:13:48.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T05:13:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101525205504167994"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/17891956wer/st…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/17891956wer/status/2101370926608822376",
+          "start": 37,
+          "url": "https://t.co/A2rigsAG3H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101525205504167994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101370926608822376",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你活了，你终于活了呀……感谢天皇，感谢耶稣，感谢佛祖，感谢如来，感谢上帝 https://t.co/A2rigsAG3H"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820207828931424256",
+        "conversation_id": "2101525205504167994",
+        "created_at": "2026-09-20T04:13:48.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T05:13:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101525205504167994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/17891956wer/st…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/17891956wer/status/2101370926608822376",
+              "start": 37,
+              "url": "https://t.co/A2rigsAG3H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101525205504167994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101370926608822376",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你活了，你终于活了呀……感谢天皇，感谢耶稣，感谢佛祖，感谢如来，感谢上帝 https://t.co/A2rigsAG3H"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506521082853216258",
+        "conversation_id": "2101041821451419815",
+        "created_at": "2026-09-19T18:00:45.000Z",
+        "display_text_range": [
+          13,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T19:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101370926608822376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1820207828931424256",
+              "start": 0,
+              "username": "neko0202002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101370926608822376",
+        "in_reply_to_user_id": "1820207828931424256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101041821451419815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko0202002 如果感觉没用，很有可能是耐受很高了，可以考虑换一种bzd，不过最好的办法还是停药一段时间"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-08-04T21:19:26.000Z",
+        "description": "贵安，姐姐大人/药理学习中/心理学重度依赖/魔法少女预备生/LGBT全友好/提供自杀干预思路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantoka",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantoka",
+                "start": 0,
+                "url": "https://t.co/cVWfHII4C5"
+              }
+            ]
+          }
+        },
+        "id": "1820207828931424256",
+        "is_identity_verified": false,
+        "location": "圣应女子学院",
+        "most_recent_tweet_id": "2101525205504167994",
+        "name": "妃宫千早",
+        "pinned_tweet_id": "2029013651911524551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820207828931424256/1782242095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041515741804134400/mLOJpvT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1112,
+          "following_count": 593,
+          "like_count": 2862,
+          "listed_count": 4,
+          "media_count": 2727,
+          "tweet_count": 7994
+        },
+        "url": "https://t.co/cVWfHII4C5",
+        "username": "neko0202002",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-23T06:39:55.000Z",
+        "description": "一个喜欢ACGN的死宅，灵魂自由，在internet中漫游~\n喝酒/吸烟/od/焦虑抑郁/休学中（改被迫上学）/中文/其他语言会用翻译器/诗歌/友跨/ACGN/电波系/猫猫/mtx～\n欢迎互粉喵～\n（有时互of没看到的私信）\n匿名私信https://t.co/6s74CaEsDY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/Mumu",
+                "end": 140,
+                "expanded_url": "https://miyu.link/Mumu",
+                "start": 117,
+                "url": "https://t.co/6s74CaEsDY"
+              }
+            ]
+          }
+        },
+        "id": "1506521082853216258",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2101372968228323566",
+        "name": "秋风",
+        "pinned_tweet_id": "2025353338393694611",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1506521082853216258/1744312018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869799456050425858/n5q-m2lW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 312,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 503
+        },
+        "url": "",
+        "username": "17891956wer",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
